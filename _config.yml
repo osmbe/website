@@ -5,5 +5,4 @@ description:
     en: OSM-BE community website
     nl: OSM-BE community website
 paginate: 10
-baseurl: ''
-url: 'http://osmbe.github.io/website/'
+baseurl: '/website'
