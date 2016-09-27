@@ -1,4 +1,8 @@
-name: Horizons
-description: Horizons template for Jekyll
+name: 
+    en: OpenStreetMap Belgium
+    nl: OpenStreetMap België
+description: 
+    en: OSM-BE community website
+    nl: OSM-BE community website
 paginate: 10
-baseurl: '/Horizons-Jekyll-Theme'
+baseurl: ''
