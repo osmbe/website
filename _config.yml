@@ -24,4 +24,4 @@ join:
     nl: Join
     en: Join
 paginate: 10
-baseurl: '/website'
+baseurl: ''
