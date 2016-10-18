@@ -1,6 +1,7 @@
 ---
 title: News
 layout: main
+lang: nl
 ---
 
 <!-- Main -->
@@ -9,12 +10,12 @@ layout: main
 			<section>
 				<div class="10u -1u">
 					<header class="major">
-						<h2>Our latest news</h2>
+						<h2>Nieuws</h2>
 					</header>
 					<ul class="style">
 						{% for post in site.posts offset: 0 limit: 4 %}
 						
-						{% if post.lang == "en" %}
+						{% if post.lang == "nl" %}
 						<li>
 							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
 							<img style="width: 100%; max-width: 300px; max-height: 500px;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">

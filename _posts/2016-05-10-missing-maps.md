@@ -3,6 +3,7 @@ title: Missing Maps Mapathon at Doctors without Borders / Handicap International
 featured: images/missing-maps.png
 layout: post
 author: Jorieke Vyncke
+lang: en
 ---
 
 <p>Artsen Zonder Grenzen (AZG) et Handicap International (HI) verwelkomen ons voor de volgende Missing Maps Mapathon. 

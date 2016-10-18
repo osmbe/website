@@ -3,6 +3,7 @@ title: September is maptember
 featured: images/pic02.jpg
 layout: post
 author: Joost Schouppe
+lang: en
 ---
 
 <p>What happens when you allow everyone to map the world, as they see fit, no questions asked?
