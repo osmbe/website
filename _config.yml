@@ -32,3 +32,4 @@ join:
     fr: Devenir membre
 paginate: 10
 baseurl: ''
+gems: [jekyll-paginate]
