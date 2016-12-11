@@ -1,6 +1,5 @@
 ---
 title: 'Mapper van de Maand: Polyglot'
-featured: images/julien.jpg
 layout: post
 author: Marc Gemis
 lang: nl
