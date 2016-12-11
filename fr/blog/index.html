@@ -1,0 +1,31 @@
+---
+title: News
+layout: main
+lang: fr
+---
+
+<!-- Main -->
+	<div id="main" class="wrapper style1">
+		<div class="container">
+			<section>
+				<div class="10u -1u">
+					<header class="major">
+						<h2>Nieuws</h2>
+					</header>
+					<ul class="style">
+						{% for post in site.posts offset: 0 limit: 4 %}
+						
+						{% if post.lang == "nl" %}
+						<li>
+							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
+							<img style="width: 100%; max-width: 300px; max-height: 500px;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
+							{{ post.excerpt }}
+						</li>
+						{% endif %}
+						
+						{% endfor %}
+					</ul>
+				</div>
+			</section>
+		</div>
+	</div>
