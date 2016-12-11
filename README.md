@@ -31,7 +31,7 @@ Feel free to customize the website content.
 
 4. Preview your work with the "preview" tab.
 
-5. Once you're satisfied with your new post, commit the Markdown file to GitHub (directly to the `master` branch).
+5. Once you're satisfied with your new post, **Propose a new file** and then **Create pull request**. You pull request will be checked and the merged to the website is everything is good.
 
 In a few minutes, your post appears on website!
 
