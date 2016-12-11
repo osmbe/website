@@ -18,7 +18,7 @@ lang: fr
 						{% if post.lang == "fr" %}
 						<li>
 							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
-							{% if post.header %}
+							{% if post.featured %}
 								<img style="width: 100%; max-width: 300px; max-height: 500px;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
 							{% endif %}
 							{{ post.excerpt }}

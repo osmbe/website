@@ -2,7 +2,7 @@
 title: 'Contributeur du mois : Brice'
 layout: post
 author: Marc Gemis
-lang: en
+lang: fr
 ---
 
 Brice (eMerzh) habite à Jette. Il a 30 ans et est informaticien dans une petite startup Bruxelloise qui fait du Social Analytics. Il est passionné par le logiciel libre et de tout ce qui tourne autour. Son poste de travail est sous Archlinux + KDE... et son éditeur OpenStreetMap est bien-sûr JOSM!
