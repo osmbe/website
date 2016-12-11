@@ -1,5 +1,5 @@
 ---
-title: 'OSM Belgique rejoint l'OKFN'
+title: "OSM Belgique rejoint l'OKFN"
 layout: post
 author: xivk
 lang: fr
