@@ -1,3 +1,4 @@
+---
 title: September is maptember
 featured: images/pic02.jpg
 layout: post
