@@ -13,7 +13,7 @@ lang: nl
 						<h2>Nieuws</h2>
 					</header>
 					<ul class="style">
-						{% for post in site.posts offset: 0 limit: 4 %}
+						{% for post in site.posts offset: 0 limit: 10000 %}
 						
 						{% if post.lang == "nl" %}
 						<li>
