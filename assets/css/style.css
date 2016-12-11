@@ -300,7 +300,7 @@
 				display: inline-block;
 			}
 
-			ul.contact li .address, ul.contact li .mail, ul.contact li .phone {
+			ul.contact li .address, ul.contact li .mail, ul.contact li .phone, ul.contact li .bank_account {
 				float: left;
 				width: 100px;
 				font-weight: 600;
