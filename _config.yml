@@ -5,23 +5,30 @@ path:
 name: 
     en: OpenStreetMap Belgium
     nl: OpenStreetMap België
+    fr: OpenStreetMap Belgique
 description: 
     en: OSM-BE community website
     nl: OSM-BE community website
+    fr: OSM-BE something french!
 welcome:
     en: Welcome to OSM-BE!
     nl: Welkom bij OSM-BE!
+    fr: Welcome to something french!
 byline:
     en: This is the home of the OpenStreetMap community in Belgium!
     nl: 
+    fr: This is the home of something french.
 home:
     nl: Home
     en: Home
+    fr: Home
 news:
     nl: Nieuws
     en: News
+    fr: News
 join:
     nl: Join
     en: Join
+    fr: Join
 paginate: 10
 baseurl: ''
