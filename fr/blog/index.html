@@ -15,7 +15,7 @@ lang: fr
 					<ul class="style">
 						{% for post in site.posts offset: 0 limit: 4 %}
 						
-						{% if post.lang == "nl" %}
+						{% if post.lang == "fr" %}
 						<li>
 							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
 							<img style="width: 100%; max-width: 300px; max-height: 500px;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
