@@ -1,7 +1,7 @@
 ---
-title: "Mapper of the Month : Jorieke Vyncke (Belgium)"
+title: "Mapper of the Month : Jorieke Vyncke"
 layout: post
-author: escada
+author: Marc Gemis
 lang: en
 ---
 
