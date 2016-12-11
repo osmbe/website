@@ -9,26 +9,26 @@ name:
 description: 
     en: OSM-BE community website
     nl: OSM-BE community website
-    fr: OSM-BE something french!
+    fr: Site web de la communauté OSM-BE
 welcome:
     en: Welcome to OSM-BE!
     nl: Welkom bij OSM-BE!
-    fr: Welcome to something french!
+    fr: Bienvenue che OSM-BE
 byline:
     en: This is the home of the OpenStreetMap community in Belgium!
     nl: 
-    fr: This is the home of something french.
+    fr: 
 home:
     nl: Home
     en: Home
-    fr: Home
+    fr: Accueil
 news:
     nl: Nieuws
     en: News
-    fr: News
+    fr: Nouvelles
 join:
     nl: Join
     en: Join
-    fr: Join
+    fr: Devenir membre
 paginate: 10
 baseurl: ''
