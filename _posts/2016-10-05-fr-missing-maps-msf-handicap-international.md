@@ -5,6 +5,7 @@ layout: post
 author: Jorieke
 lang: fr
 ---
+
 Médecins Sans Frontières (MSF) et Handicap International (HI) accueillent le prochain Missing Maps Mapathon.
 Venez créer de nouvelles cartes avec nous, directement avec ceux qui vont les utiliser sur le terrain ! 
 
