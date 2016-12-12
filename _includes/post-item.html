@@ -11,8 +11,10 @@
   <div style="float: left; width: 20%; padding-right: 15px;">
     <img style="max-width: 100%;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
   </div>
-{% endif %}
   <div style="float: left; width: 80%;">
     {{ post.excerpt | strip_html }}
   </div>
+{% else %}
+  {{ post.excerpt | strip_html }}
+{% endif %}
 </div>
