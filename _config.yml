@@ -2,11 +2,11 @@ path:
     en: 'en/'
     nl: 'nl/'
     fr: 'fr/'
-name: 
+name:
     en: OpenStreetMap Belgium
     nl: OpenStreetMap België
     fr: OpenStreetMap Belgique
-description: 
+description:
     en: OSM-BE community website
     nl: OSM-BE community website
     fr: Site web de la communauté OSM-BE
@@ -16,8 +16,8 @@ welcome:
     fr: Bienvenue chez OSM-BE
 byline:
     en: This is the home of the OpenStreetMap community in Belgium!
-    nl: 
-    fr: 
+    nl:
+    fr:
 home:
     nl: Home
     en: Home
@@ -31,5 +31,5 @@ join:
     en: Join
     fr: Devenir membre
 paginate: 10
-baseurl: ''
+baseurl: '/website'
 gems: [jekyll-paginate]
