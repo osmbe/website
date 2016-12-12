@@ -2,7 +2,7 @@
 title: "Belgian Mapper of the Month: Stijn Rombauts"
 layout: post
 author: escada
-lang: en
+lang: nl
 ---
 
 Wie ben je ?
