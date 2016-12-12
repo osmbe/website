@@ -19,6 +19,20 @@
 			<link rel="stylesheet" href="assets/css/skel.css" />
 			<link rel="stylesheet" href="assets/css/style.css" />
 		</noscript>
+		<script type="text/javascript">
+			$( document ).ready(function(){
+				var userLang = navigator.language || navigator.userLanguage;
+				if(userLang == "nl") {
+					window.location.href = window.location.href + "/nl"
+				}
+				else if(userLang == "fr") {
+					window.location.href = window.location.href + "/nl"
+				}
+				else {
+					window.location.href = window.location.href + "/en"
+				}
+			});
+		</script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
