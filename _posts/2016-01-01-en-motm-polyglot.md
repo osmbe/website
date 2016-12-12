@@ -5,8 +5,6 @@ author: escada
 lang: en
 ---
 
-[Nederlandse Tekst](http://osm.be/nl/content/mapper-van-de-maand-polyglot)
-
 Polyglot is a Belgian network administrator who's hobbies are changing a bit over time: learning languages, cycling, horsebackriding, and oh .... OpenStreetMap became a major time sink!
 
 ## How did you discover OpenStreetMap?
@@ -40,7 +38,7 @@ I just like to automate stuff. I started to use Pythonscripts to convert data. L
 
 ## Where do you map ?
 
-In the early days, I mapped in my own (wider) surroundings. It is remarkble how one suddenly starts to look differently at ordinary things while out and about. Something like "How could I map that? Did I already add this? O, that has changed, I should fix that later on." 
+In the early days, I mapped in my own (wider) surroundings. It is remarkble how one suddenly starts to look differently at ordinary things while out and about. Something like "How could I map that? Did I already add this? O, that has changed, I should fix that later on."
 
 I suppose that my specialization is public transport, although I experimented with lots of different things. One thing I can't  I seem to get stated with is 3D-mapping. It just takes too much time to get it right. The tools do not offer enough support yet.
 

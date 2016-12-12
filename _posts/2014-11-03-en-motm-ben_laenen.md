@@ -6,8 +6,6 @@ author: xivk
 lang: en
 ---
 
-Mapper of the month: Ben Laenen
-
 Ben Laenen, in OpenStreetMap known under the username Eimai (pronounce /ˈimɛ/ like the Greek word είμαι), lives in Antwerp and is in his daily life a train conductor. During his studies he became active in the FOSS-world, now already a time ago. He is for example one of the people responsible for DejaVu Fonts, one of the standard fonts in several Linux distributions. The same font is also used in the main rendering engine of OpenStreetMap, Mapnik. As such, he is also active in the Libre Graphics community, more specifically in the typographic aspects.
 
 **How and when did you discover OpenStreetMap?**
