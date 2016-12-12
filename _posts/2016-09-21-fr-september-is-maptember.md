@@ -37,6 +37,6 @@ Ce "Septembre des Maps" ou maptember.brussels est organisé par des volontaires 
 
  
 
-Pour avoir une vue d'ensemble des activités, rendez-vous sur http://maptember.brussels
+Pour avoir une vue d'ensemble des activités, rendez-vous sur <http://maptember.brussels>
 
 Questions: team (at) stateofthemap.org ou +32484279576
