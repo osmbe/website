@@ -15,8 +15,8 @@ Ook OFKN groeit met deze aankondiging doordat ze een nieuwe community represente
 
 Meer informatie over de Open Knowledge Foundation Belgium:
 
-http://okfn.be/
+<http://okfn.be/>
 
 Originele blogpost of okfn.be (Engels):
 
-http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium/
+<http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium/>
