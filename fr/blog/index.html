@@ -13,16 +13,17 @@ lang: fr
 						<h2>Actualités</h2>
 					</header>
 					<ul class="style">
-						{% for post in site.posts offset: 0 limit: 10000 %}
-						
+						{% for post in site.posts %}
+
 						{% if post.lang == "fr" %}
 						<li>
 							{% include post-item.html %}
 						</li>
 						{% endif %}
-						
+
 						{% endfor %}
 					</ul>
+					<div style="clear: both;"></div>
 				</div>
 			</section>
 		</div>
