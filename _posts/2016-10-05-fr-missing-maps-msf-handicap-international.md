@@ -31,4 +31,4 @@ Animée de pauses pour la presentation d’OpenStreetMap (la plateforme utilisé
 
 **S'inscrire**
 
-https://www.eventbrite.com/e/missing-maps-msfhi-brussels-tickets-25116408855
+<https://www.eventbrite.com/e/missing-maps-msfhi-brussels-tickets-25116408855>
