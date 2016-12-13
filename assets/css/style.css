@@ -89,8 +89,12 @@
 		text-align: center;
 	}
 	section img {
-	  max-width: 100%;
-	  max-height: 350px;
+	  	max-width: 100%;
+	  	max-height: 350px;
+	}
+	section img.full-width {
+		width: 100%;
+		max-height: none;
 	}
 
 	header.major {
