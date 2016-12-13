@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du mois : Brice'
+title: 'Contributeur du mois : Brice Maron'
 layout: post
 author: Marc Gemis
 lang: fr

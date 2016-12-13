@@ -1,5 +1,5 @@
 ---
-title: 'Mapper van de Maand: Brice'
+title: 'Mapper van de maand: Brice Maron'
 layout: post
 author: Marc Gemis
 lang: nl
