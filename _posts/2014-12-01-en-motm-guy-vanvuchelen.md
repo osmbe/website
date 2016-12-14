@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: en
 ---
 
-Guy's username is GuyVV. He is 70 and lives in the area around Tienen. He has worked all his life for a bank. During the last years of his active career he made a lot of statistics, using tools such as Framework, DBase, Excel and Access. He bought his first computer, a MSX, in 1988. A few years later he switched to a "PC". Although he lost track, he assumes that he already owned 20 different models. He is an amateur photographer since his 16th birthday. Later on, he also made digital videos and recently he is into digital photography. Since his retirement he started to walk, slightly pushed by his wife. After buying a Garmin Etrex, he enjoyed it more since he had something to do; namely recording tracks!
+_Guy's username is GuyVV. He is 70 and lives in the area around Tienen. He has worked all his life for a bank. During the last years of his active career he made a lot of statistics, using tools such as Framework, DBase, Excel and Access. He bought his first computer, a MSX, in 1988. A few years later he switched to a "PC". Although he lost track, he assumes that he already owned 20 different models. He is an amateur photographer since his 16th birthday. Later on, he also made digital videos and recently he is into digital photography. Since his retirement he started to walk, slightly pushed by his wife. After buying a Garmin Etrex, he enjoyed it more since he had something to do; namely recording tracks!_
 
 **How and when did you discover OpenStreetMap?**
 
@@ -15,6 +15,8 @@ While I was looking for free maps for my Garmin, I discovered OpenStreetMap. Alm
 **What kind of mapper are you and where are you mapping?**
 
 Wherever I go for my walks, typically signposted walks with a club, I make notes. I do not really make structured notes. For this purpose, I use OsmAnd with voice recording. At the moment I try to "write down" the width of roads, the maximum allowed speed, the surface or type of track, the start and end of villages. Furthermore I am interested in all chapels and wayside shrines, so I mark them as well. From time to time I also encounter footpaths ("Trage Wegen") that are missing. After a walk of 10 kilometers, I have 30-50 minutes of voice recorded notes. From time to time I get some unexpected help from my walking buddies when they let me know beforehand when we are approaching a wayside chapel. They do not really know what I am doing and they think I am only interested in taking a picture.
+
+<img src="{{ site.baseurl }}/assets/images/Kapelletje_GuyVV.png.png"/>
 
 **What do you map and do you have any specialization?**
 

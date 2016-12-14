@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: nl
 ---
 
-Guy Vanvuchelen mapt onder de naam GuyVV.  Hij is 70 jaar, woonachtig in de streek van Tienen en  heeft zijn hele leven gewerkt in een bank. Tijdens de laatste jaren bij de bank maakte hij vooral veel statistieken, eerst met Framework, dan met DBase, vervolgens met Exel en tussendoor ook even met Acces. Hij kocht zijn eerste computer in 1988, een MSX. Enkele jaren later stapte hij over op een "PC". Hoewel hij ondertussen de tel is kwijt geraakt, vermoedt hij  toch ongeveer aan zijn twintigste computer zitten. Sinds zijn zestiende doet hij ook aan fotografie, hij maakte even de overstap naar digitale video, om daarna terug te keren naar digitale fotografie. Sinds zijn pensioen is hij, onder lichte dwang van zijn vrouw, beginnen wandelen. Na de aanschaf van een Garmin Etrex, had hij tijdens die wandelingen iets om handen: tracks opnemen.
+_Guy Vanvuchelen mapt onder de naam GuyVV.  Hij is 70 jaar, woonachtig in de streek van Tienen en  heeft zijn hele leven gewerkt in een bank. Tijdens de laatste jaren bij de bank maakte hij vooral veel statistieken, eerst met Framework, dan met DBase, vervolgens met Exel en tussendoor ook even met Acces. Hij kocht zijn eerste computer in 1988, een MSX. Enkele jaren later stapte hij over op een "PC". Hoewel hij ondertussen de tel is kwijt geraakt, vermoedt hij  toch ongeveer aan zijn twintigste computer zitten. Sinds zijn zestiende doet hij ook aan fotografie, hij maakte even de overstap naar digitale video, om daarna terug te keren naar digitale fotografie. Sinds zijn pensioen is hij, onder lichte dwang van zijn vrouw, beginnen wandelen. Na de aanschaf van een Garmin Etrex, had hij tijdens die wandelingen iets om handen: tracks opnemen._
 
 **Wanneer en op welke manier leerde je OpenStreetMap kennen?**
 
@@ -15,6 +15,8 @@ In mijn speurtocht naar gratis wandelkaarten voor mijn Garmin kwam ik bij OpenSt
 **Wat voor soort mapper ben je en op welke plaatsen map je?**
 
 Meestal noteer ik tijdens het wandelen (meestal bewegwijzerde wandelingen van wandelclubs) de 'nogal chaotisch zaken'. Daarvoor gebruik ik de ‘ingesproken notities’ van OsmAnd. Tegenwoordig noteer ik vooral de breedte van de wegen, de snelheid, het oppervlak, de soort track, het begin van agglomeraties en natuurlijk alle kapelletjes! Regelmatig kom ik ook nieuwe wandelwegen en/of trage wegen tegen.  Na een wandeling van ongeveer 10 kilometer heb ik dan tussen de 30 en 50 minuten ingesproken notities. Af en toe krijg ik hulp van mijn wandelclubgenoten. Zo laten ze mij tijdens een wandeling al van ver weten dat we een kapelletje zullen tegenkomen. Ze weten wel niet echt waar ik mee bezig ben en denken dat ik enkel geïnteresseerd ben in een foto.
+
+<img src="{{ site.baseurl }}/assets/images/Kapelletje_GuyVV.png.png"/>
 
 **Wat map je zoal? Heb je een specialisatie?**
 
