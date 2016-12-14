@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: en
 ---
 
-_Josefien and Ruben (<a href="https://openstreetmap.org/user/M!dgard>M!dgard</a>) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give blood plasma every two weeks in Ghent._
+_Josefien and Ruben (<a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give blood plasma every two weeks in Ghent._
 
 How and when did you Learn about OpenStreetMap?
 Ruben: In 2012 I looked at Google Maps and saw that a path in my neighbourhood was mapped incorrectly. I decided to change it with the new Map Maker. Unfortunately, the change only became visible months later. My dad had heard of OpenStreetMap and thought I would enjoy it more. So I browsed to openstreetmap.org, and shortly after that I had made an account.

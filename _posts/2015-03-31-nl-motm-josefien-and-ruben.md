@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: nl
 ---
 
-_Josefien en Ruben zijn 20 en 19 jaar oud en mappen onder de naam <a href="https://openstreetmap.org/user/M!dgard>M!dgard</a>. Tussen het mappen door studeren ze voor hun hogere studies. In het middelbaar waren ze beste vrienden en sinds kort trekken ze samen met een zelfgemaakte badge door de straten van Blankenberge en omliggende gemeenten. Ruben houdt zich graag bezig met de technische kant en Josefien werkt in haar vrije tijd aan twee OSM-T-shirts om te dragen tijdens surveys. Samen zetten ze zich graag in voor anderen. Zo doneren ze bijvoorbeeld tweewekelijks ook bloedplasma in Gent._
+_Josefien en Ruben zijn 20 en 19 jaar oud en mappen onder de naam <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. Tussen het mappen door studeren ze voor hun hogere studies. In het middelbaar waren ze beste vrienden en sinds kort trekken ze samen met een zelfgemaakte badge door de straten van Blankenberge en omliggende gemeenten. Ruben houdt zich graag bezig met de technische kant en Josefien werkt in haar vrije tijd aan twee OSM-T-shirts om te dragen tijdens surveys. Samen zetten ze zich graag in voor anderen. Zo doneren ze bijvoorbeeld tweewekelijks ook bloedplasma in Gent._
 
 **Hoe leerden jullie OpenStreetMap kennen?**
 
