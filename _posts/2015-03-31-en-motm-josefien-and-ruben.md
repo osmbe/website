@@ -6,9 +6,7 @@ author: Marc Gemis
 lang: en
 ---
 
-Josefien and Ruben (M!dgard) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give blood plasma every two weeks in Ghent.
-
-Mapping Badges
+_Josefien and Ruben (<a href="https://openstreetmap.org/user/M!dgard>M!dgard</a>) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give blood plasma every two weeks in Ghent._
 
 How and when did you Learn about OpenStreetMap?
 Ruben: In 2012 I looked at Google Maps and saw that a path in my neighbourhood was mapped incorrectly. I decided to change it with the new Map Maker. Unfortunately, the change only became visible months later. My dad had heard of OpenStreetMap and thought I would enjoy it more. So I browsed to openstreetmap.org, and shortly after that I had made an account.
@@ -33,7 +31,7 @@ Jose: Mailboxes are one of my favorite features. Because I love to send letters,
 
 Ruben: I map a lot of different items. I enjoy mapping turn lanes, but I wished there would be more maps that show them.
 
-Kerkstraat
+<img src="{{ site.baseurl }}/assets/images/midgard_kerkstraat.png"/>
 
 Why do you map? What motivates you?
 Jose: Like most people, I often pass the time by clicking around on the web. With OpenStreetMap, I now found something to spend that time more useful. Although I have to admit that it is also an excuse not to work for school. It is also very motivating that Ruben likes it when I am mapping stuff and that he encourages me to go out and survey a bit.
