@@ -45,7 +45,7 @@ Verder zouden we flyers moeten maken en verdelen waarin de Belgische aspecten va
 Neen, heel weinig, maar ik heb wel mappers ontmoet in Leuven, Gent en Brussel op FOSDEM en op ESI.
 
 **Wat is de grootste sterkte van OpenStreetMap volgens jou?**
-µ
+
 De grootste kracht van OpenStreetMap is dat het vrij is. Mogelijkheden om OpenStreetMap te gebruiken en hergebruiken zijn eindeloos. Kijk naar al de ideeën en applicaties die overal uit de grond springen, zoals het <a href="http://hot.openstreetmap.org/">Humanitair OpenStreetMap Team (HOT)</a>, <a href="http://waymarkedtrails.org/">Waymarked Trails</a>, de <a href="http://geschichtskarten.openstreetmap.de/historische_objekte/">Geschichtkarten</a>. Heel boeiend allemaal!
 
 **Wat is de grootste uitdaging voor OpenStreetMap?**
@@ -53,6 +53,7 @@ De grootste kracht van OpenStreetMap is dat het vrij is. Mogelijkheden om OpenSt
 OpenStreetMap moet gebruik maken van de huidige trend om alles op kaarten te tonen, in grafische vorm. Dit is nog maar een recent fenomeen.
 
 **Hoe blijf je op de hoogte van nieuwtjes in verband met OpenStreetMap?​**
+
 Ik lees zowel Talk-be als de Newbies mailing lijst.
 
 **Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer?**
