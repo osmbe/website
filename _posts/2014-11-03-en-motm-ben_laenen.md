@@ -6,7 +6,7 @@ author: xivk
 lang: en
 ---
 
-Ben Laenen, in OpenStreetMap known under the username Eimai (pronounce /ˈimɛ/ like the Greek word είμαι), lives in Antwerp and is in his daily life a train conductor. During his studies he became active in the FOSS-world, now already a time ago. He is for example one of the people responsible for DejaVu Fonts, one of the standard fonts in several Linux distributions. The same font is also used in the main rendering engine of OpenStreetMap, Mapnik. As such, he is also active in the Libre Graphics community, more specifically in the typographic aspects.
+Ben Laenen, in OpenStreetMap known under the username <a href="http://www.openstreetmap.org/user/Eimai">Eimai</a> (pronounce /ˈimɛ/ like the Greek word είμαι), lives in Antwerp and is in his daily life a train conductor. During his studies he became active in the FOSS-world, now already a time ago. He is for example one of the people responsible for DejaVu Fonts, one of the standard fonts in several Linux distributions. The same font is also used in the main rendering engine of OpenStreetMap, Mapnik. As such, he is also active in the Libre Graphics community, more specifically in the typographic aspects.
 
 **How and when did you discover OpenStreetMap?**
 
@@ -23,6 +23,8 @@ Currently, I belong to the category of armchair-mappers, so mainly using aereal 
 **What do you map and do you have any specialization?**
 
 In the beginning there was not much choice, we had to start with the roads. After a while, when almost all roads in Antwerp were done, I started mapping bicycle routes and later on walking routes. The latter is especially interesting, you discover new, small paths, which would otherwise remain unknown. More recently, I am working on railway infrastructures, of course influenced by my job. I have been mapping a lot of different things over the years, but never really spend time on mapping points of interest (POIs).
+
+<a href="http://hdyc.neis-one.org/?Eimai"><img src="{{ site.baseurl }}/assets/images/hdyc_eimai.png"/></a>
 
 **Why do you map? What motivates you?**
 

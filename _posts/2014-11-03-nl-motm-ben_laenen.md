@@ -7,10 +7,9 @@ lang: nl
 ---
 
 
-OpenStreetMap zou niet bestaan zonder "mappers". Daarom zetten we er vanaf nu elke maand één in de verf.
-Onze eerste mapper van de maand is: Ben Laenen!
+_OpenStreetMap zou niet bestaan zonder "mappers". Daarom zetten we er vanaf nu elke maand één in de verf.**Onze eerste mapper van de maand is: Ben Laenen!**_
 
-Ben Laenen is bekend in OpenStreetMap onder de gebruikersnaam Eimai (spreek uit: /ˈimɛ/ zoals het Grieks είμαι), woont in Antwerpen en is in het echte leven treinbestuurder. Hij is al een tijdje actief in de FOSS-wereld en is één van de mensen die verantwoordelijk zijn voor DejaVu Fonts. Dit is één van de standaardlettertypes van verschillende Linuxdistributies, en ook het lettertype dat je ziet op de meeste standaard OpenStreetMap-kaarten. Op die manier is hij dus ook actief in de Libre Graphics gemeenschap, in het bijzonder met de typografische aspecten ervan.
+Ben Laenen is bekend in OpenStreetMap onder de gebruikersnaam <a href="http://www.openstreetmap.org/user/Eimai">Eimai</a> (spreek uit: /ˈimɛ/ zoals het Grieks είμαι), woont in Antwerpen en is in het echte leven treinbestuurder. Hij is al een tijdje actief in de FOSS-wereld en is één van de mensen die verantwoordelijk zijn voor DejaVu Fonts. Dit is één van de standaardlettertypes van verschillende Linuxdistributies, en ook het lettertype dat je ziet op de meeste standaard OpenStreetMap-kaarten. Op die manier is hij dus ook actief in de Libre Graphics gemeenschap, in het bijzonder met de typografische aspecten ervan.
 
 **Wanneer leerde je OpenStreetMap kennen?**
 
@@ -27,6 +26,8 @@ Tegenwoordig val ik meestal onder de categorie van "armchairmappers". Dit wil ze
 **Wat map je? Heb je een specialisatie?**
 
 In de begindagen was er weinig keuze wat je moest mappen. Eerst moesten alle wegen aan de beurt komen. Na een tijdje, toen er in het Antwerpse niet zo veel wegen meer te vinden waren, heb ik me toegelegd op fietsroutes en vervolgens wandelroutes. Vooral dat laatste is interessant, je komt kleine paadjes tegen die je anders nooit zou vinden! De laatste tijd houd ik me, vanwege mijn beroep natuurlijk, vaak bezig met de spoorinfrastructuur. Over al die jaren heb ik me met vele verschillende dingen beziggehouden, al hield ik mij nooit echt bezig met het mappen van points of interests (POIs).
+
+<a href="http://hdyc.neis-one.org/?Eimai"><img src="{{ site.baseurl }}/assets/images/hdyc_eimai.png"/></a>
 
 **Wat motiveert je om te mappen?**
 
