@@ -20,7 +20,7 @@ Quand je vais me balader, bien souvent sur des chemins balisés avec un club, je
 
 Au début, je croyais qu'il faudrait seulement cartographier les routes. Maintenant je connais mieux OSM. Je ne me spécialise pas, mais je ne passe jamais devant une chapelle sans prendre une note. Pendant quelques temps, j'ai aussi collecté des informations sur les adresses. J'ai commencé autour de ma maison et ensuite j'ai continué avec toutes les rues du voisinage. Après l'arrivée de AGIV, jai fait du 'couch mapping' pour les numéros des maisons. Aujourd'hui je ne sais pas si je vais continuer. Il y a pas mal de discussions sur la liste de diffusion belge d'OSM et je ne sais pas si ça vaut plus la peine de récolter les données soi-même.
 
-<img src="{{ site.baseurl }}/assets/images/Kapelletje_GuyVV.png.png"/>
+<img src="{{ site.baseurl }}/assets/images/Kapelletje_GuyVV.png"/>
 
 **Pourquoi cartographiez vous? Qu'est ce qui vous motive?**
 
