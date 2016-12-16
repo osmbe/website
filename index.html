@@ -22,10 +22,10 @@
 		<script type="text/javascript">
 			$( document ).ready(function(){
 				var userLang = navigator.language || navigator.userLanguage;
-				if(userLang == "nl") {
+				if (/^nl/.test(userLang) === true) {
 					window.location.href = window.location.href + "/nl"
 				}
-				else if(userLang == "fr") {
+				else if (/^fr/.test(userLang) === true) {
 					window.location.href = window.location.href + "/fr"
 				}
 				else {
