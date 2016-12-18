@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: fr
 ---
 
-_Josefien et Ruben ont 20 et 19 ans et mappent sous le nom <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. En dehors du mapping, ils étudient pour leur études supérieures. Dans l'enseignement secondaire, ils étaient les meilleurs amis, et, depuis peu, avec un badge fait maison, ils parcourent les rues de Blankenberge et des communes environnantes. Ruben se préoccupe plus du côté technique et Josefien consacre son temps libre à créer deux T-shirts OSM à porter durant les surveys. Ensemble, ils se consacrent volontiers aux autres. Par exemple, ils donnent du plasma toutes les deux semaines à Gand._
+_Josefien et Ruben ont 20 et 19 ans et mappent sous le nom <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. En dehors du mapping, ils étudient pour leur études supérieures. Dans l'enseignement secondaire, ils étaient les meilleurs amis, et, depuis peu, avec un badge fait maison, ils parcourent les rues de Blankenberge et des communes environnantes. Ruben se préoccupe plus du côté technique et Josefien consacre son temps libre à créer deux T-shirts OSM à porter durant les surveys. Ensemble, ils se consacrent volontiers aux autres. Par exemple, ils |donnent du plasma toutes les deux semaines à Gand](https://www.openstreetmap.org/way/334861945).
 
 **Comment vous avez appris à connaître OpenStreetMap ?**
 
@@ -30,8 +30,8 @@ Ruben : J'aimerais bien être capable de cartographier concentré sur un sujet ;
 
 **Qu'est-ce que vous cartographiez ? Avez-vous une spécialité ?**
 
-Josefien : Les boîtes aux lettres sont mes objets préférés. Parce que j'aime expédier des lettres, je me souviens de toutes leurs localisations. Tous deux nous cartographions les défibrillateurs (AED) que nous voyons parce que cela peut sauver des vies. Nous notons aussi toujours les heures d'ouverture des bâtiments où se trouvent les AED de sorte que vous ne vous rendiez pas dans un bâtiment inaccessible.
-Ruben : Pour le reste, je n'ai pas vraiment une spécialisation. Je cartographie beaucoup de choses différentes. Je trouve les « turn lanes » amusants et j'aimerais que ceux-ci apparaissent sur plus de cartes.
+Josefien : Les [boîtes aux lettres](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpost_box) sont mes objets préférés. Parce que j'aime expédier des lettres, je me souviens de toutes leurs localisations. Tous deux nous cartographions les [défibrillateurs](http://wiki.openstreetmap.org/wiki/Tag:emergency%3Ddefibrillator) (AED) que nous voyons parce que cela peut sauver des vies. Nous notons aussi toujours les heures d'ouverture des bâtiments où se trouvent les AED de sorte que vous ne vous rendiez pas dans un bâtiment inaccessible.
+Ruben : Pour le reste, je n'ai pas vraiment une spécialisation. Je cartographie beaucoup de choses différentes. Je trouve les [« turn lanes »](http://wiki.openstreetmap.org/wiki/Key:turn) amusants et j'aimerais que ceux-ci apparaissent sur plus de cartes.
 
 **Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?**
 
@@ -42,7 +42,7 @@ Ruben : Je cartographie parce que je crois dans les données libres et dans la c
 
 Ruben : Personnellement, j'ai trouvé la traduction de l'éditeur iD très importante. Il est essentiel de traduire non pas de manière ordinaire et à la va-vite mais très exactement, ceci pour offrir aux nouveaux contributeurs la possibilité de taguer exactement ce qu'ils souhaitent représenter. Une traduction confuse ou incohérente, telle que l'utilisation de termes incompatibles, va rapidement les effrayer. C'est pourquoi j'ai déjà beaucoup traduit. En février, je me suis astreint à compléter la traduction.
 Josefien : C'était pratique pour moi ; j'ai utilisé iD parce que c'est si simple. À présent, j'utilise JOSM parce qu'il est plus puissant.
-Ruben : Établir des références entre OpenStreetMap et Wikidata me semble également intéressant. Au lieu de donner le nom d'un article de Wikipedia au tag d'un objet, il me semble intéressant de mentionner une référence Wikidata. Ainsi, non seulement les articles sont saisis dans toutes les langues à la fois mais l'information devient également lisible par la machine.
+Ruben : Établir des références entre OpenStreetMap et Wikidata me semble également intéressant. Au lieu de donner le nom d'un article de Wikipedia au tag d'un objet, il me semble intéressant de mentionner une référence [Wikidata](http://wikidata.org/). Ainsi, non seulement les articles sont saisis dans toutes les langues à la fois mais l'information devient également lisible par la machine.
 
 **Quelle est la plus grande force de l'OpenStreetMap selon vous ?**
 
@@ -59,12 +59,12 @@ Ruben : OpenStreetMap pourrait être mieux connu en Belgique. Des amis britanniq
 **Avez-vous de nouvelles idées pour attirer OpenStreetMap à un autre niveau ?**
 
 Josefien : Je souhaite que tout mapper novice ait quelqu'un qui lui donne un feedback quand il a créé son premier point. Que Ruben m'ait donné des conseils et j'ai pu en quelque sorte y aller avec mes questions, était vraiment très pratique. Qu'il y ait une fonction sur laquelle tout mapper puisse se faire vérifier par un mapper averti permettrait à de nombreuses personnes se persévérer dans les moments cruciaux du début avec iD. En outre, il y devrait y avoir une meilleure communication entre les cartographes. Prendre contact avec d'autres cartographes est encore assez lourd et difficile d'accès pour les personnes qui ne sont pas vraiment à l'aise dans les pages web et les wikis. S'il y avait une sorte de parrainage, même minime, ce serait vraiment un grand pas en avant. Même moi, je pourrait à présent aider les personnes avec les premières choses qu'elles veulent mettre sur la carte.
-Ruben : C'est une excellente idée. Cela nécessite évidemment un super-engagement de la part des cartographes existants, mais cela permettrait à terme de garder beaucoup de personnes engagées activement dans le projet, parce que beaucoup font seulement quelques modifications et oublient ensuite qu'elles ont un compte. Un bon portail pour les débutants, bien organisé, auquel il serait fait référence, serait aussi une amélioration. Un deuxième point est qu'il devrait y avoir une bonne carte cliquable. Je trouve OpenLinkMap une excellente initiative, mais je pense que cela devrait être mieux. Les amis à qui je montre ce site le regardent pensivement, car, selon eux, il ne semble pas aussi beau que Google Maps. De nos jours, les gens sont très pointilleux sur l'apparence des sites Web !
+Ruben : C'est une excellente idée. Cela nécessite évidemment un super-engagement de la part des cartographes existants, mais cela permettrait à terme de garder beaucoup de personnes engagées activement dans le projet, parce que beaucoup font seulement quelques modifications et oublient ensuite qu'elles ont un compte. Un bon portail pour les débutants, bien organisé, auquel il serait fait référence, serait aussi une amélioration. Un deuxième point est qu'il devrait y avoir une bonne carte cliquable. Je trouve [OpenLinkMap](http://www.openlinkmap.org/) une excellente initiative, mais je pense que cela devrait être mieux. Les amis à qui je montre ce site le regardent pensivement, car, selon eux, il ne semble pas aussi beau que Google Maps. De nos jours, les gens sont très pointilleux sur l'apparence des sites Web !
 
 **Comment restez-vous au courant de toutes les petites nouvelles liées à OpenStreetMap ?**
 
 Josefien : Grâce à Ruben, bien sûr. Il ne lit pas seulement toutes les innovations qu'il rencontre mais il est aussi inscrit à tant de listes de diffusion que je ne me souviens pas desquelles.
-Ruben : Il s'agit de talk-be, de talklist info et le tagging list, mais je ne lis talk-be qu'occasionnellement. Il y a tant de mails qui arrivent et je dois faire tant d'autres choses.
+Ruben : Il s'agit de [talk-be](https://lists.openstreetmap.org/listinfo/talk-be), de [talklist info](https://lists.openstreetmap.org/listinfo/talk) et le [tagging list](https://lists.openstreetmap.org/listinfo/tagging), mais je ne lis talk-be qu'occasionnellement. Il y a tant de mails qui arrivent et je dois faire tant d'autres choses.
 
 **Avez-vous des contacts avec d'autres cartographes ?**
 
