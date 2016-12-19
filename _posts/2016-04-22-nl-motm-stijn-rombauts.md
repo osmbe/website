@@ -5,8 +5,6 @@ author: escada
 lang: nl
 ---
 
-Wie ben je ?
-
 Stijn Rombauts is 37 jaar, bio-ingenieur van opleiding en werkt bij de Vlaamse Milieumaatschappij, waar hij computermodellen van waterlopen bouwt en onderhoudt, die gebruikt worden in overstromingsvoorspellers of bij het ontwerp van wachtbekkens of vistrappen e.d. Omdat hij voor z’n werk meestal achter de computer zit, probeert hij in z’n vrije tijd zoveel mogelijk actief buiten in de natuur te zijn: te voet, met de mountainbike of in de kano.
 
 Stijn Rombauts
