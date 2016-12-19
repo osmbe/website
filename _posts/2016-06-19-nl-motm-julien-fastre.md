@@ -1,16 +1,12 @@
 ---
-title: 'Mapper van de Maand: Julien Fastré'
+title: 'Mapper van de maand: Julien Fastré'
 featured: images/julien.jpg
 layout: post
 author: Marc Gemis
 lang: nl
 ---
 
-Wat doe je in het dagelijkse leven ?
-Ik heb meerdere bezigheden, en ik apprecieer het erg dat ze in zeer verschillende domeinen zijn, zelfs als me dat af en toe vermoeid:
-Ik ben software ontwikkelaar bij Champs-Libres, waar een deel van onze activeiten verbonden is met geografie. We gebruiken daarbij regelmatig data van OpenStreetMap. We installeren ook tile servers, Nominatim, enz. Officieel zou dit een deeltijdse baan moeten zijn, maar in werkelijkheid, neemt het veel meer tijd in beslag.
-Van opleiding ben ik journalist, maar sinds ik mijn studies heb afgerond ben ik maatschappelijk werker. Ik ben eveneens deeltijds te werk gesteld als begeleider van werkzoekenden in een feministische vereniging.
-Ik ben ook medewerker geweest (en soms nog) van allerlei verenigingen of bewegingen: GRACQ (fietsersbond), de scouts,vakbonden, ... Ik ben eveneens vader en daar spendeer ik ook een mooi deel van mijn tijd aan !
+Julien heeft meerdere activiteiten, en hij apprecieer het erg dat ze in zeer verschillende domeinen zijn, zelfs al is dat af en toe vermoeiend. Hij is software-ontwikkelaar bij Champs-Libres, waar een deel van de activeiten verbonden is met geografie en er regelmatig OpenStreetMap data gebruikt wordt. Ze installeren ook tile servers, Nominatim, enz. Officieel zou dit een deeltijdse baan moeten zijn, maar in werkelijkheid, neemt het veel meer tijd in beslag. Van opleiding is Julien journalist, maar sinds hij zijn studies heeft afgerond, is hij maatschappelijk werker. Hij is deeltijds tewerkgesteld als begeleider van werkzoekenden in een feministische vereniging. Ook is Julien medewerker geweest (en soms nog) van allerlei verenigingen of bewegingen: GRACQ (fietsersbond), de scouts, vakbonden, ... en is hij vader, waar hij eveneens een mooi deel van zijn tijd aan spendeert!
 
 Hoe en wanneer hebt u OpenStreetMap ontdekt ?
 Volledig per toeval, in een artikel van het magazine van GRACQ, en dat gaf me zin om verder te gaan. Ik ben toen begonnen met bijdragen van wat me op dat moment interesseerde: fietsroutes en de infrastructuur voor fietsers.
