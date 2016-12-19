@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Nick (Nederland)'
+title: 'Mapper in the spotlight: Nick (Netherlands)'
 layout: post
 author: Marc Gemis
 lang: en
