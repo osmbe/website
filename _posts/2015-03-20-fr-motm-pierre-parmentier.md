@@ -5,7 +5,7 @@ layout: post
 author: Marc Gemis
 lang: fr
 ---
-_Pierre Parmentier est ingénieur en construction et son nom d'utilisateur sur OpenStreetMap est foxandpotatoes. Il a d'abord travaillé sur des chantiers et des projets en Afrique, au Moyen-Orient et en Amérique du Sud. Ensuite en Belgique. Actuellement, comme indépendant, il participe à des projets industriels dans différents pays du monde. Ses hobbys, c'est ce qui touche à la cartographie, la course d'orientation, les fortifications. Et beaucoup d'autres thèmes !_
+_Pierre Parmentier est ingénieur en construction et son nom d'utilisateur sur OpenStreetMap est [foxandpotatoes](https://www.openstreetmap.org/user/foxandpotatoes). Il a d'abord travaillé sur des chantiers et des projets en Afrique, au Moyen-Orient et en Amérique du Sud. Ensuite en Belgique. Actuellement, comme indépendant, il participe à des projets industriels dans différents pays du monde. Ses hobbys, c'est ce qui touche à la cartographie, la course d'orientation, les fortifications. Et beaucoup d'autres thèmes !_
 
 **Comment et quand avez-vous découvert OpenStreetMap ?**
  
