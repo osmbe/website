@@ -1,5 +1,5 @@
 ---
-title: 'Mapper van de Maand: Pierre Parmentier'
+title: 'Mapper van de maand: Pierre Parmentier'
 featured: images/foxandpotatoes.jpg
 layout: post
 author: Marc Gemis
