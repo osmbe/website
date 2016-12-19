@@ -12,3 +12,11 @@ La communauté OpenStreetMap en Belgique se demandait depuis longtemps s'il éta
 Ces derniers mois, l'augmentation de plus en plus forte de l'activité de la communauté OSM avait rendu la question d'une "organisation" de plus en plus présente. Si bien que la proposition de Pieter Colpaert de rejoindre l'OKFN est tombée à pic ! D'autant plus que l'OKFN et OSM défendent des objectifis similaires. Et aujourd'hui nous pouvons annoncer fièrement que "OSM Belgique" rejoint l'OKFN en tant que groupe de travail.
 
 OKFN croit encore, et de manière positive! La fondation rassemble de plus en plus d'acteurs non seulement favorables à la réutilisation des données, mais aussi actifs dans la production de données sous licence ouverte. Ce qui prend une place de plus en plus importante dans nos vies quotidienne, comme le pense l'OKFN et ce que réalise le projet OpenStreetMap.
+
+Plus d'information sur l'Open Knowledge Foundation Belgium:
+
+<a href="http://okfn.be/">http://okfn.be/</a>
+
+Le post original sur le blog de l'okfn.be (en anglais):
+
+<a href="http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium">http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium<a/>
