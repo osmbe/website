@@ -1,11 +1,12 @@
 ---
 title: "Mapper van de maand: Jorieke Vyncke"
+featured: images/JoriekeVyncke.jpg
 layout: post
 author: Marc Gemis
 lang: nl
 ---
 
-[Jorieke](http://www.openstreetmap.org/user/Jorieke%20V) , 28 jaar en Belgische, spendeerde de afgelopen jaren veel van haar tijd aan het ondersteunen van lokale OpenStreetMap-gemeenschappen overal ter wereld. Ze werkte voor verschillende projecten in Afrika, Europa en Azië om mensen te trainen en OpenStreetMap te promoten bij lokale en internationale actoren.
+[Jorieke](http://www.openstreetmap.org/user/Jorieke%20V), 28 jaar en Belgische, spendeerde de afgelopen jaren veel van haar tijd aan het ondersteunen van lokale OpenStreetMap-gemeenschappen overal ter wereld. Ze werkte voor verschillende projecten in Afrika, Europa en Azië om mensen te trainen en OpenStreetMap te promoten bij lokale en internationale actoren.
 
 ## Waar en wanneer ontdekte je OpenStreetMap?
 
