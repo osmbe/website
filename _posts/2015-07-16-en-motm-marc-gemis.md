@@ -8,7 +8,7 @@ lang: en
 
 Marc Gemis is a 48 year old software engineer for a multi-national in Mortsel. His largest passion are his dogs, which he walks every day. His nickname, escada is the name of one of his dogs.
 
-When did you discover OpenStreetMap?
+**When did you discover OpenStreetMap?**
 
 Marc and his dogs during a survey I have always walked a lot with the dogs. Until 2011 this were often the same walks, or walks that are described in the Lannoo-guides. We did not walk every weekend or evening because I also trained for and participated in agility-trails. Unfortunately my competition dog got injured and I had to stop with the sport. This meant that I would have more time for walks. Since I wanted to discover more of Belgium, I bought an outdoor GPS-device.
 
@@ -16,13 +16,13 @@ The idea was to download trails from dogsfriendly.be and follow those. From the 
 
 Soon after installing the map on the device, I noticed that several smaller paths and tracks were missing in my home town. I subscribed to the Belgian maling list to learn how I could add those missing pieces. I got plenty of advice and one user, Polyglot also showed me which other data was missing and how that could be added. At that moment, he mainly talked about house numbers and bus stops.
 
-Do you use OpenStreetMap yourself ?
+**Do you use OpenStreetMap yourself?**
 
 From the above, you can deduce that I use OpenStreetMap on my Garmin-device, from the moment I discovered it. Furthermore, I will always use openstreetmap.org when I want to let my friends know about the start position of a walk. From time to time I use Grapphopper](https://graphhopper.com/) or OSRM, to find out beforehand how long a trip will take. Both routing engines are now also available on the openstreetmap.org website.
 
 Recently, I bought my first smartphone. The main reason was to allow me to start using OsmAnd for car navigation. During our hollidays I also used it as a guide in some towns.
 
-How do you map ?
+**How do you map?**
 
 As said in the introduction, I take the dogs out for a daily walk. This means that almost every day I find something new to map. The evening walks are usually close to home, while I make little trips all over Belgium during the weekend. Most of those trips are planned so I will discover a new part of some walking network. A walking network is layed out by the tourist office and allows each individual to create her own walk using short routes between numbered nodes. Those networks are one of the things I map.
 
@@ -30,7 +30,7 @@ The evening walks are totally different. Some of those walks were along calm pat
 
 Because I keep learning about new stuff that can be mapped, even a walk that I have done several times before can expose new data. I also started to photograph those streets for Mapillary. Although that is not always easy, especially with 4 dogs on a lead and when the sun is going under.
 
-Which Tools do you use ?
+**Which Tools do you use?**
 
 From the first day on, I use a GPS-device to collect waypoints with information that I want to map later on. This works well for short texts, such as house numbers or objects that one meets frequently such as benches or garbage cans. I developed a whole "new" language based on abbreviations for this purpose.
 
@@ -44,11 +44,11 @@ On the other hand, I enjoyed trying to fix the mistakes in my neighborhood liste
 
 When I do not need my smartphone for navigation, I try to use it to take pictures with Mapillary. This allows me to take photos while I'm driving.
 
-Where do you map ?
+**Where do you map?**
 
 I map almost exclusively in Belgium. Of course, I also map during my holidays abroad. I have also mapped a few villages in Mongolia and Uganda. That is very relaxing, just tracing houses and path from aerial images. However, I prefer to map locally, where I am familiar with the environment.
 
-What do you map ?
+**What do you map?**
 
 When I started mapping, I only payed attention to missing paths and the traditional Points of Interest (POI) such as shops, banks and mailboxes. It did not take long before I started mapping house numbers and bus stops. The list kept on growing when I added garbage cans, benches, picnic sites, life buoys, bicycle parkings etc.
 
@@ -72,17 +72,17 @@ After meeting someone that had mapped the Japanese Garden in Hasselt during a me
 
 Art in Middelheim viewed in OsmAndRose garden in umap
 
-Why do you map ?
+**Why do you map?**
 
 I like to explore new areas. The surveys give me a good excuse to do that. And of course, mapping is more useful that endlessly watching YouTube movies of playing games. And I find it relaxing as well.
 
 I also enjoy starting little projects and experiment with unknown tags, which is one of the reasons to start mapping new stuff. This keeps it interesting as well.
 
-What is your biggest achievement as a mapper ?
+**What is your biggest achievement as a mapper?**
 
 It is hard to choose between my contributions to the walking networks, the protected monuments and the turn lane mapping.
 
-Do you do other things than just mapping ?
+**Do you do other things than just mapping?**
 
 I have given a few introductionary presentations, e.g on OpenBelgium 2015 and at some workshop organised by Nicolas Pettiaux at the ESI in Brussels.
 
@@ -102,19 +102,19 @@ Too many website are still focussed on mappers and to do not pay enough attentio
 
 We might have to create some projects similar to the German "weekassignments" or the English "trimester assignments" for the Belgian mappers. Given the relative success of my posting about the umap with fritures, it might help to motivate the mappers.
 
-What is the biggest feature of OpenStreetMap?
+**What is the biggest feature of OpenStreetMap?**
 
 The large diversity of data that can be combined in interesting ways, see e.g. the article on the "Het Pad van Ad" by Polyglot that combines a walking route, public transport and tourism information.
 
-What is the biggest Challenge for OpenStreetMap ?
+**What is the biggest Challenge for OpenStreetMap?**
 
 I have the impression that too many mappers are too focused on what they see on openstreetmap.org. But, there are so many websites and applications. We should promote all of them more. Maybe the German, French or Belgian approach is better. First explain the visitors of the website that it is about the data, and that this data is used on many different websites and in different apps. After that, you can still show them a large example map. Right now, this map is still compared with Google and too many people complain that their favorite feature is not rendered as they wish.
 
-How do you stay on top of OpenStreetMap related news ?
+**How do you stay on top of OpenStreetMap related news?**
 
 I try to follow about 15 mailing lists in 4 different languages. I learned a lot from the German forum. I discovered the Wochennotiz a few years ago and it seems to me that it is essential for anybody interested in OpenStreetMap. Luckily it is now also translated in several other languages. I also configured an alert on Google, which send me a mail message with new web pages related to OpenStreetMap. From time to time it contains a page that I did not see elsewhere.
 
-Do you stay in contact with other mappers ?
+**Do you stay in contact with other mappers?**
 
 I am rather active on the Belgian mailing list. I still have a lot of email conversations with Polyglot, who taught me a lot in my early days.
 
@@ -124,6 +124,6 @@ When I have problems to tag something, I might directly contact other mappers fo
 
 I have been contacted myself regarding a feature that I mapped incorrectly. I was not sure of what it was, but I added a tag to a photo of the "thing". This allowed the specialist in that area to contact me, and tell me that it was a underground water reservoir for the fire department. I thought it was just an underground fire hydrant.
 
-Anything else you want to share ?
+**Anything else you want to share?**
 
 I would recommend all beginning mappers to subscribe to the mailing list and ask for advice before starting any serious work. Not all information is provided by the editors.
