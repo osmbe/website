@@ -6,9 +6,8 @@ author: Jorieke Vyncke
 lang: nl
 ---
 
-Artsen Zonder Grenzen (AZG)et Handicap International (HI)verwelkomen ons voor de volgendeMissing Maps Mapathon.
-
-Kom en maak nieuwe kaarten met ons, samenmet zij die de kaarten zullen gebruiken op het terrein!
+Artsen Zonder Grenzen (AZG) et Handicap International (HI) verwelkomen ons voor de volgendeMissing Maps Mapathon.
+Kom en maak nieuwe kaarten met ons, en samen met zij die de kaarten zullen gebruiken!
 
 **Nieuwe kaarten maken?**
 
