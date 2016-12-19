@@ -1,5 +1,5 @@
 ---
-title: 'Mapper van den maand: Matthieu Gaillet'
+title: 'Mapper van de maand: Matthieu Gaillet'
 featured: images/MatthieuGaillet.jpg
 layout: post
 author: Marc Gemis
