@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du Mois : Vincent Van Eyken'
+title: 'Mapper van de maand: Vincent Van Eyken'
 featured: images/VicentVanEyken.jpg
 layout: post
 author: Marc Gemis
