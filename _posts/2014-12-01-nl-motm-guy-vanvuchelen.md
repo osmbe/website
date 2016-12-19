@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Guy Vanvuchelen'
+title: 'Mapper van de maand: Guy Vanvuchelen'
 featured: images/GuyVV.jpg
 layout: post
 author: Marc Gemis
