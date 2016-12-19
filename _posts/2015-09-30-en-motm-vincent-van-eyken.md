@@ -1,5 +1,5 @@
 ---
-title: "Belgian Mapper of the Month: Vincent Van Eyken (QuercE)"
+title: "Mapper of the Month: Vincent Van Eyken"
 layout: post
 author: escada
 lang: en
