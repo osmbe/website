@@ -24,7 +24,7 @@ Comme vous pouvez le voir sur ma <a href="http://hdyc.neis-one.org/?peeweeke">pa
 
 <img src="{{ site.baseurl }}/assets/images/brecht_trails.png"/>
 
-**Ou cartographiez vous?**
+**Où cartographiez vous?**
 
 La plus part de mes activités de "mapping" sont proches de ma ville natale. C'est à dire en Belgique, mais quelques fois mes balades m'amènent à l'étranger en Zeeland (Pays-Bas) ou dans le département du Nord en France. Je vous ai déjà parlé de mes aventures au Pays de Galles. Aussi j'ai fait quelques corrections dans le Kent. Durant mes vacances en Ireland en 2012, je n'ai pas pu résister de cartographier deux de mes randonnées. Durant une des premières rencontres OSM belge, j'ai rencontré Jorieke. Avec beaucoup de passion, elle m'a parlé de son travail en République Centraficaine. Après ça, j'ai complété ma première tâche pour HOT pendant des inondations en Inde. Plus récemment, j'ai eu beaucoup de plaisir durant le "Missing Maps Mapathon", c'est très gratifiant de faire un tel travail. Avec le projet HOT, j'ai (virtuellement) voyagé autour du monde : en Inde, mais aussi en République centraficaine, au Mali et au Congo-Kinshasa. J'ai même fait 8 changements dans des endroits inconnus, probablement la lune...
 
