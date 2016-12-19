@@ -8,7 +8,7 @@ lang: en
 
 Joost Schouppe is a sociologist. He followed those studies because in his opinion, they are the least specialized that exist. He works in a social studies research center that covers a wide range of subjects. Most of the time the projects have both statistical and geographical aspects, trying to convert data hidden in databases into knowledge. This gave him the opportunity to study data processing in SPSS (Statistical Package for the Social Sciences )and made him discover the fascinating world of ArcGIS. A lot of his there is published on the neighborhood monitor of the city of Antwerp, a geostatistical platform. Besides his job, Joost loves being in nature and is fan of atlases, encyclopedia and travel guides. He prefers them in an open and digital format, but does not neglect the others.
 
-How did you discover OpenStreetMap?
+**How did you discover OpenStreetMap?**
 
 I re-discovered OpenStreetMap when I got my first smartphone. I wanted to use maps when I was abroad and did not want to pay for roaming costs. The first time I used OpenStreetMap was with OsmAnd. During a crowded walk, it showed me an alternative path, with not one other hiker.
 
