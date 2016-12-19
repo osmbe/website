@@ -1,5 +1,5 @@
 ---
-title: 'Mapper van de Maand: Joost Schouppe'
+title: 'Mapper van de maand: Joost Schouppe'
 featured: images/joost_schouppe.jpg
 layout: post
 author: Jorieke
