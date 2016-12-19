@@ -26,7 +26,7 @@ It is fun, and it allows me to explore the world without leaving my house!
 I try to convince possible "passive" users to use OpenStreetMap, such as organisers of hiking trips.
 
 **How can OpenStreetMap be improved?**
-I hope that the rendering of some details can be improved on the default map. An example are areas tagged as "natural=scree" for example near mountain rivers. It could be rendered similarly to beaches, but in grey. Another example: it would be nice to have a rendering for a stream on a bridge. At this moment it is only possible for a canal. Unfortunately I do not have enough knowledge to help out to improve this.
+I hope that the rendering of some details can be improved on the default map. An example are areas tagged as ["natural=scree"](http://wiki.openstreetmap.org/wiki/Tag:natural%3Dscree) for example near mountain rivers. It could be rendered similarly to beaches, but in grey. Another example: it would be nice to have a rendering for a stream on a bridge. At this moment it is only possible for a canal. Unfortunately I do not have enough knowledge to help out to improve this.
 
 **To conclude, is there something else you want to share with the readers?**
 Only change an object when you are sure that it will be more precise or closer to reality than the current version. Also, when you have doubts about something, please contact the previous mapper to ask more details about the current mapping! Furthermore, please respect the classification of the roads. The classification of a road does not suddenly change to residential, because there are few houses.
