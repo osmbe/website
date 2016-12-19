@@ -1,5 +1,5 @@
 ---
-title: "A Mapper in the Spotlight: Clifford Snow"
+title: "Mapper in the spotlight: Clifford Snow"
 layout: post
 author: Jorieke Vyncke
 lang: en
