@@ -62,6 +62,6 @@ The mailing list and the virtual newspaper weekly OSM, which I discovered via th
 
 Of course ! Especially with Polyglot, who I consider my mentor as he makes it a point of honor to share his knowledge particularly in terms of public transport networks..
 
-To conclude, is there anything else you want to share?
+**To conclude, is there anything else you want to share?**
 
 As is often the case with open source, different clans clash, thereby losing a lot of time. I think for example that the teams behind iD and JOSM should try to join forces: there is a lot of redundancy. That is a pity. On the (Belgian) mailing list, the tone is not always pleasant. A moderator should intervene when things get out of hand. But lately it has calmed down :-)
