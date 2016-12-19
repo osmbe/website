@@ -16,7 +16,9 @@ Ik heb OpenStreetMap herontdekt toen ik mijn eerste smartphone had en in het bui
 **Gebruik je OpenStreetMap ook zelf?**
 
 Na een slechte ervaring met een dure GPS-kaart in Zuid Afrika, heb ik bij een volgende trip naar de Dominicaanse Republiek OsmAnd gebruikt om een maand lang met de 4x4 rond te trekken. De kaart was er al bruikbaar, maar toch was er nog heel wat werk. Ik herinner mij nog goed de schok toen ik begreep dat ik die kilometerslange kronkelweg helemaal moest ‘overkalkeren’ van de GPX track, en die niet gewoon kon invoeren.
+
 Ik had al veel langer een account, omdat ik in 2008 het plan had opgevat om het Boliviaanse dorpje te mappen waar ik toen woonde. In die streek was er toen echter nog niets; er was geen satellietfoto beschikbaar en ik had nog geen GPS. Dus dat werd niets.  Pas begin 2013 begon ik echt bij te dragen.
+
 Mijn vrouw en ik zijn nogal reizigers. Thuis betekent dat de nabijgelegen bosjes verkennen (zelfs in Vlaanderen is er in elk bos nog wel een wegje in te tekenen), maar nu zijn we net terug thuis van een reis met de camper door Zuid Amerika. Een jaar en 32.000 km lang hebben we genavigeerd met OsmAnd. Laat u niets wijsmaken: de kaart is daar absoluut klaar voor navigatie. In de steden is het wat moeilijker, te weinig turn restrictions, en een soms behoorlijk chaotische infrastructuur. Ik trainde onderweg mijn echtgenote om notes en POIs te maken in OsmAnd. Op den duur begon zij mij eraan te herinneren: “moeten we hier geen fout doorgeven”. En uiteraard hebben we alles getrackt. Vooral voor wandelpaadjes en gebieden met bewolkte satellietfoto’s bijzonder handig. In Peru kunnen de meeste hoofdwegen nog een ‘improve geometry’ sessie gebruiken.
 
 **Op welke manier map je?**
