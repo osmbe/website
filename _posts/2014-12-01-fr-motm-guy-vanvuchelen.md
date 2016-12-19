@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: fr
 ---
 
-Le pseudo de Guy Vanvuchelen est GuyVV.  Il a 70 ans et vit dans la région de Tienen (Tirlemont). Toute sa vie, il a travaillé pour une banque. Durant ses dernières années de travail, il a travaillé dans les statistiques, en utilisant des outils tels que Framework, DBase, Excel et Access. Son premier ordinateur, il l'a acheté en 1988 ; c'était un MSX. Quelques années après, il a changé pour un "PC". Et depuis il a été le propriétaire d'une vingtaine de modèles. Depuis son seizième anniversaire, Guy est photographe amateur. Plus tard il a également réalisé des vidéos numériques et récemment il s'est mis à la photo numérique. Depuis sa retraite, il a commencé à faire de la marche, un peu poussé par sa femme. Depuis qu'il a acheté un Garmin Etrex, il apprécie beaucoup cette activité car il fait quelque chose : enregistrer des traces GPS.
+_Le pseudo de Guy Vanvuchelen est GuyVV.  Il a 70 ans et vit dans la région de Tienen (Tirlemont). Toute sa vie, il a travaillé pour une banque. Durant ses dernières années de travail, il a travaillé dans les statistiques, en utilisant des outils tels que Framework, DBase, Excel et Access. Son premier ordinateur, il l'a acheté en 1988 ; c'était un MSX. Quelques années après, il a changé pour un "PC". Et depuis il a été le propriétaire d'une vingtaine de modèles. Depuis son seizième anniversaire, Guy est photographe amateur. Plus tard il a également réalisé des vidéos numériques et récemment il s'est mis à la photo numérique. Depuis sa retraite, il a commencé à faire de la marche, un peu poussé par sa femme. Depuis qu'il a acheté un Garmin Etrex, il apprécie beaucoup cette activité car il fait quelque chose : enregistrer des traces GPS._
 
 **Comment et quand avez vous découvert OpenStreetMap ?**
 
@@ -16,11 +16,11 @@ Un jour en cherchant des cartes gratuites pour mon Garmin, j'ai découvert OSM. 
 
 Quand je vais me balader, bien souvent sur des chemins balisés avec un club, je prends des notes des choses qui ne sont pas réellement structurées. J'utilise OsmAnd et j'enregistre ma voix. Pour le moment j'essaie de noter la largeur des routes, la vitesse autorisée, la surface ou le type du chemin, le début et la fin des villages. De plus, j'aime beaucoup les chapelles, les sanctuaires, ...  et donc je les note tous. De temps en temps, je découvre des petits chemins ("Trage Wegen") non cartographiés. Pour une marche de 10 kilomètres, j'ai entre 30 et 50 minutes de notes enregistrées. De temps en temps je reçois de l'aide de mes compagnons de route : ils me signalement à l'avance que nous approchons d'une chapelle. Ils ne savent pas vraiment ce que je fais et pensent que je suis seulement intéressé par prendre une photo.
 
+<img src="{{ site.baseurl }}/assets/images/Kapelletje_GuyVV.png"/>
+
 **Que cartographiez vous ? Avez-vous une spécialisation ?**
 
 Au début, je croyais qu'il faudrait seulement cartographier les routes. Maintenant je connais mieux OSM. Je ne me spécialise pas, mais je ne passe jamais devant une chapelle sans prendre une note. Pendant quelques temps, j'ai aussi collecté des informations sur les adresses. J'ai commencé autour de ma maison et ensuite j'ai continué avec toutes les rues du voisinage. Après l'arrivée de AGIV, jai fait du 'couch mapping' pour les numéros des maisons. Aujourd'hui je ne sais pas si je vais continuer. Il y a pas mal de discussions sur la liste de diffusion belge d'OSM et je ne sais pas si ça vaut plus la peine de récolter les données soi-même.
-
-<img src="{{ site.baseurl }}/assets/images/Kapelletje_GuyVV.png"/>
 
 **Pourquoi cartographiez vous? Qu'est ce qui vous motive?**
 
