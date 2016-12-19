@@ -36,7 +36,7 @@ Mijn begindagen waren schuchter en zeer voorzichtig. Zoals ik al vertelde deed i
 
 Ik map vooral om de informatie die ik weet of kan opzoeken met iedereen te delen. Vroeger had ik een buurman die barefootwalking lessen gaf en dus heel blij was dat ik een extra stukje groen in kaart had gebracht. Ook zelf vaar ik er goed bij dat ik eens buiten kom voor een wandeling. Dat daar ways en nodes het resultaat van zijn, is een mooie plus. Laatst heb ik op een wandeling een brug gevonden die twee wandelpaden met elkaar verbond. Als dat dan niet op de kaart staat, krijg je even een warm gevoel omdat je belangrijke informatie kan toevoegen. Bij HOT gaat dit nog een stapje verder, want dan weet je dat die informatie mogelijks mensenlevens kan redden. Los van dat, is het natuurlijk leuk om als community een goeie kaart te kunnen genereren en om je weg te kunnen vinden, zij het nu met OSMAnd of Garmin kaarten.
 
-**Doe je ook nog andere dingen in verband met OpenStreetMap? **
+**Doe je ook nog andere dingen in verband met OpenStreetMap?**
 
 Niet zo veel. Wiki's schrijven heb ik vroeger wel nog gedaan, al is dat veel bureauwerk ... Ik heb me ooit ingeschreven voor mailinglijsten, maar na een tijdje heb ik dit gestopt omdat het niet echt mijn ding is. Ik heb goeie contacten in mijn buurtcentrum en zou eventueel eens een voordracht kunnen geven, maar de buurtwerker ziet er niet echt een breed publiek voor. Vertalen is één van die taken die ik in de toekomst eventueel op mij zou kunnen nemen, voor software ontwikkeling moet ik eerst leren programmeren.
 
@@ -52,10 +52,10 @@ De grootste sterkste is neutraliteit. Als groep houden we ons niet bezig met bel
 
 De maandelijkse meet-ups en OSM.be uiteraard.
 
-**Heb je contact met andere mappers ? **
+**Heb je contact met andere mappers ?**
 
 Ik heb in het verleden enkele pogingen ondernomen om mappers in mijn buurt aan te spreken, zonder groot gevolg. Ik heb één mapper bereid gevonden om eens een koffie te gaan drinken, maar al snel merkte ik dat we op een andere golflengte zaten. Waar ik wel wat uithaal zijn de maandelijkse meet-ups die ik zo nu en dan eens bezoek.
 
-**Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer? **
+**Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer?**
 
 Iedereen die aanwezig was op de Missing Maps Mapathon heeft echt wel waardering verdiend. Het merendeel had nog nooit van OpenStreetMap gehoord, maar na enkele uren was de task al voltooid. Lijkt me prima werk!
