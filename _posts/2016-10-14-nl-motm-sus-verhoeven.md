@@ -1,11 +1,10 @@
 ---
 title: "Mapper van de maand: Sus Verhoeven"
+featured: images/susvhv.jpg
 layout: post
 author: escada
 lang: nl
 ---
-
-**Wie ben je ?**
 
 Ik ben [Sus](http://www.openstreetmap.org/user/susvhv), Sus is mijn computer bijnaam, met de “ç” van François had ik in het begin van de PC's altijd last.(glimlacht) Ik ben geboren in 1933 (tel maar uit ;-) ) in het Brusselse en was technieker op het StudieCentrum voor Kernenergie in Mol, waar ik nu verblijf. Op het SCK heeft men mij bij een herstructurering op brugpensioen gestuurd en ondertussen zit ik al meer dan 25 jaar thuis te genieten. 
 
