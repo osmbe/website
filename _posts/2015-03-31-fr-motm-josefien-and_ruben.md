@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: fr
 ---
 
-_Josefien et Ruben ont 20 et 19 ans et mappent sous le nom <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. En dehors du mapping, ils étudient pour leur études supérieures. Dans l'enseignement secondaire, ils étaient les meilleurs amis, et, depuis peu, avec un badge fait maison, ils parcourent les rues de Blankenberge et des communes environnantes. Ruben se préoccupe plus du côté technique et Josefien consacre son temps libre à créer deux T-shirts OSM à porter durant les surveys. Ensemble, ils se consacrent volontiers aux autres. Par exemple, ils [donnent du plasma toutes les deux semaines à Gand](https://www.openstreetmap.org/way/334861945).
+_Josefien et Ruben ont 20 et 19 ans et mappent sous le nom <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. En dehors du mapping, ils étudient pour leur études supérieures. Dans l'enseignement secondaire, ils étaient les meilleurs amis, et, depuis peu, avec un badge fait maison, ils parcourent les rues de Blankenberge et des communes environnantes. Ruben se préoccupe plus du côté technique et Josefien consacre son temps libre à créer deux T-shirts OSM à porter durant les surveys. Ensemble, ils se consacrent volontiers aux autres. Par exemple, ils [donnent du plasma toutes les deux semaines à Gand](https://www.openstreetmap.org/way/334861945)._
 
 **Comment vous avez appris à connaître OpenStreetMap ?**
 
