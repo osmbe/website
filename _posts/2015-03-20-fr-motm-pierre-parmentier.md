@@ -45,7 +45,7 @@ Non, très peu. J'en ai rencontré à Leuven, à Gent et à Bruxelles, au FOSDEM
 
 **Quelle est, selon vous, la plus grande force d'OpenStreetMap ?**
 
-La plus grande force de OpenStreetMap c'est d'être libre. Les opportunités d'utilisation et de réutilisation sont innombrables. Il faut voir le foisonnement d'idées, les applications qui surgissent partout, telles que le <a href="http://hot.openstreetmap.org/">Humanitair OpenStreetMap Team (HOT)</a>, <a href="http://waymarkedtrails.org/">Waymarked Trails</a>, les <a href="http://geschichtskarten.openstreetmap.de/historische_objekte/">Geschichtkarten</a>.. Tout cela est exaltant !
+La plus grande force de OpenStreetMap c'est d'être libre. Les opportunités d'utilisation et de réutilisation sont innombrables. Il faut voir le foisonnement d'idées, les applications qui surgissent partout, telles que le <a href="http://hot.openstreetmap.org/">Humanitarian OpenStreetMap Team (HOT)</a>, <a href="http://waymarkedtrails.org/">Waymarked Trails</a>, les <a href="http://geschichtskarten.openstreetmap.de/historische_objekte/">Geschichtkarten</a>.. Tout cela est exaltant !
 
 **Quel est le plus grand défi pour OpenStreetMap ?**
 
