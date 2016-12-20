@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: nl
 ---
 
-_Josefien en Ruben zijn 20 en 19 jaar oud en mappen onder de naam <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. Tussen het mappen door studeren ze voor hun hogere studies. In het middelbaar waren ze beste vrienden en sinds kort trekken ze samen met een zelfgemaakte badge door de straten van Blankenberge en omliggende gemeenten. Ruben houdt zich graag bezig met de technische kant en Josefien werkt in haar vrije tijd aan twee OSM-T-shirts om te dragen tijdens surveys. Samen zetten ze zich graag in voor anderen. Zo doneren ze bijvoorbeeld tweewekelijks ook bloedplasma in Gent._
+_Josefien en Ruben zijn 20 en 19 jaar oud en mappen onder de naam <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. Tussen het mappen door studeren ze voor hun hogere studies. In het middelbaar waren ze beste vrienden en sinds kort trekken ze samen met een zelfgemaakte badge door de straten van Blankenberge en omliggende gemeenten. Ruben houdt zich graag bezig met de technische kant en Josefien werkt in haar vrije tijd aan twee OSM-T-shirts om te dragen tijdens surveys. Samen zetten ze zich graag in voor anderen. Zo [doneren ze bijvoorbeeld tweewekelijks ook bloedplasma in Gent](https://www.openstreetmap.org/way/334861945)._
 
 **Hoe leerden jullie OpenStreetMap kennen?**
 
@@ -30,8 +30,8 @@ Ruben: Ik wou dat ik ook zo gericht kon mappen, maar ik werk niet systematisch. 
 
 **Wat mappen jullie zoal? Hebben jullie een specialisatie?**
 
-Josefien: Brievenbussen  zijn mijn favoriet. Omdat ik graag brieven stuur, onthoud ik sowieso al waar ze staan. Defibrillators mappen we allebei altijd als we er zien, omdat die levens kunnen redden. De openingsuren van het gebouw zetten we er ook steeds op. Zodat je er niet naartoe hoeft te gaan, wanneer het niet kan.
-Ruben: Voor de rest heb ik niet echt een specialisatie. Ik map veel verschillende dingen. Turn lanes vind ik wel leuk, ik wou dat die werden getoond op meer kaarten.
+Josefien: [Brievenbussen](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpost_box)  zijn mijn favoriet. Omdat ik graag brieven stuur, onthoud ik sowieso al waar ze staan. [Defibrillators](http://wiki.openstreetmap.org/wiki/Tag:emergency%3Ddefibrillator) mappen we allebei altijd als we er zien, omdat die levens kunnen redden. De openingsuren van het gebouw zetten we er ook steeds op. Zodat je er niet naartoe hoeft te gaan, wanneer het niet kan.
+Ruben: Voor de rest heb ik niet echt een specialisatie. Ik map veel verschillende dingen. [Turn lanes](http://wiki.openstreetmap.org/wiki/Key:turn) vind ik wel leuk, ik wou dat die werden getoond op meer kaarten.
 
 **Waarom mappen jullie? Wat motiveert jullie?**
 
@@ -42,7 +42,7 @@ Ruben: Ik map omdat ik geloof in vrije data en een nauwkeurige kaart wil helpen 
 
 Ruben: De editor iD vertalen vind ik persoonlijk heel belangrijk. Niet gewoon even vlug-vlug, maar een juiste weergave van wat wordt bedoeld met een bepaalde tag is essentieel om nieuwe gebruikers precies te laten mappen wat ze bedoelen. Een verwarrende of incoherente vertaling, zoals inconsequent gebruik van termen, zal nieuwe gebruikers snel afschrikken. Daarom heb ik zelf al heel veel vertaald. In februari ben ik erin geslaagd de vertaling te vervolledigen.
 Josefien: Dat was ook handig voor mij, ik gebruikte iD omdat het zo simpel is. Nu gebruik ik JOSM, omdat dat krachtiger is.
-Ruben: Verwijzingen leggen tussen OpenStreetMap en Wikidata lijkt me ook interessant. In plaats van de naam van een Wikipedia-artikel op te geven in de tags van een object, lijkt het me interessanter een Wikidata-ID te vermelden. Zo kunnen niet alleen de artikels in alle talen in één keer gevat worden, maar ook machine-leesbare informatie.
+Ruben: Verwijzingen leggen tussen OpenStreetMap en [Wikidata](http://wikidata.org/) lijkt me ook interessant. In plaats van de naam van een Wikipedia-artikel op te geven in de tags van een object, lijkt het me interessanter een Wikidata-ID te vermelden. Zo kunnen niet alleen de artikels in alle talen in één keer gevat worden, maar ook machine-leesbare informatie.
 
 **Wat is de grootste sterkte van OpenStreetMap volgens jullie?**
 
@@ -59,7 +59,7 @@ Ruben: OpenStreetMap zou bekender moeten worden in België. Britse vrienden van 
 **Hebben jullie nieuwe ideeën om OpenStreetMap naar het volgende niveau te trekken?**
 
 Josefien: Ik zou willen dat elke beginnende mapper iemand heeft die hem of haar wat feedback geeft wanneer hij zijn eerste punten aangemaakt. Dat Ruben mij tips gaf en dat ik met mijn vragen ergens terecht kon, was echt handig. Mocht er een functie bestaan dat elke mapper die wat volleerder is een persoon heeft om te controleren, zou dat veel mensen laten volharden in de eerste cruciale momenten op iD. Ook zou er een betere communicatie moeten zijn tussen de mappers. Contact opnemen met andere mappers is nogal omslachtig en niet toegankelijk voor mensen die niet echt mee zijn met webpagina's en wiki's. Mocht er een soort meter- of peterschap bestaan, hoe miniem ook, zou dat een grote stap vooruit zijn. Zelfs ik zou nu al mensen wat kunnen helpen bij de eerste dingen die ze op de kaart willen zetten.
-Ruben: Dat is een superidee. Het vraagt natuurlijk een groot engagement van bestaande mappers maar zou op termijn veel mensen actief in het project houden, want velen maken slechts enkele veranderingen en vergeten dan dat ze een account hebben. Een goed en overzichtelijk portaal voor beginners, waarnaar wordt verwezen als je aan het mappen bent, zou ook al een verbetering zijn. Een ander puntje is dat er een goede klikbare kaart zou moeten zijn. OpenLinkMap vind ik een prachtig initiatief, maar ik denk dat het beter zou moeten kunnen. Vrienden aan wie ik die website toon, kijken er bedenkelijk naar, omdat het er niet zo gelikt uitziet als Google Maps. Mensen zijn erg kieskeurig over het uiterlijk van websites tegenwoordig ...
+Ruben: Dat is een superidee. Het vraagt natuurlijk een groot engagement van bestaande mappers maar zou op termijn veel mensen actief in het project houden, want velen maken slechts enkele veranderingen en vergeten dan dat ze een account hebben. Een goed en overzichtelijk portaal voor beginners, waarnaar wordt verwezen als je aan het mappen bent, zou ook al een verbetering zijn. Een ander puntje is dat er een goede klikbare kaart zou moeten zijn. [OpenLinkMap](http://www.openlinkmap.org/) vind ik een prachtig initiatief, maar ik denk dat het beter zou moeten kunnen. Vrienden aan wie ik die website toon, kijken er bedenkelijk naar, omdat het er niet zo gelikt uitziet als Google Maps. Mensen zijn erg kieskeurig over het uiterlijk van websites tegenwoordig ...
 
 **Hoe blijven jullie op de hoogte van nieuwtjes in verband met OpenStreetMap?**
 
