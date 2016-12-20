@@ -20,9 +20,10 @@ I regularly use OpenStreetMap for looking up information and visualising it on t
 
 I have three faces:
 
-the occasional surveyor: during my holidays I often take notes to map later on. I also collect traces or take pictures for Mapillary.
-the mapper at distance: from my living room. I worked a lot on the Urbis import, but also in the southern part of Belgium.
-making corrections : I regularly use [Osmose](http://osmose.openstreetmap.fr/fr/) and [KeepRight](http://wiki.openstreetmap.org/wiki/FR:Keep_Right) or just JOSM to correct errors.
+* the occasional surveyor: during my holidays I often take notes to map later on. I also collect traces or take pictures for Mapillary.
+* the mapper at distance: from my living room. I worked a lot on the Urbis import, but also in the southern part of Belgium.
+* making corrections : I regularly use [Osmose](http://osmose.openstreetmap.fr/fr/) and [KeepRight](http://wiki.openstreetmap.org/wiki/FR:Keep_Right) or just JOSM to correct errors.
+
 Thus, I mainly map in Brussels, but also in the Southern part of Belgium.
 
 **What do you map?**
