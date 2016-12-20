@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: en
 ---
 
-_Josefien and Ruben (<a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give blood plasma every two weeks in Ghent._
+_Josefien and Ruben (<a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give [blood plasma every two weeks in Ghent](https://www.openstreetmap.org/way/334861945)._
 
 **How and when did you Learn about OpenStreetMap?**
 
@@ -32,9 +32,9 @@ Ruben: I wish that I could mapped so organized as her. I do not work with any sy
 
 **What do you map? Do you specialise in something?**
 
-Jose: Mailboxes are one of my favorite features. Because I love to send letters, I remember their location anyway. We also map defibrillators, mainly because they can save lives. We also map the opening hours of the building on the defibrillators, so you will not end up at one that is inaccessible.
+Jose: [Mailboxes](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpost_box) are one of my favorite features. Because I love to send letters, I remember their location anyway. We also map [defibrillators](http://wiki.openstreetmap.org/wiki/Tag:emergency%3Ddefibrillator), mainly because they can save lives. We also map the opening hours of the building on the defibrillators, so you will not end up at one that is inaccessible.
 
-Ruben: I map a lot of different items. I enjoy mapping turn lanes, but I wished there would be more maps that show them.
+Ruben: I map a lot of different items. I enjoy mapping [turn lanes](http://wiki.openstreetmap.org/wiki/Key:turn), but I wished there would be more maps that show them.
 
 <img src="{{ site.baseurl }}/assets/images/midgard_kerkstraat.png"/>
 
@@ -51,7 +51,7 @@ Ruben: Translating the editor iD is something that I find important. Not just qu
 
 Jose: That was also useful for me, because I used iD for its simplicity. Nowadays I use JOSM because that is of course much more powerful.
 
-Ruben: Making links between OpenStreetMap and Wikidata is interesting as well. Instead of tagging the name of a Wikipedia article, you can tag the Wikidata id for the feature. Not only does this associate all of the Wikipedia articles at once with the OSM object, it also provides machine readable information.
+Ruben: Making links between OpenStreetMap and [Wikidata](http://wikidata.org/) is interesting as well. Instead of tagging the name of a Wikipedia article, you can tag the Wikidata id for the feature. Not only does this associate all of the Wikipedia articles at once with the OSM object, it also provides machine readable information.
 
 **What is in your view the greatest strength of OpenStreetMap?**
 
@@ -69,13 +69,13 @@ Ruben: OpenStreetMap should be more famous in Belgium. British friends of Jose h
 
 Jose: I would like that for every newbie there is someone who gives them feedback when they create their first node. The fact that Ruben could give me hints and answer my questions, was invaluable. A lot of people could make it through the first crucial moments in iD if there were some sort of system to let more experienced mappers help a new person. There should be a better communication between mappers as well. Contacting others is not straightforward and unaccessible for people who are unfamiliar with web pages and wikis. Any kind of mentorship would be a big step forwards. Even I could already help some people with putting their first objects on the map.
 
-Ruben: That is a great idea. Of course that asks for a lot of dedication and effort from experienced mappers but after a while we would see more people staying active in the project. Many make just a few changesets and subsequently forget about their account. A good and informative portal, that is referenced when you are mapping, could already make a difference. A second point is the need for a good, clickable slippy map. OpenLinkMap is a wonderful initiative, but we I am convinced that we can do better. Friends to whom I show that website are not impressed, because it does not look as good as Google Maps. People are picky about the look of websites these days ...
+Ruben: That is a great idea. Of course that asks for a lot of dedication and effort from experienced mappers but after a while we would see more people staying active in the project. Many make just a few changesets and subsequently forget about their account. A good and informative portal, that is referenced when you are mapping, could already make a difference. A second point is the need for a good, clickable slippy map. [OpenLinkMap](http://www.openlinkmap.org/) is a wonderful initiative, but we I am convinced that we can do better. Friends to whom I show that website are not impressed, because it does not look as good as Google Maps. People are picky about the look of websites these days ...
 
 **How to do stay on top of news about OpenStreetMap?**
 
 Jose: Ruben tells me, of course. He reads about all new stuff he encounters and is on several mailinglists.
 
-Ruben: The talk-be, talk and tagging, but I only read talk-be, and not that often. There are a lot of mails and I have other things to do as well.
+Ruben: The [talk-be](https://lists.openstreetmap.org/listinfo/talk-be), [talk](https://lists.openstreetmap.org/listinfo/talk) and [tagging](https://lists.openstreetmap.org/listinfo/tagging), but I only read talk-be, and not that often. There are a lot of mails and I have other things to do as well.
 
 **Do you have contact with other mappers?**
 
