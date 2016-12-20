@@ -19,9 +19,9 @@ J'utilise régulièrement OpenStreetMap lors de recherche sur le net pour visual
 
 J'ai trois (petites) casquettes :
 
-    le mappeur de terrain occasionnel: quand je suis en vacances, je prends  souvent des infos pour OSM... des traces, des notes,  mapillary , ... ;
-    le mappeur à distance (depuis mon salon) : pour les données Urbis mais aussi pour un paquet d'infos (dans le sud de la Belgique) ;
-    les corrections : je passe aussi régulièrement sur [Osmose](http://osmose.openstreetmap.fr/fr/)  ou [Keepright](http://wiki.openstreetmap.org/wiki/FR:Keep_Right) ou simplement JOSM pour corriger les erreurs.
+* le mappeur de terrain occasionnel: quand je suis en vacances, je prends  souvent des infos pour OSM... des traces, des notes,  mapillary , ...
+* le mappeur à distance (depuis mon salon) : pour les données Urbis mais aussi pour un paquet d'infos (dans le sud de la Belgique) ;
+* les corrections : je passe aussi régulièrement sur [Osmose](http://osmose.openstreetmap.fr/fr/)  ou [Keepright](http://wiki.openstreetmap.org/wiki/FR:Keep_Right) ou simplement JOSM pour corriger les erreurs.
 
 Sinon, je cartographie principalement Bruxelles et à distance pas mal le sud de la Belgique.
 
