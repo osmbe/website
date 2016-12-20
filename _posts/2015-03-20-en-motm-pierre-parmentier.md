@@ -40,7 +40,7 @@ I think we should focus on what OpenStreetMap can make a popular tool for the on
 
 **What is in your view the greatest strength of OpenStreetMap?**
 
-The greatest strength of OpenStreetMap is to be free. Opportunities to use and reuse are endless. Look at all those ideas and applications that are popping up everywhere, such as the <a href="http://hot.openstreetmap.org/">Humanitair OpenStreetMap Team (HOT)</a>, <a href="http://waymarkedtrails.org/">Waymarked Trails</a>, the <a href="http://geschichtskarten.openstreetmap.de/historische_objekte/">Geschichtkarten</a>.. All this is very stimulating!
+The greatest strength of OpenStreetMap is to be free. Opportunities to use and reuse are endless. Look at all those ideas and applications that are popping up everywhere, such as the <a href="http://hot.openstreetmap.org/">Humanitarian OpenStreetMap Team (HOT)</a>, <a href="http://waymarkedtrails.org/">Waymarked Trails</a>, the <a href="http://geschichtskarten.openstreetmap.de/historische_objekte/">Geschichtkarten</a>.. All this is very stimulating!
 
 **What are the largest challenges for OpenStreetMap?**
 
