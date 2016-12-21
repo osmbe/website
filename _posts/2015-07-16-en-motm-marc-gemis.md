@@ -6,21 +6,21 @@ author: Jorieke
 lang: en
 ---
 
-Marc Gemis is a 48 year old software engineer for a multi-national in Mortsel. His largest passion are his dogs, which he walks every day. His nickname, escada is the name of one of his dogs.
+_Marc Gemis is a 48 year old software engineer for a multi-national in Mortsel. His largest passion are his dogs, which he walks every day. His nickname, [escada](http://wiki.openstreetmap.org/wiki/User:Escada) is the name of one of his dogs._
 
 **When did you discover OpenStreetMap?**
 
-Marc and his dogs during a survey I have always walked a lot with the dogs. Until 2011 this were often the same walks, or walks that are described in the Lannoo-guides. We did not walk every weekend or evening because I also trained for and participated in agility-trails. Unfortunately my competition dog got injured and I had to stop with the sport. This meant that I would have more time for walks. Since I wanted to discover more of Belgium, I bought an outdoor GPS-device.
+Marc and his dogs during a survey I have always walked a lot with the dogs. Until 2011 this were often the same walks, or walks that are described in the Lannoo-guides. We did not walk every weekend or evening because I also trained for and participated in [agility-trails](https://fr.wikipedia.org/wiki/Agility). Unfortunately my competition dog got injured and I had to stop with the sport. This meant that I would have more time for walks. Since I wanted to discover more of Belgium, I bought an outdoor GPS-device.
 
-The idea was to download trails from dogsfriendly.be and follow those. From the moment that I found out that a good map for walking costed as much as the device, I started looking for cheaper alternatives. That's I how I arrived at garmin.openstreetmap.nl. The map that was available via that site, seemed sufficient for my purposes.
+The idea was to download trails from [dogsfriendly.be](http://www.dogsfriendly.be/wandelingen.html) and follow those. From the moment that I found out that a good map for walking costed as much as the device, I started looking for cheaper alternatives. That's I how I arrived at [garmin.openstreetmap.nl](http://garmin.openstreetmap.nl/). The map that was available via that site, seemed sufficient for my purposes.
 
-Soon after installing the map on the device, I noticed that several smaller paths and tracks were missing in my home town. I subscribed to the Belgian maling list to learn how I could add those missing pieces. I got plenty of advice and one user, Polyglot also showed me which other data was missing and how that could be added. At that moment, he mainly talked about house numbers and bus stops.
+Soon after installing the map on the device, I noticed that several smaller paths and tracks were missing in my home town. I subscribed to the [Belgian maling list](https://lists.openstreetmap.org/listinfo/talk-be) to learn how I could add those missing pieces. I got plenty of advice and one user, [Polyglot](http://www.openstreetmap.org/user/Polyglot) also showed me which other data was missing and how that could be added. At that moment, he mainly talked about house numbers and bus stops.
 
 **Do you use OpenStreetMap yourself?**
 
-From the above, you can deduce that I use OpenStreetMap on my Garmin-device, from the moment I discovered it. Furthermore, I will always use openstreetmap.org when I want to let my friends know about the start position of a walk. From time to time I use Grapphopper](https://graphhopper.com/) or OSRM, to find out beforehand how long a trip will take. Both routing engines are now also available on the openstreetmap.org website.
+From the above, you can deduce that I use OpenStreetMap on my Garmin-device, from the moment I discovered it. Furthermore, I will always use [openstreetmap.org](http://www.osm.org/) when I want to let my friends know about the start position of a walk. From time to time I use [Grapphopper](https://graphhopper.com/) or [OSRM](http://map.project-osrm.org/), to find out beforehand how long a trip will take. Both routing engines are now also available on the openstreetmap.org website.
 
-Recently, I bought my first smartphone. The main reason was to allow me to start using OsmAnd for car navigation. During our hollidays I also used it as a guide in some towns.
+Recently, I bought my first smartphone. The main reason was to allow me to start using [OsmAnd](http://osmand.net/) for car navigation. During our hollidays I also used it as a guide in some towns.
 
 **How do you map?**
 
@@ -28,21 +28,21 @@ As said in the introduction, I take the dogs out for a daily walk. This means th
 
 The evening walks are totally different. Some of those walks were along calm paths, because the dogs enjoy them so much, while others were typical survey walks. That mean walking up and down each street and writing down information, mainly house numbers. I have collected several thousand house numbers that way. Since the Flemish house numbers can now be imported, I do not do this type of walks as much as before.
 
-Because I keep learning about new stuff that can be mapped, even a walk that I have done several times before can expose new data. I also started to photograph those streets for Mapillary. Although that is not always easy, especially with 4 dogs on a lead and when the sun is going under.
+Because I keep learning about new stuff that can be mapped, even a walk that I have done several times before can expose new data. I also started to photograph those streets for [Mapillary](http://www.mapillary.com/). Although that is not always easy, especially with 4 dogs on a lead and when the sun is going under.
 
 **Which Tools do you use?**
 
 From the first day on, I use a GPS-device to collect waypoints with information that I want to map later on. This works well for short texts, such as house numbers or objects that one meets frequently such as benches or garbage cans. I developed a whole "new" language based on abbreviations for this purpose.
 
-Since a year or so, I take more pictures and rely less on waypoints. After all the relative position of objects is easier to see on photos. Furthermore, photos might contain details that you have missed while you were there. I take most pictures with a reflex camera. Sometimes, I try to use the smartphone as well. But in the end the GPS device and the camera are handier, since you can hang them around your neck and they are operated easily with one hand. I need the other hand to hold the leads of the dogs. I always upload the pictures to my smugmug-website, as an archive.
+Since a year or so, I take more pictures and rely less on waypoints. After all the relative position of objects is easier to see on photos. Furthermore, photos might contain details that you have missed while you were there. I take most pictures with a reflex camera. Sometimes, I try to use the smartphone as well. But in the end the GPS device and the camera are handier, since you can hang them around your neck and they are operated easily with one hand. I need the other hand to hold the leads of the dogs. I always upload the pictures to [my smugmug-website](http://xian.smugmug.com/OSM), as an archive.
 
-I immediately started mapping with JOSM for the improvement of the data. I have used the online editors, but they do not fulfil my needs. iD came in handy when I was working on some Maproulette tasks. Level0 was useful to quickly correct some tagging mistakes I made on a number of objects. I wrote a diary entry about that a while ago.
+I immediately started mapping with [JOSM](http://josm.openstreetmap.de/) for the improvement of the data. I have used the online editors, but they do not fulfil my needs. [iD](http://wiki.openstreetmap.org/wiki/ID) came in handy when I was working on some [Maproulette](http://maproulette.org/) tasks. [Level0](http://wiki.openstreetmap.org/wiki/Level0) was useful to quickly correct some tagging mistakes I made on a number of objects. I wrote a [diary](http://www.openstreetmap.org/user/escada/diary/28268) entry about that a while ago.
 
-I have been working on correcting errors detected by Osmose and KeepRight, but I prefer to add new stuff that I surveyed. It seems to be that going out and collect data is more valuable as I have the impression that not a lot of people do that.
+I have been working on correcting errors detected by [Osmose](http://osmose.openstreetmap.fr/en/map/) and [KeepRight](http://keepright.at/), but I prefer to add new stuff that I surveyed. It seems to be that going out and collect data is more valuable as I have the impression that not a lot of people do that.
 
-On the other hand, I enjoyed trying to fix the mistakes in my neighborhood listed by Check The Monuments. Probably, because I am more interested in that topic.
+On the other hand, I enjoyed trying to fix the mistakes in my neighborhood listed by [Check The Monuments](http://www.historic.place/themes/monuments/). Probably, because I am more interested in that topic.
 
-When I do not need my smartphone for navigation, I try to use it to take pictures with Mapillary. This allows me to take photos while I'm driving.
+When I do not need my smartphone for navigation, I try to use it to take pictures with [Mapillary](http://www.mapillary.com/map). This allows me to take photos while I'm driving.
 
 **Where do you map?**
 
