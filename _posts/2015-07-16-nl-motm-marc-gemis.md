@@ -107,16 +107,16 @@ De grote verscheidenheid aan data die op interessante manieren kan gecombineerd 
 
 Nog teveel mappers staren zich blind op wat er op [www.openstreetmap.org](http://www.openstreetmap.org/) te zien is. Maar er is zo'n rijkdom aan verschillende [websites](http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services) en [applicaties](http://wiki.openstreetmap.org/wiki/Software#Mobile_Devices). Dat zouden we nog veel meer moeten kunnen benadrukken. Misschien dat de aanpak van de Duitse, Franse of Belgische beter is. Leg de mensen eerst uit dat het om data gaat die op verschillende websites en apps kan gebruikt worden, toon ze dan pas een grote voorbeeldkaart. Die grote kaart wordt toch maar steeds vergeleken met Google of nagewezen omdat deze of gene feature er niet op staat.
 
-Hoe blijf je op de hoogte van nieuwtjes ivm OpenStreetMap? 
+**Hoe blijf je op de hoogte van nieuwtjes ivm OpenStreetMap?**
 
-Ik probeer een 15-tal mailing lists en fora te volgen in vier verschillende talen. Vooral van het Duitse forum heb ik al veel geleerd. De Wochennotiz  heb ik al een aantal jaar geleden ontdekt en lijkt mij onontbeerlijk voor iedereen die geïnteresseerd is in wat er rond OpenStreetMap gebeurd. Er zijn ook vertalingen in het Engels, Frans en Spaans geloof ik. Verder heb ik ook een "alert" waarmee Google me dagelijks op de hoogte brengt van nieuwe webpagina's ivm OpenStreetMap. Af en toe zit daar iets interessants bij.
+Ik probeer een 15-tal mailing lists en fora te volgen in vier verschillende talen. Vooral van het Duitse forum heb ik al veel geleerd. De [Wochennotiz](http://blog.openstreetmap.de/)  heb ik al een aantal jaar geleden ontdekt en lijkt mij onontbeerlijk voor iedereen die geïnteresseerd is in wat er rond OpenStreetMap gebeurd. Er zijn ook vertalingen in het Engels, Frans en Spaans geloof ik. Verder heb ik ook een "alert" waarmee Google me dagelijks op de hoogte brengt van nieuwe webpagina's ivm OpenStreetMap. Af en toe zit daar iets interessants bij.
 
-Heb je contact met andere mappers? 
+**Heb je contact met andere mappers?**
 
 Ik ben redelijk actief op de Belgische mailinglijst. Verder heb ik veel contact met Polyglot. In het begin heb ik heel veel van hem geleerd. Het meeste contact verloopt via email. Ik probeer ook deel te nemen aan allerlei bijeenkomsten van mappers, zoals bv. meetups of presentatie dagen. Ook heb ik een aantal Hangouts georganiseerd om beginnende mappers wat uitleg te geven. Dat is niet altijd even eenvoudig via email.
 
 Als ik problemen heb, contacteer ik soms ook rechtstreeks andere mappers om uitleg te vragen. In het buitenland zitten soms specialisten op een bepaald gebied en dan vind ik dat je die beter rechtstreeks kan aanschrijven. Tot nu toe heb ik daar altijd positieve reacties op gehad, omdat iedereen toch hetzelfde doel heeft: de data te verbeteren. Zelf ben ik ook al gecontacteerd i.v.m. een feature die ik verkeerd had gemapped. Ik was er niet helemaal zeker van wat het was, maar had er een link naar een foto aangehangen. Zo kon de specialist ter zake me contacteren en me vertellen dat het om een waterreservoir voor de brandweer ging i.p.v. een ondergrondse brandkraan.
 
-Om af te sluiten, is er iets dat je de lezer nog zou willen meedelen?
+**Om af te sluiten, is er iets dat je de lezer nog zou willen meedelen?**
 
 Ik zou alle beginnende mappers in België aanraden om zich in te schrijven op de mailinglijst en daar raad te vragen over hoe je dingen het beste kan aanpakken. De tools om te editeren bevatten niet altijd alle noodzakelijke informatie om een juiste edit te maken.
