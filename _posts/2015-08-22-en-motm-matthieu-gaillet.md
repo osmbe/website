@@ -6,19 +6,19 @@ author: Marc Gemis
 lang: en
 ---
 
-Matthieu Gaillet is a technical electrician and is now responsible for the technical aspects in a cultural center. His motivation to map comes from his passion for collaboration in map making and his intensive use of maps for cycling and hiking trips.
+_Matthieu Gaillet([Pagaille](https://www.openstreetmap.org/user/Pagaille)) is a technical electrician and is now responsible for the technical aspects in a cultural center. His motivation to map comes from his passion for collaboration in map making and his intensive use of maps for cycling and hiking trips._
 
 **Where and when did you discover OpenStreetMap?**
 
-Just like everybody else probably: by accident, in 2010 :-) I immediately liked the concept of a map created by collaboration. But at that moment I was not completely convinced that the project would become popular and accepted enough to compete with Google maps. Since then I started using open source based servers and software and the virus got me. It was not before 2013 that I started using OpenStreetMap and my first contributions with JOSM are also from that time.
+Just like everybody else probably: by accident, in 2010 :-) I immediately liked the concept of a map created by collaboration. But at that moment I was not completely convinced that the project would become popular and accepted enough to compete with Google maps. Since then I started using open source based servers and software and the virus got me. It was not before 2013 that I started using OpenStreetMap and my first contributions with [JOSM](http://josm.openstreetmap.de/) are also from that time.
 
 **Do you use OpenStreetMap yourself?**
 
-I use it both privately and professionally, mainly since the arrival of Mapbox, umap, etc, since it is now possible to personalize maps.
+I use it both privately and professionally, mainly since the arrival of [Mapbox](https://www.mapbox.com/), [umap](http://umap.openstreetmap.fr/), etc, since it is now possible to personalize maps.
 
 **Which type of mapper are you?**
 
-I use my own GPS-traces and I have the habit to map a couple of hours after returning from a trip. Since I use OpenStreetMap-based maps, I tend to leave my planned route to do some improvised surveying and have the intense pleasure of adding a missing trail to the map. I am also an armchair mapper and base myself on information published by third parties. Because of this, I sometimes act as an improvised open data evangelist when public services are deciding whether or not they should release their data. My favorite areas correspond to my interests and places I go. Thus I have "committed" a lot of changes along the Eurovelo 6 cycle route that passes through Europe, all the way from Germany to the Black Sea (Romania).
+I use my own GPS-traces and I have the habit to map a couple of hours after returning from a trip. Since I use OpenStreetMap-based maps, I tend to leave my planned route to do some improvised surveying and have the intense pleasure of adding a missing trail to the map. I am also an [armchair mapper](http://wiki.openstreetmap.org/wiki/Armchair_mapping) and base myself on information published by third parties. Because of this, I sometimes act as an improvised open data evangelist when public services are deciding whether or not they should release their data. My favorite areas correspond to my interests and places I go. Thus I have "committed" a lot of changes along the [Eurovelo 6](http://www.eurovelo.com/en/eurovelos/eurovelo-6) cycle route that passes through Europe, all the way from Germany to the Black Sea (Romania).
 
 **What do you map?**
 
@@ -26,7 +26,7 @@ I concentrate mostly on footpaths and cycling facilities.
 
 **What is your biggest achievement as mapper?**
 
-That would be relation 4128428. It represents the large cycle network “La Wallonie Picarde à Vélo”, which is put into place and published by SPF Wallonie, more specifically the intermunicipal IDETA. It contains 687 nodes and 914 routes. I started working on the network in mid 2014, after getting a written authorization from the IDETA. Little by little, evening after evening, I did about 75% of the network. And then IDETA came back to me and asked me to sign a document completely incompatible with the Openstreetmap ODbL license.
+That would be [relation 4128428](http://www.openstreetmap.org/relation/4128428). It represents the large cycle network “La Wallonie Picarde à Vélo”, which is put into place and published by SPF Wallonie, more specifically the intermunicipal IDETA. It contains 687 nodes and 914 routes. I started working on the network in mid 2014, after getting a written authorization from the IDETA. Little by little, evening after evening, I did about 75% of the network. And then IDETA came back to me and asked me to sign a document completely incompatible with the Openstreetmap ODbL license.
 
 So I became an open source evangelist. Until now without much success, but I'm stubborn :-) Meanwhile, I obviously had to stop my work on the dataset, which had already cost me an enormous amount of labour time.
 
