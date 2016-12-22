@@ -6,17 +6,20 @@ author: Marc Gemis
 lang: nl
 ---
 
-Matthieu Gaillet (Pagaille) is elektro-mecanicien van opleiding, en werkt als technisch verantwoordelijke bij een cultureel centrum. Hij is dus eerder mapper omwille van zijn passie voor collaboratief mappen en omwille van zijn intens gebruik van kaarten voor uitstappen te voet of met de fiets.
+_Matthieu Gaillet ([Pagaille](https://www.openstreetmap.org/user/Pagaille)) is elektro-mecanicien van opleiding, en werkt als technisch verantwoordelijke bij een cultureel centrum. Hij is dus eerder mapper omwille van zijn passie voor collaboratief mappen en omwille van zijn intens gebruik van kaarten voor uitstappen te voet of met de fiets._
 
-Hoe leerde je OpenStreetMap kennen?
-In 2010, en zoals iedereen wellicht, per toeval. Ik was direct enthousiast over het idee van een collaboratieve kaart, maar ik was niet helemaal overtuigd dat het project genoeg aanhang zou krijgen om echt te kunnen rivaliseren met Google Maps. Pas later ben ik in de wereld van Open Source terecht gekomen en heeft het virus mij helemaal te pakken gekregen. Het is pas in 2013 dat ik OpenStreetMap écht ben beginnen gebruiken. In dezelfde periode ben ik beginnen mappen met JOSM.
+**Hoe leerde je OpenStreetMap kennen?**
 
-Gebruik je OpenStreetMap ook zelf? 
-Ja, zeker met de opkomst van Mapbox en Umap, waarmee de kaarten gepersonaliseerd kunnen worden.
+In 2010, en zoals iedereen wellicht, per toeval. Ik was direct enthousiast over het idee van een collaboratieve kaart, maar ik was niet helemaal overtuigd dat het project genoeg aanhang zou krijgen om echt te kunnen rivaliseren met Google Maps. Pas later ben ik in de wereld van Open Source terecht gekomen en heeft het virus mij helemaal te pakken gekregen. Het is pas in 2013 dat ik OpenStreetMap écht ben beginnen gebruiken. In dezelfde periode ben ik beginnen mappen met [JOSM](http://josm.openstreetmap.de/).
 
-Op welke manier map je?
+**Gebruik je OpenStreetMap ook zelf?**
+
+Ja, zeker met de opkomst van [Mapbox](https://www.mapbox.com/) en [Umap](http://umap.openstreetmap.fr/), waarmee de kaarten gepersonaliseerd kunnen worden.
+
+**Op welke manier map je?**
+
 Nadat ik terug kom van een wandeling heb ik de gewoonte om enkele uren te mappen met behulp van mijn eigen GPS-tracks. Omdat ik gebruik maak van OpenStreetMap tijdens mijn wandelingen, heb ik ook vaak de neiging om mijn geplande route te verlaten om geïmproviseerde surveys te doen en nadien het intense geluk te kennen om een ontbrekende pad toe te voegen aan de kaart. 
-Ik ben eveneens een 'armchair mapper', waarbij ik me baseer op informatie die gepubliceerd wordt door anderen. Uit interesse voor die externe databronnen ben ik een soort van open data evangelist geworden. Want enkel de data van publieke diensten die voor open data kiezen komen in aanmerking voor OpenStreetMap. 
+Ik ben eveneens een '[armchair mapper](http://wiki.openstreetmap.org/wiki/Armchair_mapping)', waarbij ik me baseer op informatie die gepubliceerd wordt door anderen. Uit interesse voor die externe databronnen ben ik een soort van open data evangelist geworden. Want enkel de data van publieke diensten die voor open data kiezen komen in aanmerking voor OpenStreetMap. 
 Mijn favoriete gebieden komen overeen met mijn interesses en de plaatsen waar ik kom. Zo heb ik ook een heleboel veranderingen aangebracht langs bijvoorbeeld de Eurovelo 6, een fietstraject dat heel Europa doorkruist van Duitsland naar de Zwarte Zee in Roemenië.
 
 Waar ben jij als mapper het meest trots op?
