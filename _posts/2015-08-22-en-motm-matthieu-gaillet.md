@@ -26,7 +26,7 @@ I concentrate mostly on footpaths and cycling facilities.
 
 **What is your biggest achievement as mapper?**
 
-That would be [relation 4128428](http://www.openstreetmap.org/relation/4128428). It represents the large cycle network “La Wallonie Picarde à Vélo”, which is put into place and published by SPF Wallonie, more specifically the intermunicipal IDETA. It contains 687 nodes and 914 routes. I started working on the network in mid 2014, after getting a written authorization from the IDETA. Little by little, evening after evening, I did about 75% of the network. And then IDETA came back to me and asked me to sign a document completely incompatible with the Openstreetmap ODbL license.
+That would be [relation 4128428](http://www.openstreetmap.org/relation/4128428). It represents the large cycle network “[La Wallonie Picarde à Vélo](http://www.visitwapi.be/divers/nature-et-balades/la-wapi-a-velo/article/la-wapi-a-velo?lang=fr)”, which is put into place and published by SPF Wallonie, more specifically the intermunicipal [IDETA](http://www.ideta.be/). It contains 687 nodes and 914 routes. I started working on the network in mid 2014, after getting a written authorization from the IDETA. Little by little, evening after evening, I did about 75% of the network. And then IDETA came back to me and asked me to sign a document completely incompatible with the Openstreetmap [ODbL](http://opendatacommons.org/licenses/odbl/) license.
 
 So I became an open source evangelist. Until now without much success, but I'm stubborn :-) Meanwhile, I obviously had to stop my work on the dataset, which had already cost me an enormous amount of labour time.
 
@@ -56,11 +56,11 @@ Becoming indispensable, and much more visible by having its data integrated in m
 
 **How do you keep up-to-date on OpenStreetMap news?**
 
-The mailing list and the virtual newspaper weekly OSM, which I discovered via the mailing list.
+The mailing list and the virtual newspaper [weekly OSM](http://www.weeklyosm.eu/), which I discovered via the mailing list.
 
 **Do you have contact with other mappers?**
 
-Of course ! Especially with Polyglot, who I consider my mentor as he makes it a point of honor to share his knowledge particularly in terms of public transport networks..
+Of course ! Especially with [Polyglot](http://www.openstreetmap.org/user/Polyglot), who I consider my mentor as he makes it a point of honor to share his knowledge particularly in terms of public transport networks..
 
 **To conclude, is there anything else you want to share?**
 
