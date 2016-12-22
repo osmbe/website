@@ -5,21 +5,21 @@ author: Marc Gemis
 lang: nl
 ---
 
-Polyglot is netwerkbeheerder en woont in België. Zijn hobbies wisselen nogal doorheen de tijd: talen leren, fietsen, paardrijden, oh en ... OpenStreetMap neemt nogal een hap uit zijn vrije tijd!
+_Polyglot is netwerkbeheerder en woont in België. Zijn hobbies wisselen nogal doorheen de tijd: talen leren, fietsen, paardrijden, oh en ... OpenStreetMap neemt nogal een hap uit zijn vrije tijd!_
 
-Wanneer en op welke manier leerde je OpenStreetMap kennen ?
+**Wanneer en op welke manier leerde je OpenStreetMap kennen ?**
 
 Blijkbaar is dat ondertussen alweer 8 jaar geleden. Ik wilde graag iets terugdoen voor de vrije softwarewereld. Een echte programmeur ben ik niet, dus gedurende een paar jaar uitte zich dat in bijdragen aan de Engelstalige Wiktionary. Dit totdat het daar wat saai werd, omwille van vandalismebestrijding die meer tijd in beslag begon te nemen dan bezig zijn met de inhoud.
 OpenStreetMap had het voordeel dat je enerzijds buiten komt en actief bezig bent en anderzijds toch met de computer bezig bent. Op die manier herbeleeft je als het ware ook je wandeling of fietstocht. Het maakt de ervaring alleszins intenser.
 Sinds ik Mapillary ontdekte is de focus weer wat verschoven. Nu is het maken van bergen fotografisch bronmateriaal een doel op zich geworden. Het levert echter zoveel data op dat het niet meer doenbaar is om dat allemaal ook te verwerken tot data achteraf. Voordien maakte ik foto's van datgene wat ik van plan was om ook toe te voegen, dat nam toen al ongeveer even veel tijd in beslag als het vergaren van de data zelf. Nu is het uitwieden van de mislukte foto's uit de duizenden gemaakte foto's al werk genoeg.
 
-Gebruik je OpenStreetMap ook zelf?
+**Gebruik je OpenStreetMap ook zelf?**
 
 Vreemd genoeg, niet zo heel vaak. Of misschien toch wel, bijvoorbeeld via OsmAnd. Prachtig toch dat je de data voor ons hele landje offline mee kan nemen op je smartphone. 
-Ook heb ik wel eens een kaartje  gemaakt met Maperitive ter illustratie van een artikel  op Wikivoyage en Wikipedia. Om er dan achter te komen, dat ze daar al een geïntegreerd kaartje op basis van OpenStreetMap hebben. Wat zo bijzonder is aan dat kaartje, is dat het een aantal zaken combineert en dat het 10 jaar geleden ondenkbaar was dat Jan met de pet, zoiets zou kunnen realiseren. Het toont busroutes en haltes, het toont wandelknooppunten en het toont natuurlijk een gedetailleerde 'achtergrond'. Daaroverheen toont het dan natuurlijk het onderwerp van de kaart: een route die houten beelden van Ad Wouters verbindt doorheen het bos.
-Een heel mooi initiatief vind ik umap.openstreetmap.fr , oh en Overpass API, natuurlijk. Onschatbaar waardevol.
+Ook heb ik wel eens een [kaartje](https://upload.wikimedia.org/wikipedia/commons/a/a2/Pad_van_Ad_op_OSM.png)  gemaakt met Maperitive ter illustratie van een artikel  op [Wikivoyage](https://en.wikivoyage.org/wiki/Ad) en [Wikipedia](https://en.wikipedia.org/wiki/Ad_Wouters). Om er dan achter te komen, dat ze daar al een geïntegreerd kaartje op basis van OpenStreetMap hebben. Wat zo bijzonder is aan dat kaartje, is dat het een aantal zaken combineert en dat het 10 jaar geleden ondenkbaar was dat Jan met de pet, zoiets zou kunnen realiseren. Het toont busroutes en haltes, het toont wandelknooppunten en het toont natuurlijk een gedetailleerde 'achtergrond'. Daaroverheen toont het dan natuurlijk het onderwerp van de kaart: een route die houten beelden van Ad Wouters verbindt doorheen het bos.
+Een heel mooi initiatief vind ik [umap.openstreetmap.fr](http://umap.openstreetmap.fr/nl/user/Polyglot/) , oh en Overpass API, natuurlijk. Onschatbaar waardevol.
 
-Hoe map je?
+**Hoe map je?**
 
 Ik experimenteer graag, dus probeer ik alles zo'n beetje uit. Surveys met de fiets, te voet en zelfs te paard... gewoon leuk om te doen. Begonnen met een Windows CE telefoon met GPS, voorzien van een toetsenbordje, die ik tweedehands kon kopen, daarvoor ook wel even met een data logger en een 'gewone' telefoon waarmee 5MP foto's gemaakt konden worden. Tegenwoordig zweer ik bij een smartphone, voor minder dan 8 of 12MP doe ik het al niet meer. :-) Opmerkelijk hoe de technologie voortschrijdt en wat dat voor ons mogelijk maakt.
 
@@ -30,7 +30,7 @@ Mijn uitgangspunt zijn haltes als knopen aan weerszijden van de weg. Ik houd er 
 
 Verder vind ik het leuk om waar mogelijk te automatiseren. Dus naast de Pythonscripts voor de omzetting van de data, ben ik beginnen scripten binnen JOSM om vlot stop_area relaties te maken. En een ander script om te assisteren bij het creëren van de routerelaties. Zonder die scripts is het allemaal onbegonnen werk.
 
-Wat map je zoal?
+**Wat map je zoal?**
 
 In de begindagen, mapte ik mijn eigen (wijde) omgeving. Grappig om te merken, hoe je plots anders tegen de zaken in je omgeving aankijkt. Zo van, hoe zou ik dat kunnen mappen? Had ik dat al toegevoegd? Oh, dat is veranderd, dat moet ik straks maar eens gaan aanpassen... 
 
@@ -38,11 +38,11 @@ Ik veronderstel dat mijn specialisatie openbaar vervoer is geworden, al heb ik a
 
 Toen ik Mapillary ontdekte, heb ik een zijsprongetje gemaakt naar verkeersborden. Maar om nu te gaan proberen om die allemaal toe te voegen, leidt me toch weer wat te ver. Ik heb wel geprobeerd om de data voor de JOSM plugin bij te werken, maar ik vind dat die plugin moet worden herschreven. Wellicht iets voor de volgende Google Summer of Code?
 
-Wat motiveert je om te mappen?
+**Wat motiveert je om te mappen?**
 
 Ik vind het natuurlijk handig dat een app zoals OsmAnd goed werkt, deels omdat ik zelf ook mijn steentje heb bijgedragen bij het verbeteren van de data. Anderzijds vrees ik dat het ook een soort verslaving is, of een soort vlucht uit de werkelijkheid... Misschien niet zo gezond, al bij al. Als ik volgende week niet meer meedoe, heb ik te hard over deze vraag doorgedacht! :-)
 
-Doe je ook nog andere dingen in verband met OpenStreetMap?
+**Doe je ook nog andere dingen in verband met OpenStreetMap?**
 
 Om mijn talenkennis op peil te houden en om te weten wat er omgaat in het OpenStreetMap-wereldje, lees ik nogal wat mailinglijsten en fora. En ook al vind ik niet dat een publiek toespreken mijn sterkste punt is, de voordelen van het gebruik van JOSM maak ik wel graag wereldkundig!
 
@@ -54,7 +54,7 @@ Ter voorbereiding ben ik de tasking manager dan eens wat van naderbij gaan bekij
 
 In ieder geval is het mappen voor het Humanitarian OpenStreetMap Team (of tenminste het harde werk van anderen nakijken en trachten om te zorgen dat ze nog betere mappers worden) een bezigheid waar ik me wel goed bij voel. HOT maakt, volgens mij, een merkbaar verschil: ze creëren OpenStreetMap-gemeenschappen van mappers waar deze niet spontaan zouden ontstaan, omwille van economische omstandigheden, maar waar kaartmateriaal broodnodig is.
 
-Waar ben jij als mapper het meest trots op?
+**Waar ben jij als mapper het meest trots op?**
 
 Het script dat ik schreef dat je toelaat om in JOSM routerelaties bij te werken, waarbij dat script zich baseert op reeds bestaande/gemapte busroutes. De manier waarop we dat momenteel mappen, heeft als gevolg dat er nogal wat duplicatie in zit. Dat wil je niet manueel gaan herstellen, als de situatie van de weginfrastructuur wijzigt of meer in detail wordt gemapt.
 
