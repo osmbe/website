@@ -34,4 +34,4 @@ Het mappen zal af en toe onderbroken worden voor korte presentaties over OpenStr
 21.00 Einde van de mapathon
 
 ## Inschrijven
-[https://www.eventbrite.com/e/missing-maps-msfhi-brussels-tickets-2511640...](https://www.eventbrite.com/e/missing-maps-msfhi-brussels-tickets-25116408855)
+[Hier](https://www.eventbrite.com/e/missing-maps-msfhi-brussels-tickets-25116408855)
