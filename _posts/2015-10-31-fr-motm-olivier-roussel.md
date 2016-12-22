@@ -5,7 +5,7 @@ author: Marc Gemis
 lang: fr
 ---
 
-Olivier Roussel, ou [Dagou](http://www.openstreetmap.org/user/Dagou) sur OpenStreetMap, est originaire de [Bruxelles](http://www.openstreetmap.org/node/1635651356), mais habite actuellement à [Arlon](http://www.openstreetmap.org/#map=14/49.6832/5.8134). Il a une formation scientifique (docteur en chimie) et il travaille dans un laboratoire de recherche et développement d’une société privée au [Grand-Duché de Luxembourg](http://www.openstreetmap.org/relation/2171347#map=9/49.8291/6.2457). OpenStreetMap est un vrai hobby.
+_Olivier Roussel, ou [Dagou](http://www.openstreetmap.org/user/Dagou) sur OpenStreetMap, est originaire de [Bruxelles](http://www.openstreetmap.org/node/1635651356), mais habite actuellement à [Arlon](http://www.openstreetmap.org/#map=14/49.6832/5.8134). Il a une formation scientifique (docteur en chimie) et il travaille dans un laboratoire de recherche et développement d’une société privée au [Grand-Duché de Luxembourg](http://www.openstreetmap.org/relation/2171347#map=9/49.8291/6.2457). OpenStreetMap est un vrai hobby._
 
 **Comment et quand as-tu découvert OpenStreetMap ?**
 
@@ -13,11 +13,11 @@ Lors de la rédaction de ma thèse (2006), j'ai utilisé [LaTeX](https://www.lat
 
 **Utilises-tu OpenStreetMap au quotidien ?**
 
-Je n'ai pas de GPS de voiture, mais j'ai [OsmAnd+](http://osmand.net/) sur mon GSM et ma tablette et je regarde souvent la carte sur le site d'OSM, rarement pour des raisons professionnelles : je ne voyage que 2 à 3 fois par an pour le travail et souvent vers les mêmes endroits. J'utilise plus OsmAnd lors de mes vacances.
+Je n'ai pas de GPS de voiture, mais j'ai [OsmAnd+](http://osmand.net/) sur mon GSM et ma tablette et je regarde souvent la [carte sur le site d'OSM](http://www.openstreetmap.org/), rarement pour des raisons professionnelles : je ne voyage que 2 à 3 fois par an pour le travail et souvent vers les mêmes endroits. J'utilise plus OsmAnd lors de mes vacances.
 
 **Quelle sorte de contributeur es-tu et dans quelle zone cartographies-tu ?**
 
-Je suis un contributeur qui aime mettre sur la carte ce qu'il a vu avec ses yeux. Et bien souvent, cela concerne de petit détail (boite au lettre, bouche d’incendie, banc, table de pic-nic, etc.) comme des bâtiments. Pour placer avec précision mes observations sur la carte, j'utilise soit les images satellites, soit les traces faites avec le GPS de mon GSM ; mais cela demande souvent plusieurs traces pour avoir une bonne précision. Je cartographie principalement les deux Luxembourg (le Grand-Duché et la province belge), le coin d'Auvergne d'où est originaire ma famille et où je vais souvent en vacances, je fais également quelque contributions à Bruxelles et sur mes lieux de vacances. Mais toutes ces contributions commencent par l’observation d'une différence entre la réalité et la base de données d'OpenStreetMap.
+Je suis un contributeur qui aime mettre sur la carte ce qu'il a vu avec ses yeux. Et bien souvent, cela concerne de petit détail (boite au lettre, bouche d’incendie, banc, table de pic-nic, etc.) comme des bâtiments. Pour placer avec précision mes observations sur la carte, j'utilise soit les images satellites, soit les traces faites avec le GPS de mon GSM ; mais cela demande souvent plusieurs traces pour avoir une bonne précision. Je cartographie principalement les deux Luxembourg (le Grand-Duché et [la province belge](http://www.openstreetmap.org/search?query=province%20luxembourg#map=9/50.0113/5.7898)), le coin d'[Auvergne](http://www.openstreetmap.org/relation/8638) d'où est originaire ma famille et où je vais souvent en vacances, je fais également quelque contributions à Bruxelles et sur mes lieux de vacances. Mais toutes ces contributions commencent par l’observation d'une différence entre la réalité et la base de données d'OpenStreetMap.
 
 **Quel es ta plus grande prouesse en tant que contributeur ?**
 
