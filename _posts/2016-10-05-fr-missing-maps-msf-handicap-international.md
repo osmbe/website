@@ -23,11 +23,11 @@ Dans les [bureaux de MSF/HI à Bruxelles](http://www.openstreetmap.org/node/3395
 
 **Horaire**
 
-17:00: Accueil
-17:30: Brève formation
-18:00: Début de la séance de carto 
-Animée de pauses pour la presentation d’OpenStreetMap (la plateforme utilisée) et de comment MSF et HI vont utiliser les cartes crées. 
-21 :00 Fin du Mapathon
+* 17:00: Accueil
+* 17:30: Brève formation
+* 18:00: Début de la séance de carto 
+* Animée de pauses pour la presentation d’OpenStreetMap (la plateforme utilisée) et de comment MSF et HI vont utiliser les cartes crées. 
+* 21 :00 Fin du Mapathon
 
 **S'inscrire**
 
