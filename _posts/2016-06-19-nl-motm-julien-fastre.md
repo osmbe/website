@@ -7,9 +7,9 @@ lang: nl
 ---
 
 Julien heeft meerdere activiteiten, en hij apprecieer het erg dat ze in zeer verschillende domeinen zijn, zelfs al is dat af en toe vermoeiend.
-* Hij is software-ontwikkelaar bij Champs-Libres, waar een deel van de activeiten verbonden is met geografie en er regelmatig OpenStreetMap data gebruikt wordt. Ze installeren ook tile servers, Nominatim, enz. Officieel zou dit een deeltijdse baan moeten zijn, maar in werkelijkheid, neemt het veel meer tijd in beslag.
+* Hij is software-ontwikkelaar bij [Champs-Libres](http://www.champs-libres.coop/), waar een deel van de activeiten verbonden is met geografie en er regelmatig OpenStreetMap data gebruikt wordt. Ze installeren ook tile servers, Nominatim, enz. Officieel zou dit een deeltijdse baan moeten zijn, maar in werkelijkheid, neemt het veel meer tijd in beslag.
 * Van opleiding is Julien journalist, maar sinds hij zijn studies heeft afgerond, is hij maatschappelijk werker. Hij is deeltijds tewerkgesteld als begeleider van werkzoekenden in een feministische vereniging.
-* Ook is Julien medewerker geweest (en soms nog) van allerlei verenigingen of bewegingen: GRACQ (fietsersbond), de scouts, vakbonden, ... 
+* Ook is Julien medewerker geweest (en soms nog) van allerlei verenigingen of bewegingen: [GRACQ](http://www.gracq.org/) (fietsersbond), de [scouts](http://lesscouts.be/), vakbonden, ... 
 
 en is hij vader, waar hij eveneens een mooi deel van zijn tijd aan spendeert!
 
@@ -19,7 +19,7 @@ Volledig per toeval, in een artikel van het magazine van GRACQ, en dat gaf me zi
 
 **Gebruikt u OpenStreetMap zelf?**
 
-Bijna tweewekelijks heb ik OpenStreetMap nodig om het bureau van een klant te vinden, of om de weg te vinden naar een buurt die ik niet ken. Ik gebruik daarvoor meer en meer OsmAnd op mijn smartphone.
+Bijna tweewekelijks heb ik OpenStreetMap nodig om het bureau van een klant te vinden, of om de weg te vinden naar een buurt die ik niet ken. Ik gebruik daarvoor meer en meer [OsmAnd](http://osmand.net/) op mijn smartphone.
 Ik gebruik de gegevens ook professineel: voor onze TMS servers en analyses kopiëren we delen van de databank naar onze servers.
 
 **Wat voor een soort mapper ben je?**
