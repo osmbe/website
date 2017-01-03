@@ -31,5 +31,5 @@ join:
     en: Join
     fr: Devenir membre
 paginate: 10
-baseurl: '/website'
+baseurl: 
 gems: [jekyll-paginate]
