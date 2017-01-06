@@ -3,7 +3,7 @@ title: "Hackday GRB"
 featured: images/hackday.jpg
 layout: post
 author: joost schouppe
-lang: nl
+lang: fr
 ---
 
 Dimanche 12 décembre 2016, nous avons vécu notre premier vrai OSM Belgium hackday ! 
