@@ -13,7 +13,7 @@ om te helpen met dat project – en enkele andere projecten.
  
 In Vlaanderen hebben we met 1944 bijdragers al 1.4 miljoen gebouwen ingetekend in OSM. 
 Meestal handmatig, op basis van luchtfoto’s. Maar sinds dit jaar is het 
-[GRB][https://overheid.vlaanderen.be/producten-diensten/grootschalig-referentiebestand-grb] open data. 
+[GRB](https://overheid.vlaanderen.be/producten-diensten/grootschalig-referentiebestand-grb) open data. 
 Daar zitten onder andere 4 miljoen gebouwen in, getekend tot op de centimeter nauwkeurig. 
 Dus ons plan is om onze eigen gebouwen te verbeteren met die data, en de rest over te nemen. 
  
