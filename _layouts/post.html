@@ -9,7 +9,7 @@ layout: main
 					<h2>{{ page.title }}</h2>
 					<span class="byline">{{ page.date | date_to_string }}</span>
 				</header>
-				{% if post.header %}
+				{% if post.featured %}
 					<img style="width: 100%; max-width: 300px; max-height: 500px;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
 				{% endif %}
 				{{ page.content }}
