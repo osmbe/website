@@ -37,7 +37,7 @@ Hoewel we vooral wilden werken aan het GRB, hebben we ook aan allerlei andere pr
 Zoals dat gaat bij OpenStreetMap, waren er zowel Nederlands- als Franstaligen, en werd er vooral in het 
 Engels gepraat. De website waarop u dit leest, zou er nog niet geweest zijn zonder de hackday. 
 Niet gewoon een nieuwe website trouwens, maar een waar iedereen aan kan bijdragen. 
-Nu we gemigreerd zijn naar Github, kan iedereen de broncode zien, verbetering voorstellen of nieuwe content schrijven. Hoe je dat doet lees je hier [https://github.com/osmbe/website].
+Nu we gemigreerd zijn naar Github, kan iedereen de broncode zien, verbetering voorstellen of nieuwe content schrijven. Hoe je dat doet [lees je hier](https://github.com/osmbe/website).
  
 Op deze dag konden we gebruik maken van de co-working ruimte van [Transforma BXL](https://www.transformabxl.be), die we van hen mochten gebruiken. Ideaal voor een event als dit: brainstorming in de Innovation Garden en dan naar de kantoorruimte voor het harde werk. In deze co-creatieve atmosfeer werkten we ook aan onze eigen projecten en hebben we bijvoorbeeld de POSM setup getest met Colin Broderick. Nogmaals dank aan Transforma BXL!
  
