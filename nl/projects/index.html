@@ -1,7 +1,7 @@
 ---
-title: News
+title: Projects
 layout: main
-lang: en
+lang: nl
 ---
 
 <!-- Main -->
@@ -10,16 +10,16 @@ lang: en
 			<section>
 				<div class="10u -1u">
 					<header class="major">
-						<h2>Our latest news</h2>
+						<h2>Projecten</h2>
 					</header>
 					<ul class="style">
-						{% for post in site.posts %}
+						{% for post in site.projects %}
 
-							{% if post.lang == "en" and post.layout == "post" %}
-							<li>
-								{% include post-item.html %}
-							</li>
-							{% endif %}
+						{% if post.lang == "nl" %}
+						<li>
+							{% include post-item.html %}
+						</li>
+						{% endif %}
 
 						{% endfor %}
 					</ul>

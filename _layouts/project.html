@@ -1,0 +1,18 @@
+---
+layout: main
+---
+<!-- Main -->
+	<div id="main" class="wrapper style1">
+		<div class="container">
+			<section>
+				<header class="major" id="post">
+					<h2>{{ page.title }}</h2>
+					<span class="byline">{{ page.date | date_to_string }}</span>
+				</header>
+				{% if page.featured %}
+					<img style="max-width: 100%; max-height: 500px; margin: auto;" src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
+				{% endif %}
+				{{ page.content }}
+			</section>
+		</div>
+	</div>

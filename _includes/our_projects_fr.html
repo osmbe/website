@@ -1,0 +1,38 @@
+	<!-- Projects -->
+	<div id="main" class="wrapper style1">
+		<div class="container">
+			<div class="row">
+
+				<!-- Content -->
+				<div id="content" class="8u skel-cell-important">
+					<section>
+						<header class="major">
+							<h2>Notre Projects</h2>
+						</header>
+						<div class="row">
+						{% for post in site.posts %}
+							{% if post.lang == "fr" and post.layout == "project" %}
+							<div class="6u">
+								<section class="box">
+									<a href="#" class="image featured"><img src="{{ site.baseurl }}{{ post.featured }}" alt="" /></a>
+									<header>
+										<h3>{{ post.title }}</h3>
+										<!-- <p>Posted {{ post.date | date_to_string }}</p> -->
+									</header>
+									{{ post.excerpt }}
+									<footer>
+										<ul class="actions">
+											<li><a href="{{ site.baseurl }}{{ post.url }}" class="button icon fa-file-text">Continue Reading</a></li>
+											<li><a href="#" class="button alt icon fa-comment">33 comments</a></li>
+										</ul>
+									</footer>
+								</section>
+							</div>
+							{% endif %}
+						{% endfor %}
+						</div>
+					</section>
+				</div>
+			</div>
+		</div>
+	</div>
