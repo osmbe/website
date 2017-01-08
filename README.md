@@ -2,7 +2,7 @@
 
 The new OpenStreetMap Belgium website.
 
-The master branch is published to www.osm.be, the develop branch is pushlished to develop.osm.be.
+The master branch is published to www.osm.be, the develop branch is pushlished to [develop.osm.be](develop.osm.be).
 
 ## Customizing the website
 
