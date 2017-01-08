@@ -1,5 +1,8 @@
 # OSM BE Website
+
 The new OpenStreetMap Belgium website.
+
+The master branch is published to www.osm.be, the develop branch is pushlished to develop.osm.be.
 
 ## Customizing the website
 
