@@ -3,6 +3,7 @@ title: "Mapper of the Month"
 featured: images/hackday.jpg
 layout: project
 author: Ben Abelshausen
+project_lead: Marc Gemis
 lang: en
 ---
 

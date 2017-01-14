@@ -4,6 +4,7 @@ featured: images/hackday.jpg
 layout: project
 author: Ben Abelshausen
 lang: en
+project_lead: Joost Schouppe
 ---
 
 The Flemish government has a large project to measure most stuff you find in the public domain, the GRB (Dutch). The data is measured to incredible accuracy, but the project is not focused on maximum recency. Update frequency is once or twice a year. When it comes to roads, only those that need an official streetname are included.
