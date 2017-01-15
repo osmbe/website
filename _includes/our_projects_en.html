@@ -1,5 +1,5 @@
 	<!-- Projects -->
-		<div id="main" class="wrapper style1">
+	<div id="main" class="wrapper style1">
 		<div class="container">
 			<div class="row">
 
@@ -13,21 +13,23 @@
 						<div class="row">
 						{% for post in site.posts %}
 							{% if post.lang == "en" and post.layout == "project" %}
-							<div class="6u">
+							<div class="6u" style="height:700px;">
 								<section class="box">
 									<header>
 										<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 										<p>Project lead: {{post.project_lead }}</p>
 										<!-- <p>Posted {{ post.date | date_to_string }}</p> -->
 									</header>
-									<a href="#" class="image featured"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="" /></a>
+									<a href="{{ site.baseurl }}{{ post.url }}" class="image featured"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="" /></a>
 									{{ post.excerpt }}
-<!-- 									<footer>
+<!--
+									<footer>
 										<ul class="actions">
 											<li><a href="{{ site.baseurl }}{{ post.url }}" class="button icon fa-file-text">Continue Reading</a></li>
 											<li><a href="#" class="button alt icon fa-comment">33 comments</a></li>
 										</ul>
-									</footer> -->
+									</footer>
+-->
 								</section>
 							</div>
 							{% endif %}
