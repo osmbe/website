@@ -1,6 +1,6 @@
 ---
 title: "Open road mapping"
-featured: images/hackday.jpg
+featured: images/road-completion1.jpg
 layout: project
 author: Ben Abelshausen
 lang: en
