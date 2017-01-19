@@ -23,7 +23,7 @@ Durant le hackaton, nous avons réfléchi au travail préparé depuis de nombreu
 Même si c'est le GRB qui fut notre centre d'intérêt principal, nous avons travaillé sur quelques autres thèmes également. 
 Il y avait à la fois des francophones et des néerlandophones et, comme il s'agit de OSM, c'est avant tout l'anglais qui fut 
 utilisé. Le site Web sur lequel vous lisez ceci a été considérablement amélioré durant cette journée. Nous n'avons pas seulement fait ce nouveau site Web ; nous l'avons aussi rendu plus convivial pour vous inviter à y contribuer. 
-Maintenant que nous avons migré sur Github, chacun a accès au code source. Nous avons déjà ajouté quelques aides pour vous inciter à [démarrer ici](https://github.com/osmbe/website).
+Maintenant que nous avons migré sur GitHub, chacun a accès au code source. Nous avons déjà ajouté quelques aides pour vous inciter à [démarrer ici](https://github.com/osmbe/website).
 
 L'espace de collaboration que [Transforma BXL](https://www.transformabxl.be) a mis à notre disposition, fut excellent pour l'évènement : brainstoming dans l'Innovation Garden, ensuite déplacement vers les espaces de bureaux pour un travail sérieux. Dans cette atmosphère de collaboration créative, nous avons travaillé sur nos propres projets OSM et avons testé POSM grâce à Colin Broderick. Encore merci à Transforma BXL !
 

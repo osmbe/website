@@ -32,7 +32,7 @@ Keep an eye on the wiki pages [about the GRB](https://wiki.openstreetmap.org/wik
 Even though the GRB was our main focus, we worked on several other projects too. As it goes in OpenStreetMap, 
 both French and Dutch speakers were there, eager to work together. So most of the talking was in English :)
 The very website you are visiting now was much improved on during the day. We didn't just make a new website, 
-we also made it more inviting to contribute! Now that we have migrated to Github, everyone has access to the 
+we also made it more inviting to contribute! Now that we have migrated to GitHub, everyone has access to the 
 source code. We’ve already added [some help to get you started](https://github.com/osmbe/website).
  
 The co-working space that [Transforma BXL](https://www.transformabxl.be) allowed us to use, was excellent for 
