@@ -1,6 +1,6 @@
 ---
 title: "Road completion project"
-featured: images/road-completion1.jpg
+featured: images/road-completion.gif
 layout: project
 author: Ben Abelshausen
 lang: en
@@ -20,6 +20,8 @@ As governments are finally embracing open data, more and more open road datasets
 As a community, we want to build the tools to make sure that any correction in the official open data road sets is made visible to the mapping community as quickly and as accurately as possible. Because it isn't just Flanders that has released tools like this, we will try to build something that is easily scalable to any dataset of road centerlines worldwide.
 
 Once these tools are up-and-running and we have done a first pass over the data using them we can evaluate the quality of OSM in Flanders by comparing the datasets again and analysing the differences. We then hope to guarantee a minimum level of quality of the OSM road data compared to the quality of the open datasets available, making OSM in Belgium usable in even more cases because there is a metric of completeness.
+
+![](/assets/images/road-completion1.jpg)
 
 ### Current events
 
