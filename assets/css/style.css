@@ -229,9 +229,11 @@ ol.default li {
 ul {
 		margin: 0;
 		padding: 0;
+		margin-left: 35px;
 }
 ul.default {
 		list-style: none;
+		margin: 0;
 }
 ul.default li {
 		display: block;
@@ -273,6 +275,10 @@ ul.actions.vertical li {
 }
 ul.actions.vertical li:first-child {
 		padding: 0;
+}
+ul.contact {
+		list-style: none;
+		margin: 0;
 }
 ul.contact li {
 		padding: 1.05em 0;
