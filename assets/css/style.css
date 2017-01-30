@@ -193,6 +193,13 @@ input[type="email"] {
 		display: block;
 		width: 100%;
 }
+img + em {
+		display: block;
+		color: #808080;
+		font-style: italic;
+		font-size: 0.75em;
+}
+
 /* Icon */
 
 .icon {
