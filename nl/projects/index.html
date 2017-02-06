@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projecten
 layout: main
 lang: nl
 ---
@@ -13,15 +13,16 @@ lang: nl
 						<h2>Projecten</h2>
 					</header>
 					<ul class="style">
-						{% for post in site.projects %}
+						{% for post in site.posts %}
 
-						{% if post.lang == "nl" %}
+						{% if post.lang == "nl" and post.layout == "project" %}
 						<li>
 							{% include post-item.html %}
 						</li>
 						{% endif %}
 
 						{% endfor %}
+
 					</ul>
 					<div style="clear: both;"></div>
 				</div>
