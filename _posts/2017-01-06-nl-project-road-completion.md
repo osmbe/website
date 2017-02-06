@@ -15,20 +15,20 @@ Wij zijn crowdsources: alles wat onze crowd ziet, wordt gecorrigeerd. Maar sommi
 
 Nu overheden eindelijk hun data vrijgeven als open data, zijn er steeds meer datasets met wegen beschikbaar. We willen die data gebruiken om onze kaart te verbeteren - en waarom niet, om de overheidsdata zelf te verbeteren. Onze bijdrage Joost Schouppe heeft al wat experimenteel werk gedaan, waar al [dingen zijn uitgekomen die je kan helpen bij het mappen in Vlaanderen](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250).
 
-### Quality assurances
+### Quality assurance
 
-As a community, we want to build the tools to make sure that any correction in the official open data road sets is made visible to the mapping community as quickly and as accurately as possible. Because it isn't just Flanders that has released tools like this, we will try to build something that is easily scalable to any dataset of road centerlines worldwide.
+We willen ervoor zorgen dat de tools er zijn om aanvullingen uit de officiële wegendata worden aangeboden aan onze mappers, op een snelle en gemakkelijke manier. Omdat het niet enkel Vlaanderen is dat dit soort data aanbiedt, gaan we proberen iets te bouwen dat eenvoudig uit te breiden is naar om het even welke dataset van wegassen, wereldwijd.
 
-Once these tools are up-and-running and we have done a first pass over the data using them we can evaluate the quality of OSM in Flanders by comparing the datasets again and analysing the differences. We then hope to guarantee a minimum level of quality of the OSM road data compared to the quality of the open datasets available, making OSM in Belgium usable in even more cases because there is a metric of completeness.
+In het kader van deze oefening, willen we ook een meetinstrument aanbieden dat de kwaliteit van OSM wegen in Vlaanderen afweegt ten opzichte van de officiële data. OSM doet normaal niet aan kwaliteitsgaranties, omdat ons werk gebaseerd is op vrijwillige bijdrage. Dit meetinstrument betekent dat we dit wel kunnen doen, op basis van een objectieve analyse.  Hierdoor hopen we dat onze data voor nog meer use cases gebruikt kan worden.
 
 ![](/assets/images/road-completion1.jpg)
 
-### Current events
+### Op de agenda
 
-We are planning a hackday to focus on this subject. It is for you if you want to know more about using open data to improve OSM, and vice versa. Especially if you want to work with Postgres databases, vector tiles, Osmose or Maproulette.
+We willen op korte termijn een Hackday organiseren rond dit onderwerp. We willen je er graag bij als je wil leren over open data te gebruiken om OSM te verbeteren, en vice-versa. Bonus punten als je geïnteresseerd bent in Postgres databases, vector tiles, Osmose of Maproulette.
 
 ### Project key events
 
-* Exploration of Wegenregister as a source, with mapping layers and downloadable GPX files ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
-* The other way around: validating Wegenregister with OSM in Antwerp ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
-* Set up [a Task in the Belgian tasking manager](https://tasks.osm.be/project/2); in the town of Halle as an example.
+* Exploratie van het Wegenregister als bron, met afgeleide kaartlagen om mappers te helpen. Zie dit ([artikel (EN)](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
+* In omgekeerde richting: Wegenregister valideren met OSM, case study in Antwerpen ([artikel (EN)](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
+* [Taak toegevoegd in de Belgische tasking manager](https://tasks.osm.be/project/2); voorbeeldproject Halle.
