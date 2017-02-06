@@ -7,13 +7,13 @@ lang: nl
 project_lead: Joost Schouppe
 ---
 
-We're called OpenStreetMap, so you would think if any part of our map would be perfect, it would be the roads. And while we do have an excellent network you can use, with turn restrictions and lane navigation, there are still some basic mistakes here and there. We aim to correct these mistakes by using open government datasets to verify and detect missing data.
+Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Natuurlijk hebben we een excellent routeerbaar wegnetwerk, maar toch zijn er nog veel kleine fouten. De bedoeling van dit project is om die kleine fouten te detecteren en ontbrekende wegen toe te voegen. Tegelijk willen we er ook voor zorgen dat we nooit achterlopen op de overheidsdata, en dat we fouten aan overheidskant kunnen laten nakijken door hen.
 
-### Crowdsourcing and Open Data
+### Crowdsourcing en Open Data
 
-As we are crowdsourcers, everything that is seen by our crowd gets corrected. But some changes aren't very visible. For example, a new road with just a few houses, without connections. A name change of a road, or a misspelled road name. Or a road that was mapped back when aerial imagery was much lower quality.
+Wij zijn crowdsources: alles wat onze crowd ziet, wordt gecorrigeerd. Maar sommige veranderingen zijn niet zo zichtbaar. Bijvoorbeeld een nieuwe verkaveling met maar een paar huizen in een doodlopende straat. Een wijziging van een straatnaam, of een spelfout in die naam. Een weg die slecht ingetekend is in OSM omdat de luchtfoto's vroeger van mindere kwaliteit waren.
 
-As governments are finally embracing open data, more and more open road datasets are becoming available. We want to use that data to improve our map - and why not, to improve those open datasets themselves too. Our contributor Joost Schouppe did some experimental work on the subject, resulting in [stuff you can use for your mapping in Flanders](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250).
+Nu overheden eindelijk hun data vrijgeven als open data, zijn er steeds meer datasets met wegen beschikbaar. We willen die data gebruiken om onze kaart te verbeteren - en waarom niet, om de overheidsdata zelf te verbeteren. Onze bijdrage Joost Schouppe heeft al wat experimenteel werk gedaan, waar al [dingen zijn uitgekomen die je kan helpen bij het mappen in Vlaanderen](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250).
 
 ### Quality assurances
 
