@@ -30,6 +30,6 @@ We willen op korte termijn een Hackday organiseren rond dit onderwerp. We willen
 
 ### Project key events
 
-* Exploratie van het Wegenregister als bron, met afgeleide kaartlagen om mappers te helpen. Zie dit ([artikel (EN)](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
-* In omgekeerde richting: Wegenregister valideren met OSM, case study in Antwerpen ([artikel (EN)](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
+* Exploratie van het Wegenregister als bron, met afgeleide kaartlagen om mappers te helpen. Zie dit ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
+* In omgekeerde richting: Wegenregister valideren met OSM, case study in Antwerpen ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
 * [Taak toegevoegd in de Belgische tasking manager](https://tasks.osm.be/project/2); voorbeeldproject Halle.
