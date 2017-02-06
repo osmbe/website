@@ -8,36 +8,35 @@ lang: fr
 project_lead: Joost Schouppe
 ---
 
-TODO: translate
-
-We're called OpenSTREETMap for a reason: we have an excellent road network. With turn restrictions and lane navigation, hiking paths and cycle lanes. But there are still some basic mistakes here and there. We aim to correct these mistakes by using open government datasets to verify and detect missing data. Meanwhile, we'll improve government data too, and offer you a guaranteed minimum quality.
+Nous nous appelons Open**STREET**Map pour une raison: nous avons un excellent réseau routier. Il y a les "turn restrictions" et la navigation entre les différentes voies de la route, les sentiers de randonnée et les pistes cyclables. Mais il y a encore quelques petites erreurs qui traînent par ci par là. Notre objectif est de corriger ces erreurs en utilisant les données libres d'accès ("open-data") officielles pour vérifier et détecter les données manquantes. Nous en profitons également pour améliorer les données officielles et vous offrir une qualité minimale garantie.
 
 ### Crowdsourcing and Open Data
 
-As we are crowdsourcers, every mistake that our crowd sees will be corrected. But some changes aren't very visible. For example, a new road with just a few houses, without connections. A name change of a road, or a misspelled road name. Or a road that was mapped back when aerial imagery was much lower quality.
+Puisque la carte est créée par les contributeurs, chaque erreur que nous voyons sera corrigée. Mais quelques modifications de la carte ne sont pas parfois pas très visibles. Par exemple, une nouvelle route avec juste deux, trois maisons, sans aucune connexion ; le changement de nom d'une route, ou une erreur dans le nom d'une route ; ou encore une route qui a été tracée sur base d'anciennes photos aériennes de mauvaise qualité.
 
-As governments are finally embracing open data, more and more open road datasets are becoming available. We want to use that data to improve our map - and why not, to improve those open datasets themselves too. Our contributor Joost Schouppe did some experimental work on the subject, resulting in [stuff you can use for your mapping in Flanders](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250).
+Comme le gouvernement a enfin décidé de donner un accès libre à ses données, de plus en plus de jeux de données sur les routes sont maintenant disponibles. Nous voulons utiliser ces données pour améliorer notre carte - et pourquoi ne pas améliorer ces jeux de données également. Notre contributeur Joost Schouppe a déjà fait quelques expériences et a écrit un article sur le sujet : <http://www.openstreetmap.org/user/joost%20schouppe/diary/39250>.
 
-![](http://i.imgur.com/C7RRltI.gif)
 
-*The evolution of mapping roads in Brussels*
+![](/assets/images/road-completion.gif)
 
-### Quality assurances
+*L'évolution de la cartographie des routes à Bruxelles. Vert: routes "lentes". Gris: routes cartographiées. Noir: routes ajouté ce mois-là.*
 
-As a community, we want to build the tools to make sure that any correction in the official open data road sets is made visible to the mapping community as quickly and as accurately as possible. Because it isn't just Flanders that has released tools like this, we will try to build something that is easily scalable to any dataset of road centerlines worldwide.
+### Assurances qualité
 
-Once these tools are up-and-running and we have done a first pass over the data, then we can evaluate the quality of OSM in Flanders by comparing the datasets again and analysing the differences. We then hope to guarantee a minimum level of quality of the OSM road data compared to the quality of the open datasets available. Hopefully, that will make OSM in Belgium usable in even more cases because there is a metric of completeness.
+En tant que communauté, nous voulons construire des outils pour nous assurer que toute correction apportée aux ensembles routiers de données officielles est rendue accessible pour la communauté qui cartographie aussi rapidement et aussi précisément que possible. La Flandre n'étant pas la seule entité à publier de tels outils, nous allons essayer de construire quelque chose qui est facilement adaptable à n'importe quel jeu de données des axes routiers dans le monde entier.
+
+Une fois que ces outils sont opérationnels et que nous avons effectué une première passe sur les données, nous pouvons évaluer la qualité d'OSM en Flandre en comparant de nouveau les données et en analysant les différences. Nous espérons alors garantir un niveau minimum de qualité des données routières d'OSM par rapport à la qualité des ensembles de données libre d'accès disponibles. Espérons que cela rendra OSM en Belgique utilisable dans encore plus de cas.
 
 ![](/assets/images/road-completion1.jpg)
 
-*A sample of missing 'slow' roads*
+*Un exemple de routes "lentes" manquantes*
 
-### Current events
+### Actualités
 
-We are planning a hackday to focus on this subject. It is for you if you want to know more about using open data to improve OSM, and vice versa. Especially if you want to work with Postgres databases, vector tiles, Osmose or Maproulette.
+Nous allons planifier un "hackday" consacré à ce sujet. C'est pour vous si vous voulez en savoir plus sur l'utilisation de données ouvertes pour améliorer OSM, et vice versa. Surtout si vous voulez travailler avec les bases de données PostgreSQL, les tuiles vectorielles, Osmose ou Maproulette.
 
-### Project key events
+### Événements clés
 
-* Exploration of Wegenregister as a source, with mapping layers and downloadable GPX files ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
-* The other way around: validating Wegenregister with OSM in Antwerp ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
-* Set up [a Task in the Belgian tasking manager](https://tasks.osm.be/project/2); in the town of Halle as an example.
+* Exploration de "Wegenregister" comme source, avec couches cartographiques et fichiers GPX téléchargeables ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
+* L'inverse: validation de "Wegenregister" à partir d'OSM à Anvers ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
+* Mise en route d'[une tâche dans le "Tasking Manager belge"](https://tasks.osm.be/project/2); utilisation de la ville de Halle comme exemple.
