@@ -24,6 +24,8 @@ In het kader van deze oefening, willen we ook een meetinstrument aanbieden dat d
 
 ![](/assets/images/road-completion1.jpg)
 
+* Groen: trage wegen. Grijs: reeds getekende wegen. Zwart: wegen die verbeterd of toegevoegd werden deze maand.*
+
 ### Op de agenda
 
 We willen op korte termijn een Hackday organiseren rond dit onderwerp. We willen je er graag bij als je wil leren over open data te gebruiken om OSM te verbeteren, en vice-versa. Bonus punten als je geïnteresseerd bent in Postgres databases, vector tiles, Osmose of Maproulette.
