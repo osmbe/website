@@ -1,7 +1,7 @@
 ---
 title: "Road completion project"
 featured: images/road-completion2.gif
-featured_caption: "Red is government data, the less red, the more complete OSM becomes."
+featured_caption: "En rouge, les données officielles. Au moins c'est rouge, au plus OSM est complet."
 layout: project
 author: Ben Abelshausen
 lang: fr
@@ -18,7 +18,6 @@ Comme le gouvernement a enfin décidé de donner un accès libre à ses données
 
 
 ![](/assets/images/road-completion.gif)
-
 *L'évolution de la cartographie des routes à Bruxelles. Vert: routes "lentes". Gris: routes cartographiées. Noir: routes ajouté ce mois-là.*
 
 ### Assurances qualité
@@ -28,7 +27,6 @@ En tant que communauté, nous voulons construire des outils pour nous assurer qu
 Une fois que ces outils sont opérationnels et que nous avons effectué une première passe sur les données, nous pouvons évaluer la qualité d'OSM en Flandre en comparant de nouveau les données et en analysant les différences. Nous espérons alors garantir un niveau minimum de qualité des données routières d'OSM par rapport à la qualité des ensembles de données libre d'accès disponibles. Espérons que cela rendra OSM en Belgique utilisable dans encore plus de cas.
 
 ![](/assets/images/road-completion1.jpg)
-
 *Un exemple de routes "lentes" manquantes*
 
 ### Actualités
