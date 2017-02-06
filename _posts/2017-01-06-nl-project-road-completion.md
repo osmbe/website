@@ -23,8 +23,7 @@ We willen ervoor zorgen dat de tools er zijn om aanvullingen uit de officiële w
 In het kader van deze oefening, willen we ook een meetinstrument aanbieden dat de kwaliteit van OSM wegen in Vlaanderen afweegt ten opzichte van de officiële data. OSM doet normaal niet aan kwaliteitsgaranties, omdat ons werk gebaseerd is op vrijwillige bijdrage. Dit meetinstrument betekent dat we dit wel kunnen doen, op basis van een objectieve analyse.  Hierdoor hopen we dat onze data voor nog meer use cases gebruikt kan worden.
 
 ![](/assets/images/road-completion1.jpg)
-
-* Groen: trage wegen. Grijs: reeds getekende wegen. Zwart: wegen die verbeterd of toegevoegd werden deze maand.*
+*Groen: trage wegen. Grijs: reeds getekende wegen. Zwart: wegen die verbeterd of toegevoegd werden deze maand.*
 
 ### Op de agenda
 
