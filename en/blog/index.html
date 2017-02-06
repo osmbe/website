@@ -15,7 +15,7 @@ lang: en
 					<ul class="style">
 						{% for post in site.posts %}
 
-							{% if post.lang == "en" %}
+							{% if post.lang == "en" and post.layout == "post" %}
 							<li>
 								{% include post-item.html %}
 							</li>
