@@ -16,7 +16,8 @@ As we are crowdsourcers, every mistake that our crowd sees will be corrected. Bu
 
 As governments are finally embracing open data, more and more open road datasets are becoming available. We want to use that data to improve our map - and why not, to improve those open datasets themselves too. Our contributor Joost Schouppe did some experimental work on the subject, resulting in [stuff you can use for your mapping in Flanders](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250).
 
-![](/assets/images/road-completion.gif)
+![](http://i.imgur.com/C7RRltI.gif)
+
 *The evolution of mapping roads in Brussels*
 
 ### Quality assurances
@@ -26,6 +27,7 @@ As a community, we want to build the tools to make sure that any correction in t
 Once these tools are up-and-running and we have done a first pass over the data, then we can evaluate the quality of OSM in Flanders by comparing the datasets again and analysing the differences. We then hope to guarantee a minimum level of quality of the OSM road data compared to the quality of the open datasets available. Hopefully, that will make OSM in Belgium usable in even more cases because there is a metric of completeness.
 
 ![](/assets/images/road-completion1.jpg)
+
 *A sample of missing 'slow' roads*
 
 ### Current events
