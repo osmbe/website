@@ -18,7 +18,7 @@ As governments are finally embracing open data, more and more open road datasets
 
 ![](http://i.imgur.com/C7RRltI.gif)
 
-*The evolution of mapping roads in Brussels*
+*The evolution of mapping roads in Brussels. Green: slow roads. Grey: mapped roads. Black: roads being worked on that month*
 
 ### Quality assurances
 
