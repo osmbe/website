@@ -4,7 +4,7 @@ featured: images/community.jpg
 layout: project
 author: Ben Abelshausen
 project_lead: Marc Gemis
-lang: en
+lang: fr
 ---
 
 "Mapper of the month" (Cartographe du mois) est l'un des plus anciens projets toujours en cours.
