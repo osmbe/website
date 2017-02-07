@@ -16,8 +16,8 @@ welcome:
     fr: Bienvenue chez OSM-BE
 byline:
     en: This is the home of the OpenStreetMap community in Belgium!
-    nl:
-    fr:
+    nl:  
+    fr:  
 home:
     nl: Home
     en: Home
