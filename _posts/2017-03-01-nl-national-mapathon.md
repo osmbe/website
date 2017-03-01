@@ -3,7 +3,7 @@ title: 'National Mapathon'
 featured: images/nationalmapathon.jpg
 layout: post
 author: Joost Schouppe
-lang: en
+lang: nl
 ---
 
 ## Help Artsen Zonder Grenzen en het Rode Kruis bij hun humanitaire werk.
