@@ -14,21 +14,21 @@ Humanitaire organisaties hebben kaarten nodig om in crisissituaties snel en effi
 
 Tijdens de Mapathon voorzien we een computer met internetverbinding voor jou en dat is ook alles wat je nodig hebt! Het mappen zelf is erg eenvoudig, in een mum van tijd kan je jezelf cartograaf noemen. Help het Missing Maps project om te blijven groeien, want het aantal vrijwilligers neemt wereldwijd toe en er worden steeds meer mapping parties en mapathons georganiseerd waar vrijwilligers samenkomen om grote gebieden helemaal in kaart te brengen.
 
-Waar: Brussel, Gent, Leuven, Luik, Namen, Bergen en Louvain-la-Neuve
+Waar: Brussel, Gent, Leuven, Luik, Namen, Bergen en Louvain-la-Neuve  
 Wanneer: zaterdag 25 maart, 10u-16u
 
-Meer informatie:
-[Nationaal Comité voor Geografie](http://ncgeografie.be/nl/cartoGIS/mapathon.php)
-[Missing Maps](http://www.missingmaps.org/)
+Meer informatie:  
+[Nationaal Comité voor Geografie](http://ncgeografie.be/nl/cartoGIS/mapathon.php)  
+[Missing Maps](http://www.missingmaps.org/)  
 
 [Reserveer gratis een plaats!](https://nationalmapathon.eventbrite.com)
 
-Programma:
-10:00-10:30: Inleiding en training in het "mappen"
-10:30-12:00: Mapping!
-12:00-12:30: Gesprek met Pete Masters, Missing Maps coördinator
-12:30-13:00: Lunch
-13:00-13:30: Eventuele tweede trainingssessie
-13:30-16:00: Mapping!
-16:00-17:00: Voorstelling van het resultaat van ons werk
+Programma:  
+10:00-10:30: Inleiding en training in het "mappen"  
+10:30-12:00: Mapping!  
+12:00-12:30: Gesprek met Pete Masters, Missing Maps coördinator  
+12:30-13:00: Lunch  
+13:00-13:30: Eventuele tweede trainingssessie  
+13:30-16:00: Mapping!  
+16:00-17:00: Voorstelling van het resultaat van ons werk  
 Dit is het programma in grote lijnen, op elke locatie kan het programma licht verschillen.
