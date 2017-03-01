@@ -17,7 +17,7 @@ We will provide you with a computer and an Internet connection, and that's all y
 Where: Brussels, Ghent, Leuven, Liège, Namur, Mons and Louvain-la-Neuve  
 When: Saturday, March 25th, 10h - 16h 
 
-[Book your free tickets on this page](https://nationalmapathon.eventbrite.com)
+[Book your free tickets here](https://nationalmapathon.eventbrite.com)
 
 Program:  
 10:00-10:30: Introduction and Mapping Training  
@@ -28,3 +28,5 @@ Program:
 13:30-16:00: Mapping!  
 16:00-17:00: Showing the result of our work  
 This is an outline, local schedules may vary.
+
+More info in [Dutch](http://ncgeografie.be/nl/cartoGIS/mapathon.php) or in [French](http://cngeographie.be/fr/cartoSIG/mapathon.php)
