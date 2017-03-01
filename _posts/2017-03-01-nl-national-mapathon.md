@@ -23,7 +23,7 @@ Meer informatie:
 
 [Reserveer gratis een plaats!](https://nationalmapathon.eventbrite.com)
 
-Programma*:
+Programma:
 10:00-10:30: Inleiding en training in het "mappen"
 10:30-12:00: Mapping!
 12:00-12:30: Gesprek met Pete Masters, Missing Maps coördinator
@@ -31,4 +31,4 @@ Programma*:
 13:00-13:30: Eventuele tweede trainingssessie
 13:30-16:00: Mapping!
 16:00-17:00: Voorstelling van het resultaat van ons werk
-* Dit is het programma in grote lijnen, op elke locatie kan het programma licht verschillen.
+Dit is het programma in grote lijnen, op elke locatie kan het programma licht verschillen.
