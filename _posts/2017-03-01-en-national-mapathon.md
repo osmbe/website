@@ -14,17 +14,17 @@ In order to cope with crisis situations quickly and offer help efficiently, huma
 
 We will provide you with a computer and an Internet connection, and that's all you need! It is not difficult. In no time you are working as a road mapper. The response to the project is large, the number of volunteers is growing worldwide, and increasingly mapping parties or mapathons are organized where volunteers come together to map a larger area at once.
 
-Where: Brussels, Ghent, Leuven, Liège, Namur, Mons and Louvain-la-Neuve 
+Where: Brussels, Ghent, Leuven, Liège, Namur, Mons and Louvain-la-Neuve  
 When: Saturday, March 25th, 10h - 16h 
 
 [Book your free tickets on this page](https://nationalmapathon.eventbrite.com)
 
-Program:
-10:00-10:30: Introduction and Mapping Training
-10:30-12:00: Mapping!
-12:00-12:30: Talk by Pete Masters, Missing Maps coordinator
-12:30-13:00: Lunch
-13:00-13:30: Possible second training session
-13:30-16:00: Mapping!
-16:00-17:00: Showing the result of our work
-* This is an outline, local schedules may vary.
+Program:  
+10:00-10:30: Introduction and Mapping Training  
+10:30-12:00: Mapping!  
+12:00-12:30: Talk by Pete Masters, Missing Maps coordinator  
+12:30-13:00: Lunch  
+13:00-13:30: Possible second training session  
+13:30-16:00: Mapping!  
+16:00-17:00: Showing the result of our work  
+This is an outline, local schedules may vary.
