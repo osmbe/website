@@ -42,4 +42,12 @@ layout: default
 			{% include our_community_fr.html %}
 			{% endif %}
 
-
+			{% if page.lang == "en" %}
+			{% include our_projects_en.html %}
+			{% endif %}
+			{% if page.lang == "nl" %}
+			{% include our_projects_nl.html %}
+			{% endif %}
+			{% if page.lang == "fr" %}
+			{% include our_projects_fr.html %}
+			{% endif %}

@@ -30,6 +30,10 @@ join:
     nl: Join
     en: Join
     fr: Devenir membre
+projects:
+    nl: Projecten
+    en: Projects
+    fr: Projets
 paginate: 10
 baseurl: 
 gems: [jekyll-paginate]

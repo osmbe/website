@@ -3,11 +3,6 @@ layout: default
 ---
 <!-- Header -->
 			<div id="header">
-				<div class="language-switcher" style="text-align: center; margin: 50px;">
-					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
-					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
-					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'en' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
-				</div>
 				<div class="container">
 
 					<!-- Logo -->
@@ -15,6 +10,11 @@ layout: default
 
 					{% include nav.html %}
 
+				</div>
+				<div class="language-switcher" style="text-align: center; margin: 50px;">
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'en' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
 				</div>
 			</div>
 			{{content}}

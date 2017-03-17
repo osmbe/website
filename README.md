@@ -1,5 +1,8 @@
 # OSM BE Website
+
 The new OpenStreetMap Belgium website.
+
+The master branch is published to www.osm.be, the develop branch is pushlished to [develop.osm.be](http://develop.osm.be).
 
 ## Customizing the website
 
@@ -26,12 +29,12 @@ Feel free to customize the website content.
 3. Beneath the front matter, write your post text. You can format your text using [Markdown](http://daringfireball.net/projects/markdown/syntax). For example:
 
    ```
-   Artsen Zonder Grenzen (AZG) et Handicap International (HI) verwelkomen ons voor de volgende Missing Maps Mapathon. Kom en maak nieuwe kaarten met ons, samen met zij die de kaarten zullen gebruiken op het terrein! 
+   Artsen Zonder Grenzen (AZG) en Handicap International (HI) verwelkomen ons voor de volgende Missing Maps Mapathon. Kom en maak nieuwe kaarten met ons en samen met zij die de kaarten zullen gebruiken op het terrein! 
    ```
 
 4. Preview your work with the "preview" tab.
 
-5. Once you're satisfied with your new post, **Propose a new file** and then **Create pull request**. You pull request will be checked and the merged to the website is everything is good.
+5. Once you're satisfied with your new post, **Propose a new file** and then **Create pull request**. You pull request will be checked and merged to the website is everything is good.
 
 In a few minutes, your post appears on website!
 
