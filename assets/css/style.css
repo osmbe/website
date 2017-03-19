@@ -113,6 +113,7 @@ header h2 {
 }
 header .byline {
 		font-size: 1.6em;
+		display: block;
 }
 footer >:last-child {
 		margin-bottom: 0;
