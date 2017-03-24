@@ -12,7 +12,7 @@ Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Nat
 
 ### Crowdsourcing en open data
 
-Wij worden volledig gecrowdsourced: alles wat onze crowd ziet, wordt gecorrigeerd. Maar sommige veranderingen zijn niet zo zichtbaar. Bijvoorbeeld een nieuwe verkaveling met maar een paar huizen in een doodlopende straat. Een wijziging van een straatnaam, of een spelfout in die naam. Een weg die slecht ingetekend is in OSM omdat de luchtfoto's vroeger van mindere kwaliteit waren.
+Wij worden volledig gecrowdsourcet: alles wat onze crowd ziet, wordt gecorrigeerd. Maar sommige veranderingen zijn niet zo zichtbaar. Bijvoorbeeld een nieuwe verkaveling met maar een paar huizen in een doodlopende straat. Een wijziging van een straatnaam, of een spelfout in die naam. Een weg die slecht ingetekend is in OSM omdat de luchtfoto's vroeger van mindere kwaliteit waren.
 
 Nu overheden eindelijk hun data vrijgeven als open data, zijn er steeds meer datasets met wegen beschikbaar. We willen die data gebruiken om onze kaart te verbeteren – en waarom niet, om de overheidsdata zelf te verbeteren. Onze bijdrager Joost Schouppe heeft al wat experimenteel werk gedaan, waar al [dingen zijn uitgekomen die je kunnen helpen bij het mappen in Vlaanderen](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250).
 
