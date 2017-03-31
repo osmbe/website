@@ -37,3 +37,4 @@ We are planning a hackday to focus on this subject. It is for you if you want to
 * Exploration of Wegenregister as a source, with mapping layers and downloadable GPX files ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
 * The other way around: validating Wegenregister with OSM in Antwerp ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
 * Set up [a Task in the Belgian tasking manager](https://tasks.osm.be/project/2); in the town of Halle as an example.
+* Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
