@@ -1,6 +1,6 @@
 ---
 title: "Heritage in Flanders and Crowd-Sourced Projects"
-featured: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Distinctive_emblem_for_cultural_property.svg/160px-Distinctive_emblem_for_cultural_property.svg.png
+featured: images/heritage.png
 layout: project
 author: escada
 lang: en
