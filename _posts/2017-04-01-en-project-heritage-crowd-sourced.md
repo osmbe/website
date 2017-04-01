@@ -10,7 +10,6 @@ lang: en
 
 ## Introduction
 
-![Distinctive emblem for cultural property](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Distinctive_emblem_for_cultural_property.svg/160px-Distinctive_emblem_for_cultural_property.svg.png)
 
 In this article I want to show you how one can add information about immovable heritage to
 crowd sourced projects such as [OpenStreetMap](http://www.openstreetmap.org) and some of the projects of [Wikimedia](http://www.wikimedia.org).
