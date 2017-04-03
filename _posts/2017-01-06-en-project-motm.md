@@ -11,4 +11,6 @@ Mapper of the month has been one of our longest running projects. We noticed the
 
 Every month we interview a new mapper by choosing someone who comes either recommended or someone we contacted by just looking at the map and sending messages via the OSM.org messaging system. We try showcasing in the process what our mappers are and our community is doing. 
 
-We believe this is one of the most important projects we do because it's about our community and without that, there is no OpenStreetMap
+We believe this is one of the most important projects we do because it's about our community and without that, there is no OpenStreetMap.
+
+For an overview of the interviews, see [the Mapper of the month wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Belgian_Mapper_of_the_Month).
