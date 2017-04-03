@@ -14,7 +14,7 @@ lang: en
 In this article I want to show you how one can add information about immovable heritage to
 crowd sourced projects such as [OpenStreetMap](http://www.openstreetmap.org) and some of the projects of [Wikimedia](http://www.wikimedia.org).
 
-In Belgium, the list of immovable heritage is controlled by three agencies, one for Flanders, one for Brussels and one for Wallonia. In Flanders, the agency is called [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). They make a catalogue of the items and decide on the protection. They also provide some of [their ata](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) as open data.
+In Belgium, the list of immovable heritage is controlled by three agencies, one for Flanders, one for Brussels and one for Wallonia. In Flanders, the agency is called [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). They make a catalogue of the items and decide on the protection. They also provide some of [their data](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) as open data.
 In their catalogue they have churches, abbeys, castles, but also small farmhouses and villas, furthermore it includes  small items such as boundary stones and pillories. Occasionally, the list contains important trees on town squares.
 
 ![Pillory in Aartselaar](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
@@ -55,7 +55,7 @@ OpenStreetMap is for a large part based on original survey. That means that the 
 
 ## How do I collect information ?
 
-My starting point is the list of immovable heritage items on Wikipedia. For Flanders, previous contributors have compiled a [list of items per village](https://nl.wikipedia.org/wiki/Cultureel_erfgoed_in_Belgi%C3%AB). I wrote a [Python](https://en.wikipedia.org/wiki/Python_(programming_language) program that converts such a wiki-page into a file with [waypoints](https://en.wikipedia.org/wiki/Waypoint) that can be used on a GPS-device or in navigation programs for smartphones such as [OsmAnd](http://osmand.net/).
+My starting point is the list of immovable heritage items on Wikipedia. For Flanders, previous contributors have compiled a [list of items per village](https://nl.wikipedia.org/wiki/Cultureel_erfgoed_in_Belgi%C3%AB). I wrote a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) program that converts such a wiki-page into a file with [waypoints](https://en.wikipedia.org/wiki/Waypoint) that can be used on a GPS-device or in navigation programs for smartphones such as [OsmAnd](http://osmand.net/).
 
 ![Garmin Dakota 10 with waypoints](https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-8ntJtzd/0/O/70.jpg)
 ![Details on Garmin](https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-63Fvk2T/0/O/92%20copy.jpg)
