@@ -6,141 +6,256 @@ author: escada
 lang: fr
 ---
 
-# Heritage in Flanders and Crowd-Sourced Projects
+# Les projets de crowdsourcing appliqué au patrimoine en Belgique
 
-Traduction en cours.
+*N.B.: Cet article, intitulé à l'origine “Heritage in Flanders and Crowd-Sourced Projects”, a été écrit en anglais par Marc Gemis et traduit en français.*
 
 ## Introduction
 
+Dans cet article, je montrerai comment on peut ajouter des informations
+à propos du patrimoine immuable dans des projets collaboratifs comme
+[OpenStreetMap](http://www.openstreetmap.org/) et certains des projets
+de [Wikimedia](http://www.wikimedia.org/).
 
-In this article I want to show you how one can add information about immovable heritage to
-crowd sourced projects such as [OpenStreetMap](http://www.openstreetmap.org) and some of the projects of [Wikimedia](http://www.wikimedia.org).
+En Belgique, des listes des éléments du patrimoine immuable sont maintenues
+par 3 agences, une pour la Flandre, une pour Bruxelles et une pour la
+Wallonie. En Flandre, l’agence est appelée [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). Ils génèrent un catalogue
+des éléments du patrimoine et statuent sur leur protection. Ils mettent
+également une partie de [leur données](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen)
+comme données ouvertes. Dans leur catalogue, on retrouve des églises,
+abbayes, châteaux, mais aussi de petites fermes et bâtisses. De plus, il
+inclut de petits éléments tels que des bornes frontières et piloris.
+Occasionelllement, le catalogue contient aussi des arbres remarquables sur des
+places en milieu urbain.
 
-In Belgium, the list of immovable heritage is controlled by three agencies, one for Flanders, one for Brussels and one for Wallonia. In Flanders, the agency is called [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). They make a catalogue of the items and decide on the protection. They also provide some of [their data](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) as open data.
-In their catalogue they have churches, abbeys, castles, but also small farmhouses and villas, furthermore it includes  small items such as boundary stones and pillories. Occasionally, the list contains important trees on town squares.
 
 ![Pillory in Aartselaar](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
 
-*Pillory in Aartselaar*
+*Pilori à Aartselaar*
 
-What is a crowd-sourced project ? It is a project in which everybody can add data, unlike projects that are run by companies, where only employees can add data. When a company owns that data it can set the rules and price to get access to the data. In a crowd-sourced project, normally the resulting database is free to use and consult. If you want to find out more about crowdsourcing, read the [Wikipedia article](https://en.wikipedia.org/wiki/Crowdsourcing) on the topic.
+Qu’est-ce qu’un projet de crowdsourcing? C’est un projet dans lequel
+chacun peut ajouter des données, a contrario des projets privés
+appartenant à des entreprises, où seulement les employés de l’entreprise
+peuvent ajouter et modifier des données. Lorsqu’une entreprise détient ces données,
+elle peut décider des règles d’utilisation et fixer le prix pour avoir
+accès aux données. Dans un projet de crowdsourcing, normalement la base
+de données est libre d’accès et d’utilisation. Pour en savoir plus sur
+le concept de crowdsourccing, lisez cet [article de
+Wikipedia](https://en.wikipedia.org/wiki/Crowdsourcing)
+sur le sujet.
 
-This also explains why it is interesting to have all the immovable heritage in crowd-sourced project: one no longer depends on an agency or copyright rules defined by that agency to know when a building was created, or use a picture of a watermill in a publication, etc.
+Cela explique également pourquoi il est intéressant d’avoir l’ensemble
+des éléments du patrimoine immuable dans un projet de crowdsourcing: on
+ne dépend plus des agences ou de leurs régles de copyright pour savoir
+quand un bâtiment fut construit, ou utiliser une image de moulin dans
+une publication, etc.
 
-The scope of an agency such as Onroerend Erfgoed is also limited to a specific geographic region, the crowd-sourced projects presented below all have a world-wide scope.
+Alors que le domaine d’intervention d’une agence telle que "Onroerend
+Erfgoed" est limité à une région géographique spécifique, les projets de
+crowdsourcing présentés ci-dessous ont tous une portée globale.
 
-Let us now introduce some of the crowd-sourced projects
+Voyons voir maintenant quelques-uns de ces projets de crowdsourcing.
+
 
 ### [OpenStreetMap](http://www.openstreetmap.org)
 
-This is a global database of geographical info. This database can be used to created maps. [Wikipedia definition of OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap). Note that in OpenStreetMap, we only map features that exist today. We do not map buildings that are completely demolished.
+C’est une base de données mondiale d’information géographique. Cette
+base de données peut être utilisée pour créer des cartes [OpenStreetMap sur Wikipedia](https://en.wikipedia.org/wiki/OpenStreetMap). A noter que dans OpenStreetMap, on ne peut cartographier que des éléments qui
+existent actuellement. Il ne s’agit pas de cartographier des bâtiments
+complètement disparus.
 
 ### [Wikipedia](http://www.wikipedia.org)
 
-An online encyclopedia about human knowledge. Items are described in articles and illustrated with images, just as in printed encyclopedia. [Wikipedia definition of Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
+C’est une encyclopédie en ligne de toutes les connaissances humaines. Les sujets sont décrits dans des articles et souvent illustrés avec des images, comme dans une encyclopédie imprimée. [Définition de Wikipedia dans Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 
 ### [Wikimedia Commons](hhttps://commons.wikimedia.org)
 
-A database of media files such as photos, videos sound fragments and maps. [Wikipedia definition of Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+C’est une base de données de fichiers de médias tels que des photos, des vidéos, des sons et des cartes. [Définition de Wikimedia Commons dans Wikipedia](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 ### [Wikidata](http://www.wikidata.org)
 
-A database about persons, facts, objects. [Wikipedia definition of Wikidata](https://en.wikipedia.org/wiki/Wikidata)
+C’est une base de données sur les personnes, faits et objets. [Définition de Wikidata dans Wikipedia](https://en.wikipedia.org/wiki/Wikidata)
 
-## What can we contribute and where ?
+## À quoi peut-on contribuer et où?
 
-The location and the floor plan of the heritage item, together with its name and some basic information can be put in OpenStreetMap. An article describing the origin and history of the item goes into Wikipedia. Photos, 3D-models, a movie taken with a drone are placed in Wikimedia Commons. And finally, a summary of the above information can be put in machine-readable format into Wikidata.
+La localisation et le plan au sol d’un élément du patrimoine, ainsi que
+le nom de l’élément et quelques autres informations basiques peuvent
+être introduits dans OpenStreetMap. Un article décrivant l’origine et
+l’histoire de l’élément peut aller dans Wikipedia. Des photos, des
+modèles 3D ou même des vidéos prises avec un drone peuvent
+être placées dans Wikimedia Commons. Et finalement, un résumé de ces
+informations peut être introduit sous un format “machine” dans
+Wikidata.
 
-## How do we collect information ?
+## Comment collecte-t-on de l’information ?
 
-OpenStreetMap is for a large part based on original survey. That means that the contributors go out and collect information about the world while they look at it. Wikipedia on the other hand is largely based on other sources and each article has a list of articles that are referenced. For Wikimedia Commons, one need to own the copyright of the media that one adds, or the file has to be out of copyright. Ideally, each property of a Wikidata item has a source, so just as for Wikipedia, the data is based on the work of others.
+OpenStreetMap est pour une grande part basé sur des relevés de terrain.
+Cela signifie que les contributeurs sortent à l’extérieur et collectent
+des informations qui sont uniquement visibles sur le terrain. Wikipedia est largement basé
+sur d’autres sources disponibles et, d'ailleurs, chaque article référence
+généralement une liste d’articles sources. Pour les fichiers introduits
+dans Wikipedia Commons, on doit détenir le copyright du média que l’on
+ajoute, ou bien le média doit être non-restreint par un copyright.
+Idéalement, chaque élément de Wikidata a une source, donc juste comme
+Wikipedia, les données y sont basées sur base du travail d’autres auteurs.
 
-## How do I collect information ?
+## Comment puis-je collecter de l'information ?
 
-My starting point is the list of immovable heritage items on Wikipedia. For Flanders, previous contributors have compiled a [list of items per village](https://nl.wikipedia.org/wiki/Cultureel_erfgoed_in_Belgi%C3%AB). I wrote a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) program that converts such a wiki-page into a file with [waypoints](https://en.wikipedia.org/wiki/Waypoint) that can be used on a GPS-device or in navigation programs for smartphones such as [OsmAnd](http://osmand.net/).
+Mon point de départ est la liste du patrimoine immuable sur Wikipedia.
+Pour la Flandre, des contributeurs de Wikipedia ont compilé une [liste d'éléments par village](https://nl.wikipedia.org/wiki/Cultureel_erfgoed_in_Belgi%C3%AB).
+J’ai écrit un script [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+qui convertit une page de Wikipedia de ce type en un fichier avec des
+[waypoints](https://en.wikipedia.org/wiki/Waypoint) qui peut être
+utilisé dans un GPS ou dans des applications de navigation sur
+smartphone comme [OSMAnd](http://osmand.net/).
 
 ![Garmin Dakota 10 with waypoints](https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-8ntJtzd/0/O/70.jpg)
 ![Details on Garmin](https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-63Fvk2T/0/O/92%20copy.jpg)
 
-*Garmin Dakota 10 showing heritage items as red and blue flags, as well as some details on the item*
+*Garmin Dakota 10 avec des éléments du patrimoine mis en évidence en rouge et bleu**
 
 ![OsmAnd](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-4LK2Lp4/0/O/Screenshot_2017-03-27-14-38-59.png)
 
-*In OsmAnd the waypoints are displayed as red circles with white star. Clicking on a star shows additional information at the bottom of the screen. In case there are multiple items close to one another, the details are listed for each item*
+*Dans OSMAnd, les waypoints sont affichés avec des étoiles
+blanches entourés par un cercle rouge. Cliquer sur une étoile montre des
+informations additionelles en bas de l’écran. Dans le cas où il y a
+plusieurs éléments proches les uns des autres, les détails sont listés
+pour chaque élément.*
 
-This allows me to make small detours during my planned walks in order to visit (or view) the historical items. At the location I check whether the item still exists and take pictures of it. When the item no longer exists, I inform the Onroerend Erfgoed agency later on so they can update their database as well. I have the impression that they appreciate this kind of feedback.
+Cela me permet de faire de petits détours durant mes promenades en vue
+de visiter des éléments du patrimoine. Lorsque j’arrive à l’endroit, je
+vérifie si l’élément existe toujours et je prends des photos de
+l’endroit. Lorsque l’élément n’existe plus, j’en informe
+l’agence *Onroerend Erfgoed* de telle sorte qu’ils peuvent mettre à jour
+leur base de données également. Je pense qu’ils apprécient ce genre de
+feedbacks.
 
-## How do I process the collected data ?
-Back home, I make sure that the pictures get [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) by using the GPS trace of my walk and the timestamp of the picture. I use [Geotag](http://geotag.sourceforge.net/) for that purpose.
+## Comment je traite les données collectées ?
+De retour à la maison, je m’assure que les photos sont
+[géoréférencées](https://en.wikipedia.org/wiki/Georeferencing) en
+utilisant les traces GPS de ma promenade et le moment de prise de la
+photo. J’utilise [Geotag](http://geotag.sourceforge.net/) dans ce but.
+Les plus belles photos géoréférencées sont uploadées vers Wikimedia
+Commons, en y ajoutant un nom, une description et quelques catégories.
+Le système de catégories n’est pas toujours facile à comprendre, mais
+j’essaye d’y ajouter au moins la référence “Onroerend erfgoed”.
 
-The good, georeferenced photos are uploaded to Commons Wikimedia, a name and description are added as well as some categories. This category system is not always easy to understand, but I try to at least add "Onroerend erfgoed in <city>" and the category of the "part-village".
+Lorsque cela est terminé, je mets à jour la page Wikipedia avec la liste
+des éléments du patrimoine dans une localité avec un lien vers la
+nouvelle photo que j’ai uploadée. Bien sûr, cela seulement quand la page
+n’avait pas de photo de l’élément auparavant.
 
-When this is done, I update the Wikipedia page with the list of heritage items in a town with a link to the newly uploaded photo. Of course, only when that page did not had a picture of the item before.
+J’ajoute également la forme du bâtiment dans OpenStreetMap, ainsi que
+les tags nécessaires pour marquer la surface comme élément
+historique/protégé, avec une référence à "Onroerend Erfgoed". Lorsqu’un
+article Wikipedia ou un élément Wikidata existent, ils sont également
+ajoutés dans OpenStreetMap.
 
-I also add the building layout to OpenStreetMap, and add the necessary tags to mark the area as a historic/protected item, with references to Onroerend Erfgoed. When there is a Wikipedia article or a Wikidata item those references get added as well.
-
-Adding the necessary tags is easy in [JOSM](https://josm.openstreetmap.de/), especially when you use the preset for historical objects found in the [BENELUX presets](https://josm.openstreetmap.de/wiki/Presets/BENELUX).
+Ajouter ces tags est facile dans [JOSM](https://josm.openstreetmap.de/), particulièrement
+lorsque vous utilisez le preset pour les éléments historiques du [preset BENELUX](https://josm.openstreetmap.de/wiki/Presets/BENELUX).
 
 ![BENELUX Preset for monuments protected by Onroerend Erfgoed](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-pW9ptVd/0/X3/Screen%20Shot%202017-03-27%20at%2015.20.47-X3.png)
-*BENELUX Preset for monuments protected by Onroerend Erfgoed*
+*BENELUX Preset pour les monuments protégés par**Onroerend Erfgoed*
 
-You can also start writing Wikipedia articles for the items and/or create a Wikidata item with some properties. I recently started adding items for churches in Flanders based on information found the in the Onroerend Erfgoed and [ODIS](http://www.odis.be/) databases.
+Vous pouvez également démarrer l’écriture des articles Wikipedia et
+créer un élément Wikidata avec quelques propriétés. J’ai récemment
+commencé à ajouter des éléments pour les églises en Flandre basé sur
+l’information trouvée dans "Onroerend Erfgoed" et les bases de données
+[ODIS](http://www.odis.be/).
 
-## How can you use the data ?
+## Comment utilisez les données ?
 
 ### Wikipedia
-The articles on Wikipedia can be read by anyone and further information can be found through the referenced articles, e.g. the [article](https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_(Antwerp)) on the Cathedral in Antwerp.
+Les articles Wikipedia peuvent être lus par n’importe qui et plus
+d’informations peuvent être trouvées à travers les articles référencés,
+comme cet [article](https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_%28Antwerp%29) sur la cathédrale d’Anvers.
 
 ### OpenStreetMap
-There are a number of maps based on OpenStreetMap that show those items.
-#### HistOsm
+Il y a un grand nombre de cartes basées sur OpenStreetMap qui montrent ces éléments du patrimoine:
 
-Is a [map](http://histosm.org/) created by University of Heidelberg GIScience (Geoinformatics) Research Group. [More information](https://wiki.openstreetmap.org/wiki/HistOSM)
+#### HistOsm
+C’est une [carte](http://histosm.org/) créée par l’Université de Heidelberg, GIScience (Geoinformatics) Research Group. Plus
+d’[information](https://wiki.openstreetmap.org/wiki/HistOSM)
 
 ![HistOsm Map](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-ChHBNKX/0/X3/Screen%20Shot%202017-03-27%20at%2013.54.30-X3.png)
 *HistOSM, all data (c) OpenStreetMap Contributors*
 
 #### Historic Places
 
-Is a [map](http://gk.historic.place) developed by some German enthusiasts in their spare time. It is available is several languages and has some [nice features](https://wiki.openstreetmap.org/wiki/Historical_Objects) such as the possibility to display old maps instead of contemporary maps based on OpenStreetMap data.
+C’est une [carte](http://gk.historic.place/) développée par des contributeurs allemands passionnés durant leur temps libre. Elle est disponible en plusieurs langues et possède des [fonctionnalités intéressantes](https://wiki.openstreetmap.org/wiki/Historical_Objects) comme la possibilité d’afficher des cartes anciennes à la place des cartes contemporaines basées sur OpenStreetMap.
 
 ![Historic Places Map](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-NkHdJQ7/0/X3/Screen%20Shot%202017-03-27%20at%2021.07.04-X3.png)
 *Historic Places, all data (c) OpenStreetMap Contributors. Topographical Map Vandermaelen.*
 
-Each historic feature has a popup window which shows the information about the item as it is stored in the OpenStreetMap database. The popup can contain links to Onroerend Erfgoed (if there is a tag ...), wikipedia and wikidata. The tag *image* is recognized and will display the image if it is released under an open license (as is the case for images on Wikimedia Commons). The tag *wikimedia_commons* is also recognized and the link will bring you to the Wikimedia Commons page displaying the category with all images on the item.
+Chaque élément historique a une fenêtre popup qui contient des
+informations issues de celles contenus dans la base de données
+OpenStreetMap. Le popup peut contenir des liens vers Onroerend Erfgoed
+(si le tag est présent …), wikipedia et wikidata. Le tag image est
+reconnu et montre une image si celle-ci est disponible sous une licence
+ouverte (comme c’est le cas pour les images de Wikimedia Commons). Le
+tag wikimedia\_commons est aussi reconnu et le lien vous amènera vers la
+page Wikimedia Commons montrant la catégorie avec toutes les images de
+l’élément.
 
-The wikidata tag can not only be explored on the wikidata.org website, but also in "beautified" pages such as [Reasonator](https://tools.wmflabs.org/reasonator/) and [Sqid](https://tools.wmflabs.org/sqid) when you click on the icons next to the Wikidata item number.
+Le tag wikidata peut non seulement être exploré sur le site
+wikidata.org, mais aussi dans des sites web améliorées comme
+[Reasonator](https://tools.wmflabs.org/reasonator/) et
+[Sqid](https://tools.wmflabs.org/sqid), quand vous cliquez sur les
+icônes à côté du numéro Wikidata.
 
 ![Reasonator for Q28464643](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-DxtJ6nf/0/X3/Screen%20Shot%202017-03-27%20at%2013.53.21-X3.png)
-*The Sint-Pieterskerk in Rumst as seen on the Reasonator website with data from Wikidata*
+*L’église Saint-Pierre de**Rumst**vue sur le site web**Reasonator**avec
+des données de**Wikidata*
 
-If you look at a Reasonator page such as the one for the [Parochiekerk Sint-Pieter (Q28464643)](https://tools.wmflabs.org/reasonator/?q=Q28464643), you will find a link to "Overpass" under the maps. This will show the item on OpenStreetMap. So it is possible to define user interfaces on either Wikidata or OpenStreetMap and jump to the other project.
+Si vous regardez à une page Reasonator telle que celle pour la
+[Parochiekerk Sint-Pieter (Q28464643)](https://tools.wmflabs.org/reasonator/?q=Q28464643), vous
+trouverez un lien vers “Overpass” sous la carte. Cela montrera l’élément
+sur OpenStreetMap. Il est donc possible de définir des interfaces sur
+Wikidata ou OpenStreetMap pour sauter d’un projet à l’autre.
 
-The result of clicking the [Overpass](http://overpass-turbo.eu) link on the above Reasonator page, shows the following page in which the Sint-Pieterskerk is highlighted and positioned in the middle of the visible map.
+Le résultat du click sur ce lien [Overpass](http://overpass-turbo.eu/)
+de cette page Reasonator montre la page suivante dans laquelle l’église
+Saint-Pierre (Sint-Pieterskerk) est mise en évidence et positionnée au
+centre de la carte.
 
 ![Overpass showing item with Wikidata tag](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-v2vQxHG/0/X3/Screen%20Shot%202017-03-27%20at%2014.00.42-X3.png)
-*Overpass UI showing the item with Wikidata identifier Q28464643*
+*Interface utilisateur *Overpass**montrant l’élément avec l’identifiant**Wikidata Q28464643*
 
 ### Wikidata
 
-Since the data in Wikidata is structured, unlike the full text sentences in Wikipedia, one can query the data. This makes it e.g. possible to create a [time line](http://tinyurl.com/zso674w) with the inception date of Belgian churches, or a [bubble chart](http://tinyurl.com/myfpwqm) with their architectural styles. By clicking on the links in this paragraph, you are taken to the query site of Wikidata where you can run the queries and explore the data yourself.
+Comme les données de Wikidata sont bien structurés, a contrario des
+phrases des articles de Wikipedia, on peut interroger de manière
+informatique ces données. Cela permet, par exemple, de créer [une ligne du temps](http://tinyurl.com/zso674w) avec les dates de conception des
+églises en Belgique, ou bien un [graphique](http://tinyurl.com/myfpwqm)
+avec leur style architectural. En cliquant sur les liens dans ce
+paragraphe, vous serez amenés au site d’interrogation de Wikidata où
+vous pourrez lancer des interrogations et explorer les données
+vous-mêmes.
 
 ![timeline of Belgian Churches](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-MGNPLd8/0/X3/Screen%20Shot%202017-03-27%20at%2013.51.04-X3.png)
-*A time line of churches in Belgium*
+*Ligne du temps de la construction des églises en Belgique*
 
 ![bubble chart of architecture of Belgian Churches](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-s544Ndb/0/X2/Screen%20Shot%202017-03-27%20at%2020.45.47-X2.png)
-*Architectural Styles used in Belgian churches*
+*Les styles architecturaux utilisés dans les églises en Belgique*
 
-You can also make maps that combine Wikidata with OpenStreetMap shapes. The following map retrieves all Belgian churches from Wikidata when they have an inception date. According to this date, they get a different colour. The shape is taken from OpenStreetMap.
+Vous pouvez également créer des cartes combinant Wikidata avec
+OpenStreetMap. La carte suivante affiche toutes les églises de Belgique
+depuis Wikidata lorsque celles-ci ont une date de conception. Elles ont
+une couleur différente en fonction de cette date de conception. La forme
+de l’église est prise d’OpenStreetMap.
 
 ![Wikidata and OpenStreetMap](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-gKKpzrr/0/X2/Screen%20Shot%202017-04-01%20at%2021.33.00-X2.png)
 *Combining Wikidata and OpenStreetMap*
 
-You can look at the map on my Wikimedia [user page](https://www.mediawiki.org/wiki/User:Funkyxian)
-and explore the data yourself, or look at the code used to generate the map.
+Vous pouvez regarder cette carte sur ma page d’[utilisateur](https://www.mediawiki.org/wiki/User:Funkyxian) Wikimedia
+et explorer les données vous-mêmes, ou bien regarder au code utilisé
+pour générer la carte.
 
 ## Conclusion
 
-I hope that the examples give you an idea of what is possible with crowd-sourced, open data. I think the possibilities to connect Wikidata and OpenStreetMap are endless and that better integration tools will appear in the future.
+J’espère que ces exemples vous ont donné une idée du champ des
+possibles avec des données collaboratives et ouvertes. Je pense que les
+possibilités de connecter Wikidata et OpenStreetMap sont infinies et que
+de meilleurs outils d’intégration apparaîtront dans le futur.
 
-Feel free to contact me via marc dot gemis at gmail dot com.
+Sentez-vous libre de me contacter via marc dot gemis at gmail dot com.
