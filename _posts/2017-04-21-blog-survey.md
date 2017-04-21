@@ -1,7 +1,7 @@
 ---
 title: "Surveys"
 featured: images/heritage.png
-layout: blog
+layout: post
 author: escada
 lang: en
 ---
