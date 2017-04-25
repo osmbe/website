@@ -23,7 +23,7 @@ This custom OpenStreetMap rendering will be available in 4 languages :
 1. Back to good old raster tiles with [https://switch2osm.org/](https://switch2osm.org/).
   1. Fork of [https://github.com/gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto).
   1. Edit default parameters for Belgium languages.
-  1. Host test on [https://tiles.osm.akoo.ovh/](https://tiles.osm.akoo.ovh/)
+  1. Host test on [http://tile.openstreetmap.be/](http://tile.openstreetmap.be/)
 
 ### Project documentation
 
