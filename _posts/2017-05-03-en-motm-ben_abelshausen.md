@@ -22,7 +22,7 @@ I needed data about the road network for my job and soon you arrive at OpenStree
 This was in 2009 and it did not look realistic at that moment to use OpenStreetMap data,
 but I was intriged by the concept and in the following years, it proved to be the right choice.
 
-Do you use OpenStreetMap yourself ?
+## Do you use OpenStreetMap yourself ?
 I constantly use OpenStreetMap, both for my job and my private life. I never vist a place without an offline map of the region on my smartphone. I use OpenStreetMap daily for my job.
 
 ## How do you map ?
