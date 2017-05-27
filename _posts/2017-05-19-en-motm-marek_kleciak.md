@@ -84,7 +84,7 @@ Don´t believe everything is already mapped and OSM becomes boring. There is sti
 
 After we published the interview, Marek told us another interesting story, which we would like to share:
 
-In 1998 I made my summer hollidays in very small city in Krzywin, Poland. I had a lunch with the city major. I told him about my interest in 3D modeling. 
+In 1998 I made my summer holidays in very small city in Krzywin, Poland. I had a lunch with the city major. I told him about my interest in 3D modelling. 
 He asked me, if this could be interesting for teenagers because the city has modern computer lab in the school.  I said, "I don´t know, but we can try, never did it with teenagers, only with students at the university." Well, I spent 2 weeks with the kids and as the result we got an nice 3D model of the city.
 The kids worked hard, because it was their city. This time I learned, cloud projects are cool for people if they have tools and can learn how to do it. This was for me the reason to push 3D in OSM community. 
 
