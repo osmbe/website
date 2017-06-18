@@ -1,11 +1,19 @@
 <!-- Nav -->
 	<nav id="nav">
 		<ul>
+			{% assign pages=site.pages | where:"lang",page.lang | sort:"order" %}
+			{% for p in pages %}
+			<li>
+				<a href="{{ p.url }}">{{ p.title }}</a>
+			</li>
+			{% endfor %}
+<!--
 			{% assign current = page.url | downcase | split: '/' %}
-			<li {% if current[1] == '{{ site.path[page.lang] }}index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/{{ site.path[page.lang] }}index.html">{{ site.home[page.lang] }}</a></li>
-			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/{{ site.path[page.lang] }}blog">{{ site.news[page.lang] }}</a></li>
-			<li {% if current[1] == 'signup.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/{{ site.path[page.lang] }}signup.html">{{ site.join[page.lang] }}</a></li>
-			<li {% if current[1] == 'projects' %}class='current'{% endif %}><a href="{{ site.baseurl }}/{{ site.path[page.lang] }}projects">{{ site.projects[page.lang] }}</a></li>
-			<li {% if current[1] == 'calendar' %}class='current'{% endif %}><a href="{{ site.baseurl }}/{{ site.path[page.lang] }}calendar">{{ site.calendar[page.lang] }}</a></li>
+			<li {% if current[1] == '{{ site.path[page.lang] }}index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/index-{{ page.lang }}.html">{{ site.navigation.home[page.lang] }}</a></li>
+			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog-{{ page.lang }}.html">{{ site.navigation.news[page.lang] }}</a></li>
+			<li {% if current[1] == 'signup.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/signup-{{ page.lang }}.html">{{ site.navigation.join[page.lang] }}</a></li>
+			<li {% if current[1] == 'projects' %}class='current'{% endif %}><a href="{{ site.baseurl }}/projects-{{ page.lang }}.html">{{ site.navigation.projects[page.lang] }}</a></li>
+			<li {% if current[1] == 'calendar' %}class='current'{% endif %}><a href="{{ site.baseurl }}/calendar-{{ page.lang }}.html">{{ site.navigation.calendar[page.lang] }}</a></li>
+-->
 		</ul>
 	</nav>
