@@ -16,30 +16,9 @@ welcome:
     fr: Bienvenue chez OSM-BE
 byline:
     en: This is the home of the OpenStreetMap community in Belgium!
-    nl:
-    fr:
-home:
-    nl: Home
-    en: Home
-    fr: Accueil
-news:
-    nl: Nieuws
-    en: News
-    fr: Actualités
-join:
-    nl: Join
-    en: Join
-    fr: Devenir membre
-projects:
-    nl: Projecten
-    en: Projects
-    fr: Projets
-calendar:
-    nl: Events
-    en: Events
-    fr: Evénements
-paginate: 10
+    nl: "&nbsp;"
+    fr: "&nbsp;"
 baseurl:
-gems:
-  - jekyll-paginate
-
+#paginate: 10
+#gems:
+#  - jekyll-paginate
