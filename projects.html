@@ -1,7 +1,8 @@
 ---
-title: News
+title: Projects
 layout: main
-lang: nl
+lang: en
+order: 4
 ---
 
 <!-- Main -->
@@ -10,12 +11,12 @@ lang: nl
 			<section>
 				<div class="10u -1u">
 					<header class="major">
-						<h2>Nieuws</h2>
+						<h2>Projects</h2>
 					</header>
 					<ul class="style">
 						{% for post in site.posts %}
 
-						{% if post.lang == "nl" and post.layout == "post" %}
+						{% if post.lang == "en" and post.layout == "project" %}
 						<li>
 							{% include post-item.html %}
 						</li>
