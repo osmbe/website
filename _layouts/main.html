@@ -3,18 +3,24 @@ layout: default
 ---
 <!-- Header -->
 			<div id="header">
+				{% assign url_lang=page.lang | prepend:'-' %}
+				<div class="language-switcher" style="text-align: center; margin: 50px;">
+					{% if page.lang == "en" %}
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: '.html','-fr.html' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: '.html','-nl.html' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
+					<a href="{{ site.baseurl }}{{ page.url }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
+					{% else %}
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: url_lang,'-fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: url_lang,'-nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
+					<a href="{{ site.baseurl }}{{ page.url | replace_first: url_lang,'' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
+					{% endif %}
+				</div>
 				<div class="container">
 
-					<!-- Logo -->
-						<h1><a href="#" id="logo">{{ site.name[page.lang] }}</a></h1>
+					<h1><a href="#" id="logo">{{ site.name[page.lang] }}</a></h1>
 
 					{% include nav.html %}
 
-				</div>
-				<div class="language-switcher" style="text-align: center; margin: 50px;">
-					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
-					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
-					<a href="{{ site.baseurl }}{{ page.url | replace_first: page.lang,'en' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
 				</div>
 			</div>
 			{{content}}
