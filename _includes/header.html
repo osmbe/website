@@ -1,0 +1,37 @@
+<!-- Header -->
+	<div id="header">
+		{% assign lang=page.lang | prepend:'-' %}
+		<div class="language-switcher" style="text-align: center; margin: 50px;">
+			{% if page.lang == "en" %}
+			<a href="{{ site.baseurl }}{{ page.path | replace_first: '.html','-fr.html' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
+			<a href="{{ site.baseurl }}{{ page.path | replace_first: '.html','-nl.html' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
+			<a href="{{ site.baseurl }}{{ page.path }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
+			{% else %}
+			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'-fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
+			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'-nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
+			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
+			{% endif %}
+		</div>
+		<div class="container">
+
+			<h1><a href="#" id="logo">{{ site.name[page.lang] }}</a></h1>
+
+			{% include nav.html %}
+
+			{% if page.layout == "landing" %}
+			<!-- Banner -->
+			<div id="banner">
+				<div class="container">
+					<section>
+						<header class="major">
+							<img src="{{ site.baseurl }}/assets/images/logo.png"></img>
+							<h2>{{ site.welcome[page.lang] }}</h2>
+							<span class="byline">{{ site.byline[page.lang] }}</span>
+						</header>
+					</section>
+				</div>
+			</div>
+			{% endif %}
+
+		</div>
+	</div>
