@@ -23,17 +23,11 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
-	{{ content }}
-			
-	{% if page.lang == "en" %}
-		{% include footer_en.html %}
-	{% endif %}
-	{% if page.lang == "nl" %}
-		{% include footer_nl.html %}
-	{% endif %}
-	{% if page.lang == "fr" %}
-		{% include footer_fr.html %}
-	{% endif %}
+		{% include header.html %}
+
+		{{ content }}
+
+		{% include footer.html %}
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -3,22 +3,32 @@
 		{% assign lang=page.lang | prepend:'-' %}
 		<div class="language-switcher" style="text-align: center; margin: 50px;">
 			{% if page.lang == "en" %}
+			<a href="{{ site.baseurl }}{{ page.path }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
 			<a href="{{ site.baseurl }}{{ page.path | replace_first: '.html','-fr.html' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
 			<a href="{{ site.baseurl }}{{ page.path | replace_first: '.html','-nl.html' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
-			<a href="{{ site.baseurl }}{{ page.path }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
 			{% else %}
+			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
 			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'-fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
 			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'-nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
-			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
 			{% endif %}
 		</div>
 		<div class="container">
 
 			<h1><a href="#" id="logo">{{ site.name[page.lang] }}</a></h1>
 
-			{% include nav.html %}
+			<!-- Nav -->
+			<nav id="nav">
+				<ul>
+					{% assign pages=site.pages | where:"lang",page.lang | sort:"order" %}
+					{% for p in pages %}
+					<li>
+						<a href="{{ p.url }}">{{ p.title }}</a>
+					</li>
+					{% endfor %}
+				</ul>
+			</nav>
 
-			{% if page.layout == "landing" %}
+			{% if page.name == "index.html" or page.name == "index-fr.html" or page.name == "index-nl.html" %}
 			<!-- Banner -->
 			<div id="banner">
 				<div class="container">
