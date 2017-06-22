@@ -1,16 +1,72 @@
 <!-- Header -->
+{% assign lang-page = page.lang | prepend:'-' %}
+{% assign lang-post = page.lang | append:'-' %}
+
+{% if page.url == "/" %}
+	{% assign url = '/index.html' %}
+{% else %}
+	{% assign url = page.url %}
+{% endif %}
+
+{% if page.lang == "en" %}
+	{% assign page-en = url %}
+	{% assign page-fr = url | replace_first: '.html','-fr.html' %}
+	{% assign page-nl = url | replace_first: '.html','-nl.html' %}
+{% else %}
+	{% assign page-en = url | replace_first: lang-page,'' %}
+	{% assign page-fr = url | replace_first: lang-page,'-fr' %}
+	{% assign page-nl = url | replace_first: lang-page,'-nl' %}
+{% endif %}
+
+{% if page-en == '/index.html' %}
+	{% assign page-en = '/' %}
+{% endif %}
+
+{% assign post-en = url | replace_first: lang-post,'en-' %}
+{% assign post-fr = url | replace_first: lang-post,'fr-' %}
+{% assign post-nl = url | replace_first: lang-post,'nl-' %}
+
+{% for p in site.pages %}
+	{% if p.url == page-en %}
+		{% assign link-en = page-en %}
+	{% endif %}
+	{% if p.url == page-fr %}
+		{% assign link-fr = page-fr %}
+	{% endif %}
+	{% if p.url == page-nl %}
+		{% assign link-nl = page-nl %}
+	{% endif %}
+{% endfor %}
+
+{% for p in site.posts %}
+	{% if p.url == post-en %}
+		{% assign link-en = post-en %}
+	{% endif %}
+	{% if p.url == post-fr %}
+		{% assign link-fr = post-fr %}
+	{% endif %}
+	{% if p.url == post-nl %}
+		{% assign link-nl = post-nl %}
+	{% endif %}
+{% endfor %}
+
 	<div id="header">
-		{% assign lang=page.lang | prepend:'-' %}
 		<div class="language-switcher" style="text-align: center; margin: 50px;">
-			{% if page.lang == "en" %}
-			<a href="{{ site.baseurl }}{{ page.path }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
-			<a href="{{ site.baseurl }}{{ page.path | replace_first: '.html','-fr.html' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
-			<a href="{{ site.baseurl }}{{ page.path | replace_first: '.html','-nl.html' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
-			{% else %}
-			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'' }}" class="language-en" style="display: inline-block; margin: 10px;">EN</a>
-			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'-fr' }}" class="language-fr" style="display: inline-block; margin: 10px;">FR</a>
-			<a href="{{ site.baseurl }}{{ page.path | replace_first: lang,'-nl' }}" class="language-nl" style="display: inline-block; margin: 10px;">NL</a>
-			{% endif %}
+		{% if link-en != nil %}
+			<a href="{{ link-en }}" class="language-en">EN</a>
+		{% else %}
+			<span class="language-en">EN</span>
+		{% endif %}
+		{% if link-fr != nil %}
+			<a href="{{ link-fr }}" class="language-fr">FR</a>
+		{% else %}
+		<span class="language-fr">FR</span>
+		{% endif %}
+		{% if link-nl != nil %}
+			<a href="{{ link-nl }}" class="language-nl">NL</a>
+		{% else %}
+		<span class="language-nl">NL</span>
+		{% endif %}
 		</div>
 		<div class="container">
 
