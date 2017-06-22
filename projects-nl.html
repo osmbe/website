@@ -13,19 +13,8 @@ order: 4
 					<header class="major">
 						<h2>Projecten</h2>
 					</header>
-					<ul class="style">
-						{% for post in site.posts %}
-
-						{% if post.lang == "nl" and post.layout == "project" %}
-						<li>
-							{% include post-item.html %}
-						</li>
-						{% endif %}
-
-						{% endfor %}
-
-					</ul>
-					<div style="clear: both;"></div>
+					
+					{% include projects.html %}
 				</div>
 			</section>
 		</div>

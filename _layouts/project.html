@@ -7,14 +7,18 @@ layout: default
 			<section>
 				<header class="major" id="post">
 					<h2>{{ page.title }}</h2>
-					<span class="byline">{{ page.date | date_to_string }}</span>
+					<span class="byline">Project lead: {{ page.project_lead }}</span>
 				</header>
+
 				{% if page.featured %}
-					<img style="max-width: 100%; max-height: 500px; margin: auto;" src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
+				<div class="image feature">
+					<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
 					{% if page.featured_caption %}
 						<em>{{ page.featured_caption }}</em>
 					{% endif %}
+				</div>
 				{% endif %}
+
 				{{ page.content }}
 			</section>
 		</div>
