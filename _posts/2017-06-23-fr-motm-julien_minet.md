@@ -1,5 +1,5 @@
 ---
-title: "Contributeur du mois June 2017: Julien Minet (Belgique)"
+title: "Contributeur du mois Juin 2017: Julien Minet (Belgique)"
 featured: 
 layout: post
 author: escada
