@@ -1,16 +1,27 @@
-name:
-  en: OpenStreetMap Belgium
-  nl: OpenStreetMap België
-  fr: OpenStreetMap Belgique
-description:
-  en: OSM-BE community website
-  nl: OSM-BE community website
-  fr: Site web de la communauté OSM-BE
-welcome:
-  en: Welcome to OSM-BE!
-  nl: Welkom bij OSM-BE!
-  fr: Bienvenue chez OSM-BE
-byline:
-  en: This is the home of the OpenStreetMap community in Belgium!
-  nl: "&nbsp;"
-  fr: "&nbsp;"
+banner:
+  name:
+    en: OpenStreetMap Belgium
+    nl: OpenStreetMap België
+    fr: OpenStreetMap Belgique
+  welcome:
+    en: Welcome to OSM-BE!
+    nl: Welkom bij OSM-BE!
+    fr: Bienvenue chez OSM-BE
+  byline:
+    en: This is the home of the OpenStreetMap community in Belgium!
+    nl: "&nbsp;"
+    fr: "&nbsp;"
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: osm_be
+url: http://osm.be
+description: OpenStreetMap Belgium community website
+social:
+  name: OpenStreetMap Belgium
+  links:
+    - https://twitter.com/osm_be
+    - https://www.facebook.com/groups/1419016881706058/
+    - https://github.com/osmbe
