@@ -1,17 +1,16 @@
-<a href="{{ site.baseurl }}{{ post.url }}">
-  <h2>{{ post.title }}</h2>
-</a>
+<h3>
+  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+</h3>
 <div class="post-meta">
   <strong class="post-date" datetime="{{post.date}}">{{post.date | date: "%b %-d, %Y"}}</strong>
-  <strong class="author">| {{post.author}}</strong>
+  -
+  <strong class="author">{{post.author}}</strong>
 </div>
 
-<div style="clear: both;">
+<div>
 {% if post.featured %}
-  <div style="float: left; width: 20%; padding-right: 15px;">
-    <img style="max-width: 100%;" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
-  </div>
-  <div style="float: left; width: 80%;">
+  <img class="thumbnail" src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="{{ post.featured }}">
+  <div>
     {{ post.excerpt | strip_html }}
   </div>
 {% else %}

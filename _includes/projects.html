@@ -1,0 +1,25 @@
+<!-- Projects -->
+  <div class="row">
+  {% for post in site.posts %}
+    {% if post.lang == page.lang and post.layout == "project" %}
+    <div class="6u">
+      <section class="box">
+        <header>
+          <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+          <p>Project lead: {{ post.project_lead }}</p>
+        </header>
+
+        <div>
+          {% if post.featured %}
+          <div class="image feature">
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="{{ page.featured }}"></a>
+          </div>
+          {% endif %}
+
+          {{ post.excerpt }}
+        </div>
+      </section>
+    </div>
+    {% endif %}
+  {% endfor %}
+  </div>

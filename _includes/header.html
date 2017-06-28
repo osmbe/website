@@ -1,0 +1,103 @@
+<!-- Header -->
+{% assign lang-page = page.lang | prepend:'-' %}
+{% assign lang-post = page.lang | append:'-' %}
+
+{% if page.url == "/" %}
+	{% assign url = '/index.html' %}
+{% else %}
+	{% assign url = page.url %}
+{% endif %}
+
+{% if page.lang == "en" %}
+	{% assign page-en = url %}
+	{% assign page-fr = url | replace_first: '.html','-fr.html' %}
+	{% assign page-nl = url | replace_first: '.html','-nl.html' %}
+{% else %}
+	{% assign page-en = url | replace_first: lang-page,'' %}
+	{% assign page-fr = url | replace_first: lang-page,'-fr' %}
+	{% assign page-nl = url | replace_first: lang-page,'-nl' %}
+{% endif %}
+
+{% if page-en == '/index.html' %}
+	{% assign page-en = '/' %}
+{% endif %}
+
+{% assign post-en = url | replace_first: lang-post,'en-' %}
+{% assign post-fr = url | replace_first: lang-post,'fr-' %}
+{% assign post-nl = url | replace_first: lang-post,'nl-' %}
+
+{% for p in site.pages %}
+	{% if p.url == page-en %}
+		{% assign link-en = page-en %}
+	{% endif %}
+	{% if p.url == page-fr %}
+		{% assign link-fr = page-fr %}
+	{% endif %}
+	{% if p.url == page-nl %}
+		{% assign link-nl = page-nl %}
+	{% endif %}
+{% endfor %}
+
+{% for p in site.posts %}
+	{% if p.url == post-en %}
+		{% assign link-en = post-en %}
+	{% endif %}
+	{% if p.url == post-fr %}
+		{% assign link-fr = post-fr %}
+	{% endif %}
+	{% if p.url == post-nl %}
+		{% assign link-nl = post-nl %}
+	{% endif %}
+{% endfor %}
+
+	<div id="header">
+		<div class="language-switcher" style="text-align: center; margin: 50px;">
+		{% if link-en != nil %}
+			<a href="{{ link-en }}" class="language-en">EN</a>
+		{% else %}
+			<span class="language-en">EN</span>
+		{% endif %}
+		{% if link-fr != nil %}
+			<a href="{{ link-fr }}" class="language-fr">FR</a>
+		{% else %}
+		<span class="language-fr">FR</span>
+		{% endif %}
+		{% if link-nl != nil %}
+			<a href="{{ link-nl }}" class="language-nl">NL</a>
+		{% else %}
+		<span class="language-nl">NL</span>
+		{% endif %}
+		</div>
+		<div class="container">
+
+			<h1><a href="#" id="logo">{{ site.name[page.lang] }}</a></h1>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul>
+					{% assign pages=site.pages | where:"lang",page.lang | sort:"order" %}
+					{% for p in pages %}
+					<li>
+						<a href="{{ p.url }}">{{ p.title }}</a>
+					</li>
+					{% endfor %}
+				</ul>
+			</nav>
+
+			{% if page.name == "index.html" or page.name == "index-fr.html" or page.name == "index-nl.html" %}
+			<!-- Banner -->
+			<div id="banner">
+				<div class="container">
+					<section>
+						<header class="major">
+							<img src="{{ site.baseurl }}/assets/images/logo.png"></img>
+							<h2>{{ site.welcome[page.lang] }}</h2>
+							<span class="byline">{{ site.byline[page.lang] }}</span>
+						</header>
+					</section>
+				</div>
+			</div>
+			{% endif %}
+
+		</div>
+	</div>
