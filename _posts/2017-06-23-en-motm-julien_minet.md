@@ -14,8 +14,7 @@ I am Julien Minet. I come from the Luxembourg province in Belgium, from the bord
 
 ## When and how did you discover OpenStreetMap ?
 
-I heard about OSM quite some time ago, via news sites on mapping and GIS. I started contributing in 2012. I have to admit that I did not believe in the project in the beginning. Due to the empty, white map I was really attracted to contribute. Nevertheless, there were some brave pioneers that started the work and mapped the main roads, the villages, etc.
-J’ai entendu parler d’OSM assez tôt, par le biais de sites d’infos sur la cartographie et le SIG. Je me suis mis à contribuer en 2012. Au début, je dois dire que je ne croyais pas trop au projet et le fait que la carte était toute blanche dans le sud de la Belgique ne me poussait pas à y contribuer. Puis, de courageux pionniers ont initié le travail en cartographiant les routes principales, les villages, etc.
+I heard about OSM quite some time ago, via news sites on mapping and GIS. I started contributing in 2012. I have to admit that I did not believe in the project in the beginning. Due to the empty, white map I wasn't really attracted to contribute. Nevertheless, there were some brave pioneers that started the work and mapped the main roads, the villages, etc.
 
 ## How do you map ? Is this different from your early days ?
 
