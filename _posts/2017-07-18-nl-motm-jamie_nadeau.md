@@ -1,5 +1,5 @@
 ---
-title: "Mapper van de Maand Juli 2017: Jamie Nadeau (België)"
+title: "Mapper van de Maand Juli 2017: Jamie Nadeau (Canada)"
 featured:
 layout: post
 author: escada
