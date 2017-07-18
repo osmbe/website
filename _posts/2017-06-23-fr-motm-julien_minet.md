@@ -37,7 +37,7 @@ J’ai surtout édité avec ID. J’aime bien cet éditeur pour sa simplicité: 
 
 Je cartographie surtout ce que je connais bien, donc dans mon entourage immédiat et là où je vais. Je suis intéressé par la carto humanitaire (HOT), mais j’ai quand même une forte réticence à cartographier ce que je ne connais pas. Au début, j’ai trouvé quelques erreurs grossières autour de chez moi faites par des contributeurs qui n’avait visiblement pas été sur le terrain. Il y a certainement un potentiel dans n’importe quelle région du monde à trouver des contributeurs. Bien sûr, les contributeurs potentiels les plus susceptibles de s’intéresser au projet sont toujours limités, il faut d’abord cibler les étudiants en géo, en IT… Mais il n’y a pas besoin nécessairement besoin de toucher des milliers de personnes pour arriver à un bon résultat. Puis on peut être étonné par qui s’intéressera au projet et y contribuera. J’ai la chance de rencontrer des étudiants africains à l’ULg Arlon à qui j’essaye de faire découvrir OSM. Ils sont souvent emballés par le projet, qui est très pertinent dans des endroits où les autres cartes numériques sont souvent absentes. Donc, oui à la cartographie humanitaire si on n’oublie pas de pousser les locaux à contribuer et à s’impliquer dans OSM, et ce partout dans le monde.
 
-Quel est votre plus grande réussite en tant que cartographe ?
+## Quel est votre plus grande réussite en tant que cartographe ?
 
 Je suis fier de ma “zone”, en gros les forêts d’Anlier et de Rulles, où j’ai le plus cartographié. J’en suis content parce que les cartes IGN de ces forêts ne sont pas toujours à jour, tellement les chemins peuvent disparaitre rapidement sous la végétation, et parce que de nouveaux sont créés chaque année par l’exploitation forestière ou bien les VTTistes.
 
@@ -47,11 +47,11 @@ Je suis fier de ma “zone”, en gros les forêts d’Anlier et de Rulles, où 
 
 J’ai toujours été fan de cartes. Et de randonnée à l’extérieur. Donc c’est surtout ça que j’aime dans OSM: sortir faire un tour à vélo/en courant puis éditer la carte en fonction de ce qu’on a vu. J’aime bien le côté geek aussi, le fait d’avoir une passion incroyable à raconter quand vous êtes invité à diner le mercredi soir…
 
-Quelle est la partie la plus difficile en cartographie ?
+## Quelle est la partie la plus difficile en cartographie ?
 
 Pouvoir maintenir la carte à jour! Et trouver la motivation pour mettre à jour ou améliorer ce qui est déjà présent.
 
-Quels sont vos plans de cartographie dans un futur proche ?
+## Quels sont vos plans de cartographie dans un futur proche ?
 
 J’en ai parlé sur mon blog ici: http://www.nobohan.be/2017/01/22/mes-envies-openstreetmap-en-2017/. surtout l’ocupation du sol et les itinéraires balisés. Ou pourquoi pas remonter les ruisseaux?
 
@@ -65,7 +65,7 @@ Je suis inscrit sur la liste talk-be, que je suis régulièrement. Un conseil: c
 
 J’utilise OSM dans des applications mobiles de cartographie, comme OSMAnd et MapsMe. Avoir des cartes offline, c’est toujours utile. Je l’utilises comme calcul d’itinéraires. Enfin, je l’utilise souvent dans mon activité de consultant SIG: comme fond de carte d’une webmap ou comme source de données.
 
-Faites-vous d'autres choses que la cartographie qui soit liées à OpenStreetMap ?
+## Faites-vous d'autres choses que la cartographie qui soit liées à OpenStreetMap ?
 
 J’ai fait d’OSM une partie de mon métier. Un projet que j’aimerai plus développer est une carte des commerces et des services pour des zones rurales, où on trouve rapidement les heures d’ouvertures et les numéros de téléphone. J’ai développé un prototype pour ma commune, que j’utilise souvent pour savoir si tel magasin est ouvert : http://www.nobohan.be/webmaps/Marbehan/map_zoom.html. J’aimerais le proposer à d’autres communes, en relation avec des agences de développement local, des associations de commerçants.
 
