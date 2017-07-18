@@ -1,3 +1,10 @@
+---
+title: "Mapper of the Month July 2017: Jamie Nadeau (Canada)"
+featured:
+layout: post
+author: escada
+lang: en
+---
 ## Who are you ?
 
  I'm Jamie Nadeau. In OSM some people might know me more as [LogicalViolinist](http://www.openstreetmap.org/user/LogicalViolinist) and on the wiki as [james2432](https://wiki.openstreetmap.org/wiki/User:James2432). I grew up a bit here and there as we moved a lot when I was younger, some notable places being Kingston, North Bay, Ottawa and Gatineau. My back ground is computer science and am currently working in my field in the Ottawa Valley. I love exploring the world  and taking on new challenges. James has been my nickname since primary school. I came up with LogicalViolinist by combining Logic(programming) and Violinist(I enjoy playing the violin)

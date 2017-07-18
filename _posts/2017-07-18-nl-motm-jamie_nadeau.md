@@ -1,3 +1,10 @@
+---
+title: "Mapper van de Maand Juli 2017: Jamie Nadeau (België)"
+featured:
+layout: post
+author: escada
+lang: nl
+---
 _Vertaling door Escada_
 
 ## Kan je jezelf even voorstellen aub ?

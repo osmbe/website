@@ -1,6 +1,13 @@
+---
+title: "Contributeur du mois Juillet 2017: Jamie Nadeau (Canada)"
+featured:
+layout: post
+author: escada
+lang: fr
+---
 ## Qui êtes-vous ?
 
-Je m'appel Jamie Nadeau. Dans OSM certaines personnes me connaissent sous le nom de [LogicalViolinist](http://www.openstreetmap.org/user/LogicalViolinist) et sur le wiki comme [james2432](https://wiki.openstreetmap.org/wiki/User:James2432). J'ai grandis un peu partout, car on a déménagé beaucoup quand j'étais jeune, des places notables étant Kingston, North Bay, Ottawa et Gatineau. Mon domaine c'est celui de la technologie de l'information et je travaille dans mon domaine dans la vallée d'Ottawa. J'aime explorer le monde et m'enligné sur des nouveaux défits. James était mon surnom depuis l'élémentaire. J'ai combiné Logic (programmation) et Violinist (j'aime jouer du violon) pour former mon nom d'utilisateur.
+Je m'appelle Jamie Nadeau. Dans OSM certaines personnes me connaissent sous le nom de [LogicalViolinist](http://www.openstreetmap.org/user/LogicalViolinist) et sur le wiki comme [james2432](https://wiki.openstreetmap.org/wiki/User:James2432). J'ai grandis un peu partout, car on a déménagé beaucoup quand j'étais jeune, des places notables étant Kingston, North Bay, Ottawa et Gatineau. Mon domaine c'est celui de la technologie de l'information et je travaille dans mon domaine dans la vallée d'Ottawa. J'aime explorer le monde et m'enligné sur des nouveaux défits. James était mon surnom depuis l'élémentaire. J'ai combiné Logic (programmation) et Violinist (j'aime jouer du violon) pour former mon nom d'utilisateur.
 
 ## Quand et comment avez-vous découvert OpenStreetMap ?
 
