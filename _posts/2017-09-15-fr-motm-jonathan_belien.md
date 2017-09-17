@@ -136,8 +136,9 @@ de chez moi et puis pourquoi pas m'étendre vers le centre ou d'autres communes 
 Enfin, même si c'est plus du développement que de la cartographie, je suis en
 train de travailler sur un outil permettant de comparer facilement un lot de
 données avec ce qu'il y a déjà dans OpenStreetMap :
-https://github.com/jbelien/osm-compare Et il y a toujours bien sûr le fond de
-carte belge basé sur OpenStreetMap dont je m'occupe : https://tile.osm.be/
+<https://github.com/jbelien/osm-compare>
+Et il y a toujours bien sûr le fond de
+carte belge basé sur OpenStreetMap dont je m'occupe : <https://tile.osm.be/>
 
 ![tile.osm.be en Français](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jonathan-Beliën/i-zH6vq5G/1/e9e1b81f/XL/Screen%20Shot%202017-09-13%20at%2012.28.08-XL.png)
 
@@ -160,8 +161,7 @@ plus en plus en tant que base de donnes géographiques. A chaque nouvelle
 thématique pour laquelle OpenStreetMap pourrait être une source, je suis étonné
 de la qualité de ces données !
 
-## Faites-vous d'autres choses que la cartographie qui soit liées à
-## OpenStreetMap ?
+## Faites-vous d'autres choses que la cartographie qui soit liées à OpenStreetMap ?
 
 Depuis que j'ai rejoins la communauté début 2016, j'ai été bénévole aux divers
 mapathons un peu partout en Belgique (comme assistance et comme validateur) ;
