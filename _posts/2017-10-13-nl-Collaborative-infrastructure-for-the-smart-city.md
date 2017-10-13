@@ -3,7 +3,7 @@ title: "Collaborative infrastructure for the smart city"
 featured:
 layout: post
 author: joost schouppe - OpenStreetMap Belgium
-lang: en
+lang: nl
 ---
 *Bij OpenStreetMap willen we steeds de eerste zijn die nieuwe dingen in kaart brengen. Dat doen we niet enkel omdat we dat leuk vinden, maar ook om de best mogelijke dienstverlening aan onze datagebruikers te geven. En dat heeft implicaties voor lokale overheden.*
 
