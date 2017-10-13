@@ -28,3 +28,6 @@ OpenStreetMap is niet gewoon een wat minder gebruiksvriendelijk alternatief voor
 Kan onze manier van werken een model zijn voor de toekomst? Kunnen open samenwerkingsverbanden slimme steden onder stoom zetten, met een wereldwijde infrastructuur gedragen door burgers, gesteund door overheden, met ruimte voor commerciële toepassingen? En dat zonder te hoeven vastleggen wara het project juist eindigt?
 
 Wij denken van wel. Als jij ons helpt.
+
+
+Tijdens [Foss4g.be](http://2017.foss4g.be/) kunt u nader kennis met ons maken.
