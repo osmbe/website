@@ -5,7 +5,7 @@ featured_caption: "Overheidsdata in het rood. OSM in het zwart erbovenop. In de 
 layout: project
 author: Ben Abelshausen
 lang: nl
-project_lead: Joost Schouppe
+project_lead: Joost Schouppe & Ben Abelshausen
 ---
 
 Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Natuurlijk hebben we een excellent routeerbaar wegnetwerk, maar toch zijn er nog veel kleine fouten. De bedoeling van dit project is om die kleine fouten te detecteren en ontbrekende wegen toe te voegen. Tegelijk willen we er ook voor zorgen dat we nooit achterlopen op de overheidsdata, en dat we fouten aan overheidskant kunnen laten nakijken door hen.
