@@ -5,7 +5,7 @@ featured_caption: "Red is government data, the less red, the more complete OSM b
 layout: project
 author: Ben Abelshausen
 lang: en
-project_lead: Joost Schouppe
+project_lead: Joost Schouppe & Ben Abelshausen
 ---
 
 We're called OpenSTREETMap for a reason: we have an excellent road network. With turn restrictions and lane navigation, hiking paths and cycle lanes. But there are still some basic mistakes here and there. We aim to correct these mistakes by using open government datasets to verify and detect missing data. Meanwhile, we'll improve government data too, and offer you a guaranteed minimum quality.
