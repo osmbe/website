@@ -47,11 +47,12 @@ The following picture clearly shows  the old situation (dashed line) goes straig
 The tool was not only important for the communication with the citizens, but also allowed the planners to better assess the impact of their plans. Last but not least, this was also an important step in the process to update the OpenStreetMap data in a timely manner. The week before the new plan took effect (April 3, 2017), some mappers gathered in a room. The data behind the tool contained some shortcuts, but now it was important to do everything according the OpenStreetMap standards. There were some interesting discussions and a lot of work got done. The end result was that on April 3, everybody with an OpenStreetMap-based navigation tool (such as OsmAnd) could travel effortlessly through Ghent. Even today some of the famous commercial routes cannot do this properly. More information can be found on the website of the city of Ghent.
 
 ## Why do you map ?
-That's an though one. There are several reasons that I can think of:
-* I keep finding it amazing that so much is possible with crowd-sources open data. The more I get involved, the more I see the potential. I also try to convince others of this.
+That's a though one. There are several reasons that I can think of:
+* I keep finding it amazing that so much is possible with crowd-sourced open data. The more I get involved, the more I see the potential. I also try to convince others of this.
 * Mapping is a bit nerdy, even though you do not really need a technical background, so that is a perfect match for me
 * Mapping makes me zen. There is nothing that relaxes me more than trying to map a stream over several kilometers in a detailed way. And when the hours fly by, which could have been used to do a job in the house, there is still the feeling that you did something useful.
-* Mapping has something addictive. Whenever I notice I new road, I have problems to suppress the urge to map it.
+* Mapping has something addictive. Whenever I notice a new road, I have problems to suppress the urge to map it.
+
 
 ## What is the most difficult part of mapping ?
 The more you learn about OpenStreetMap, the more you realize it is not really easy. Luckily, you can start modestly and learn at your own pace. Mapping or even editing relations was something I stayed away from for a long time. Recently, though, I tried to map one from time to time. Feel free to leave a comment on one of my changesets if you find a mistake.
