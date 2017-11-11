@@ -32,7 +32,7 @@ Once these tools are up-and-running and we have done a first pass over the data,
 
 ### Current status
 
-- We are mapping in Maproulette, to get started go to this [challenge](http://maproulette.org/map/2789).
+- We are mapping in Maproulette, to get started go to this [instructions page](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions).
 - ~~We are doing a first comparison.~~
 - ~~We are building a first version of the comparison tools.~~
 
@@ -44,3 +44,4 @@ Once these tools are up-and-running and we have done a first pass over the data,
 * Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * [Presented the project at FOSS4G](http://slides.com/benabelshausen-1/deck-1).
 * Ran a first comparison and [first results](https://github.com/osmbe/road-completion/tree/master/results/wegenregister) are available.
+* Started a first Maproulette task to map missing roads
