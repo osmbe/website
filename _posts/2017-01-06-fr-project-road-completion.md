@@ -39,3 +39,4 @@ Nous allons planifier un "hackday" consacré à ce sujet. C'est pour vous si vou
 * L'inverse: validation de "Wegenregister" à partir d'OSM à Anvers ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
 * Mise en route d'[une tâche dans le "Tasking Manager belge"](https://tasks.osm.be/project/2); utilisation de la ville de Halle comme exemple.
 * [Page wiki avec les status du project](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
+* Premier tache "Maproulette": [instructions ici](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
