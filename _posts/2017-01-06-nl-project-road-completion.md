@@ -27,7 +27,7 @@ In dit kader willen we ook een meetinstrument aanbieden dat de kwaliteit van OSM
 
 ### Op de agenda
 
-We willen op korte termijn een Hackday organiseren rond dit onderwerp. Je bent er van harte welkom om te leren over open data gebruiken om OSM te verbeteren, en vice-versa. Bonuspunten als je geïnteresseerd bent in PostgreSQL-databases, vectortiles, Osmose of Maproulette.
+Binnenkort presenteren we het project op de [Trefdag Informatie Vlaanderen](https://overheid.vlaanderen.be/trefdag-informatie-vlaanderen).
 
 ### Key events van dit project
 
@@ -35,3 +35,4 @@ We willen op korte termijn een Hackday organiseren rond dit onderwerp. Je bent e
 * In omgekeerde richting: Wegenregister valideren met OSM, case study in Antwerpen ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
 * [Taak toegevoegd in de Belgische tasking manager](https://tasks.osm.be/project/2); voorbeeldproject Halle.
 * [Wiki pagina gemaakt](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project) om de concrete taken te organiseren.
+* Eerste Maproulette taak online, [instructies vind je hier](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
