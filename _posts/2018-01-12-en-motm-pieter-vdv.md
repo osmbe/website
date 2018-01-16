@@ -19,7 +19,7 @@ I am also an engaged voluteer in other fields, mainly related to nature.
 
 I learned about OpenStreetMap from one of my fellow students. He told me somewhere in 2011 or 2012 about OsmAnd en how he used it to navigate. The idea of an "Wikipedia for maps" appealed to me. However, the main reason to use it was more practical: you do not need an internet connection during your trip. Furthermore, the privacy aspect is an additional bonus.
 
-Even in that period, the navigation was quite good, although the interface was lacking a bit. Now I now that this because of the work of some hard workers that already map for many years. They are responsible for drawing the complete road network, including all small alleys and bicycle paths. So I would like to thank zors1843, joost, escada, Midgard, Polyglot, Jakka, JBelien, L'imaginaire, lodde, mjans, skyman81, Roman Guy and all those other mappers that I do not know yet or forgot.
+Even in that period, the navigation was quite good, although the interface was lacking a bit. Now I know that this because of the work of some hard workers that already map for many years. They are responsible for drawing the complete road network, including all small alleys and bicycle paths. So I would like to thank zors1843, joost, escada, Midgard, Polyglot, Jakka, JBelien, L'imaginaire, lodde, mjans, skyman81, Roman Guy and all those other mappers that I do not know yet or forgot.
 (Escada: please note that there a lot of real pioneers missing from this list, but it is not always easy to find out who added the ways)
 
 ## Do you use OpenStreetMap yourself ?
