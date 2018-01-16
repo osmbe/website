@@ -74,7 +74,7 @@ I sometimes print out maps before making a survey, but only to know the informat
 (Note: The A11 is a new motorway near Bruges/Zeebrugge which opened early September 2017. One could visit the motorway by bike before it officially opened. This event was visited by several people from the community to properly map the road).
 
 
-## Where do yo map ?
+## Where do you map ?
 
 Only in and around Bruges. I will try to be disciplined enough not to map elsewhere, otherwise I might spend way to much time on OpenStreetMap. The only exceptions will be POIs that I really need, such as the missing bluebikepoint near the (trainstation) Brussels Centraal.
 
@@ -113,7 +113,7 @@ Another strength is that everyone can map their interests. When I want to map ne
 And finally, I see the neutrality of the map as a big advantage. On a commercial map I always wonder why some shop are shown sooner than others. Or why is that particular brewery shown before the railway station ? Did the map maker get paid to do this ? Is this advertising ? The opposite could also happen. Some company can remove the data of a competitor. Or it can be influenced by politics. I believe this will not happen soon in an open environment such as OpenStreetMap.
 But perhaps I am looking to much dystopian cyberpunkt movies.
 
-## Do you anything besides mapping ?
+## Do you do anything besides mapping ?
 
 ![road surfaces](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Pieter-VDV/i-5n6PDw9/0/9bd50e59/X2/Kasseien-X2.png)
 
@@ -143,7 +143,7 @@ It would be great to have off line navigation for public transport, with the tim
 
 We can invite new mappers on the chatchannel and to meetups. The meetup I visited was the start of everything. Just to hear about all the possibilities is really motivating. It also help to learn about all the technological aspects. Which tools do I use ? How do I map something ? It also shows how the community works: without fixed rules and a lot of freedom.
 
-I believe it is imortant that all mappers find their way to the chatchannel, so they know there is a place where they can ask anything, in their own language. Or just to tell about strange encounters during a survey.
+I believe it is important that all mappers find their way to the chatchannel, so they know there is a place where they can ask anything, in their own language. Or just to tell about strange encounters during a survey.
 
 A lot of documentation can be found on the wiki or via the help website, but it is very helpfull when someone guides you through this massive amount of information, or that points you to tools such as Overpass, hdyc, etc. This is were the community really shines.
 
@@ -160,4 +160,5 @@ Again, via the Riot-channel. I also try to participate in meetups, but only if t
 ## Did OpenStreetMap change the way you look at the world ?
 
 Certainly. Through mapping, I am more aware of my environment. Suddenly, you get to know your town much better and you start noticing details such as road surfaces, surveillance cameras and infrastructure. By surveying each street systematically, you discover not only new, beautiful places but also the ugly spots. You realize that there are more smelly parkings than you ever imagined, several alleys with dirt, and shabby houses behind walls. That was confronting at times.
-Langs de andere kant heeft de routering van OsmAnd mij ook al veel nieuwe, en betere wegen leren kennen.
+
+On the other hand, OsmAnd's routing guided me already over several new, beter roads.
