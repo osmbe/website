@@ -8,7 +8,7 @@ lang: en
 
 ![Anisa Kuci at SOTM 2017](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Anisa-Kuci/i-3MXnM6V/0/402fa264/X2/36246565570_a29c315f77_o-X2.jpg)
 
-## Please introduce yourself ?
+## Please introduce yourself
 
 I am Anisa, a hackivist, a feminist, an FLOSS enthusiast and contributor from Albania, an agriculture person that through the process discovered that I am really into technology, and mostly Free Software and the ideology behind it.
 I am a member of Open Labs Hackerspace for 5 years now and also a mapper.
