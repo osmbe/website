@@ -96,7 +96,7 @@ From time to time I try to help people on the [help website](http://help.openstr
 
 I also made a few simple maps with [umap](http://umap.openstreetmap.fr/). Via the "[Doggy map](http://umap.openstreetmap.fr/en/map/een-hondse-kaart_17687#12/51.1456/4.3861)", I tried to introduce my friends from the dog world to OpenStreetMap, in the hope they would start mapping e.g. off leash areas. The map [Fritures](http://umap.openstreetmap.fr/en/map/friture_24674#7/50.688/4.950) was an attempt to give more exposure to a typical Belgian form of fast food restaurant. I think it motivated some existing mappers to add some missing fritures in their neighbourhood or to adapt some incorrect tags.
 
-**Do you have ideas to expand the OpenStreetMap community ?**
+**Do you have ideas to expand the OpenStreetMap community?**
 
 I think we need more user-friendly applications that use "our" data. OsmAnd and and [Telenav's Scout](http://www.telenav.com/) (USA-only) are good examples of such programs. I think it is a pity that we do not have a possibility to plan walks along the walking route networks, something that is possible on the [wandelknooppunt-website](http://www.wandelknooppunt.be/), but that is not using OpenStreetMap data. We have so much more data such a picnic sites, parkings, historical buildinds, taverns, etc. which might power a website that should allow a user to plan her walk much better in advance.
 

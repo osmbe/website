@@ -32,7 +32,7 @@ Why I map, simply because it's fun! And of course because it fits in my philosop
 
 **Do you do other things related to OpenStreetMap?**
 
-In the beginning I participated in a lot of discussions on the mailing lists. I also contributed a lot to the OpenStreetMap wiki to define how objects have to be tagged. Since most topics that interest me, have been sorted out, I became less active. But I still have some hobbyhorses , such as the mapping of paths in Belgium.
+In the beginning I participated in a lot of discussions on the mailing lists. I also contributed a lot to the OpenStreetMap wiki to define how objects have to be tagged. Since most topics that interest me, have been sorted out, I became less active. But I still have some hobbyhorses, such as the mapping of paths in Belgium.
 
 **What are your ideas about expanding the OpenStreetMap community? How can we motivate more people?**
 

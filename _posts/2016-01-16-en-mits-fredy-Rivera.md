@@ -18,7 +18,7 @@ So even though Openstreetmap was pretty empty, I decided to work with it. I mana
 
 Now OSM Colombia is the densest map in Latin America, if you look at the quantity of data divided by the area of the country. That has allowed the OSM map of Colombia to be used by a large number of companies, like supermarkets, taxi companies, messenger services, social and scientific researchers and even government institutions that don't have the money to buy information from the IGAC.
 
-## What do you map ? Is there any difference with your early days?
+## What do you map? Is there any difference with your early days?
 
 Mostly rural roads and tracks only accesible with 4x4. My motto is "wherever you go, map what you see". Though I also worked a lot on cities, my interest has always been the countryside. Especially as I've lived there for the last six years.
 
@@ -34,7 +34,7 @@ I map my local area, and where-ever my work takes me.
 
 Having the posibility to coordinate the Colombian Openstreetmap community and having generated the first map that was reported to be used after the earthquake in Haiti. https://lists.openstreetmap.org/pipermail/talk/2010-January/046907.html
 
-## Why do yo map ? What motivates you?
+## Why do yo map? What motivates you?
 
 I want to make maps that people can use to discover the land, free maps that they can use for whatever they want.
 
@@ -62,7 +62,7 @@ Last year, I won the "Titan Caracol" award in the technology and connectivity ca
 
 I'm hoping to use the opportunity to get the resources to buy a drone - and get it certified to use within the tight Colombian legal framework. We could really use it after disaster strikes or for humanitarian mapping in general. We have been able to do so on a few occasions with drones that were lent to us.
 
-One of my big satisfactions was writing the book buscandodragones.com , an effort to help people integrate into the wonderful world of mapping.
+One of my big satisfactions was writing the book buscandodragones.com, an effort to help people integrate into the wonderful world of mapping.
 
 The Next Adventure
 

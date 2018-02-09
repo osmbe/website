@@ -6,10 +6,10 @@ author: escada
 lang: en
 ---
 
-First of all, we are proud to announce that the "Mapper of the Month" series exists 3 years now !
+First of all, we are proud to announce that the "Mapper of the Month" series exists 3 years now! 
 This time we have a duo-interview: Horea Meleg and Florin Badita. They both work for Telenav in Romenia. I hope you enjoy reading how paid mappers collaborate in our community.
 
-## Can you present yourselves ?
+## Can you present yourselves? 
 Horea: My name is Horea Meleg, I live in Cluj Napoca. I’m a map analyst at Telenav, and I work here since August 2016. I love playing and watching soccer. I also like to sing, to travel and go hiking. Obvious, I got my nickname (hoream_telenav) from my name and from the company I work for.
 
 ![Horea](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-ZLx99zH/0/793f118a/L/1451311_878771192165725_6572949533461042750_n-L.jpg)
@@ -48,7 +48,7 @@ Horea: I never surveyed a zone, but I’m planning to map my hometown. And for t
 
 Florin: I use Field Papers, print them, write the information on them and scan them back with the JOSM plugin
 
-##  Which tools do you use  ?
+##  Which tools do you use ? 
 
 Florin: JOSM for the win!
 For QA: Keep Right, Osmose, Improve OSM (made by Telenav), and our internal Integrity Checker suite.
@@ -92,7 +92,7 @@ Horea: In our mapping team, I’m responsible to engage with the OSM community. 
 
 Florin: For me, that is mostly via SOTM and mapping parties.
 
-## Do you use OpenStreetMap yourself ?
+## Do you use OpenStreetMap yourself? 
 
 Florin: Via Maps.me when I travel abroad
 

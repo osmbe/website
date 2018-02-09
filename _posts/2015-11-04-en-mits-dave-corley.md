@@ -110,4 +110,4 @@ I’m as active as I can be in the Irish Open Data / Open Government scene and w
 
 Over the last 2 years I’ve been into colleges and schools teaching people how to map or use OSM for various purposes.
 
-Thanks a lot for this interesting interview. It is really appreciated that you took the time , although you were very busy the past few weeks.
+Thanks a lot for this interesting interview. It is really appreciated that you took the time, although you were very busy the past few weeks.

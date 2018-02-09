@@ -28,7 +28,7 @@ Zoals je kunt zien in mijn <a href="http://hdyc.neis-one.org/?peeweeke">stats-pa
 
 Zoals ik al eerder zei ga ik voornamelijk mappen dichtbij huis. In België dus, maar mijn wandeltochten brengen me ook over de grens naar Zeeland in Nederland of het Departement du Nord in Frankrijk. Verder heb ik al verteld over mijn avonturen in Wales en wat kleine correcties in Kent. Toen ik in 2012 mijn GPS meenam op reis naar Ierland, kon ik het niet laten om 2 wandelingen te mappen. Toen ik in contact kwam met Jorieke op een van de eerste OpenStreetMap meetups in België en zij vol passie vertelde over haar werk in de Centraal Afrikaanse Republiek, heb ik ook bij HOT mijn licht eens opgestoken. En even later heb ik na overstromingen in India mijn handen uit de mouwen gestoken voor het goede doel. Recent op de Missing Maps Mapathon heb ik me erg geamuseerd en het heeft een goed gevoel zo een bruikbare donatie te kunnen doen. Met HOT ben ik zowat de ganse wereld rondgeweest: in India, maar ook recent in de Centraal Afrikaanse Republiek, Mali en in Congo-Kinshasa. Ik heb zelfs 8 wijzigingen gedaan op onbekende locaties, waarschijnlijk de maan...
 
-**Wat map je zoal ?**
+**Wat map je zoal?**
 
 Mijn begindagen waren schuchter en zeer voorzichtig. Zoals ik al vertelde deed ik er bijna een jaar over tussen een account aanmaken en editeren. Nu gaat alles een stuk sneller. Ik wandel of fiets wat rond met mijn GPS en als ik thuis kom zet ik alles online. Ik heb niet echt een specialisatie, maar als ik iets tegenkom dat niet gemapt is, dan ga ik daar een tijdje op focussen, zoals de busroutes in Brugge. Twee zomers geleden heb ik me vooral beziggehouden met het verbeteren van de kaart van mijn buurt. Hierbij focuste ik op de straten, wandelpaden en speeltuinen. Sint-Pieters is nu volledig in kaart gebracht, net zoals Sint-Jozef. Toen ik deze zomer een stapje verder ging en ook de huisnummers begon te mappen (met behulp van FieldPapers) in mijn buurt geraakte ik soms in discussie met buurtbewoners die me maar 'een rare' vonden. Uitleg was hier gewoon overbodig. Enkele jaren geleden begon ik ook met het afwandelen van de wandelknooppunten in de buurt. Zo heb ik het Zwin-netwerk vervolledigd, het Kustwandelnetwerk (de link tussen Zwin en Westhoek) en zelfs wat grensoverschrijdend werk verricht in Frankrijk. De Westhoek loopt namelijk door tot iets voor Duinkerke. In Nederland ben ik blijven hangen. De kwaliteit en originaliteit is zoveel beter dan in West-Vlaanderen, waardoor al een groot deel van het "Grenzeloos Genieten netwerk" op OpenStreetMap staat. En zo zijn er nog projecten die ik in de toekomst wat aandacht ga geven.
 
@@ -52,7 +52,7 @@ De grootste sterkste is neutraliteit. Als groep houden we ons niet bezig met bel
 
 De maandelijkse meet-ups en OSM.be uiteraard.
 
-**Heb je contact met andere mappers ?**
+**Heb je contact met andere mappers?**
 
 Ik heb in het verleden enkele pogingen ondernomen om mappers in mijn buurt aan te spreken, zonder groot gevolg. Ik heb één mapper bereid gevonden om eens een koffie te gaan drinken, maar al snel merkte ik dat we op een andere golflengte zaten. Waar ik wel wat uithaal zijn de maandelijkse meet-ups die ik zo nu en dan eens bezoek.
 

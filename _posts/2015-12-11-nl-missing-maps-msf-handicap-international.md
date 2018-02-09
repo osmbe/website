@@ -56,4 +56,4 @@ Wie helemaal goed voorbereid wil komen: neem eens een kijkje op deze snelle intr
 
 Meer informatie over Missing Maps kan je vinden in dit artikel op deredactie.be en in deze aflevering van 'Vandaag' op radio1. Je kan ook een kijkje nemen op de Missing Maps website of contacteer ons via twitter of via community@osm.be. 
 
-Dit evenement werd mogelijk gemaakt door stad Gent . Missing Maps heeft geen budget voor zalen. De stad heeft voor ons gratis deze locatie ter beschikking gesteld.
+Dit evenement werd mogelijk gemaakt door stad Gent. Missing Maps heeft geen budget voor zalen. De stad heeft voor ons gratis deze locatie ter beschikking gesteld.

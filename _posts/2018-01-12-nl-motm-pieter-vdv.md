@@ -8,19 +8,19 @@ lang: nl
 Deze keer hebben we een jonge, beginnende Belgische mapper vol enthousiasme. Hij kan uren praten over OpenStreetMap en dat zie je
 ook wel aan de lengte van het interview. We hopen echter dat zijn enthousiasme aanstekelijk werkt. Veel leesplezier.
 
-## Kan je jezelf even introduceren ?
+## Kan je jezelf even introduceren? 
 
 Ik ben dus Pieter. Ondertussen ben ik afgestudeerd als informaticus aan de UGent, in de kleine en ondertussen afgeschafte richting 'Wiskundige Informatica'. Met andere woorden, ik kom uit een grote hoop nerds op één hoop, waar velen een (net zoals ik) een voorliefde hadden voor open source zoals linux, firefox, ...
 
 Ook op andere vlakken ben ik een vrij grote geëngageerde vrijwilliger, vooral naar de natuur toe.
 
-## Wanneer en op welke manier leerde je OpenStreetMap kennen ?
+## Wanneer en op welke manier leerde je OpenStreetMap kennen? 
 
 Via een medeleerling is ook hoe ik OSM leerde kennen. Hij vertelde mij anno 2011 of 2012 over OsmAnd en hoe hij dit gebruikt om te navigeren. Het idee van een 'wikipedia voor kaarten' sprak mij aan, maar ik ben het vooral beginnen gebruiken om een praktische reden: er is geen internet nodig voor het navigeren zelf. Het privacyaspect is ook mooi meegenomen.
 
 Ook toen al bijzonder goed (al was de interface onhandig). Nu weet ik dat ik dat te danken heb aan enkele harde werkers die er al jarenlang mee bezig zijn en zowat het hele wegennetwerk hebben getekend, inclusief de kleine straatjes en fietspaden. Dus bij deze: bedankt aan zors1843, joost, escada, Midgard, Polyglot, Jakka, JBelien, L'imaginaire, lodde, mjans, skyman81, Roman Guy, en al die talloze anderen die ik vergeet omdat ik ze niet echt ken.
 (Escada: merk op dat veel echte pioneers ontbreken in dit lijstje. Het is niet altijd eenvoudig om hen terug te vinden)
-## Gebruik je OpenStreetMap ook zelf ?
+## Gebruik je OpenStreetMap ook zelf? 
 
 Ja, ik ben al jarenlang gebruiker van OsmAnd, vooral om mij op de fiets de weg te wijzen. Verder heb ik ook al mijn gezinsleden sterk aangemoedigd om OsmAnd te gebruiken (lees: ik heb hen een OsmAnd+ cadeau gedaan - mijn beltegoed raakt toch nooit op). Ze gaan regelmatig eens op reis; en dan zijn ze erg blij dat ze de kaarten van hun bestemming al offline hebben staan. Nu zijn de tools daar klaar voor: OsmAnd is vrij gebruiksvriendelijk, de kaarten zijn zo goed als volledig.
 
@@ -30,7 +30,7 @@ OsmAnd is een echt zwitsers zakmes; je kunt er zo'n beetje alles mee doen. Ook s
 
 Dat was in februari 2016. Daarna heb ik lang niets meer gemapt, tot nu. Door af te studeren heb ik wat tijd bijgekregen en dit bleek een leuke hobby te zijn.
 
-## Hoe map je ?
+## Hoe map je? 
 
 ![Uitrusting](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Pieter-VDV/i-rsZDvhc/0/49283f8c/X2/20171121_025655-X2.jpg)
 
@@ -56,7 +56,7 @@ Ook schakelaars van neon-lampen zijn een favoriet en één van de eerste dingen 
 
 Die combinatie vind ik ook om een andere reden ontzetten leuk: hoe cyberpunk is het niet om neonlampen én bewakingscameras op hetzelfde moment in kaart te brengen, als ondertussen mijn geherprogrammeerde smartphone een dikke cyberpunk-tune door in mijn koptelefoon blaast...
 
-## Welke tools gebruik je  ?
+## Welke tools gebruik je ? 
 
 Als ik ga gaan mappen, is er één essentieel onderdeel: mijn smartphone met daarop OsmAnd en StreetComplete. Met StreetComplete geef ik de wegdekinformatie in en de andere quests - hiervoor heb ik StreetComplete licht aangepast. Ik noteer immers ook welke soort kassei het is (grote, die in bogen gelegd, in lange vierkante lijnen ...) StreetComplete kon dat origineel niet, de aangepaste versie wél. Dat maakt het een pak handiger.
 
@@ -72,7 +72,7 @@ Deze A11-anecdote bewijst wel hoe goed het concept van gecrowdfunde kaarten werk
 
 De lintmeters heb ik ook altijd bij. Waarom twee exemplaren? Eentje is klein en handig omdat hij vlotjes oprolt, maar die kan maar tot 3m gaan. De grotere gebruik ik als fietspaden breder zijn dan 3m.
 
-## En waar map je ?
+## En waar map je? 
 
 Enkel in en rond Brugge. Ik ga mijzelf disciplineren om niet ergens anders te gaan mappen, want anders ga ik mijzelf er teveel in verliezen. De enige uitzondering hierop zijn zaken die ik écht nodig heb, zoals het ontbrekende bluebikepunt van Brussel Centraal.
 
@@ -85,7 +85,7 @@ Mijn kaartje van de wegbedekkingen in Brugge is best wel mooi om zien! En het is
 
 Ook de bewakingscamera-kaart en breedtes van fietspaden mogen gezien worden. (AKA: tijd om écht werk te zoeken).
 
-## Waarom map je ? Wat motiveert je ?
+## Waarom map je? Wat motiveert je? 
 
 Om te beginnen is het gewoon ontzettend leuk en verslavend. Ten tweede is het ook erg nuttig. Als ik nu een wegdek of nieuw klein baantje karteer, dan landt die update een uur later op mijn GSM (jep, OsmAnd Live - opnieuw: mijn beltegoed raakt toch niet op). Dat betekent dat mijn GSM een uur later die informatie al kan gebruiken in de navigatie.
 
@@ -111,7 +111,7 @@ Daarbij sluit ook de open mindset goed aan. Je mag doen wat je wilt, zolang je m
 
 Ten derde is ook de neutraliteit van de kaart een groot pluspunt. Bij een commerciele kaart stel ik mij altijd de vraag waarom bepaalde winkels of hotels sneller worden getoond dan anderen. Als ik die ene commerciele kaart bekijk, zie ik standaard een zekere brouwerij verschijnen - zelfs bij een lage zoom. Waarom die ene brouwerij, en niet het station? Werd de kaartmaker hiervoor betaald? Is dit een vorm van advertering? Ook het omgekeerde kan natuurlijk gebeuren. Een concurrend bedrijf zou plots kunnen 'verdwijnen', of een bepaald politiek protest kan afgezwakt worden door de afspreekplaats te laten verdwijnen of door mensen verschillende foute kanten op te sturen. Deze laatste scenario's zijn gelukkig vergezocht, maar technisch wel mogelijk. Met een open en offline kaart is zoiets natuurlijk moeilijker of onmogelijk om zoiets op touw te zetten. (Of misschien kijk ik teveel dystopische cyberpunk films, dat kan ook wel zijn.)
 
-## Doe je ook nog andere dingen ivm OpenStreetMap ?
+## Doe je ook nog andere dingen ivm OpenStreetMap? 
 
 ![bestrating in OsmAnd](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Pieter-VDV/i-5n6PDw9/0/9bd50e59/X2/Kasseien-X2.png)
 
@@ -119,7 +119,7 @@ Een klein beetje. Ik probeer om actief de liefde ervoor over te dragen, vooral d
 
 Graag zou ik nog wat verder spelen met de routing engine. Om te beginnen wil ik wat tijd maken om het fietsrouteren wat te verbeteren door met de parameters te spelen en meer opties te geven, die ik ook upstream wil pushen - samen met meer documentatie. En tegen de volgende skivakantie zou ook routering voor skieëers wel eens leuk kunnen zijn. Maar dat zijn dingen waar ik eerst de tijd voor moet vinden.
 
-## Wat is de grootste uitdaging/moeilijkheid voor OpenStreetMap ?
+## Wat is de grootste uitdaging/moeilijkheid voor OpenStreetMap? 
 
 Naamsbekendheid. Niemand kent OSM of zijn filosofie; door de bikkelharde concurrentie van Google Maps. Zelfs in de alternatievere milieus is dit een probleem. Nochtans zijn net zij vaak gevoeliger voor het open karakter, de privacy-aspecten, het offline gebruik...
 
@@ -131,7 +131,7 @@ Ten laatste bestaat de OSM-Be community enkel uit mannen die hoofdzakelijk uit d
 
 Ook het niet-commerciele karakter van OSM is soms een nadeel. Google Maps heeft véél meer winkels dan OSM - en ook veel meer animo om winkels toe te voegen, want iedereen kijkt om Google... Netwerkeffect dus; dat zouden we moeten kunnen keren. Met encyclopediëen hadden we het grote geluk dat Wikipedia eerst was, en geen bedrijf zoals Google of Facebook dit onmiddelijk in handen kreeg. OSM heeft dat geluk niet; daar gaan we dus tegen dit netwerkeffect op moeten boksen. Gelukkig is dit kleiner dan dat van een communicatienetwerk. Het is eenvoudiger om gebruiker per gebruiker over te schakelen dan een volledige groep in één keer.
 
-## Heb je nieuwe ideeën om OpenStreetMap naar het volgende niveau te trekken ?
+## Heb je nieuwe ideeën om OpenStreetMap naar het volgende niveau te trekken? 
 
 De kers op de taart is offline routering van openbaar vervoer, met de bus- en treinuren. Een technisch haast onmogelijke opdracht, ik weet het, maar dat zou fantastisch zijn. (@Ben: ja, dit was al geschreven voordat ik je heb leren kennen op de HotOSM in Brussel)
 
@@ -145,11 +145,11 @@ Veel staat op wiki.openstreetmap.org of op help.openstreetmap.org; maar het help
 
 We zouden dus iets of iemand aan moeten stellen om iedereen die pakweg aan zijn tiende changeset zit, eenmalig een berichtje te sturen met de link naar de chat en de meetup-pagina. Daarmee zouden we veel losse mappers dichterbij kunnen trekken. In het slechtste geval gaan ze gewoon alleen verder, maar sowieso steken ze wel iets op van extra kennis en gaan ze achteraf enthousiaster aan de slag. Mss een taak van Open Knowledge Belgie? Of iets om eens te bespreken?
 
-## Hoe blijf je op de hoogte van nieuwtjes ivm OpenStreetMap ?
+## Hoe blijf je op de hoogte van nieuwtjes ivm OpenStreetMap? 
 
 Enkel via het Belgische chat-kanaal en de Belgische mailinglijst eigenlijk. En het blijft een klein wereldje, dus als je wat geinterreseerd bent in open data, computers, informatica, ... dan kom je elkaar snel tegen.
 
-## Heb je contact met andere mappers ?
+## Heb je contact met andere mappers? 
 
 Opnieuw het Belgische Riot-kanaal. Ik probeer ook om op de meetups te raken, maar dan mogen die niet aan de andere kant van het land zijn. En door dit artikel te schrijven en eens door de contributor-lijst te gaan, heb ik ook wat nieuwe mappers een berichtje gestuurd.
 

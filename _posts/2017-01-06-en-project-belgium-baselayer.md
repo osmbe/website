@@ -14,45 +14,45 @@ We want to provide you with a third option, at least for Belgium, that is both o
 This project aims to host for you a custom OpenStreetMap tile rendering for Belgium so you can use OpenStreetMap in your application without depending on a commercial service and without having to know anything about hosting.
 We also provide Belgium-specific renderings, like custom icons for train stations and bus stops for example. This helps keep OpenStreetMap in Belgium open and free for everyone.
 
-This custom OpenStreetMap rendering will be available in 4 languages :
+This custom OpenStreetMap rendering will be available in 4 languages: 
 
-* Default "name" tag ;
-* In French, with "name:fr" tag ;
-* In Dutch, with "name:nl" tag ;
-* In German, with "name:de" tag ;
+* Default "name" tag; 
+* In French, with "name:fr" tag; 
+* In Dutch, with "name:nl" tag; 
+* In German, with "name:de" tag; 
 
 ### Project key events
 
-We first tried using VectorTiles for OSMBE baselayer ; it works quite well but I do not think the technology is ready yet.
+We first tried using VectorTiles for OSMBE baselayer; it works quite well but I do not think the technology is ready yet.
 
-So we went back to good old raster tiles with <https://switch2osm.org/> :
+So we went back to good old raster tiles with <https://switch2osm.org/>: 
 
-- Fork of <https://github.com/gravitystorm/openstreetmap-carto> ;
-- Edit parameters for Belgium languages ; if the `name:fr` (or `name:nl` or `name:de`) is not available, the `name` will be displayed ;
+- Fork of <https://github.com/gravitystorm/openstreetmap-carto>; 
+- Edit parameters for Belgium languages; if the `name:fr` (or `name:nl` or `name:de`) is not available, the `name` will be displayed; 
 - Add custom icons/rendering
 - Host the tile server on <https://tile.osm.be/>
-- Write the documentation : <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+- Write the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 - Enable auto-update of the tiles (once a week, every Sunday)
 
-**Update mid-2017 :** Thanks to [OpenMapTiles](https://openmaptiles.org/) project, it should be easier to produce and maintain VectorTiles for Belgium. It will be online in a near future.
+**Update mid-2017:** Thanks to [OpenMapTiles](https://openmaptiles.org/) project, it should be easier to produce and maintain VectorTiles for Belgium. It will be online in a near future.
 
 ### Custom icons/rendering
 
-- Pharmacy : green "+" sign ;
+- Pharmacy: green "+" sign; 
 
-### How to use it ?
+### How to use it? 
 
-You can see the baselayers available here : <https://tile.osm.be/>.
+You can see the baselayers available here: <https://tile.osm.be/>.
 
-Everyone can use the tiles inside their own applications by using *OpenLayers*, *Leaflet* or any other library :
+Everyone can use the tiles inside their own applications by using *OpenLayers*, *Leaflet* or any other library: 
 
-- If you want to use it with *[OpenLayers](https://openlayers.org/)*, check <https://github.com/jbelien/openstreetmap-carto-be/wiki/> ;
-- Documentation for *[Leaflet](http://leafletjs.com/)* still need to be written ;
+- If you want to use it with *[OpenLayers](https://openlayers.org/)*, check <https://github.com/jbelien/openstreetmap-carto-be/wiki/>; 
+- Documentation for *[Leaflet](http://leafletjs.com/)* still need to be written; 
 
-**Please respect the [usage policy](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) !**
+**Please respect the [usage policy](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy)!**
 
 ### Project documentation
 
-- Custom OSMBE style : <https://github.com/jbelien/openstreetmap-carto-be>
-- Documentation : <https://github.com/jbelien/openstreetmap-carto-be/wiki>
-- Usage policy : <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
+- Custom OSMBE style: <https://github.com/jbelien/openstreetmap-carto-be>
+- Documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+- Usage policy: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>

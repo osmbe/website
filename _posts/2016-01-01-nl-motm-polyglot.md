@@ -7,7 +7,7 @@ lang: nl
 
 _Polyglot is netwerkbeheerder en woont in België. Zijn hobbies wisselen nogal doorheen de tijd: talen leren, fietsen, paardrijden, oh en ... OpenStreetMap neemt nogal een hap uit zijn vrije tijd!_
 
-**Wanneer en op welke manier leerde je OpenStreetMap kennen ?**
+**Wanneer en op welke manier leerde je OpenStreetMap kennen?**
 
 Blijkbaar is dat ondertussen alweer 8 jaar geleden. Ik wilde graag iets terugdoen voor de vrije softwarewereld. Een echte programmeur ben ik niet, dus gedurende een paar jaar uitte zich dat in bijdragen aan de Engelstalige Wiktionary. Dit totdat het daar wat saai werd, omwille van vandalismebestrijding die meer tijd in beslag begon te nemen dan bezig zijn met de inhoud.
 OpenStreetMap had het voordeel dat je enerzijds buiten komt en actief bezig bent en anderzijds toch met de computer bezig bent. Op die manier herbeleeft je als het ware ook je wandeling of fietstocht. Het maakt de ervaring alleszins intenser.
@@ -17,7 +17,7 @@ Sinds ik Mapillary ontdekte is de focus weer wat verschoven. Nu is het maken van
 
 Vreemd genoeg, niet zo heel vaak. Of misschien toch wel, bijvoorbeeld via OsmAnd. Prachtig toch dat je de data voor ons hele landje offline mee kan nemen op je smartphone. 
 Ook heb ik wel eens een [kaartje](https://upload.wikimedia.org/wikipedia/commons/a/a2/Pad_van_Ad_op_OSM.png)  gemaakt met Maperitive ter illustratie van een artikel  op [Wikivoyage](https://en.wikivoyage.org/wiki/Ad) en [Wikipedia](https://en.wikipedia.org/wiki/Ad_Wouters). Om er dan achter te komen, dat ze daar al een geïntegreerd kaartje op basis van OpenStreetMap hebben. Wat zo bijzonder is aan dat kaartje, is dat het een aantal zaken combineert en dat het 10 jaar geleden ondenkbaar was dat Jan met de pet, zoiets zou kunnen realiseren. Het toont busroutes en haltes, het toont wandelknooppunten en het toont natuurlijk een gedetailleerde 'achtergrond'. Daaroverheen toont het dan natuurlijk het onderwerp van de kaart: een route die houten beelden van Ad Wouters verbindt doorheen het bos.
-Een heel mooi initiatief vind ik [umap.openstreetmap.fr](http://umap.openstreetmap.fr/nl/user/Polyglot/) , oh en Overpass API, natuurlijk. Onschatbaar waardevol.
+Een heel mooi initiatief vind ik [umap.openstreetmap.fr](http://umap.openstreetmap.fr/nl/user/Polyglot/), oh en Overpass API, natuurlijk. Onschatbaar waardevol.
 
 **Hoe map je?**
 

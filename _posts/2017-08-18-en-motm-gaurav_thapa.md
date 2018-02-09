@@ -9,7 +9,7 @@ lang: en
 My name is Gaurav Thapa and I am currently employed as a Geographer/Project Manager at Kathmandu Living Labs in Nepal.  I currently live in Pokhara, Nepal but also spend a considerable amount of time in my hometown of Kathmandu, Nepal. Travelling and seeing new places continues to be one of my great passions and mapping has allowed me to travel to places where I will never be able to go physically. Beyond this my hobbies include playing football, cycling and attempting to be away from my computer as much as possible.
 
 ![Gaurav Thapa](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Gaurav-Thapa/i-2CcNB8c/0/9e4d2b22/X3/IMG_20170105_092817-X3.jpg)
-## When and how did you discover OpenStreetMap ?
+## When and how did you discover OpenStreetMap? 
 I discovered OSM when I was studying for my Master’s degree in 2013. At this point I was looking for a free source of geographic data of Kathmandu Valley in order to create my thesis proposal. However, I only truly began using it once I joined Kathmandu Living Labs in 2016. My current account has this as the start date of my OSM journey.
 
 ## What do you map? Is there any difference with your early days?

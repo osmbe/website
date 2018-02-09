@@ -17,7 +17,7 @@ Ik gebruik OpenStreetMap regelmatig om informatie op te zoeken en te visualizere
 
 **Welk type mapper ben je?**
 
-Ik heb eigenlijk drie gezichten : 
+Ik heb eigenlijk drie gezichten:  
 
 * als occasionele mapper op het terrein: Af en toe verzamel ik informatie op straat. Vooral wanneer ik op vakantie ben, maak ik notities voor OpenStreetmap. Dit in combinatie met GPS-traces en foto's voor Mapillary. 
 * als mapper op afstand, vanuit mijn woonkamer: Dit is dan vooral voor de import van de Urbis gegevensbank, maar ik map ook veel in het zuiden van België.
@@ -29,11 +29,11 @@ Ik map dus vooral in Brussel en van op afstand ook in het zuiden van België.
 
 Ik ben niet gespecialiseerd in iets bijzonders. Ik zou enkel graag zien dat OpenStreetMap gebruikt wordt in het dagdagelijkse leven van zo veel mogelijk mensen. Dit doordat de gegevens op OpenStreetMap even, of zelfs meer, betrouwbaar zijn als op Google Maps. Dus ik help bijgevolg veel in het mappen van adressen en informatie voor routing zoals maximum snelheden, kruispunten, namen, ...
 
-**Wat is jouw grootste verwezenlijking ?**
+**Wat is jouw grootste verwezenlijking?**
 
 Verwezelijking? Ik denk dat ik een grote deel van de Urbis import heb gedaan. En zelfs al is de import nog niet helemaal afgewerkt, toch is een groot deel van de Brusselse adressen nu te vinden op OpenStreetMap.
 
-**Waarom map je ?**
+**Waarom map je?**
 
 De rijke gegevensbank die open en vrij te gebruiken is door mens en machine...
 
@@ -41,7 +41,7 @@ De rijke gegevensbank die open en vrij te gebruiken is door mens en machine...
 
 Ik heb hier een daar een statistiek gemaakt. Verder heb ik een App ontwikkeld, genaamd [OpenFixMap](http://wiki.openstreetmap.org/wiki/OpenFixMap). Ik zou er wel eens werk moeten van maken om ze te updaten. Maar het blijft toch vooral bij mondelinge reklame maken in mijn omgeving.
 
-**Heb je contacten met andere mappers ?**
+**Heb je contacten met andere mappers?**
 
 Ik heb een beetje contact met Julien Fastré en met vrienden die ook mapper zijn  (Hello Pollux!) maar daarbuiten heb ik weinig of geen contacten.
 
@@ -49,7 +49,7 @@ Ik heb een beetje contact met Julien Fastré en met vrienden die ook mapper zijn
 
 Ik denk dat we echt moeten inzetten op "gamification". MapRoulette is al een goed begin, maar ik denk toch eerder in de richting van Ingres of Waze. Dit laat toe dat de mensen bijdragen zonder dat ze zelf echt moeten mappen.
 
-**Hoe blijf je op de hoogte van OpenStreetMap nieuws ?**
+**Hoe blijf je op de hoogte van OpenStreetMap nieuws?**
 
 Ik volg de mailing lijsten, heb een RSS-feed en kijk op op Twitter. Ik denk wel dat ik goed op de hoogte blijf.
 

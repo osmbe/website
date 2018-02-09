@@ -16,7 +16,7 @@ Marc his first victim is Clifford Snow, hemet him on the talk-us mailing list an
 
 I map as [Glassman](http://www.openstreetmap.org/user/Glassman). I worked in telecom operations for a number of years and even spend 10 years trying to make money blowing glass. I didn't succeed at making money but I did come away with a nice nickname and a love for glass art. I live with my wife in [Mount Vernon](http://www.openstreetmap.org/relation/237865), Skagit County, Washington State in the US. I have lived all over the US and once in Canada and Turkey. Washington State is by far the best location.
 
-**When and how did you discover OpenStreetMap ?**
+**When and how did you discover OpenStreetMap?**
 
 While I had heard about OSM, it wasn't until I attended the Bellingham WA LinuxfestNW conference that I fell in love with the project. Even when you attend a conference with a large number of tracks you occasionally find yourself with some time slots where nothing appeals to you. Since I had heard of OSM, I decided to fill the time by listening to [Hurricane Coast's](http://www.openstreetmap.org/user/HurricaneCoast)OSM presentation. Thanks to Hurricane, I've been having fun with OSM ever since. Four years later, I gave my first presentation at the Bellingham LinuxfestNW on the power of crowdsourcing maps using OSM.
 
@@ -40,7 +40,7 @@ I mostly map locally. This summer we took a month long road trip mapping along t
 
 When introducing new people to OSM we start by having them map something in their local neighborhood, then we talk about the area we are mapping which ranges from nearby cities to HOT tasks.
 
-**What is your biggest achievement as mapper ?**
+**What is your biggest achievement as mapper?**
 
 Probably being part of the team that imported [[Seattle's buildings and addresses](http://wiki.openstreetmap.org/wiki/Seattle_Import). We took on Steve Coast's call to add addresses to OSM. Locally we concluded that manually adding of addresses is too boring. No one was excited about walking streets to collect addresses. With the King County and the City of Seattle's open data, we were able to not only import all of the buildings and addresses but we helped build a stronger local OSM community. With Jeff Meyer, a devoted group of local open source GIS enthusiasts from [cugos.org]([http://cugos.org/](http://cugos.org/)), and local OSM mappers we completed the task of adding every building and address. Not only that but we gave back address corrections to the county. (Which they still haven't fixed. Paul I'm talking to you.)
 

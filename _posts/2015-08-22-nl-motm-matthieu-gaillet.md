@@ -28,7 +28,7 @@ Dat moet [relatie 4128428](http://www.openstreetmap.org/relation/4128428) zijn. 
 
 Ik ben eraan begonnen midden 2014, toen ik daarvoor een geschreven toestemming kreeg van IDETA. Beetje bij beetje en avond na avond, ben ik dan aan 75% geraakt. En toen kreeg ik bericht van IDETA dat ik een nieuw document moest ondertekenen. Een document dat volledig in strijd was met de [ODbL licentie](http://opendatacommons.org/licenses/odbl/) van OpenStreetMap.
 Toen ben ik  getransformeerd in evangelist van de open data - voorlopig zonder succes, maar we blijven proberen! In afwachting ben ik uiteraard gestopt met het mappen van het fietsnetwerk dat mij al zoveel manuren gekost had.
-Het fietsnetwerk heeft mij ook verplicht om JOSM aan te leren, wat geen kleinigheid is! Om eerlijk te zijn, ik verafschuw JOSM zowat even erg als dat ik het aanbid voor zijn kracht. Niet bepaald gebruiksvriendelijk, middelmatige performance, gebruikersinterface uit begin jaren negentig. Maar voor geavanceerd mappen kan je er niet rond - en doet hij wat hij moet doen .
+Het fietsnetwerk heeft mij ook verplicht om JOSM aan te leren, wat geen kleinigheid is! Om eerlijk te zijn, ik verafschuw JOSM zowat even erg als dat ik het aanbid voor zijn kracht. Niet bepaald gebruiksvriendelijk, middelmatige performance, gebruikersinterface uit begin jaren negentig. Maar voor geavanceerd mappen kan je er niet rond - en doet hij wat hij moet doen. 
 Een ander mooi moment was wanneer de Stad Brussel een geheel nieuwe verkeerspan voor de stad introduceerde. Heel wat straten, hele buurten werden door elkaar gegooid door de invoer van een nieuwe parkeerroute en de uitbreiding van het wandelgebied. Ik had enkele dagen op voorhand een changeset klaar met alle veranderingen, die wou ik uploaden om middernacht, klokslag wanneer het plan in voege ging.  Maar andere mappers adviseerden mij om niet zo lang te wachten, om te voorkomen dat de changeset te veel conflicten zou genereren. Uiteindelijk was de kaart dus drie dagen te vroeg up to date. Wat maakt dat we wel kunnen zeggen dat OSM  helemaal up to date was voor al de anderen. :-)
 
 **Waarom map je?**
@@ -52,7 +52,7 @@ Zijn universaliteit, en zijn capaciteit om zich aan te passen aan de noden en we
 
 Onmisbaar worden en veel zichtbaarder worden door zijn gegevens te integreren in toepassingen van externen. 
 
-**Hoe blijf je op de hoogte van nieuwtjes ivm OpenStreetMap ?**
+**Hoe blijf je op de hoogte van nieuwtjes ivm OpenStreetMap?**
 
 Via de Belgische  mailing list en via de [OSMweekly](http://www.weeklyosm.eu/) die ik via de mailing list heb leren kennen.
  

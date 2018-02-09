@@ -47,7 +47,7 @@ Ik verheug me ook op mijn komende verhuis, om die nieuwe wijk ook in de databank
 **Heb je ideeën om de OpenStreetMap gemeenschap te laten groeien?**
 
 Ik vind de initiatieven van de laatste maanden om nieuwe mappers op te vangen heel "cool".
-De mapathon bij de universiteiten in April van dit jaar en deze voor de daklozen trekken ook nieuwe mappers aan. Ik verheug me op meer !
+De mapathon bij de universiteiten in April van dit jaar en deze voor de daklozen trekken ook nieuwe mappers aan. Ik verheug me op meer! 
 
 **Wat is de grootste sterkte van OpenStreetMap?**
 

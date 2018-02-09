@@ -51,7 +51,7 @@ I compile my own maps using OSM data, the Java program mkgmap along with styles 
 Garmin Basecamp screenshot -
 located at N18.54171° E98.94377°
 
-## Why do you map ? What motivates you?
+## Why do you map? What motivates you?
 
 I map mainly because I love maps and always have. Contributing to an open source map of the world is wonderful stuff and plays well to my talents and disposition. There is also a part of me that feels making a map is a contribution to our culture and to a sense of place that many of us lack because we no longer reside in the neighborhoods we lived in as a child; I am certainly one of those. We are truly citizens of the world and mapping the places we live in makes them more familiar, more like home.
 

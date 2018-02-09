@@ -22,7 +22,7 @@ I have three faces:
 
 * the occasional surveyor: during my holidays I often take notes to map later on. I also collect traces or take pictures for Mapillary.
 * the mapper at distance: from my living room. I worked a lot on the Urbis import, but also in the southern part of Belgium.
-* making corrections : I regularly use [Osmose](http://osmose.openstreetmap.fr/fr/) and [KeepRight](http://wiki.openstreetmap.org/wiki/FR:Keep_Right) or just JOSM to correct errors.
+* making corrections: I regularly use [Osmose](http://osmose.openstreetmap.fr/fr/) and [KeepRight](http://wiki.openstreetmap.org/wiki/FR:Keep_Right) or just JOSM to correct errors.
 
 Thus, I mainly map in Brussels, but also in the Southern part of Belgium.
 
@@ -30,9 +30,9 @@ Thus, I mainly map in Brussels, but also in the Southern part of Belgium.
 
 I'm not specialized in something particular. I just would like to see that OpenStreetMap is used in the everyday life of a maximum of people with data as reliable (or even more reliable) as Google Maps. So I help a lot in mapping address information and information for routing like maximum speed, junctions, names, ...
 
-**What is you biggest accomplishment as mapper ?**
+**What is you biggest accomplishment as mapper?**
 
-Accomplishment ? I think that I did a rather large part of the Urbis import. Even if the work is not completely done yet, it still means that the majority of the addresses in Brussels are now mapped.
+Accomplishment? I think that I did a rather large part of the Urbis import. Even if the work is not completely done yet, it still means that the majority of the addresses in Brussels are now mapped.
 
 **Why do you map?**
 

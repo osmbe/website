@@ -6,7 +6,7 @@ author: Marc Gemis
 lang: en
 ---
 
-_Pierre Parmentier is an engineer in construction. He first worked on construction sites and projects in Africa, the Middle East and South America. Then in Belgium. Currently, as freelancer, he participates in industrial projects in different countries of the world. Everything what has to do with mapping, orienteering and fortifications are his hobbies. And many other subjects ! He maps under the name <a href="https://www.openstreetmap.org/user/foxandpotatoes">foxandpotatoes</a>._
+_Pierre Parmentier is an engineer in construction. He first worked on construction sites and projects in Africa, the Middle East and South America. Then in Belgium. Currently, as freelancer, he participates in industrial projects in different countries of the world. Everything what has to do with mapping, orienteering and fortifications are his hobbies. And many other subjects! He maps under the name <a href="https://www.openstreetmap.org/user/foxandpotatoes">foxandpotatoes</a>._
 
 **How did you get to know OpenStreetMap?**
 
@@ -30,7 +30,7 @@ I work mostly on basic data like highways, buildings, the UrbIS import, addresse
 
 What motivates me is the passion for maps, the desire to understand the landscape and my environment. When I see a forested embankment in the countryside, I imagine immediately the railroad passing by. Mapping leads to many questions: history, geography, semantics. That's what interests me! But also participating in a worthwhile project is important for me.
 
-**What is your biggest achievement as mapper ?**
+**What is your biggest achievement as mapper?**
 
 Nothing in particular. We are like ants and each contributor adds his small piece. And each contribution deserves respect!
 
@@ -46,11 +46,11 @@ The greatest strength of OpenStreetMap is to be free. Opportunities to use and r
 
 OpenStreetMap must take advantage of the current trend to put everything on maps, to go graphical. It is a quite recent phenomenon.
 
-**How to do stay on top of news about OpenStreetMap ?**
+**How to do stay on top of news about OpenStreetMap?**
 
 I read the mailing lists Talk-be and Newbies.
 
-**Do you have contact with other Mappers ?**
+**Do you have contact with other Mappers?**
 
 No, very little, but I have met contributors in Leuven, Gent and Brussels, at the FOSDEM and at ESI.
 

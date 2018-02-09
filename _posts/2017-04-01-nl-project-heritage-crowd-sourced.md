@@ -23,7 +23,7 @@ In their catalogue they have churches, abbeys, castles, but also small farmhouse
 
 *Pillory in Aartselaar*
 
-What is a crowd-sourced project ? It is a project in which everybody can add data, unlike projects that are run by companies, where only employees can add data. When a company owns that data it can set the rules and price to get access to the data. In a crowd-sourced project, normally the resulting database is free to use and consult. If you want to find out more about crowdsourcing, read the [Wikipedia article](https://en.wikipedia.org/wiki/Crowdsourcing) on the topic.
+What is a crowd-sourced project? It is a project in which everybody can add data, unlike projects that are run by companies, where only employees can add data. When a company owns that data it can set the rules and price to get access to the data. In a crowd-sourced project, normally the resulting database is free to use and consult. If you want to find out more about crowdsourcing, read the [Wikipedia article](https://en.wikipedia.org/wiki/Crowdsourcing) on the topic.
 
 This also explains why it is interesting to have all the immovable heritage in crowd-sourced project: one no longer depends on an agency or copyright rules defined by that agency to know when a building was created, or use a picture of a watermill in a publication, etc.
 
@@ -47,15 +47,15 @@ A database of media files such as photos, videos sound fragments and maps. [Wiki
 
 A database about persons, facts, objects. [Wikipedia definition of Wikidata](https://en.wikipedia.org/wiki/Wikidata)
 
-## What can we contribute and where ?
+## What can we contribute and where? 
 
 The location and the floor plan of the heritage item, together with its name and some basic information can be put in OpenStreetMap. An article describing the origin and history of the item goes into Wikipedia. Photos, 3D-models, a movie taken with a drone are placed in Wikimedia Commons. And finally, a summary of the above information can be put in machine-readable format into Wikidata.
 
-## How do we collect information ?
+## How do we collect information? 
 
 OpenStreetMap is for a large part based on original survey. That means that the contributors go out and collect information about the world while they look at it. Wikipedia on the other hand is largely based on other sources and each article has a list of articles that are referenced. For Wikimedia Commons, one need to own the copyright of the media that one adds, or the file has to be out of copyright. Ideally, each property of a Wikidata item has a source, so just as for Wikipedia, the data is based on the work of others.
 
-## How do I collect information ?
+## How do I collect information? 
 
 My starting point is the list of immovable heritage items on Wikipedia. For Flanders, previous contributors have compiled a [list of items per village](https://nl.wikipedia.org/wiki/Cultureel_erfgoed_in_Belgi%C3%AB). I wrote a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) program that converts such a wiki-page into a file with [waypoints](https://en.wikipedia.org/wiki/Waypoint) that can be used on a GPS-device or in navigation programs for smartphones such as [OsmAnd](http://osmand.net/).
 
@@ -70,7 +70,7 @@ My starting point is the list of immovable heritage items on Wikipedia. For Flan
 
 This allows me to make small detours during my planned walks in order to visit (or view) the historical items. At the location I check whether the item still exists and take pictures of it. When the item no longer exists, I inform the Onroerend Erfgoed agency later on so they can update their database as well. I have the impression that they appreciate this kind of feedback.
 
-## How do I process the collected data ?
+## How do I process the collected data? 
 Back home, I make sure that the pictures get [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) by using the GPS trace of my walk and the timestamp of the picture. I use [Geotag](http://geotag.sourceforge.net/) for that purpose.
 
 The good, georeferenced photos are uploaded to Commons Wikimedia, a name and description are added as well as some categories. This category system is not always easy to understand, but I try to at least add "Onroerend erfgoed in <city>" and the category of the "part-village".
@@ -86,7 +86,7 @@ Adding the necessary tags is easy in [JOSM](https://josm.openstreetmap.de/), esp
 
 You can also start writing Wikipedia articles for the items and/or create a Wikidata item with some properties. I recently started adding items for churches in Flanders based on information found the in the Onroerend Erfgoed and [ODIS](http://www.odis.be/) databases.
 
-## How can you use the data ?
+## How can you use the data? 
 
 ### Wikipedia
 The articles on Wikipedia can be read by anyone and further information can be found through the referenced articles, e.g. the [article](https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_(Antwerp)) on the Cathedral in Antwerp.

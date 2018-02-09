@@ -10,7 +10,7 @@ He maps under the nickname [QuercE](http://www.hdyc.neis-one.org/?QuercE),  whic
 
 ![Vincent](https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-zn5cHvt/0/O/DSCN7232.jpg)
 
-## When did you start contributing ?
+## When did you start contributing? 
 
 A couple of years ago I was member of another collaborative mapping project, called [Wikimapia](http://wikimapia.org/). I decided to leave that project, among others due to the limited support, the small applicability of the project, the mapping experience and the frequent vandalism of the map.
 While I was surfing on the internet I accidently encountered [OpenStreetMap.org](http://www.osm.org). At the first stance, the project looked promising, accessible, well documented and with a decent map. Furthermore the map was evolving quickly, due to the growing group of users. After I created an account, which I did out of curiosity, it took a while before I really started to map. But after a few timid attempts, I got hooked, and now I regularly contribute something to the map. Also, because I started to see the potential of such an open data project as basis for a huge range of applications.

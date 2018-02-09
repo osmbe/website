@@ -41,7 +41,7 @@ We are motivated by the need to generate open information that is also inclusive
 ## What is the most difficult part of mapping?
 One of the great difficulties in mapping with a gender approach is the lack of participation of more women in the community. According to statistics, women make up just under 5% of the entire OSM community, and ensuring that our interests are reflected in the agenda and discussions of the community, as well as having labels that account for the needs of women on the map, is one of the great challenges
 
-## What are your mapping plans for the near future ?
+## What are your mapping plans for the near future? 
 First we want to know more about the needs in terms of points of interest for the women who need to be mapped, as well as work on the labels that can support to improve the information that is reflected in the map. We continue to make photomapping initiatives with tools such as Mapillary and OpenStreetCam, social mapping on memory, space perception, accessibility, and OSM application development. We also want to influence our OpenStreetMap communities so that they are more aware of the need to develop these axes with women.
 
 ## Do you have contact with other mappers?

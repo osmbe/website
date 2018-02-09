@@ -24,7 +24,7 @@ Ik map voornamelijk in de twee "Luxemburgen" (Groothertogdom Luxemburg en de [pr
 
 Ik ben zonder twijfel te laat begonnen met OpenStreetMap om grote zaken verwezenlijkt te hebben: de grote infrastructuur was reeds in kaart gebracht. Maar ik geloof, dat net zoals grote rivieren ontstaan uit kleine beekjes, dat ik met mijn bescheiden bijdragen meewerk aan de grote verwezenlijking die OpenStreetMap in zijn geheel is.
 
-**Heb je ideeën om de OpenStreetMap community te laten groeien ?**
+**Heb je ideeën om de OpenStreetMap community te laten groeien?**
 
 Ik denk dat een goede mapper, een mapper is die gemotiveerd wordt door een zo correct mogelijke kaart. Dus hoe meer OpenStreetMap gekend is, hoe meer mensen gemotiveerd zullen zijn om de fouten die ze in hun buurt ontdekken, te verbeteren. Dus om meer mappers aan te trekken, hebben we nood aan meer bezoekers van OpenStreetMap, en daarvoor moeten we meer aandacht krijgen van de media.
 

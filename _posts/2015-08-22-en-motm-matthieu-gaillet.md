@@ -60,7 +60,7 @@ The mailing list and the virtual newspaper [weekly OSM](http://www.weeklyosm.eu/
 
 **Do you have contact with other mappers?**
 
-Of course ! Especially with [Polyglot](http://www.openstreetmap.org/user/Polyglot), who I consider my mentor as he makes it a point of honor to share his knowledge particularly in terms of public transport networks..
+Of course! Especially with [Polyglot](http://www.openstreetmap.org/user/Polyglot), who I consider my mentor as he makes it a point of honor to share his knowledge particularly in terms of public transport networks..
 
 **To conclude, is there anything else you want to share?**
 

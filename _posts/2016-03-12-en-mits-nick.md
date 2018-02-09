@@ -5,7 +5,7 @@ author: Marc Gemis
 lang: en
 ---
 
-**Who are you ?**
+**Who are you?**
 
 I am a casual mapper with an interest in old military lines. I live in the middle of the New Dutch Water Line and noticed that this potential cultural heritage is found barely in OSM. The famous Low Lands Forts with lunettes and redoubts that were made in the Low Countries, with details such as shelters, locks and bridges. For locks, I would just point to Nieuwpoort for a representative example. Nieuwpoort Professionally, I made specifications and drawings in addition to writing policy and opinion pieces. I am one of those that introduce a new parking permit with a smile and if you protest against the costs, says, yes you can complain, but not at this 2 year old act. The nice thing is that if you are not covered by the license, you can not object. But that explanation is accepted, that helps ;-)
 
@@ -43,11 +43,11 @@ The last fort which I mapped upon request was Everdingen. The sister fort Honswi
 
 **What are you most proud of as a mapper?**
 
-The amount of detail that has gradually crept in. Unfortunately, this sometimes leads to sour remarks such as "why is our database growing so big ??" or "It doesn't fit on my machine anymore". But I wonder why should we stop adding those details. You can use a smaller selection of the data when it no longer fits on your machine. We all try to build / create a good and reliable "map". An up to date map I might add, something the Dutch government has now also discovered. And it is not just the route network that is already finished. The Dutch cadastre now uses an OSM map for their BAG viewer, which is a nice example of cross-pollination between OSM and the Government.
+The amount of detail that has gradually crept in. Unfortunately, this sometimes leads to sour remarks such as "why is our database growing so big? " or "It doesn't fit on my machine anymore". But I wonder why should we stop adding those details. You can use a smaller selection of the data when it no longer fits on your machine. We all try to build / create a good and reliable "map". An up to date map I might add, something the Dutch government has now also discovered. And it is not just the route network that is already finished. The Dutch cadastre now uses an OSM map for their BAG viewer, which is a nice example of cross-pollination between OSM and the Government.
 
 **Why do you map? What motivates you?**
 
-Well, I just rolled into it and I see that there is still much to do. A small contribution for the use of the OSM data in the future. The visual result that you leave and that others can look at. What discourages me? Sour little constructive criticisms or the avalanche of comments that you sometimes get as a mapper on the forum. You have to be a strong person to stand up against that. Otherwise you will soon get fed up and leave the community . I enjoy it when I see someone coming back up and become active again after a period of inactivity. I think those negative people are everywhere and we should try to just ignore them.
+Well, I just rolled into it and I see that there is still much to do. A small contribution for the use of the OSM data in the future. The visual result that you leave and that others can look at. What discourages me? Sour little constructive criticisms or the avalanche of comments that you sometimes get as a mapper on the forum. You have to be a strong person to stand up against that. Otherwise you will soon get fed up and leave the community. I enjoy it when I see someone coming back up and become active again after a period of inactivity. I think those negative people are everywhere and we should try to just ignore them.
 
 **What is the most difficult in the mapping process?**
 
@@ -73,6 +73,6 @@ I use it in my spare time, while I'm surveying or as data source. I don't really
 
 I am helping out on the forum and help website. I do not program, the PC is there for me and not vice versa. But I try to promote OSM whenever possible.
 
-To conclude, is there anything you would like to mention ?
+To conclude, is there anything you would like to mention? 
 
 It would be nice to try to find out if and why someone stops contributing to OpenStreetMap

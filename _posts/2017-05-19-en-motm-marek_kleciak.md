@@ -21,10 +21,10 @@ I heard about OSM already in 2004 because of my professional work and searching 
 ## What do you map? Is there any difference with your early days?
 I have probably the same story as a lot of mappers: in the beginning I mapped mostly things from my immediate surroundings, then other areas I know.  After two years I decided to do mapping in some badly covered areas in developing countries.
 
-## How do you map ?
+## How do you map? 
 In the beginning I did some surveys but because of my professional and family duties I am now mostly an armchair mapper. I spent a lot of time  improving the accuracy of the  map.
 
-## Which tools do you use ?
+## Which tools do you use? 
 For mapping: I use [JOSM](josm.openstreetmap.de), [Potlatch2](https://wiki.openstreetmap.org/wiki/Potlatch_2), [OsmAnd](https://wiki.openstreetmap.org/wiki/Potlatch_2), a digital camera and [Field papers](https://wiki.openstreetmap.org/wiki/Potlatch_2).
 For Q&A I use http://qa.poole.ch, [keepright.at](https://www.keepright.at/), [OSM Inspector](http://tools.geofabrik.de/osmi/), and [ITO World's map]( http://product.itoworld.com/map/129?lon=85.40441&lat=27.82368&zoom=9&open_sidebar=clickthrough_wrapper&fullscreen=true) showing the last 90 days of edits.
 
@@ -35,7 +35,7 @@ For Q&A I use http://qa.poole.ch, [keepright.at](https://www.keepright.at/), [OS
 For 3D modeling: [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop), [ArchiCAD](https://en.wikipedia.org/wiki/ArchiCAD), and [f4map](http://demo.f4map.com/#camera.theta=0.9).
 JOSM PlugIns: [Kendzi3D](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Kendzi3D), Kendzi3d_improved_by_Andrei, [Shape Tools](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/ShapeTools), [CAD Tools](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/CADTools), [ContourOverlappingMerge](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/ContourOverlappingMerge), [Tracer](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Tracer), [PicLayer](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/PicLayer), [Alignways](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/AlignWayS), areaselector, [buildings_tools](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/BuildingsTools) – those plugins are the most  important to me. But I use also the following plugins:  [DFX import](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/DXF_import), [FastDraw](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/FastDraw), [junctionchecking](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/JunctionChecking),  [Mapillary](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Mapillary), [measurement](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/measurement), [merge-overlap](https://github.com/openstreetmap/josm-plugins/tree/master/merge-overlap), [pdfimport](https://github.com/openstreetmap/josm-plugins/tree/master/pdfimport), [photoadjust](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/PhotoAdjust),  [reverter](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Reverter), [roadSigns](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/RoadSigns), [splinex](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Splinex), [terracer](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Terracer), [tracer2](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Tracer2), [utilsplugin2](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/utilsplugin2), [walkingpapers](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/WalkingPapers).
 
-## Where do you map ?
+## Where do you map? 
 I do mapping around the world. Previously mostly in Poland and Germany, but with time more and more in developing countries like Ruanda and Nepal. After the earthquake in Nepal in 2015 I did my mapping mostly there. The help is still needed.
 
 ## What is your biggest achievement as mapper?
@@ -56,10 +56,10 @@ Third: Specification of [area:highway](https://wiki.openstreetmap.org/wiki/Propo
 ## Why do you map?
 I love the idea of open source. I have teached the [Kathmandu Living Labs](http://www.kathmandulivinglabs.org/) team in Nepal before earthquake. They used this knowledge for production of maps for rescue teams after the earthquake.
 
-## What is the most difficult part of mapping ?
+## What is the most difficult part of mapping? 
 I don´t understand this question :-) In my eyes it is wonderful and easy to understand project. Maybe I´m too long in this business.
 
-## What are your mapping plans for the near future ?
+## What are your mapping plans for the near future? 
 I wish to improve the OSM map of [Nepal](http://www.openstreetmap.org/relation/184633#map=7/28.425/84.133). I like this beautiful country and nice, friendly Nepali.
 Especially mapping of forest areas is in my eyes of special value: Where are forests, there are no people. This knowledge is important for disaster management. And new earthquakes are  very likely to happen in Nepal.
 
@@ -67,10 +67,10 @@ Especially mapping of forest areas is in my eyes of special value: Where are for
 
 *Map of Nepal in Humanitarian Style*
 
-## Do you have contact with other mappers ?
+## Do you have contact with other mappers? 
  Absolutely. Many of them. I know a lot of nice and addicted friends.
 
-## Do you use OpenStreetMap yourself ? How ?
+## Do you use OpenStreetMap yourself? How? 
 I use it for navigation and biking.
 
 ## Do you do anything else than mapping that is related to OpenStreetMap?

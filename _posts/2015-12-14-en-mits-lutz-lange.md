@@ -26,7 +26,7 @@ At this moment the camera and GPS of my smartphone are my main tools to collect 
 
 ## Where you map?
 
-Mostly in my local area, the border region of Saxony , Saxony Anhalt and Brandenburg. But because of my work, I also come in other states where I can do on-site surveys. Occasionally, I am a couchmapper, rummaging in Historic.Place.
+Mostly in my local area, the border region of Saxony, Saxony Anhalt and Brandenburg. But because of my work, I also come in other states where I can do on-site surveys. Occasionally, I am a couchmapper, rummaging in Historic.Place.
 
 ## What is the biggest challenge as a mapper?
 
@@ -84,7 +84,7 @@ We still want to implement many ideas, for example the Life Cycle Concept.
 
 Any help or support is always welcome. For example, we could use someone to design the webpage and new icons for the map.
 
-## To conclude, is there anything else you want to mention??
+## To conclude, is there anything else you want to mention?
 
 Do not take yourself and your OpenStreetMap hobby too seriously, because actually we're all just farts in the wind.
 
