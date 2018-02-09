@@ -1,5 +1,6 @@
 ---
-title: 'Mapper of the Month : Anisa Kuci'
+title: 'Mapper of the Month : Anisa Kuci (Albania)'
+featured:
 layout: post
 author: escada
 lang: en
