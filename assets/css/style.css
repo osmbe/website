@@ -81,7 +81,7 @@ sup {
 	top: -0.5em;
 }
 hr {
-	border-top: solid 1px #888888;
+	border: solid 0.5px #888888;
 	margin-bottom: 1.5em;
 }
 blockquote {
