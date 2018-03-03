@@ -11,7 +11,7 @@ banner:
     en: This is the home of the OpenStreetMap community in Belgium!
     nl: "&nbsp;"
     fr: "&nbsp;"
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
