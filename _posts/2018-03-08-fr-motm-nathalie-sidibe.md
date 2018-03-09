@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur de Mars 2018: Nathalie Sidibe (Maili)'
+title: 'Contributeur de Mars 2018: Nathalie Sidibe (Mali)'
 featured:
 layout: post
 author: escada
