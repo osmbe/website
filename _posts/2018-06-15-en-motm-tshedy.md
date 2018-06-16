@@ -34,7 +34,8 @@ I use JOSM to map and to improve the map and get rid of errors I use Keep Right 
 
 ## Where do you map?
 I mapped Lesotho the most and I now also map Ireland. Besides I map other countries that invite mappers on social media for humanitarian help.  With my phone in my hand I map every country I put my feet on.
-What is your biggest achievement as mapper?
+
+## What is your biggest achievement as mapper?
 I am the biggest mapper in Lesotho and have been for a long time.  I was able to push almost all the districts to their completion and I do feel that my work will help a lot of people.  Through the work I have done a person will be able to navigate Lesotho and the data can be used by various departments.
 
 ![where Tshedy maps](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Matšeliso-Thobei/i-6vfvh5h/0/bf3b1ad8/M/Where%20did%20i%20map-M.jpg)
