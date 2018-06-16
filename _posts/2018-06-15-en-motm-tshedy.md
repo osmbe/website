@@ -24,8 +24,9 @@ I do armchair mapping using JOSM with a number of plugins.  I also do surveys us
 *Mapathon with colleagues*
 
 ## How do you conduct your surveys?
- I use Field Papers, print them, record information on them and scan them back with the JOSM plugin.  Again I use Mapillary taking pictures and use Mapillary plugin on JOSM.
-Which tools do you use?
+I use Field Papers, print them, record information on them and scan them back with the JOSM plugin.  Again I use Mapillary taking pictures and use Mapillary plugin on JOSM.
+
+## Which tools do you use?
 I use JOSM to map and to improve the map and get rid of errors I use Keep Right and Osmose. For editing also I use phone apps; maps.me and StreetComplete and use Mapillary to get images.
 
 ![Mapillary exercise](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Matšeliso-Thobei/i-xcb6z8K/0/e8baea6b/X2/Mapillary%20exercise-X2.jpg)
@@ -37,7 +38,6 @@ What is your biggest achievement as mapper?
 I am the biggest mapper in Lesotho and have been for a long time.  I was able to push almost all the districts to their completion and I do feel that my work will help a lot of people.  Through the work I have done a person will be able to navigate Lesotho and the data can be used by various departments.
 
 ![where Tshedy maps](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Matšeliso-Thobei/i-6vfvh5h/0/bf3b1ad8/M/Where%20did%20i%20map-M.jpg)
-
 *Heatmap of Tshedy's mapping activity*
 
 ## Why do you map?
