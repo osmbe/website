@@ -20,7 +20,7 @@ Ik heb het geluk gehad OpenStreetMap te ontdekken tijdens mijn studies in geogra
 
 ## Wat map je zoal? Zijn er verschillen met je beginperiode?
 
-Ik breng zowat alles in kaart, maar vooral in het oosten van Waals-Brabant. Ik heb verschillende projecten lopen: de kaart van Louvain-la-Neuve up-to-date brengen, evenals het toevoegen van de momenten en geklasseerde sites in de buurt!
+Ik breng zowat alles in kaart, maar vooral in het oosten van Waals-Brabant. Ik heb verschillende projecten lopen: de kaart van Louvain-la-Neuve up-to-date brengen, evenals het toevoegen van de monumenten en geklasseerde sites in de buurt!
 Sinds mijn beginperiode is er veel geëvolueerd. Ik ben ooit begonnen met het in kaart brengen van gebouwen en wegen voor de Missing Maps en  Humanitarian OpenStreetMap Team project, meer bepaald in Afrika en Haïti. Nadien ben ik begonnen in België en mijn geboortestreek: Chaumont-Gistoux. Op dit moment heb ik ook een andere mapper uit de streek leren kennen: "ThibPhil".
 Wij twee samen hebben min of meer de volledige gemeente in kaart gebracht, alsook een aantal andere gemeenten in het oosten van Waals-Brabant.
 
@@ -42,7 +42,7 @@ Ik ga zowel te voet als met de fiets op pad.
 
 ## Waar map je?
 
-Zoals voordien al gezegd, ben ik begonnen in het buitenland via HOT (in Afrika en Haïti). Tegenwoordig concentreer ik me op Wallonië, en dan in het bijzonder Waals-Branbant, waar ik woon.
+Zoals voordien al gezegd, ben ik begonnen in het buitenland via HOT (in Afrika en Haïti). Tegenwoordig concentreer ik me op Wallonië, en dan in het bijzonder Waals-Brabant, waar ik woon.
 
 ## Wat is je grootste verwezenlijking tot nu toe?
 
