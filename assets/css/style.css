@@ -5,7 +5,7 @@
 */
 
 @import url("font-awesome.min.css");
-@import url("//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
+
 /* Basic */
 
 body {
@@ -16,7 +16,7 @@ input,
 select,
 textarea {
 	color: #555555;
-	font-family: 'Raleway', sans-serif;
+	font-family: "Helvetica Neue", Arial, sans-serif;
 	font-size: 13pt;
 	font-weight: 300;
 	line-height: 1.75em;
