@@ -4,6 +4,8 @@ let handler = StripeCheckout.configure({
     key: 'pk_test_6x3uarR1wYsEoIFq8XWYisWS',
     locale: 'auto',
     token: function(token) {
+        document.getElementById('donateLoading').style.display = 'inline';
+
         // You can access the token ID with `token.id`.
         // Get the token ID to your server-side code for use.
         let data = {
@@ -26,11 +28,21 @@ let handler = StripeCheckout.configure({
             body: JSON.stringify(data), // body data type must match "Content-Type" header
         }).
             then(function (response) {
-                console.log(response);
                 return response.json();
             }).
             then(function (data) {
-                console.log(data);
+                if (data.error) {
+                    throw new Error(data.error);
+                }
+
+                document.getElementById('donateLoading').style.display = 'none';
+                document.getElementById('donateSuccess').style.display = 'inline';
+            }).
+            catch(function (error) {
+                document.getElementById('donateLoading').style.display = 'none';
+                document.getElementById('donateError').style.display = 'inline';
+
+                console.log('There has been a problem with your fetch operation: ', error.message);
             });
     }
 });
