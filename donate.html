@@ -21,6 +21,9 @@ order: 7
                 <span class="currency">€</span>
                 <input id="donateAmount" type="number" name="donateAmount" min="0" step="1" value="10" />
                 <button id="donateButton" class="button--large">Donate</button>
+                <span id="donateLoading" style="display: none;">Your payment is being processed !</span>
+                <span id="donateSuccess" style="display: none; color: green;"><strong>Thank you for your donation, it has been received.</strong></span>
+                <span id="donateError" style="display: none; color: red;"><strong>Sorry there was an error making your payment, please try again later.</strong></span>
             </div>
             <p>
                 Your credit card donation will be processed by <a href="https://stripe.com/" target="_blank">Stripe</a>.
