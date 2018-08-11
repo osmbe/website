@@ -1,0 +1,33 @@
+---
+title: Donate
+layout: default
+lang: en
+order: 7
+---
+
+<div id="main" class="wrapper style1">
+    <div class="container">
+        <header class="major">
+            <h2>Donate</h2>
+        </header>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat in massa et dictum. Etiam et suscipit eros, nec scelerisque justo. Fusce tristique nibh quis facilisis bibendum. Nam et turpis a tortor viverra volutpat at eget ligula. Aenean odio enim, hendrerit nec tortor ut, euismod eleifend sem. Maecenas in sem cursus, interdum urna vitae, ultrices lectus. Cras non augue suscipit, placerat quam ac, rutrum mi. Vestibulum pellentesque pharetra lectus, semper sollicitudin mauris rhoncus a. Nullam at tempor risus, at facilisis neque. Suspendisse viverra eu tellus in dictum. Ut vehicula auctor tempus. Sed fringilla finibus nulla, quis fringilla dui hendrerit ac. Nunc turpis leo, tempus ut aliquam id, ultricies sit amet tellus.
+        </p>
+        <div>
+            <script src="https://checkout.stripe.com/checkout.js"></script>
+
+            <p>Please enter the amount you wish to donate in euro below. Clicking donate will open the form allowing you to use your credit or debit card to send the donation.</p>
+            <div class="donation">
+                <span class="currency">€</span>
+                <input id="donateAmount" type="number" name="donateAmount" min="0" step="1" value="10" />
+                <button id="donateButton" class="button--large">Donate</button>
+            </div>
+            <p>
+                Your credit card donation will be processed by <a href="https://stripe.com/" target="_blank">Stripe</a>.
+                The charge will appear as "<em>Donation to OpenStreetMap Belgium</em>" on your credit card statement.
+            </p>
+
+            <script src="{% link assets/js/stripe.js %}"></script>
+        </div>
+    </div>
+</div>
