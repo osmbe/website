@@ -1,15 +1,20 @@
+let amount = 0;
+
 let handler = StripeCheckout.configure({
     allowRememberMe: false,
     image: 'https://www.osm.be/assets/images/logo.png',
     key: 'pk_test_6x3uarR1wYsEoIFq8XWYisWS',
     locale: 'auto',
     token: function(token) {
-        document.getElementById('donateLoading').style.display = 'inline';
+        $('#donation-result > span').hide();
+        $('#donation-loading').show();
+
+        console.log(token, amount);
 
         // You can access the token ID with `token.id`.
         // Get the token ID to your server-side code for use.
         let data = {
-            amount: Math.floor(document.getElementById('donateAmount').value * 100),
+            amount: Math.floor(amount * 100),
             email: token.email,
             stripeToken: token.id,
         };
@@ -35,12 +40,12 @@ let handler = StripeCheckout.configure({
                     throw new Error(data.error);
                 }
 
-                document.getElementById('donateLoading').style.display = 'none';
-                document.getElementById('donateSuccess').style.display = 'inline';
+                $('#donation-loading').hide();
+                $('#donation-result-success').show();
             }).
             catch(function (error) {
-                document.getElementById('donateLoading').style.display = 'none';
-                document.getElementById('donateError').style.display = 'inline';
+                $('#donation-loading').hide();
+                $('#donation-result-error').show();
 
                 console.log('There has been a problem with your fetch operation: ', error.message);
             });
@@ -48,7 +53,7 @@ let handler = StripeCheckout.configure({
 });
 
 $('.donation-btn').on('click', function(event) {
-    var amount = parseFloat($(this).data('amount'));
+    amount = parseFloat($(this).data('amount'));
 
     handler.open({
         name: 'OpenStreetMap Belgium',
@@ -60,7 +65,7 @@ $('.donation-btn').on('click', function(event) {
 });
 
 $('#donation-amount').on('change blur keyup', function(event) {
-    var amount = parseFloat($(this).val());
+    amount = parseFloat($(this).val());
 
     if (amount > 0) {
         $('#donation-submit').prop('disabled', false);
@@ -69,7 +74,7 @@ $('#donation-amount').on('change blur keyup', function(event) {
     }
 });
 $('#donation-submit').on('click', function(event) {
-    var amount = parseFloat($('#donation-amount').val());
+    amount = parseFloat($('#donation-amount').val());
 
     handler.open({
         name: 'OpenStreetMap Belgium',
