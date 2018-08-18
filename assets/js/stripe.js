@@ -47,15 +47,37 @@ let handler = StripeCheckout.configure({
     }
 });
 
-document.getElementById('donateButton').addEventListener('click', function(e) {
-    // Open Checkout with further options:
+$('.donation-btn').on('click', function(event) {
+    var amount = parseFloat($(this).data('amount'));
+
     handler.open({
         name: 'OpenStreetMap Belgium',
         description: 'Donation to OpenStreetMap Belgium',
         currency: 'eur',
-        amount: document.getElementById('donateAmount').value * 100
+        amount: amount * 100
     });
-    e.preventDefault();
+    event.preventDefault();
+});
+
+$('#donation-amount').on('change blur keyup', function(event) {
+    var amount = parseFloat($(this).val());
+
+    if (amount > 0) {
+        $('#donation-submit').prop('disabled', false);
+    } else {
+        $('#donation-submit').prop('disabled', true);
+    }
+});
+$('#donation-submit').on('click', function(event) {
+    var amount = parseFloat($('#donation-amount').val());
+
+    handler.open({
+        name: 'OpenStreetMap Belgium',
+        description: 'Donation to OpenStreetMap Belgium',
+        currency: 'eur',
+        amount: amount * 100
+    });
+    event.preventDefault();
 });
 
 // Close Checkout on page navigation:
