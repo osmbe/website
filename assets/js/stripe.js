@@ -9,8 +9,6 @@ let handler = StripeCheckout.configure({
         $('#donation-result > span').hide();
         $('#donation-loading').show();
 
-        console.log(token, amount);
-
         // You can access the token ID with `token.id`.
         // Get the token ID to your server-side code for use.
         let data = {
