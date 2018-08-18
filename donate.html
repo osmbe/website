@@ -32,9 +32,11 @@ order: 7
                 </ul>
                 <button id="donation-submit" disabled="disabled">Donate</button>
 
-                <span id="donateLoading" style="display: none;">Your payment is being processed !</span>
-                <span id="donateSuccess" style="display: none; color: green;"><strong>Thank you for your donation, it has been received.</strong></span>
-                <span id="donateError" style="display: none; color: red;"><strong>Sorry there was an error making your payment, please try again later.</strong></span>
+                <div id="donation-result">
+                    <span id="donation-loading" style="display: none;">Your payment is being processed ...</span>
+                    <span id="donation-result-success" style="display: none; color: green;"><strong>Thank you for your donation, it has been received.</strong></span>
+                    <span id="donation-result-error" style="display: none; color: red;"><strong>Sorry there was an error making your payment, please try again later.</strong></span>
+                </div>
             </div>
 
             <p>
