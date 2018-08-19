@@ -168,8 +168,7 @@ app.get('/subscriptions', (request, response) => {
 
       response.json(result);
     }
-  }
-);
+  });
 });
 
 module.exports = fromExpress(app);  
