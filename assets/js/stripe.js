@@ -78,10 +78,10 @@ $(document).ready(function() {
         }).
         then(function (data) {
             for (let i = 0; i < data.monthly.length; i++) {
-                $('#donation-monthly-items').append('<li class="donation-btn" data-id="' + data.monthly[i].id + '" data-amount="' + data.monthly[i].amount / 100 + '">' + data.monthly[i].amount / 100 + ' &euro; / month</li>')
+                $('#donation-monthly-items').append('<li class="donation-btn" data-id="' + data.monthly[i].id + '" data-amount="' + data.monthly[i].amount / 100 + '">' + data.monthly[i].amount / 100 + ' &euro; per month</li>')
             }
             for (let i = 0; i < data.yearly.length; i++) {
-                $('#donation-yearly-items').append('<li class="donation-btn" data-id="' + data.yearly[i].id + '" data-amount="' + data.yearly[i].amount / 100 + '">' + data.yearly[i].amount / 100 + ' &euro; / year</li>')
+                $('#donation-yearly-items').append('<li class="donation-btn" data-id="' + data.yearly[i].id + '" data-amount="' + data.yearly[i].amount / 100 + '">' + data.yearly[i].amount / 100 + ' &euro; per year</li>')
             }
         }).
         catch(function (error) {
