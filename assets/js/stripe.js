@@ -1,4 +1,9 @@
-let amount = 0;
+window.app = {
+    amount: 0,
+    id: null
+};
+
+const webtask = 'https://wt-db442aaaa0511f3885fb43b4f75f999f-0.sandbox.auth0-extend.com/stripe-payment-test';
 
 let handler = StripeCheckout.configure({
     allowRememberMe: false,
@@ -12,12 +17,17 @@ let handler = StripeCheckout.configure({
         // You can access the token ID with `token.id`.
         // Get the token ID to your server-side code for use.
         let data = {
-            amount: Math.floor(amount * 100),
             email: token.email,
             stripeToken: token.id,
         };
 
-        fetch('https://wt-db442aaaa0511f3885fb43b4f75f999f-0.sandbox.auth0-extend.com/stripe-payment-test/payment', {
+        if (window.app.id === null) {
+            data.amount = Math.floor(window.app.amount * 100);
+        } else {
+            data.plan = window.app.id;
+        }
+
+        fetch(webtask + '/payment', {
             method: "POST",
             mode: "cors",
             cache: "no-cache",
@@ -45,40 +55,74 @@ let handler = StripeCheckout.configure({
                 $('#donation-loading').hide();
                 $('#donation-result-error').show();
 
-                console.log('There has been a problem with your fetch operation: ', error.message);
+                console.error('There has been a problem with your fetch "/payment" operation: ', error.message);
             });
     }
 });
 
-$('.donation-btn').on('click', function(event) {
-    amount = parseFloat($(this).data('amount'));
+$(document).ready(function() {
+    fetch(webtask + '/subscriptions', {
+        method: "GET",
+        mode: "cors",
+        cache: "no-cache",
+        credentials: "same-origin",
+        headers: {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8",
+        },
+        redirect: "follow",
+        referrer: "no-referrer",
+    }).
+        then(function (response) {
+            return response.json();
+        }).
+        then(function (data) {
+            for (let i = 0; i < data.monthly.length; i++) {
+                $('#donation-monthly-items').append('<li class="donation-btn" data-id="' + data.monthly[i].id + '" data-amount="' + data.monthly[i].amount / 100 + '">' + data.monthly[i].amount / 100 + ' &euro; / month</li>')
+            }
+            for (let i = 0; i < data.yearly.length; i++) {
+                $('#donation-yearly-items').append('<li class="donation-btn" data-id="' + data.yearly[i].id + '" data-amount="' + data.yearly[i].amount / 100 + '">' + data.yearly[i].amount / 100 + ' &euro; / year</li>')
+            }
+        }).
+        catch(function (error) {
+           console.error('There has been a problem with your fetch "/subscription" operation: ', error.message);
+        });
 
-    handler.open({
-        name: 'OpenStreetMap Belgium',
-        description: 'Donation to OpenStreetMap Belgium',
-        currency: 'eur',
-        amount: amount * 100
+    $('#donation-amount').on('change blur keyup', function(event) {
+        window.app.amount = parseFloat($(this).val());
+        window.app.id = null;
+
+        if (window.app.amount > 0) {
+            $('#donation-submit').prop('disabled', false);
+        } else {
+            $('#donation-submit').prop('disabled', true);
+        }
     });
-    event.preventDefault();
+    $('#donation-submit').on('click', function(event) {
+        window.app.amount = parseFloat($('#donation-amount').val());
+        window.app.id = null;
+
+        handler.open({
+            name: 'OpenStreetMap Belgium',
+            description: 'Donation to OpenStreetMap Belgium',
+            currency: 'eur',
+            amount: window.app.amount * 100
+        });
+        event.preventDefault();
+    });
 });
 
-$('#donation-amount').on('change blur keyup', function(event) {
-    amount = parseFloat($(this).val());
+$(document).on('click', '.donation-btn', function(event) {
+    const id = $(this).data('id');
 
-    if (amount > 0) {
-        $('#donation-submit').prop('disabled', false);
-    } else {
-        $('#donation-submit').prop('disabled', true);
-    }
-});
-$('#donation-submit').on('click', function(event) {
-    amount = parseFloat($('#donation-amount').val());
+    window.app.amount = parseFloat($(this).data('amount'));
+    window.app.id = typeof id === 'undefined' ? null : id;
 
     handler.open({
         name: 'OpenStreetMap Belgium',
         description: 'Donation to OpenStreetMap Belgium',
         currency: 'eur',
-        amount: amount * 100
+        amount: window.app.amount * 100
     });
     event.preventDefault();
 });
