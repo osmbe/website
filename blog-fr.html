@@ -5,27 +5,16 @@ lang: fr
 order: 2
 ---
 
-<!-- Main -->
-	<div id="main" class="wrapper style1">
-		<div class="container">
-			<section>
-				<div class="10u -1u">
-					<header class="major">
-						<h2>Actualités</h2>
-					</header>
-					<ul class="style">
-						{% for post in site.posts %}
+<h2 class="h1">Actualités</h2>
+<hr>
 
-						{% if post.lang == "fr" and post.layout == "post" %}
-						<li>
-							{% include post-item.html %}
-						</li>
-						{% endif %}
+{% for post in site.posts %}
 
-						{% endfor %}
-					</ul>
-					<div style="clear: both;"></div>
-				</div>
-			</section>
-		</div>
+	{% if post.lang == "fr" and post.layout == "post" %}
+	<div>
+		{% include post-item.html %}
 	</div>
+	<hr>
+	{% endif %}
+
+{% endfor %}

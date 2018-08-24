@@ -1,23 +1,25 @@
 ---
 layout: default
 ---
-<!-- Main -->
-	<div id="main" class="wrapper style1">
-		<div class="container">
-			<section>
-				<header class="major" id="post">
-					<h2>{{ page.title }}</h2>
-					<span class="byline">{{ page.date | date_to_string }}</span>
-				</header>
-				<p>
-				{% if page.featured %}
-					<img style="max-width: 100%; max-height: 500px; margin: auto;" src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
-					{% if page.featured_caption %}
-						<em>{{ page.featured_caption }}</em>
-					{% endif %}
-				{% endif %}
-				</p>
-				{{ page.content }}
-			</section>
-		</div>
+
+<h2 class="h1">{{ page.title }}</h2>
+<p class="text-info">
+	<strong class="post-date" datetime="{{page.date}}">{{page.date | date: "%d.%m.%Y"}}</strong>
+	-
+	<strong class="author">{{page.author}}</strong>
+</p>
+<hr>
+
+{% if page.featured %}
+<div class="text-center">
+	<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
+	{% if page.featured_caption %}
+	<div>
+		<em>{{ page.featured_caption }}</em>
 	</div>
+	{% endif %}
+</div>
+<hr>
+{% endif %}
+
+{{ page.content }}
