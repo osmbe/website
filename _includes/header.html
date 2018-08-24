@@ -52,19 +52,19 @@
 <header id="header" style="background-image: url({{ site.baseurl }}/assets/images/background.jpg);">
 	<div id="language-switcher">
 		{% if link-en != nil %}
-		<a href="{{ link-en }}">EN</a>
+		<a href="{{ link-en | relative_url }}">EN</a>
 		{% else %}
 		<span class="text-muted">EN</span>
 		{% endif %}
 		&bull;
 		{% if link-fr != nil %}
-		<a href="{{ link-fr }}">FR</a>
+		<a href="{{ link-fr | relative_url }}">FR</a>
 		{% else %}
 		<span class="text-muted">FR</span>
 		{% endif %}
 		&bull;
 		{% if link-nl != nil %}
-		<a href="{{ link-nl }}">NL</a>
+		<a href="{{ link-nl | relative_url }}">NL</a>
 		{% else %}
 		<span class="text-muted">NL</span>
 		{% endif %}
