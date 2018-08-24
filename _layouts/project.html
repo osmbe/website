@@ -3,9 +3,11 @@ layout: default
 ---
 
 <h2 class="h1">{{ page.title }}</h2>
+{% if page.project_lead %}
 <p class="text-info">
 	<strong>Project lead:</strong> {{ page.project_lead }}
 </p>
+{% endif %}
 <hr>
 
 {% if page.featured %}
