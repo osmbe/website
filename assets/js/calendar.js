@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    fetch("http://maptime.io/belgium/feed.json")
+    fetch("https://proxy.sulliops.co/index.php?http://maptime.io/belgium/feed.json")
         .then(function(response) {
             return response.json();
         })
