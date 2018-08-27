@@ -43,7 +43,7 @@
 			<script src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
 			{% endif %}
 		{% endfor %}
-	{% else if page.script %}
+	{% elsif page.script %}
 	<script src="{{ site.baseurl }}/assets/js/{{ page.script }}"></script>
 	{% endif %}
 	<script>
