@@ -1,7 +1,8 @@
 ---
 title: 'Contributeur du mois: Brecht Bonne '
-featured: images/brecht.png
+featured: images/motm/2015/03/brecht.png
 layout: post
+category: motm
 author: Marc Gemis
 lang: fr
 ---
@@ -22,7 +23,7 @@ J'utilise presque toutes les méthodes, mais la plus part de temps je fais des r
 Oui, je l'avoue, j'aime les dimanches pépères quand le temps est moche durant lesquels je reste dans mon fauteuil à cartographier à partir des orthophotos de Bing. Le plus grand projet que je n'ai jamais fait a été de préparer un voyage en août 2014. J'avais prévu de faire des balades dans la très belle nature de Carmethen, au Pays de Galles. J'ai donc cartographié, le long de la route allant vers <a href="http://www.openstreetmap.org/#map=12/51.8621/-4.1594">Llandeilo</a>, une rivière complète ainsi que ses alentours. Il m'a fallu quelques semaines pour finaliser ce projet. Une des raisons était que l"Ordnance Survey Opendata" n'était pas disponible pour la portion complète. J'ai donc du utiliser les veilles images de Bing. J'ai pas mal été à la bibliothèque de Brugge pendant cette période. Malheureusement quand je suis arrivé au Pays de Galles, je me suis rendu compte que le vieux chemin de fer que j'avais cartographié était devenu des propriétés privées...
 Comme vous pouvez le voir sur ma <a href="http://hdyc.neis-one.org/?peeweeke">page de statistiques</a>, je suis un utilisateur dévoué de JOSM. C'est un programme très robuste, à la fois sur Windows et Linux avec beaucoup de fonctionnalités. Durant le "Missing Maps Marathon" d'Anvers, j'ai appris quelques nouveaux trucs. Je dois tout de même avouer que j'ai ajouté mon premier noeud avec Potlatch. Mais comme avec iD, j'ai très vite rencontré les limitations de l'éditeur. Quand MapRoulette était mentionné sur OSM.be, je l'ai essayé. Quoi qu'il en soit avec quelques essais pour séparer les routes et les rivières en Italie, j'ai abandonné. Peut être que je le réessayerai plus tard. 
 
-<img src="{{ site.baseurl }}/assets/images/brecht_trails.png"/>
+<img src="{{ site.baseurl }}/assets/images/motm/2015/03/brecht_trails.png"/>
 
 **Où cartographiez vous?**
 

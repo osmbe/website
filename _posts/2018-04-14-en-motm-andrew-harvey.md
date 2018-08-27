@@ -2,6 +2,7 @@
 title: 'Mapper of the Month April 2018: Andrew Harvey (Australia)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

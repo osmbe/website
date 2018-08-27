@@ -2,6 +2,7 @@
 title: 'Mapper of the month: Yasunari Yamashita (Japan)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

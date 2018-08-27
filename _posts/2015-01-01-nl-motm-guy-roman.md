@@ -1,7 +1,8 @@
 ---
 title: 'Mapper van de maand: Guy Roman'
-featured: images/Roman_Guy.jpg
+featured: images/motm/2015/01/Roman_Guy.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---
@@ -23,7 +24,7 @@ Voor mijn plezier, ik verken de wereld te verkennen zonder mijn huis te verlaten
 **Doe je ook nog andere dingen in verband met OpenStreetMap?**
 Ik probeer mogelijke passieve gebruikers van OpenStreetMap te overtuigen, zoals mensen die loopwedstrijden of wandeltochten organiseren.
 
-<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/hdyc_Roman_Guy.png"/></a>
+<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/motm/2015/01/hdyc_Roman_Guy.png"/></a>
 
 **Hoe kan OpenStreetMap nog verbeteren volgens jou?**
 Ik hoop dat de standaardkaart op OpenStreetMap nog op een aantal vlakken verbetert. Een voorbeeld zijn [steenslag-gebieden](http://wiki.openstreetmap.org/wiki/Tag:natural%3Dscree), zoals je die vindt naast bergrivieren. Het zou bijvoorbeeld mooi zijn moesten die op een gelijkaardige manier als stranden getekend worden op de kaart, maar dan wel in het grijs. Het zou ook mooi zijn moesten beekjes die over een brug lopen zichtbaar zijn op de kaart. Momenteel worden enkel kanalen over bruggen getekend. Jammer genoeg heb ik niet genoeg kennis op dit ogenblik om dit zelf te verbeteren.

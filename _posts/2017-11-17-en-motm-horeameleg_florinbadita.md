@@ -2,6 +2,7 @@
 title: "Mapper of the Month November 2017: Horea Meleg & Florin Badita"
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

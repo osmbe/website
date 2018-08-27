@@ -2,6 +2,7 @@
 title: "Mapper of the Month"
 featured: images/community.jpg
 layout: project
+category: project
 author: Ben Abelshausen
 project_lead: Marc Gemis
 lang: en
@@ -14,3 +15,7 @@ Every month we interview a new mapper by choosing someone who comes either recom
 We believe this is one of the most important projects we do because it's about our community and without that, there is no OpenStreetMap.
 
 For an overview of the interviews, see [the Mapper of the month wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Belgian_Mapper_of_the_Month).
+
+---
+
+{% include motm.html %}

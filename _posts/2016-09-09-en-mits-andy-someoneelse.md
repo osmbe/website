@@ -1,7 +1,8 @@
 ---
 title: 'Mapper in the spotlight: Andy (United Kingdom)'
-featured: images/AndySomeoneElse.jpg
+featured: images/motm/2016/09/AndySomeoneElse.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

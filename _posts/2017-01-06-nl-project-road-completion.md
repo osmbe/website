@@ -1,8 +1,9 @@
 ---
 title: "Road completion project"
-featured: images/road-completion2.gif
+featured: images/project/road-completion2.gif
 featured_caption: "Overheidsdata in het rood. OSM in het zwart erbovenop. In de loop der tijd worden plaatsen waar er geen OSM wegen zijn (en je dus rood ziet) alsmaar zeldzamer."
 layout: project
+category: project
 author: Ben Abelshausen
 lang: nl
 project_lead: Joost Schouppe & Ben Abelshausen
@@ -22,7 +23,7 @@ We willen ervoor zorgen dat er tools zijn die aanvullingen uit de officiële weg
 
 In dit kader willen we ook een meetinstrument aanbieden dat de kwaliteit van OSM's wegen in Vlaanderen vergelijkt met de officiële data. OSM doet normaal niet aan kwaliteitsgaranties, omdat ons werk gebaseerd is op vrijwillige bijdrage. Dit meetinstrument betekent dat we dit wel kunnen doen, op basis van een objectieve analyse. Hierdoor hopen we dat onze data voor nog meer usecases geschikt wordt.
 
-![](/assets/images/road-completion1.jpg)
+![](/assets/images/project/road-completion1.jpg)
 *Groen: trage wegen. Grijs: reeds getekende wegen. Zwart: wegen die deze maand verbeterd of toegevoegd werden.*
 
 ### Op de agenda

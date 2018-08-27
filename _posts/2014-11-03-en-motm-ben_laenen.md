@@ -1,7 +1,8 @@
 ---
 title: 'Mapper of the month: Ben Laenen'
-featured: images/eimai.jpg
+featured: images/motm/2014/11/eimai.jpg
 layout: post
+category: motm
 author: xivk
 lang: en
 ---
@@ -24,7 +25,7 @@ Currently, I belong to the category of armchair-mappers, so mainly using aereal 
 
 In the beginning there was not much choice, we had to start with the roads. After a while, when almost all roads in Antwerp were done, I started mapping bicycle routes and later on walking routes. The latter is especially interesting, you discover new, small paths, which would otherwise remain unknown. More recently, I am working on railway infrastructures, of course influenced by my job. I have been mapping a lot of different things over the years, but never really spend time on mapping points of interest (POIs).
 
-<a href="http://hdyc.neis-one.org/?Eimai"><img src="{{ site.baseurl }}/assets/images/hdyc_eimai.png"/></a>
+<a href="http://hdyc.neis-one.org/?Eimai"><img src="{{ site.baseurl }}/assets/images/motm/2014/11/hdyc_eimai.png"/></a>
 
 **Why do you map? What motivates you?**
 

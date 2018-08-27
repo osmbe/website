@@ -1,6 +1,6 @@
 ---
 title: 'Missing Maps Mapathon'
-featured: images/missing_maps_flyer.jpg
+featured: images/post/missing_maps_flyer.jpg
 layout: post
 author: Jorieke Vyncke
 lang: nl

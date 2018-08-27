@@ -1,32 +1,53 @@
-<!DOCTYPE HTML>
-<!--
-	Horizons by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
-<html>
-	<head>
-		<title>{{ page.title }} - {{ site.banner.name[page.lang] }}</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta http-equiv="Referrer-Policy" content="same-origin" />
-		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
-		{% seo title=false %}
-	</head>
-	<body>
-		{% include header.html %}
+<!doctype html>
+<html lang="{{ page.lang }}">
 
-		{{ content }}
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>{{ page.title }} - {{ site.banner.name[page.lang] }}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Referrer-Policy" content="same-origin">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+	{% seo title=false %}
+</head>
 
-		{% include footer.html %}
-	</body>
+<body>
+	{% include header.html %}
+
+	<div id="main" class="container">
+	{{ content }}
+	</div>
+
+	<footer id="footer">
+		<div class="container">
+			{% assign footer= "footer-" | append: page.lang | append: ".html" %}
+			{% include {{ footer }} %}
+
+			<hr>
+
+			<div class="copyright">
+				Give feedback on <a href="https://github.com/osmbe/website/issues/">GitHub</a>,
+				All this is <a href="https://github.com/osmbe/website/blob/master/LICENSE.txt">CC-BY 3.0</a> licensed.
+			</div>
+		</div>
+	</footer>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	{% if page.script %}
+	<script src="{{ site.baseurl }}/assets/js/{{ page.script }}"></script>
+	{% endif %}
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-38576399-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+</body>
+
 </html>

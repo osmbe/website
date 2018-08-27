@@ -1,6 +1,7 @@
 ---
 title: 'Mapper of the month: Olivier Roussel'
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

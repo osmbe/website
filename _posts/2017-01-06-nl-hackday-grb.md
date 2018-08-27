@@ -1,6 +1,6 @@
 ---
 title: "Hackday GRB"
-featured: images/hackday.jpg
+featured: images/post/hackday.jpg
 layout: post
 author: joost schouppe
 lang: nl

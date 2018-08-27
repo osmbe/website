@@ -1,7 +1,8 @@
 ---
 title: 'Mappers van de maand: Josefien & Ruben'
-featured: images/midgard_badges.jpg
+featured: images/motm/2015/03/midgard_badges.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---
@@ -49,7 +50,7 @@ Ruben: Verwijzingen leggen tussen OpenStreetMap en [Wikidata](http://wikidata.or
 Josefien: Dat je ergens deel van uitmaakt en dat elke kleine verandering, al is het maar één punt, een stap vooruit is naar iets waar Ruben en ik wel erg achter staan. Het is verder ook gewoon leuk om heel België te proberen mappen, en wij zijn het eens dat we daar graag aan willen meewerken, zo veel mogelijk.
 Ruben: Het feit dat de gegevens haast onbeperkt mogen gebruikt worden en dat iedereen mag meehelpen, van jongeren tot multinationals, vind ik geweldig.
 
-<img src="{{ site.baseurl }}/assets/images/midgard_kerkstraat.png"/>
+<img src="{{ site.baseurl }}/assets/images/motm/2015/03/midgard_kerkstraat.png"/>
 
 **Hebben jullie ideeën over hoe we de OpenStreetMap-gemeenschap kunnen uitbreiden? Of we meer mappers kunnen motiveren?**
 

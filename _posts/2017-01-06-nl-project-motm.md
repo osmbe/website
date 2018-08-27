@@ -2,6 +2,7 @@
 title: "Mapper van de maand"
 featured: images/community.jpg
 layout: project
+category: project
 author: Ben Abelshausen
 project_lead: Marc Gemis
 lang: nl
@@ -14,3 +15,7 @@ Elke maand proberen we een nieuwe mapper te zoeken en te interviewen. Meestal ie
 Van in het begin al vinden we dit één van onze belangrijkste projecten omdat het over onze community gaat. Zonder community, geen OpenStreetMap.
 
 Om de interviews te lezen, zie de [Mapper of the Month Wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Belgian_Mapper_of_the_Month).
+
+---
+
+{% include motm.html %}

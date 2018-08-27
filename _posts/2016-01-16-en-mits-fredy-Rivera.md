@@ -1,7 +1,8 @@
 ---
 title: 'Mapper in the spotlight: Fredy Rivera (Colombia)'
-featured: images/FredyRivera.jpg
+featured: images/motm/2016/01/FredyRivera.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

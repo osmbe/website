@@ -2,6 +2,7 @@
 title: 'Mapper of the Month March 2018: Nathalie Sidibe (Mali)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

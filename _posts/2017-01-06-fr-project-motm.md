@@ -2,6 +2,7 @@
 title: "Mapper of the Month"
 featured: images/community.jpg
 layout: project
+category: project
 author: Ben Abelshausen
 project_lead: Marc Gemis
 lang: fr
@@ -16,3 +17,7 @@ Nous essayons de mettre en même temps en avant qui sont nos cartographes et ce 
 Nous pensons que c'est l'un de nos projets les plus importants car cela concerne notre communauté et sans elle, il n'y a pas d'OpenStreetMap.
 
 Pour lire les interviews, voir [le Wiki sur Mapper of the Month](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Belgian_Mapper_of_the_Month).
+
+---
+
+{% include motm.html %}

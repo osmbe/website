@@ -2,6 +2,7 @@
 title: "Mapper of the Month June 2017: Julien Minet (Belgium)"
 featured: 
 layout: post
+category: motm
 author: escada
 lang: en
 ---

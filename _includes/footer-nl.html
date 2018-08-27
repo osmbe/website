@@ -1,53 +1,38 @@
-	<div class="row">
-		<div class="8u">
-			<section>
-				<header class="major">
-					<h2>Partnerorganisaties</h2>
-					<span class="byline">Word deel van onze community en ons netwerk. Bezoek ons ook op <a href="http://github.com/osmbe/">GitHub</a>.</span>
-				</header>
-				<div class="row">
-					<section class="6u">
-						<ul class="default">
-							<li><a href="http://wiki.osmfoundation.org/wiki/Main_Page">OpenStreetMap Foundation</a></li>
-							<li><a href="http://www.tragewegen.be/">Trage Wegen</a></li>
-							<li><a href="http://www.openknowledge.be/">Open Knowledge Belgium</a></li>
-							<li><a href="http://wiki.osgeo.org/wiki/Belgium">OSGeo Belgium</a></li>
-							<li><a href="http://hotosm.org">Humanitairian OpenStreetMap Team</a></li>
-							<li><a href="http://www.missingmaps.org/">Missing Maps</a></li>
-							<li><a href="http://maptime.io/belgium/">Maptime Belgium</a></li>
-						</ul>
-					</section>
-				</div>
-			</section>
-		</div>
-		<div class="4u">
-			<section>
-				<header class="major">
-					<h2>Open Knowledge Belgium</h2>
-					<span class="byline">
-						Wij zijn een werkgroep en deel van <a href="http://www.openknowledge.be/">Open Knowledge Belgium</a> 
-						en een <a href="https://wiki.osmfoundation.org/wiki/Local_Chapters">Local Chapter</a> 
-						van de <a href="https://blog.openstreetmap.org/about/">OpenStreetMap Foundation</a>.
-					</span>
-				</header>
-				<ul class="contact">
-					<li>
-						<span class="address">Adres</span>
-						<span>Open Knowledge Belgium VZW/ASBL<br>Cantersteen 10,<br>1000 Brussel</span>
-					</li>
-					<li>
-						<span class="mail">Mail</span>
-						<span><a href="#">community@osm.be</a></span>
-					</li>
-					<li>
-						<span class="phone">VAT</span>
-						<span>BE 0845.419.930</span>
-					</li>
-					<li>
-						<span class="bank_account">Rekening</span>
-						<span>BE45 0688 9551 0289</span>
-					</li>
-				</ul>
-			</section>
-		</div>
+<div class="row">
+	<div class="col-sm-7">
+		<h2>Partnerorganisaties</h2>
+		<p>Word deel van onze community en ons netwerk. Bezoek ons ook op <a href="http://github.com/osmbe/" target="_blank">GitHub</a>.</p>
+
+		<ul class="default">
+		{% for partner in site.data.partners %}
+			<li><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
+		{% endfor %}
+		</ul>
 	</div>
+	<div class="col-sm-5">
+		<h2>Open Knowledge Belgium</h2>
+		<p>
+			Wij zijn een werkgroep en deel van <a href="http://www.openknowledge.be/">Open Knowledge Belgium</a>
+			en een <a href="https://wiki.osmfoundation.org/wiki/Local_Chapters">Local Chapter</a>
+			van de <a href="https://blog.openstreetmap.org/about/">OpenStreetMap Foundation</a>.
+		</p>
+
+		<address>
+			<strong>Adres</strong><br>
+			Open Knowledge Belgium VZW/ASBL<br>
+			{{ site.data.contact.address }}
+		</address>
+		<p>
+			<strong>Mail</strong><br>
+			{{ site.data.contact.email }}
+		</p>
+		<p>
+			<strong>VAT</strong><br>
+			{{ site.data.contact.vat }}
+		</p>
+		<p>
+			<strong>Rekening</strong><br>
+			{{ site.data.contact.bank }}
+		</p>
+	</div>
+</div>

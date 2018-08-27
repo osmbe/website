@@ -17,7 +17,7 @@ plugins:
   - jekyll-sitemap
 twitter:
   username: osm_be
-url: http://osm.be
+url: https://osm.be
 description: OpenStreetMap Belgium community website
 social:
   name: OpenStreetMap Belgium
@@ -25,3 +25,6 @@ social:
     - https://twitter.com/osm_be
     - https://www.facebook.com/groups/1419016881706058/
     - https://github.com/osmbe
+exclude:
+  - INSTALL.md
+permalink: /:year/:month/:day/:title:output_ext

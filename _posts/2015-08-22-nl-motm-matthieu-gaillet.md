@@ -1,7 +1,8 @@
 ---
 title: 'Mapper van de maand: Matthieu Gaillet'
-featured: images/MatthieuGaillet.jpg
+featured: images/motm/2015/08/MatthieuGaillet.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

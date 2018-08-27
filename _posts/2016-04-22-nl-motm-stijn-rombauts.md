@@ -1,6 +1,7 @@
 ---
 title: "Mapper van de maand: Stijn Rombauts"
 layout: post
+category: motm
 author: escada
 lang: nl
 ---

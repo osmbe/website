@@ -1,7 +1,8 @@
 ---
 title: 'Mapper van de maand: Pierre Parmentier'
-featured: images/foxandpotatoes.jpg
+featured: images/motm/2015/03/foxandpotatoes.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---
@@ -32,7 +33,7 @@ Niets in het bijzonder. We zijn zoals mieren en iedereen draagt zijn klein deelt
 
 Wat me motiveert is de passie voor kaarten, en het verlangen om het landschap en mijn omgeving beter te begrijpen. Als ik een beboste helling zie, denk ik onmiddellijk aan een spoorweg die er achter zou kunnen passeren. Door te mappen stellen we ons vele vragen i.v.m. geschiedenis, geografie en verschillende betekenissen. Dat is wat mij interesseert! Maar ook de deelname aan een waardevol project vind ik belangrijk.
 
-<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/foxandpotatoes_hdyc.png"/></a>
+<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/motm/2015/03/foxandpotatoes_hdyc.png"/></a>
 
 **Heb je ideeën over hoe we de OpenStreetMap-gemeenschap kunnen uitbreiden?**
 

@@ -2,6 +2,7 @@
 title: "Mapper van de maand oktober 2017: Seppe Santens (België)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: nl
 ---

@@ -1,7 +1,8 @@
 ---
 title: 'Contributeur du mois: Guy Roman'
-featured: images/Roman_Guy.jpg
+featured: images/motm/2015/01/Roman_Guy.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: fr
 ---
@@ -22,7 +23,7 @@ Par plaisir, je voyage sans quitter mon salon !
 **Faites-vous d'autres choses liées à OpenStreetMap?**
 J'essaye de proposer les cartes OpenStreetMap à des utilisateurs "passifs", comme des organisateurs de courses à pied et des organisateurs de promenades. 
 
-<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/hdyc_Roman_Guy.png"/></a>
+<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/motm/2015/01/hdyc_Roman_Guy.png"/></a>
 
 **Avez-vous des idées pour améliorer OpenStreetMap ?**
 Pour certains détails le rendu général d'OpenStreetMap pourrait être améliorée. C'est par exemple le cas pour [landuse "pierrier"](http://wiki.openstreetmap.org/wiki/Tag:natural%3Dscree), l'étendue de cailloux en montagne, en bords de certaines rivières,... Il suffirait de prendre le rendu de "plage",... et de changer la couleur en gris. Une autre exemple est : faire passer un ruisseau sur un pont. Aujourd'hui c'est possible pour un canal, mais pas pour un ruisseau. Malheureusement on rentre là dans un domaine que je ne maîtrise pas.

@@ -1,7 +1,8 @@
 ---
 title: 'Mapper of the month: Steve All (USA)'
-featured: images/SteveAll.jpg
+featured: images/motm/2017/01/SteveAll.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

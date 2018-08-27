@@ -2,6 +2,7 @@
 title: "Mapper van de Maand Juli 2017: Jamie Nadeau (Canada)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: nl
 ---

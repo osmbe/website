@@ -1,6 +1,7 @@
 ---
 title: "Mapper in the spotlight: Clifford Snow"
 layout: post
+category: motm
 author: Jorieke Vyncke
 lang: en
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Mapper of the Month March 2017: Lauri Kytömaa (Finland)"
 layout: post
+category: motm
 author: escada
 lang: en
 ---

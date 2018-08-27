@@ -1,8 +1,9 @@
 ---
 title: "Road completion project"
-featured: images/road-completion2.gif
+featured: images/project/road-completion2.gif
 featured_caption: "Red is government data, the less red, the more complete OSM becomes."
 layout: project
+category: project
 author: Ben Abelshausen
 lang: en
 project_lead: Joost Schouppe & Ben Abelshausen
@@ -18,7 +19,7 @@ We use open-data and machine learning to verify OSM data. As governments are fin
 
 As a community, we want to build the tools to make sure that any correction in the official open data road sets is made visible to the mapping community as quickly and as accurately as possible. Because it isn't just Flanders that has released tools like this, we will try to build something that is easily scalable to any dataset of road centerlines worldwide.
 
-![](/assets/images/road-completion.gif)
+![](/assets/images/project/road-completion.gif)
 *The evolution of mapping roads in Brussels. Green: slow roads. Grey: mapped roads. Black: roads being worked on that month*
 
 ### Trust
@@ -27,7 +28,7 @@ The core of this project is trust, we want data consumers to be able to trust OS
 
 Once these tools are up-and-running and we have done a first pass over the data, then we can evaluate the quality of OSM in Flanders by comparing the datasets again and analysing the differences. We then hope to guarantee a minimum level of quality of the OSM road data compared to the quality of the open datasets available. Hopefully, that will make OSM in Belgium usable in even more cases because there is a metric of completeness.
 
-![](/assets/images/road-completion1.jpg)
+![](/assets/images/project/road-completion1.jpg)
 *A sample of missing 'slow' roads*
 
 ### Current status

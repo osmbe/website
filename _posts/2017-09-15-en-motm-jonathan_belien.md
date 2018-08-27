@@ -2,6 +2,7 @@
 title: "Mapper of the Month September 2017: Jonathan Beliën (Belgium)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

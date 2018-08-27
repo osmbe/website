@@ -1,6 +1,7 @@
 ---
 title: 'Mapper in the spotlight: Nick (Nederland)'
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

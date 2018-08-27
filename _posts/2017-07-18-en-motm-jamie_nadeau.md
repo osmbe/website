@@ -2,6 +2,7 @@
 title: "Mapper of the Month July 2017: Jamie Nadeau (Canada)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

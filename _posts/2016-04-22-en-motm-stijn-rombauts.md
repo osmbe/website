@@ -1,6 +1,7 @@
 ---
 title: "Belgian Mapper of the Month: Stijn Rombauts"
 layout: post
+category: motm
 author: escada
 lang: en
 ---

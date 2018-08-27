@@ -2,6 +2,7 @@
 title: 'Mapper of the month: Matšeliso Thobei (Lesotho/Ireland)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

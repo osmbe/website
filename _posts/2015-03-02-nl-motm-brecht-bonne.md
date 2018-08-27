@@ -1,7 +1,8 @@
 ---
 title: 'Mapper van de maand: Brecht Bonne '
-featured: images/brecht.png
+featured: images/motm/2015/03/brecht.png
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---
@@ -22,7 +23,7 @@ Ik doe bijna alles, maar voornamelijk surveys omdat ik dat gewoon de beste manie
 Ja, ik beken ik heb zo van die luie zondagen. Als het weer niet meewil of het is te vroeg donker, dan durf ik wel eens in mijn zetel blijven zitten en wat op de luchtfoto's van Bing mappen. Het grootste project dat ik ooit deed was om een reis voor te bereiden in augustus 2014. Omdat ik toen van zin was om te wandelen in de prachtige natuur van Carmarthen in Wales, heb ik de ganse rivierbedding met bijhorende gronden in kaart gebracht tot bijna in <a href="http://www.openstreetmap.org/#map=12/51.8621/-4.1594">Llandeilo</a>. Het werkje nam enkele weken in beslag, vooral toen de "Ordnance Survey Opendata" niet altijd beschikbaar bleek en ik moest terugvallen op de Bing foto's. De bibliotheek van Brugge zal me dankbaar zijn voor mijn trouwe aanwezigheid! Bij aankomst bleek echter dat de oude spoorwegbedding nog niet was onteigend en ik in feite privégronden had gemapt...
 Zoals je kunt zien in mijn <a href="http://hdyc.neis-one.org/?peeweeke">stats-pagina</a> ben ik een grote fan van "JOSM". Zowel op Windows als Linux is dat een oersterk programma met ontelbare voordelen. Op de Missing Maps Marathon in Antwerpen heb ik nog wat extra kneepjes geleerd om het programma nog beter te gebruiken. Al moet ik bekennen dat ik mijn eerste node (dat zandpadje) gemaakt is met "Potlatch". Maar net zoals bij "iD" kwam ik al snel tegen een muur te staan van wat niet kon. Toen er sprake was van "MapRoulette" op de OSM.be website, ben ik eens ga kijken, maar na enkele pogingen om rivieren en wegen in Italië van elkaar te scheiden heb ik deze fout-correctie opgegeven. Misschien kom ik hier later op terug.
 
-<img src="{{ site.baseurl }}/assets/images/brecht_trails.png"/>
+<img src="{{ site.baseurl }}/assets/images/motm/2015/03/brecht_trails.png"/>
 
 **Waar map je?**
 

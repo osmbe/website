@@ -5,55 +5,53 @@ lang: en
 order: 1
 ---
 
-<div id="main" class="wrapper style1">
-	<div class="container">
-		<div class="row">
-			<!-- Content -->
-			<div id="content-community" class="8u skel-cell-important">
-				<section>
-					<header class="major">
-						<h2>Our Community</h2>
-						<span class="byline">Want to become part of our community? You probably already are!</span>
-					</header>
-					<p>In short, everyone interested in OpenStreetMap in Belgium is part of our community. First of all we have our mappers. But we also have people volunteering in a range of activities, or helping with building software, organizing mapathons or help with other OpenStreetMap related events. Our goal is to make everyone feel welcome and if you are still reading this we probably already consider you part of our community.</p>
-					<figure>
-						<img class="full-width" src="{{ site.baseurl }}/assets/images/community.jpg"/>
-						<figcaption style="font-size: 75%; text-align: right;">Our awesome volunteers at State of the Map in Brussels, 2016!</figcaption>
-					</figure>
-					<h4>OpenStreetMap Belgium, our mission!</h4>
-					<p>So, if everyone is part of the community then what's OpenStreetMap Belgium all about? Our main mission is to facilitate mapping activities in Belgium and make sure everyone feels welcome. You can call us 'crazy' about mapping, perhaps a bit more than the average community member. If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you! Visit the 'join' page to become an official member.</p>
-				</section>
-			</div>
+<div class="row">
+	<div id="content-community" class="col-sm-8">
+		<h2 class="h1">Our Community</h2>
+		<p>Want to become part of our community? You probably already are!</p>
 
-			<div id="sidebar" class="4u sidebar">
-				<div>
-					<strong>You have a question ?</strong>
-					<p>Ask us anything in English, French,
-						or Dutch on <a href="mailto:community@osm.be">community@osm.be</a> or 
-						our <a href="https://riot.im/app/#/room/#osmbe:matrix.org">chat channel</a>! The <a href="{{ site.baseurl }}/contact.html">contact page</a> lists 
-						all our channels.</p>
-				</div>
-				<hr>
-				<div>
-					<a class="twitter-timeline" data-width="400" data-height="1000" href="https://twitter.com/osm_be">Tweets by osm_be</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-			</div>
+		<p>
+			In short, everyone interested in OpenStreetMap in Belgium is part of our community. First of all we have our mappers. But
+			we also have people volunteering in a range of activities, or helping with building software, organizing mapathons or
+			help with other OpenStreetMap related events. Our goal is to make everyone feel welcome and if you are still reading
+			this we probably already consider you part of our community.
+		</p>
+		<figure>
+			<img src="{{ site.baseurl }}/assets/images/community.jpg" />
+			<figcaption class="text-muted text-right small">Our awesome volunteers at State of the Map in Brussels, 2016!</figcaption>
+		</figure>
 
+		<h4>OpenStreetMap Belgium, our mission!</h4>
+		<p>
+			So, if everyone is part of the community then what's OpenStreetMap Belgium all about? Our main mission is to facilitate mapping
+			activities in Belgium and make sure everyone feels welcome. You can call us 'crazy' about mapping, perhaps a bit more
+			than the average community member. If you want to help to improve and grow the mapping community in Belgium, to make
+			even more people crazy about mapping, OpenStreetMap Belgium is the right place for you! Visit the 'join' page to become
+			an official member.
+		</p>
+	</div>
+
+	<div id="sidebar" class="col-sm-4">
+		<div>
+			<strong>You have a question ?</strong>
+			<p>
+				Ask us anything in English, French, or Dutch on <a href="mailto:community@osm.be">community@osm.be</a>
+				or our <a href="https://riot.im/app/#/room/#osmbe:matrix.org">chat channel</a> !<br>
+				The <a href="{{ site.baseurl }}/contact.html">contact page</a> lists all our channels.
+			</p>
 		</div>
 		<hr>
-		<div class="row">
-
-			<div id="content-projects" class="12u skel-cell-important">
-				<section>
-					<header class="major">
-						<h2>Our Projects</h2>
-						<span class="byline">We have several ongoing projects to improve the map and support the community in Belgium.</span>
-					</header>
-
-					{% include projects.html %}
-
-				</section>
-			</div>
+		<div>
+			<a class="twitter-timeline" data-height="600" data-dnt="true" href="https://twitter.com/osm_be?ref_src=twsrc%5Etfw">Tweets by osm_be</a>
+			<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
 	</div>
+</div>
+<hr>
+<div>
+	<h2>Our Projects</h2>
+	<p>We have several ongoing projects to improve the map and support the community in Belgium.</p>
+
+	{% include projects.html %}
+
 </div>

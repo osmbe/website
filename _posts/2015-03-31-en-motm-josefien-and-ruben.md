@@ -1,7 +1,8 @@
 ---
 title: 'Mappers of the month: Josefien & Ruben'
-featured: images/midgard_badges.jpg
+featured: images/motm/2015/03/midgard_badges.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---
@@ -36,7 +37,7 @@ Jose: [Mailboxes](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpost_box) are
 
 Ruben: I map a lot of different items. I enjoy mapping [turn lanes](http://wiki.openstreetmap.org/wiki/Key:turn), but I wished there would be more maps that show them.
 
-<img src="{{ site.baseurl }}/assets/images/midgard_kerkstraat.png"/>
+<img src="{{ site.baseurl }}/assets/images/motm/2015/03/midgard_kerkstraat.png"/>
 
 **Why do you map? What motivates you?**
 

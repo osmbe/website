@@ -2,6 +2,7 @@
 title: 'Mapper van de maand: Lionel Giard (België)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: nl
 ---
@@ -84,4 +85,3 @@ Als het mogelijk is geef ik mezelf op als vrijwilliger bij mapathons in België 
 Ik wil iedereen bedanken die meegewerkt heeft om OpenStreetMap te maken tot wat het is. Het is een ambitieus project, ondersteund door een geweldige gemeenschap, en ik ben fier daar deel van uit te maken. Sinds ik ben beginnen deelnemen, heb ik al een evolutie gezien in de mentaliteit naar het project toe, zowel bij de overheid als in de privésector. Dat motiveert me, omdat ik nu weet dat de data ook gebruikt worden.
 
 Ik wil ook nog graag een oproep doen aan alle Walen om een steentje bij te dragen aan OpenStreetMap. We zijn nog steeds met te weinig in Wallonië, terwijl er nog veel werk te verzetten is. Aarzel niet om eens langs te komen op een meetup, of als dat niet kan, contact op te nemen via ons chatkanaal op Riot.
-

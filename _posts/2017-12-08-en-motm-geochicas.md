@@ -2,6 +2,7 @@
 title: "Mapper of the Month December 2017: Geochicas"
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

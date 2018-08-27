@@ -1,7 +1,8 @@
 ---
 title: 'Mapper in the spotlight: Jinal Foflia (India)'
-featured: images/JinalFoflia.jpg
+featured: images/motm/2016/07/JinalFoflia.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

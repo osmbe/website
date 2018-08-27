@@ -1,6 +1,7 @@
 ---
 title: "Mapper in the Spotlight: Pete Masters (Scotland)"
 layout: post
+category: motm
 author: escada
 lang: en
 ---

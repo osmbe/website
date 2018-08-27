@@ -1,6 +1,6 @@
 ---
 title: 'National Mapathon'
-featured: images/nationalmapathon.jpg
+featured: images/post/nationalmapathon.jpg
 layout: post
 author: Joost Schouppe
 lang: en

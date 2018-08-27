@@ -1,6 +1,8 @@
 ---
 title: "Mapper of the Month: Sus Verhoeven"
+featured: images/motm/2016/10/susvhv.jpg
 layout: post
+category: motm
 author: escada
 lang: en
 ---

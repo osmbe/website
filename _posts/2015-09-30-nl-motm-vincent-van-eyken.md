@@ -1,7 +1,8 @@
 ---
 title: 'Mapper van de maand: Vincent Van Eyken'
-featured: images/VicentVanEyken.jpg
+featured: images/motm/2015/09/VicentVanEyken.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

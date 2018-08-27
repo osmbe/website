@@ -1,7 +1,8 @@
 ---
 title: "Mapper van de maand: Jorieke Vyncke"
-featured: images/JoriekeVyncke.jpg
+featured: images/motm/2016/08/JoriekeVyncke.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

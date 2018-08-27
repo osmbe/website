@@ -1,6 +1,7 @@
 ---
 title: 'Contributeur du mois : Brice Maron'
 layout: post
+category: motm
 author: Marc Gemis
 lang: fr
 ---
