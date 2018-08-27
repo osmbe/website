@@ -78,9 +78,11 @@
 			<ul class="list-inline">
 				{% assign pages=site.pages | where:"lang",page.lang | sort:"order" %}
 				{% for p in pages %}
+				{% if p.order > 0 %}
 				<li class="list-inline-item">
 					<a href="{{ p.url | relative_url }}">{{ p.title }}</a>
 				</li>
+				{% endif %}
 				{% endfor %}
 			</ul>
 		</nav>
