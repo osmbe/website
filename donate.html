@@ -1,0 +1,65 @@
+---
+title: Donate
+layout: default
+lang: en
+order: -1
+scripts:
+  - https://checkout.stripe.com/checkout.js
+  - stripe.js
+---
+
+<h2>Donate</h2>
+<p>
+    Donating to OpenStreetMap Belgium helps our group to host this website, refund travel expenses for volunteers, and it enables
+    us to organize specific projects. We also use the donations to have t-shirts, stickers and banners made for promotion.
+</p>
+<hr>
+
+<div>
+    <h3>Recurring donation</h3>
+
+    <div class="donation">
+        <h4>Monthly</h4>
+        <ul id="donation-monthly-items" class="donation-items">
+        </ul>
+
+        <h4>Yearly</h4>
+        <ul id="donation-yearly-items" class="donation-items">
+        </ul>
+    </div>
+
+    <h3>Single donation</h3>
+
+    <p>Please enter the amount you wish to donate in euro below. Clicking donate will open the form allowing you to use your
+        credit or debit card to send the donation.</p>
+
+    <div class="donation">
+        <ul class="donation-items">
+            <li class="donation-btn" data-amount="10">10 &euro;</li>
+            <li class="donation-btn" data-amount="25">25 &euro;</li>
+            <li class="donation-btn" data-amount="100">100 &euro;</li>
+            <li class="donation-custom">
+                <input id="donation-amount" type="number" name="amount" min="0" step="0.01" lang="{{ page.lang }}" placeholder="Other amount">
+                <span class="currency">&euro;</span>
+            </li>
+        </ul>
+        <button id="donation-submit" disabled="disabled">Donate</button>
+    </div>
+
+    <hr>
+
+    <div id="donation-result">
+        <span id="donation-loading" style="display: none;">Your payment is being processed ...</span>
+        <span id="donation-result-success" style="display: none; color: green;">
+            <strong>Thank you for your donation, it has been received.</strong>
+        </span>
+        <span id="donation-result-error" style="display: none; color: red;">
+            <strong>Sorry there was an error making your payment, please try again later.</strong>
+        </span>
+    </div>
+
+    <p>
+        Your credit card donation will be processed by <a href="https://stripe.com/" target="_blank">Stripe</a>. The charge
+        will appear as "<em>Donation to OpenStreetMap Belgium</em>" on your credit card statement.
+    </p>
+</div>

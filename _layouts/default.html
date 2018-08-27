@@ -34,7 +34,16 @@
 	</footer>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-	{% if page.script %}
+	{% if page.scripts %}
+		{% for script in page.scripts %}
+			{% assign http = script | truncate: 4, "" %}
+			{% if http == 'http' %}
+			<script src="{{ script }}"></script>
+			{% else %}
+			<script src="{{ site.baseurl }}/assets/js/{{ script }}"></script>
+			{% endif %}
+		{% endfor %}
+	{% else if page.script %}
 	<script src="{{ site.baseurl }}/assets/js/{{ page.script }}"></script>
 	{% endif %}
 	<script>
