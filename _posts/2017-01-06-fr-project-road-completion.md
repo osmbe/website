@@ -3,6 +3,7 @@ title: "Road completion project"
 featured: images/project/road-completion2.gif
 featured_caption: "En rouge, les données officielles. Au moins c'est rouge, au plus OSM est complet."
 layout: project
+category: project
 author: Ben Abelshausen
 lang: fr
 project_lead: Joost Schouppe & Ben Abelshausen

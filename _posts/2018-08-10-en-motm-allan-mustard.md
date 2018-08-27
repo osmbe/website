@@ -2,6 +2,7 @@
 title: 'Mapper of the month: Allan Mustard (USA/Turkmenistan)'
 featured: 
 layout: post
+category: motm
 author: escada
 lang: en
 ---

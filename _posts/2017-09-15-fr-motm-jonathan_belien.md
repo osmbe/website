@@ -2,6 +2,7 @@
 title: "Contributeur du mois Septembre 2017: Jonathan Beliën (Belgique)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: fr
 ---

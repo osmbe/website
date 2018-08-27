@@ -2,6 +2,7 @@
 title: 'Mapper in the spotlight: Lutz Lange (Germany)'
 featured: images/motm/2015/12/LutzLange.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

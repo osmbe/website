@@ -1,6 +1,7 @@
 ---
 title: 'Mapper of the month: Brice Maron'
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

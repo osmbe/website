@@ -1,6 +1,7 @@
 ---
 title: 'Mapper van de maand: Polyglot'
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

@@ -2,6 +2,7 @@
 title: 'Mapper of the month: Guy Vanvuchelen'
 featured: images/motm/2014/12/GuyVV.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

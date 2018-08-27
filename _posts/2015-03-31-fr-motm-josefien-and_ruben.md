@@ -2,6 +2,7 @@
 title: 'Contributeurs du mois: Josefien & Ruben'
 featured: images/motm/2015/03/midgard_badges.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: fr
 ---

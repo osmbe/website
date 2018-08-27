@@ -2,6 +2,7 @@
 title: "Contributeur du mois Juin 2017: Julien Minet (Belgique)"
 featured: 
 layout: post
+category: motm
 author: escada
 lang: fr
 ---

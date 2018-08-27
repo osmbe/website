@@ -2,6 +2,7 @@
 title: "Free Belgium Baselayers"
 featured: images/project/belgium-basemap1.png
 layout: project
+category: project
 author: Jonathan Beliën
 project_lead: Jonathan Beliën
 lang: fr

@@ -2,6 +2,7 @@
 title: "Mapper of the Month: Vincent Van Eyken"
 featured: images/motm/2015/09/VicentVanEyken.jpg
 layout: post
+category: motm
 author: escada
 lang: en
 ---

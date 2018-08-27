@@ -1,6 +1,6 @@
 <div class="row">
     {% for post in site.posts %}
-    {% if post.lang == page.lang and post.layout == "project" %}
+    {% if post.lang == page.lang and post.category == "project" %}
     <div class="col-sm-6">
         <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 

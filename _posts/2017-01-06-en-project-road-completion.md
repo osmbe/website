@@ -3,6 +3,7 @@ title: "Road completion project"
 featured: images/project/road-completion2.gif
 featured_caption: "Red is government data, the less red, the more complete OSM becomes."
 layout: project
+category: project
 author: Ben Abelshausen
 lang: en
 project_lead: Joost Schouppe & Ben Abelshausen

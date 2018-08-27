@@ -2,6 +2,7 @@
 title: "Mapper van de maand Januari 2018: Pieter Vander Vennet"
 featured:
 layout: post
+category: motm
 author: escada
 lang: nl
 ---

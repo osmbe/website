@@ -2,6 +2,7 @@
 title: 'Mapper van de maand: Guy Roman'
 featured: images/motm/2015/01/Roman_Guy.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

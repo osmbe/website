@@ -2,6 +2,7 @@
 title: "Mapper of the Month May 2017: Marek Kleciak (Germany/Poland)"
 featured: 
 layout: post
+category: motm
 author: escada
 lang: en
 ---

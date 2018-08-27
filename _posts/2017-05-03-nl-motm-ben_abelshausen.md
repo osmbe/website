@@ -2,6 +2,7 @@
 title: "Mapper van de Maand April 2017: Ben Abelshausen (België)"
 featured: 
 layout: post
+category: motm
 author: escada
 lang: nl
 ---

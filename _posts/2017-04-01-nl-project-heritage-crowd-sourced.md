@@ -2,6 +2,7 @@
 title: "Heritage in Flanders and Crowd-Sourced Projects"
 featured: images/project/heritage.png
 layout: project
+category: project
 author: escada
 lang: nl
 ---

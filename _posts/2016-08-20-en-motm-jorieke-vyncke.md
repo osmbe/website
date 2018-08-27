@@ -2,6 +2,7 @@
 title: "Mapper of the Month: Jorieke Vyncke"
 featured: images/motm/2016/08/JoriekeVyncke.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

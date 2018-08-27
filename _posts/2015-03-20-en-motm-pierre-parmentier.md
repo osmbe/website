@@ -2,6 +2,7 @@
 title: 'Mapper of the moth: Pierre Parmentier'
 featured: images/motm/2015/03/foxandpotatoes.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

@@ -2,6 +2,7 @@
 title: 'Contributeur du mois: Lionel Giard (Belgique)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: fr
 ---
@@ -75,4 +76,3 @@ J'aimerais remercier tous ceux qui font ce qu'OpenStreetMap est aujourd'hui, car
 
 
 Enfin, je vais réaliser un nouvel appel à tous les Wallon(ne)s de participer à OpenStreetMap. Nous sommes encore trop peu nombreux en Wallonie et pourtant, il y a beaucoup de choses à compléter par chez nous. N'hésitez pas à venir nous voir dans l'un des meetups wallons ou ailleurs, mais aussi sur le chat Riot !
-

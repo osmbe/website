@@ -2,6 +2,7 @@
 title: 'Mapper of the month: Brecht Bonne '
 featured: images/motm/2015/03/brecht.png
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

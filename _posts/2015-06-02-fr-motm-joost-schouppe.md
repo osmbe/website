@@ -2,6 +2,7 @@
 title: 'Contributeur du mois : Joost Schouppe'
 featured: images/motm/2015/06/joost_schouppe.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: fr
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Belgian Mapper of the Month:Stefan "
 layout: post
+category: motm
 author: escada
 lang: en
 ---

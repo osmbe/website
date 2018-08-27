@@ -2,6 +2,7 @@
 title: "Mapper van de maand September 2017: Jonathan Beliën (België)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: nl
 ---
@@ -166,4 +167,3 @@ Beste Waalse vrienden, kom een pint met ons pakken bij de volgende meetup, julli
 dat wij zeer sympahtiek zijn, we zullen jullie niet opeten! En een meetup is steeds een gezellige avond.
 
 _vertaald door Escada_
-

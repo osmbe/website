@@ -2,6 +2,7 @@
 title: "Contributeur du mois Juillet 2017: Jamie Nadeau (Canada)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: fr
 ---

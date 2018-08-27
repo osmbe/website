@@ -3,6 +3,7 @@ title: "Road completion project"
 featured: images/project/road-completion2.gif
 featured_caption: "Overheidsdata in het rood. OSM in het zwart erbovenop. In de loop der tijd worden plaatsen waar er geen OSM wegen zijn (en je dus rood ziet) alsmaar zeldzamer."
 layout: project
+category: project
 author: Ben Abelshausen
 lang: nl
 project_lead: Joost Schouppe & Ben Abelshausen

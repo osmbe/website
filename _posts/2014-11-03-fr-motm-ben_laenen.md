@@ -2,6 +2,7 @@
 title: 'Contributeur du mois: Ben Laenen'
 featured: images/motm/2014/11/eimai.jpg
 layout: post
+category: motm
 author: xivk
 lang: fr
 ---

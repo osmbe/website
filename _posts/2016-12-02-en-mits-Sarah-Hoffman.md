@@ -2,6 +2,7 @@
 title: 'Mapper in the spotlight: Sarah Hoffman (Germany)'
 featured: images/motm/2016/12/SarahHoffman.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

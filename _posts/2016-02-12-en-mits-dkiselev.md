@@ -1,6 +1,7 @@
 ---
 title: 'Mapper in the spotlight: Dkiselev (Russia)'
 layout: post
+category: motm
 author: Marc Gemis
 lang: en
 ---

@@ -2,6 +2,7 @@
 title: "Mapper of the Month"
 featured: images/community.jpg
 layout: project
+category: project
 author: Ben Abelshausen
 project_lead: Marc Gemis
 lang: fr

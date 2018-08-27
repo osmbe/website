@@ -2,6 +2,7 @@
 title: 'Mapper van de maand: Julien Fastré'
 featured: images/motm/2016/06/julien.jpg
 layout: post
+category: motm
 author: Marc Gemis
 lang: nl
 ---

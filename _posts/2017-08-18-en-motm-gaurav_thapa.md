@@ -2,6 +2,7 @@
 title: "Mapper of the Month August 2017: Gaurav Thapa (Nepal)"
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---

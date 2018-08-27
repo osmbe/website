@@ -2,6 +2,7 @@
 title: 'Mapper of the Month February 2018: Anisa Kuci (Albania)'
 featured:
 layout: post
+category: motm
 author: escada
 lang: en
 ---
