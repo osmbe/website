@@ -1,0 +1,9 @@
+<ul>
+    {% for post in site.posts %}
+    {% if post.lang == page.lang and post.category == "motm" %}
+    <li>
+        <span class="text-info">{{ post.date | date: "%m.%Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
