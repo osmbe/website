@@ -1,6 +1,6 @@
 ---
 title: "Hackday GRB"
-featured: images/hackday.jpg
+featured: images/post/hackday.jpg
 layout: post
 author: joost schouppe
 lang: en
@@ -43,4 +43,3 @@ Thanks again to Transforma BXL!
 If you like what this community is doing, why not give it a little financial support? Hackers and mappers 
 erform better if someone pays for their pizza! [Contact us](mailto:community@osm.be) for sponsoring opportunities or [become a member of OpenStreetMap Belgium](http://www.osm.be/nl/signup.html).
 To stay up to date on all things OSM-be, sign up to our [newsletter](http://eepurl.com/bZoZlj).
- 

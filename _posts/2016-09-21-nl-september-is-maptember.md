@@ -1,6 +1,6 @@
 ---
 title: September is maptember
-featured: images/pic02.jpg
+featured: images/post/pic02.jpg
 layout: post
 author: Joost Schouppe
 lang: nl

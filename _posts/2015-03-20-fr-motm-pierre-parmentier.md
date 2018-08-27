@@ -1,6 +1,6 @@
 ---
 title: 'Contributeur du mois: Pierre Parmentier'
-featured: images/foxandpotatoes.jpg
+featured: images/motm/2015/03/foxandpotatoes.jpg
 layout: post
 author: Marc Gemis
 lang: fr
@@ -27,7 +27,7 @@ Je travaille surtout sur les données basiques (highways, buildings, import UrbI
 
 Aucune prouesse. On est comme des fourmis et chaque contributeur ajoute son petit morceau à l'édifice. Et chaque contribution mérite le respect !
 
-<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/foxandpotatoes_hdyc.png"/></a>
+<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/motm/2015/03/foxandpotatoes_hdyc.png"/></a>
 
 **Pourquoi cartographiez-vous? Qu'est ce qui vous motive ?**
 

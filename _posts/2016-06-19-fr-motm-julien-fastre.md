@@ -1,6 +1,6 @@
 ---
 title: 'Belgian mapper of the month: Julien Fastré'
-featured: images/julien.jpg
+featured: images/motm/2016/06/julien.jpg
 layout: post
 author: Marc Gemis
 lang: fr

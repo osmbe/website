@@ -1,6 +1,6 @@
 ---
 title: 'Contributeurs du mois: Josefien & Ruben'
-featured: images/midgard_badges.jpg
+featured: images/motm/2015/03/midgard_badges.jpg
 layout: post
 author: Marc Gemis
 lang: fr
@@ -49,7 +49,7 @@ Ruben : Établir des références entre OpenStreetMap et Wikidata me semble éga
 Josefien : Que vous fassiez une petite partie d'un ensemble ou tout changement minime, c'est un point mais c'est un pas en avant vers quelque chose que Ruben et moi soutenons vraiment. C'est juste amusant d'essayer de cartographier toute la Belgique et nous sommes d'accord sur le fait de participer autant que possible.
 Ruben : Je trouve motivant que les données peuvent être utilisées presque indéfiniment et que chacun peut aider, des jeunes aux multinationales.
 
-<img src="{{ site.baseurl }}/assets/images/midgard_kerkstraat.png"/>
+<img src="{{ site.baseurl }}/assets/images/motm/2015/03/midgard_kerkstraat.png"/>
 
 **Avez-vous des idées sur la façon dont nous pouvons élargir la communauté OpenStreetMap ? Ou pour motiver plus de cartographes ?**
 

@@ -1,6 +1,6 @@
 ---
 title: "Surveys"
-featured: images/heritage.png
+featured: images/project/heritage.png
 layout: post
 author: escada
 lang: en

@@ -1,6 +1,6 @@
 ---
 title: 'Mapper in the spotlight: Dave Corley (Ireland)'
-featured: images/DaveCorley.jpg
+featured: images/motm/2015/11/DaveCorley.jpg
 layout: post
 author: Marc Gemis
 lang: en

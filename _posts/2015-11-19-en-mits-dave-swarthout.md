@@ -1,6 +1,6 @@
 ---
 title: 'Mapper in the spotlight: Dave Swarthout (USA/Thailand)'
-featured: images/DaveSwarthout.jpg
+featured: images/motm/2015/11/DaveSwarthout.jpg
 layout: post
 author: Marc Gemis
 lang: en

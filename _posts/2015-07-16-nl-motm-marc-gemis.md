@@ -1,6 +1,6 @@
 ---
 title: 'Mapper van de maand: Marc Gemis'
-featured: images/MarcGemis.jpg
+featured: images/motm/2015/07/MarcGemis.jpg
 layout: post
 author: Jorieke
 lang: nl

@@ -1,6 +1,6 @@
 ---
 title: 'Mapper of the moth: Pierre Parmentier'
-featured: images/foxandpotatoes.jpg
+featured: images/motm/2015/03/foxandpotatoes.jpg
 layout: post
 author: Marc Gemis
 lang: en
@@ -24,7 +24,7 @@ I am a rather isolated contributor. I never had the opportunity to attend a mapp
 
 I work mostly on basic data like highways, buildings, the UrbIS import, addresses and shops. Occasionally, I added roadside trees, hydrants, <a href="http://nl.wikipedia.org/wiki/Automatische_externe_defibrillator">AED</a>, pedestrian crossings, post boxes.
 
-<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/foxandpotatoes_hdyc.png"/></a>
+<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/motm/2015/03/foxandpotatoes_hdyc.png"/></a>
 
 **Why do you map?**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Missing Maps Mapathon Gent'
-featured: images/missing-maps.png
+featured: images/post/missing-maps.png
 layout: post
 author: Joost Schouppe
 lang: nl

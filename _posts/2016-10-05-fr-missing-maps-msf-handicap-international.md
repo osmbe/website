@@ -1,6 +1,6 @@
 ---
 title: 'Missing Maps Mapathon chez Médecins Sans Frontières / Handicap International Bruxelles'
-featured: images/missing-maps.png
+featured: images/post/missing-maps.png
 layout: post
 author: Jorieke
 lang: fr

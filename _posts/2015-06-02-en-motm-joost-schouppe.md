@@ -1,6 +1,6 @@
 ---
 title: 'Mapper of the month: Joost Schouppe'
-featured: images/joost_schouppe.jpg
+featured: images/motm/2015/06/joost_schouppe.jpg
 layout: post
 author: Jorieke
 lang: en

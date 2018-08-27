@@ -1,6 +1,6 @@
 ---
 title: 'Mapper of the month: Guy Roman'
-featured: images/Roman_Guy.jpg
+featured: images/motm/2015/01/Roman_Guy.jpg
 layout: post
 author: Marc Gemis
 lang: en
@@ -20,7 +20,7 @@ I mainly use the aerial images from Bing, but I combine this with the available 
 **Why do you map?**
 It is fun, and it allows me to explore the world without leaving my house!
 
-<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/hdyc_Roman_Guy.png"/></a>
+<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/motm/2015/01/hdyc_Roman_Guy.png"/></a>
 
 **Do you do other things related to OpenStreetMap?**
 I try to convince possible "passive" users to use OpenStreetMap, such as organisers of hiking trips.

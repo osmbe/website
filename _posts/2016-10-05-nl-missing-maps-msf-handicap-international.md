@@ -1,6 +1,6 @@
 ---
 title: Missing Maps Mapathon at Doctors without Borders / Handicap International Brussel
-featured: images/missing-maps.png
+featured: images/post/missing-maps.png
 layout: post
 author: Jorieke Vyncke
 lang: nl

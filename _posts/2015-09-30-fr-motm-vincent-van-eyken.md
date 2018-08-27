@@ -1,6 +1,6 @@
 ---
 title: 'Contributeur du Mois : Vincent Van Eyken'
-featured: images/VicentVanEyken.jpg
+featured: images/motm/2015/09/VicentVanEyken.jpg
 layout: post
 author: Marc Gemis
 lang: fr
