@@ -3,7 +3,7 @@ window.app = {
     id: null
 };
 
-const webtask = 'https://wt-db442aaaa0511f3885fb43b4f75f999f-0.sandbox.auth0-extend.com/stripe-payment-test';
+const webtask = 'https://wt-db442aaaa0511f3885fb43b4f75f999f-0.sandbox.auth0-extend.com/stripe-payment';
 
 let handler = StripeCheckout.configure({
     allowRememberMe: false,
