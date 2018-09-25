@@ -72,7 +72,64 @@ img {
 
 img + em {
     display: block;
-	color: #808080;
-	font-style: italic;
+    color: #808080;
+    font-style: italic;
     font-size: 0.75em;
+}
+
+.donation {
+    text-align: center;
+    margin-bottom: 2em;
+
+    & > ul.donation-items {
+        list-style: none;
+        margin-bottom: 10px;
+        margin-left: 0;
+        padding-left: 0;
+
+        & > li {
+            display: inline-block;
+        }
+        & > li.donation-btn {
+            background-color: #007bff;
+            border-color: #007bff;
+            border-radius: 5px;
+            color: #fff;
+            cursor: pointer;
+            margin: 0 3px;
+            min-width: 100px;
+            padding: 10px;
+
+            &:hover {
+                background-color: #6610f2;
+            }
+        }
+    }
+}
+#donation-amount {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    width: 200px;
+}
+#donation-submit {
+    background-color: #007bff;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    width: 200px;
+
+    &:disabled {
+        cursor: default;
+        opacity: 0.65;
+    }
+    &:not(:disabled):hover {
+        background-color: #6610f2;
+    }
 }
