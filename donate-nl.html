@@ -1,0 +1,68 @@
+---
+title: Doneer
+layout: default
+lang: en
+order: -1
+scripts:
+  - https://checkout.stripe.com/checkout.js
+  - stripe.js
+---
+
+<h2>Donaties</h2>
+<p>
+    Donaties aan OpenStreetMap België helpen ons om, onder andere, deze website te hosten, onkosten voor vrijwillegers te vergoeden
+    het help ons met de origanizatie van specifieke project. We gebruiken de donaties ook om t-shirts, stickers & banners te laten maken
+    voor promotie doeleinden.
+</p>
+<hr>
+
+<div>
+    <h3>Recurrente donatie</h3>
+
+    <div class="donation">
+        <h4>Maandelijks</h4>
+        <ul id="donation-monthly-items" class="donation-items">
+        </ul>
+
+        <h4>Jaarlijks</h4>
+        <ul id="donation-yearly-items" class="donation-items">
+        </ul>
+    </div>
+
+    <h3>Eénmalige donatie</h3>
+
+    <p>
+        Geeft het bedrag in dat je wenst te doneren hieronder. Na het klikken op doneer zal er een ander formulier openen voor
+        invoeren van credit card informatie.
+    </p>
+
+    <div class="donation">
+        <ul class="donation-items">
+            <li class="donation-btn" data-amount="10">10 &euro;</li>
+            <li class="donation-btn" data-amount="25">25 &euro;</li>
+            <li class="donation-btn" data-amount="100">100 &euro;</li>
+            <li class="donation-custom">
+                <input id="donation-amount" type="number" name="amount" min="0" step="0.01" lang="{{ page.lang }}" placeholder="Ander bedrag">
+                <span class="currency">&euro;</span>
+            </li>
+        </ul>
+        <button id="donation-submit" disabled="disabled">Doneer</button>
+    </div>
+
+    <hr>
+
+    <div id="donation-result">
+        <span id="donation-loading" style="display: none;">Je betaling wordt verwerkt...</span>
+        <span id="donation-result-success" style="display: none; color: green;">
+            <strong>Bedankt voor je donatie, we hebben ze goed ontvangen!</strong>
+        </span>
+        <span id="donation-result-error" style="display: none; color: red;">
+            <strong>Er was een probleem met je donatie (er is geen betaling gebeurd). Probeer later opnieuw.</strong>
+        </span>
+    </div>
+
+    <p>
+        Je donaties via credit card zullen verwerkt worden via <a href="https://stripe.com/" target="_blank">Stripe</a>. Een aanrekening 
+        onder "<em>Donation to OpenStreetMap Belgium</em>" zal verschijnen op je credit card rekening.
+    </p>
+</div>
