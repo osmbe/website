@@ -1,25 +1,24 @@
-$(document).ready(function() {
+$(document).ready(() => {
     fetch("https://proxy.sulliops.co/index.php?http://maptime.io/belgium/feed.json")
-        .then(function(response) {
-            return response.json();
-        })
-        .then(function(data) {
+        .then(response => response.json())
+        .then(data => {
             for (let i = 0; i < data.items.length; i++) {
-                const event = data.items[i];
-                const { id: link, title, date_published } = event;
-                const date = new Date(date_published);
-                const now = new Date();
+                let event = data.items[i];
+                let { id: link, title, date_published } = event;
+                let date = new Date(date_published);
+                let now = new Date();
                 now.setUTCHours(0, 0, 0, 0);
 
-                const li = document.createElement("li");
-                const a = document.createElement("a");
+                let li = document.createElement("li");
+                let a = document.createElement("a");
 
-                $(a).attr({
+                $(a)
+                    .attr({
                         href: link,
                         target: "_blank"
                     })
-                    .html(`<span class="text-info">${date.toLocaleDateString()}</span> ${title}`);
-                $(li).append(a);
+                    .html(`<span class="text-info">${date.toLocaleDateString()}</span> ${title}`)
+                    .appendTo(li);
 
                 if (date >= now) {
                     $("#calendar-future").append(li);
