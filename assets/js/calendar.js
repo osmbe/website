@@ -9,6 +9,7 @@ $(document).ready(function() {
                 const { id: link, title, date_published } = event;
                 const date = new Date(date_published);
                 const now = new Date();
+                now.setUTCHours(0, 0, 0, 0);
 
                 const li = document.createElement("li");
                 const a = document.createElement("a");
