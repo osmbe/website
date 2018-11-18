@@ -18,4 +18,4 @@ Om de interviews te lezen, zie de [Mapper of the Month Wiki](https://wiki.openst
 
 ---
 
-{% include motm.html %}
+{% include list-motm.html %}

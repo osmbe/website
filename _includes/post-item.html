@@ -1,10 +1,24 @@
 <h3>
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    {% case post.category %}
+    {% when 'motm' %}
+    <i class="fas fa-fw fa-star"></i>
+    {% else %}
+    <i class="far fa-fw fa-newspaper"></i>
+    {% endcase %}
+
+    <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+    </a>
 </h3>
 <div class="text-info">
     <strong class="post-date" datetime="{{post.date}}">{{post.date | date: "%d.%m.%Y"}}</strong>
+    {% if post.author %}
     -
-    <strong class="author">{{post.author}}</strong>
+    <strong class="author">
+        <i class="fas fa-user"></i>
+        {{ post.author }}
+    </strong>
+    {% endif %}
 </div>
 
 <div class="media">

@@ -1,13 +1,19 @@
+{% assign lang=page.lang | default: 'en' %}
+
 <!doctype html>
-<html lang="{{ page.lang }}">
+<html lang="{{ lang }}">
 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>{{ page.title }} - {{ site.banner.name[page.lang] }}</title>
+	<title>{{ page.title }} - {{ site.banner.name[lang] }}</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="Referrer-Policy" content="same-origin">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	{% if page.layout == "event" %}
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="">
+	{% endif %}
 	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 	{% seo title=false %}
 </head>
@@ -21,7 +27,7 @@
 
 	<footer id="footer">
 		<div class="container">
-			{% assign footer= "footer-" | append: page.lang | append: ".html" %}
+			{% assign footer= "footer-" | append: lang | append: ".html" %}
 			{% include {{ footer }} %}
 
 			<hr>
@@ -34,6 +40,10 @@
 	</footer>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	{% if page.layout == "event" %}
+	<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+	<script src="{{ site.baseurl }}/assets/js/event.js"></script>
+	{% endif %}
 	{% if page.scripts %}
 		{% for script in page.scripts %}
 			{% assign http = script | truncate: 4, "" %}

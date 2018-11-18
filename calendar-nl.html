@@ -3,15 +3,14 @@ title: Kalender
 layout: default
 lang: nl
 order: 5
-script: calendar.js
 ---
 
 <h2 class="h1">Evenementen</h2>
 <hr>
 
 <h3>Volgende evenementen</h3>
-<ul id="calendar-future"></ul>
+{% include list-event-future.html %}
 <hr>
 
 <h3>Afgelopen evenementen</h3>
-<ul id="calendar-past" class="text-muted"></ul>
+{% include list-event-past.html %}
