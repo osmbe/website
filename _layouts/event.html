@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+{% assign map=true %}
+
+<h2 class="h1">
+    <i class="far fa-calendar-alt"></i>
+    {{ page.title }}
+</h2>
+<p class="text-info">
+    <strong class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</strong>
+    {% if page.location %}
+    -
+    <span class="location">
+        <strong>
+            <i class="fas fa-map-marker-alt"></i>
+            {{ page.location.name | default: '?'}}
+        </strong>
+        {% if page.location.address %}: {{ page.location.address }}{% endif %}
+    </span>
+    {% endif %}
+</p>
+<hr>
+
+{% if page.featured %}
+<div class="text-center">
+    <img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
+    {% if page.featured_caption %}
+    <div>
+        <em>{{ page.featured_caption }}</em>
+    </div>
+    {% endif %}
+</div>
+<hr>
+{% endif %}
+
+<div class="row justify-content-md-center">
+    <div class="col-md-4">
+        <a class="btn btn-primary btn-lg  btn-block" href="{{ page.rsvp }}" target="_blank">
+            RSVP
+        </a>
+    </div>
+</div>
+<hr>
+
+{{ page.content }}
+
+{% if page.location %}
+<hr>
+<div class="row">
+    <div class="col">
+        <address>
+            <p>
+                <strong>{{ page.location.name }}</strong><br>
+                {% if page.location.website %}
+                <a href="{{ page.location.website }}" target="_blank">{{ page.location.website }}</a><br>
+                {% endif %}
+                {{ page.location.address }}
+            </p>
+            <p>
+                <i class="fas fa-map-pin"></i>
+                <a href="{{ page.location.osm }}" target="_blank">View on <em>openstreetmap.org</em></a>
+            </p>
+        </address>
+    </div>
+    {% if page.location.longitude and page.location.latitude %}
+    <div class="col-sm-8" id="map">
+    </div>
+    {% endif %}
+</div>
+{% endif %}
+
+{% if page.location.longitude and page.location.latitude %}
+<script>
+    window.app = {
+        event: {
+            latitude: {{ page.location.latitude }},
+            longitude: {{ page.location.longitude }}
+        }
+    };
+</script>
+{% endif %}

@@ -2,11 +2,23 @@
 layout: default
 ---
 
-<h2 class="h1">{{ page.title }}</h2>
+<h2 class="h1">
+	{% case page.category %}
+	{% when 'motm' %}
+	<i class="fas fa-star"></i>
+	{% else %}
+	<i class="far fa-newspaper"></i>
+	{% endcase %}
+
+	{{ page.title }}
+</h2>
 <p class="text-info">
-	<strong class="post-date" datetime="{{page.date}}">{{page.date | date: "%d.%m.%Y"}}</strong>
+	<strong class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</strong>
 	-
-	<strong class="author">{{page.author}}</strong>
+	<strong class="author">
+		<i class="fas fa-user"></i>
+		{{ page.author }}
+	</strong>
 </p>
 <hr>
 

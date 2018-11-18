@@ -1,5 +1,7 @@
-{% assign lang-page = page.lang | prepend:'-' %}
-{% assign lang-post = page.lang | append:'-' %}
+{% assign lang=page.lang | default: 'en' %}
+
+{% assign lang-page = lang | prepend:'-' %}
+{% assign lang-post = lang | append:'-' %}
 
 {% if page.url == "/" %}
 	{% assign url = '/index.html' %}
@@ -7,7 +9,7 @@
 	{% assign url = page.url %}
 {% endif %}
 
-{% if page.lang == "en" %}
+{% if lang == "en" %}
 	{% assign page-en = url %}
 	{% assign page-fr = url | replace_first: '.html','-fr.html' %}
 	{% assign page-nl = url | replace_first: '.html','-nl.html' %}
@@ -72,11 +74,11 @@
 
 	<div class="container text-center">
 
-		<h1><a href="{{ site.baseurl }}/">{{ site.banner.name[page.lang] }}</a></h1>
+		<h1><a href="{{ site.baseurl }}/">{{ site.banner.name[lang] }}</a></h1>
 
 		<nav id="nav">
 			<ul class="list-inline">
-				{% assign pages=site.pages | where:"lang",page.lang | sort:"order" %}
+				{% assign pages=site.pages | where:"lang",lang | sort:"order" %}
 				{% for p in pages %}
 				{% if p.order > 0 %}
 				<li class="list-inline-item">
@@ -90,8 +92,8 @@
 		{% if page.name == "index.html" or page.name == "index-fr.html" or page.name == "index-nl.html" %}
 		<img src="{{ site.baseurl }}/assets/images/logo.png">
 		<div id="banner">
-			<h2>{{ site.banner.welcome[page.lang] }}</h2>
-			<p>{{ site.banner.byline[page.lang] }}</p>
+			<h2>{{ site.banner.welcome[lang] }}</h2>
+			<p>{{ site.banner.byline[lang] }}</p>
 		</div>
 		{% endif %}
 

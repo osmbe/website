@@ -10,11 +10,16 @@ order: 2
 
 {% for post in site.posts %}
 
-	{% if post.lang == "en" and post.layout == "post" %}
-	<div>
-		{% include post-item.html %}
-	</div>
-	<hr>
-	{% endif %}
+{% if post.lang == nil or post.lang == "en" %}
+<div>
+	{% case post.layout %}
+	{% when 'post' %}
+	{% include post-item.html %}
+	{% when 'event' %}
+	{% include post-item-event.html %}
+	{% endcase %}
+</div>
+<hr>
+{% endif %}
 
 {% endfor %}
