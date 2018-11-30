@@ -81,3 +81,6 @@ Advocating OSM and trying to persuade people and organisations on the upsides of
 ## To conclude, is there anything else you want to mention?
 
 Check the wiki.
+
+
+_If you want to participate in our series or propose a candidate, please contact us at community@osm.be_
