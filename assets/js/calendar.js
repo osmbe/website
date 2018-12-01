@@ -14,8 +14,7 @@ $(document).ready(() => {
 
                 $(a)
                     .attr({
-                        href: link,
-                        target: "_blank"
+                        href: link
                     })
                     .html(`<span class="text-info">${date.toLocaleDateString()}</span> ${title}`)
                     .appendTo(li);
