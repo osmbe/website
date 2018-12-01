@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    fetch("https://proxy.sulliops.co/index.php?http://maptime.io/belgium/feed.json")
+    fetch("/events.json")
         .then(response => response.json())
         .then(data => {
             for (let i = 0; i < data.items.length; i++) {

@@ -3,14 +3,15 @@ title: Calendar
 layout: default
 lang: en
 order: 5
+script: calendar.js
 ---
 
 <h2 class="h1">Events</h2>
 <hr>
 
 <h3>Upcoming events</h3>
-{% include list-event-future.html %}
+<ul id="calendar-future"></ul>
 <hr>
 
 <h3>Past events</h3>
-{% include list-event-past.html %}
+<ul id="calendar-past"></ul>
