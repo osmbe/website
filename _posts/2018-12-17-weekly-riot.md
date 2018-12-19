@@ -9,6 +9,8 @@ Lots of conversation happens in our chat room. The volume is so high, it's hard 
 
 See the original post and the following discussion here : <https://forum.openstreetmap.org/viewtopic.php?id=64819>
 
+---
+
 ## Monday 10/12/2018
 
 Glenn informs about how to map a 'tractorsluis' (physical construction to allow tractors to pass, but not normal cars).  
@@ -24,6 +26,8 @@ Requires 50k+ uploaded pictures to be taken into consideration.
 Jakka suggests supplying a basic simple template using osm-be tiles to implement a map into a website.  
 Most agree this would be good, issue created on the osmbe-website github.
 
+---
+
 ## Tuesday 11/12/2018
 
 Timcouwelier points out tiles are loading very slow,.  
@@ -31,6 +35,8 @@ Escada confirms there's indeed issues, linking to the status page (<https://wiki
 
 Jakka asks about how to map mobil telephone antennae attached to power towers.  
 Lionel_giard replies *'you only use `communication:mobile_phone/radio/...=yes/no` for the transmission equipment. The others tags are all for the structure. '*
+
+---
 
 ## Wednesday 12/12/2018
 
@@ -49,6 +55,8 @@ Contact is made based on the following input by Joost:
 If you want to deal with it yourself, add it to this list and write them a message: <https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Websites#List_2>
 
 A reply from wegspotter to a question by Glenn on 'slow roads', raises discussion on how to deal with getting 'complete' info, as the requirements for the vicinal ref (<https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Conventions/Slowroads>) requires info that's not visible possible to retrieve in the field.
+
+---
 
 ## Thursday 13/12/2018
 
@@ -70,6 +78,8 @@ Suggestion is made that - if tileservers remain having issues - osm-be or osm-fr
 
 Jakka points out there's a new source of incoming 'notes', generated through <http://amenagements-cyclables.fr/fr/contributions/5871>, often low quality. Joost will try to get in touch with the app devs.
 As a side question, Tim asks where Jakka tracks notes (through a map or a feed). Jakka responds with his source feed (<http://resultmaps.neis-one.org/osm-notes-country?c=Belgium>)
+
+---
 
 ## Friday 14/12/2018
 
@@ -114,6 +124,8 @@ Some tracing back to earlier discussions on street names happens:
 
 Suggestion is for those cases to add a `note="the name is not the official name but we chose to following street names as used on traffic signs, not the official notation"` . Note: as this point that is merely a suggestion.
 
+---
+
 ## Saturday 15/12/2018
 
 Escada picks up on a question from Joost the night before:  
@@ -128,6 +140,8 @@ As a side point, rendering of tracks based on access types gets discussed. Escad
 Joost announces having been elected into the OSMF board, with a round of congratulations all around to celebrate the news. Some discussion about the voting (and the nature of the voting system used here, and other systems in other contexts) follows.
 
 Ubipo asks for help with turn lane relations and the JOSM plugin for it. Midgard replies it's not common practice in Belgium to use them, as we go for `turn:lanes` tagging. Given ubipo was mostly trying to fix the broken relation, and the suggested tagging is in place, the relation gets removed.
+
+---
 
 ## Sunday 16/12/2018
 
