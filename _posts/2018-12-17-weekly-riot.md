@@ -5,6 +5,8 @@ author: Tim Couwelier
 lang: en
 ---
 
+Lots of conversation happens in our chat room. The volume is so high, it's hard to keep up. And it's easy to forget about issues that were raised. So Tim started making this weekly summary. Have a look at our [channels page]({{ site.baseurl }}{% link contact.html %}) for more info about joining the chat or other ways to reach us.
+
 See the original post and the following discussion here : <https://forum.openstreetmap.org/viewtopic.php?id=64819>
 
 ## Monday 10/12/2018
