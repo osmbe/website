@@ -1,12 +1,12 @@
 ---
-title: 'Mapper of the month: Marcel Wille (Brazil)'
+title: 'Mapper of the month: Wille Marcel (Brazil)'
 featured: 
 layout: post
 category: motm
 author: escada
 lang: en
 ---
-Mapper of the month: Marcel Wille (Brasil)
+Mapper of the month: Wille Marcel (Brasil)
 
 ## Who are you ? 
 
