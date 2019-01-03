@@ -15,7 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-future: true
 twitter:
   username: osm_be
 url: https://osm.be
