@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+date_published: 2018-12-13
 title: OpenStreetMap Arlon meetup
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/257183572/
 location:

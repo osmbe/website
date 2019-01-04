@@ -10,11 +10,11 @@ order: 2
 
 {% for post in site.posts %}
 
-	{% if post.lang == "fr" and post.layout == "post" %}
-	<div>
-		{% include post-item.html %}
-	</div>
-	<hr>
-	{% endif %}
+{% if post.lang == "fr" and post.layout == "post" %}
+<div>
+	{% include post-item.html %}
+</div>
+<hr>
+{% endif %}
 
 {% endfor %}

@@ -28,3 +28,7 @@ social:
 exclude:
   - INSTALL.md
 permalink: /:year/:month/:day/:title:output_ext
+future: true
+collections:
+  events:
+    output: true

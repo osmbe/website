@@ -18,8 +18,8 @@ layout: null
     },{% else %}"{{ site.author }}",{% endif %}
     {% endif %}
 "items": [
-    {% assign posts=site.posts | where:"category","event" %}
-    {% for post in posts limit:36 %}
+    {% assign posts=site.events | reverse %}
+    {% for post in posts %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
             "title": {{ post.title | jsonify }},

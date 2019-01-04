@@ -12,12 +12,7 @@ order: 2
 
 {% if post.lang == nil or post.lang == "en" %}
 <div>
-	{% case post.layout %}
-	{% when 'post' %}
 	{% include post-item.html %}
-	{% when 'event' %}
-	{% include post-item-event.html %}
-	{% endcase %}
 </div>
 <hr>
 {% endif %}
