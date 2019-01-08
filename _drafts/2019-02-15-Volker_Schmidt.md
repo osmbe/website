@@ -7,6 +7,11 @@ author: escada
 lang: en
 ---
 
+https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Volker-Schmidt/i-DFJW5mw/0/01ec58c1/X3/vlcsnap-2018-12-20-16h08m40s783-X3.png
+https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Volker-Schmidt/i-nb7hL8J/0/35dffe4e/X3/vlcsnap-2018-12-20-16h13m16s031-X3.png
+https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Volker-Schmidt/i-nwfVzXq/0/a8c3cbb0/X3/vlcsnap-2018-12-21-18h44m33s702-X3.png
+https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Volker-Schmidt/i-NjX6xPR/0/a85900c7/X3/photo%2004-1-X3.jpg
+
 ## Who are you ?
 I am rather old: born in 1944 in the heart of (Western) Europe, halfway between Strasbourg and Luxembourg, in Germany at 2km from the French border. Let me put it this way: I am a European citizen with, by accident, a German passport.
 I live, for the second time in my life, in Padova, in northern Italy, about 35km west of Venice.
