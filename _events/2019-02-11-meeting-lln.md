@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Meeting
+title: Meeting in Louvain-la-Neuve
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/258161886/
 location:
   name: Crêperie bretonne - La Mère Fillioux
