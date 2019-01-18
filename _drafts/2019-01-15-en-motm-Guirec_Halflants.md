@@ -9,36 +9,37 @@ lang: nl
 
 ## Who are you ?
 I am Guirec Halflants. I am originally from Brussels, but live in Arlon at the moment.
-I always have been passionate about maps and I travel a lot using maps during the summer evenings. Later on, I invested in a Time Atlas of the World, which is outdated in the meantime,
-Je m'appelle Guirec Halflants, je suis arlonais et originaire des environs de Bruxelles.
-Les cartes m'ont toujours passionné et je voyageais sur des cartes routières pendant de longues soirées en été. Après, j'ai investi dans le Times Atlas of the World (dépassé depuis lors par la géopolitique) et j'ai profité aussi d'un journal qui offrait tous les jours une carte d'état-major de Belgique; j'ai la collection presque complète, bien rangée et pliée mais je n'utilise presque plus le format papier.
+I always have been passionate about maps and I travel a lot using maps during the summer evenings. Later on, I invested in a Time Atlas of the World, which is outdated in the meantime. I also enjoyed the offer of a newspaper to publish  a staff map of Belgium on a daily basis; I have the collection almost complete, tidy and folded but I almost no longer use maps on paper.
 
-## Quand et comment avez-vous découvert OpenStreetMap ?
-J'ai découvert OSM quand j'ai acheté un premier téléphone intelligent et que j'ai cherché ce qui existait pour utiliser le gps offline. Depuis, j'ai découvert des dizaines d'applications sur le net: opentopomap, HOT (Humanitarian OSM Team https://www.hotosm.org/),... 
-Je crois que ce qui m'a particulièrement séduit c'est de découvrir que je pouvais cartographier facilement; j'ai commencé tout de suite je crois.
+## How and when did you discover OpenStreetMap ?
+I discovered OSM after buying my first smart phone and I looked for a way to use the GPS while being off-line. After that, I discovered a douzen applications on the net: OpenTopoMap, HOT (Humanitarian OSM Team), etc.
+I think what particularly appealed to me,  was discovering that I could update the map easily myself; I started right away, I think.
 
-## Que cartographiez-vous ? Y a-t-il des différences depuis vos débuts ?
-J'ai appris pas mal en cours de route. J'ai commencé avec l'éditeur en ligne et suis passé plus récemment au JOSM qui permet de cartographier beaucoup plus vite, de s'affranchir des photos-satellites pour travailler avec des calques (PICC en Belgique). Il y a cependant une petite courbe d'apprentissage!
-J'ai pas mal voyagé en 2012 - 2016, en Afrique, Cap-Vert et Amérique latine, et, dès que je pouvais, je regardais sur la carte les détails qui manquaient: chemin dans les champs et bois pour faire du vélo, route, sentiers... Il y a des pays où la cartographie est embryonnaire et on a la chance de pouvoir encore faire les grandes structures de la carte!
-J'avais ainsi véritablement commencé en mai 2016 à faire la carte de la petite ville de El Cuá dans la forêt du Nicaragua, sur base d'une très mauvaise vue satellite et de ce que j'avais vu en passant et la carte est maintenant précise et détaillée (https://osm.org/go/YQ8CDu28--?m=)!
-Une fois les voies principales et ruisseaux tracés, j'ai commencé à regarder les maisons et bâtiments mais c'est plutôt en Belgique ou en Europe.
+## What do you map ? Did this change over time ?
 
-## Comment cartographiez-vous ?
-Cela dépend un peu du "projet". Si je fais un travail systématique, c'est sur base de fond de carte (du type PICC) ou de photos-satellite s'il n'y a pas de carte disponible (la forêt du Nicaragua par exemple). 
-Parfois je vois un détail qui manque sur mon GPS - limitation de vitesse, No de maison - et je prends une note ou retiens pour le corriger en rentrant à la maison.
+I learned a lot along the way. I started with the online editor and moved more recently to the JOSM, which makes it possible to map much faster, to get rid of satellite photos and work with other layers, such as PICC in Belgium. There is however a small learning curve!
+I traveled a lot in 2012 - 2016, in Africa, Cape Verde and Latin America, and, as soon as I could, I looked on the map and saw the details that were missing: paths in the fields and woods for cycling, road , hiking ... There are countries where mapping is still embryonic and were one is lucky enough map the the large structures !
+I  really started in May 2016 by mapping the small town of El Cuá in the Nicaraguan forest, based on a very bad satellite photos and what I had seen on the ground. [The map](https://osm.org/go/YQ8CDu28--?m=) is now accurate and detailed!
+Once the main tracks and streams were traced, I started to look at the houses and buildings but that is more like mapping in Belgium or Europe.
 
-## Comment menez-vous vos relevés sur le terrain ?
-J'en fais peu, ce sont des détails. Lors de mes voyages lointains, je retiens le chemin et ce que je vois et je vais comparer avec la carte, la photo satellite de fond et je fais ce que je peux. 
-Je cherche maintenant à maîtriser un bon outil de cartographie offline sur le téléphone; je n'ai pas encore tout-à-fait trouvé ce qui me correspondait ou compris la logique des outils proposés mais streetcomplete (https://github.com/westnordost/StreetComplete/) me semble intéressant.
+## How do you map ?
+That depends a bit on the "project". In case of a systematic job, it is usually based on a map of type PICC or satelite photos  in case no .. is available such as in the Nicaraguan woods.
+Sometimes, I notice a missing detail on my GPS, that can be a missing speed lit, or building; I make a note (or try to remember) to fix it when I am back home.
 
-## Où cartographiez-vous ? Localement, HOT ?
-Pour le moment, nous avons un groupe qui s'est créé au sud de la Province de Luxembourg et nous nous sommes donné pour objectif d'encoder toutes les adresses des différentes communes en commençant par ce qui est près de chez nous (dessiner les maisons et leur attribuer les étiquettes d'adresses). L'idée c'est que la carte OSM soit exploitable avec un GPS grand public - pour trouver une adresse et s'y rendre - mais cela peut servir aux autorités progressivement; Arlon semble d'ailleurs préférer OSM à d'autres options sur son site web et pour étudier les questions de mobilité douce.  
+## How do you do surveys ?
+
+I do not do many of them. During my travels, I remember the way and what I see and compare that with the map, the background satellite photos and I change what I can.
+I am now looking to master a good offline mapping tool on the phone; I still have not quite found what suited me or understood the logic of the proposed tools but StreetComplete seems interesting.
+
+## Where do you map ?
+At this moment, we have a group of mappers in the south of the Luxembourg province that set the goal to map all the addresses of the different towns, starting with the ones closest to our home. This means drawing all the buildings and assigning the address tags. The idea is that the OSM data should be useable with any GPS for locating an address and guiding you there.
+Longer term, we hope that this can gradually serve the authorities ; Arlon already seems to prefer OSM to other options on its website and in studies regarding  mobility issues.
 
 ## Quel est votre plus grande réussite en tant que cartographe ?
 J'ai beaucoup aimé l'expérience "HOT" à laquelle j'ai participé. En collectif on a fait toute la carte demandée pour le traitement anti-malaria dans une zone isolée et vierge du Rwanda: pas une maison sur la carte au départ, pas un chemin et nous avons tout cartographié ensemble!! J'ai bien aimé et je promeus l'usage d'OSM dans les projets de développement.
 
-## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
-Les cartes sont belles et permettent de voyager en vrai ou dans sa tête sans produire de CO2.
+## Why do you map ?
+Maps are beautiful, they allow you to travel in the real world or in your head without producing CO2.
 
 ## Quelle est la partie la plus difficile en cartographie ?
 Avoir une bonne information de terrain. Les photos sont parfois très insuffisantes et je ne me suis pas lancé dans l'enregistrement de mes déplacements; cela m'intéresse moins, je laisse à d'autres la précision gps, je suis plus pour la qualité du rendu et la collection des détails ou de ce qui "structure" l'espace.
