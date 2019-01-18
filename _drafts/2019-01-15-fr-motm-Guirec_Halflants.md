@@ -12,7 +12,7 @@ Je m'appelle Guirec Halflants, je suis arlonais et originaire des environs de Br
 Les cartes m'ont toujours passionné et je voyageais sur des cartes routières pendant de longues soirées en été. Après, j'ai investi dans le Times Atlas of the World (dépassé depuis lors par la géopolitique) et j'ai profité aussi d'un journal qui offrait tous les jours une carte d'état-major de Belgique; j'ai la collection presque complète, bien rangée et pliée mais je n'utilise presque plus le format papier.
 
 ## Quand et comment avez-vous découvert OpenStreetMap ?
-J'ai découvert OSM quand j'ai acheté un premier téléphone intelligent et que j'ai cherché ce qui existait pour utiliser le gps offline. Depuis, j'ai découvert des dizaines d'applications sur le net: opentopomap, HOT (Humanitarian OSM Team https://www.hotosm.org/),... 
+J'ai découvert OSM quand j'ai acheté un premier téléphone intelligent et que j'ai cherché ce qui existait pour utiliser le gps offline. Depuis, j'ai découvert des dizaines d'applications sur le net: opentopomap, HOT (Humanitarian OSM Team),... 
 Je crois que ce qui m'a particulièrement séduit c'est de découvrir que je pouvais cartographier facilement; j'ai commencé tout de suite je crois.
 
 ## Que cartographiez-vous ? Y a-t-il des différences depuis vos débuts ?
