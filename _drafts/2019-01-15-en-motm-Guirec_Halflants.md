@@ -35,8 +35,9 @@ I am now looking to master a good offline mapping tool on the phone; I still hav
 At this moment, we have a group of mappers in the south of the Luxembourg province that set the goal to map all the addresses of the different towns, starting with the ones closest to our home. This means drawing all the buildings and assigning the address tags. The idea is that the OSM data should be useable with any GPS for locating an address and guiding you there.
 Longer term, we hope that this can gradually serve the authorities ; Arlon already seems to prefer OSM to other options on its website and in studies regarding  mobility issues.
 
-## Quel est votre plus grande réussite en tant que cartographe ?
-J'ai beaucoup aimé l'expérience "HOT" à laquelle j'ai participé. En collectif on a fait toute la carte demandée pour le traitement anti-malaria dans une zone isolée et vierge du Rwanda: pas une maison sur la carte au départ, pas un chemin et nous avons tout cartographié ensemble!! J'ai bien aimé et je promeus l'usage d'OSM dans les projets de développement.
+## What is your biggest accomplishment ?
+I really enjoyed the experience of the "HOT" project in which I participated. We created a complete map of a isolated area in Rwanda with a group of mappers. The map would be used for the treatment against malaria in that area. There was not a single building in the beginning, not a single road. And we did this together.
+J'ai beaucoup aimé l'expérience "HOT" à laquelle j'ai participé. En collectif on a fait toute la carte demandée pour le traitement anti-malaria dans une zone isolée et vierge du Rwanda: pas une maison sur la carte au départ, pas un chemin et nous avons tout cartographié ensemble!! I liked the experience and want to promote the use of OSM in such projects.
 
 ## Why do you map ?
 Maps are beautiful, they allow you to travel in the real world or in your head without producing CO2.
