@@ -23,7 +23,7 @@ I  really started in May 2016 by mapping the small town of El Cuá in the Nicara
 Once the main tracks and streams were traced, I started to look at the houses and buildings but that is more like mapping in Belgium or Europe.
 
 ## How do you map ?
-That depends a bit on the "project". In case of a systematic job, it is usually based on a map of type PICC or satelite photos  in case no .. is available such as in the Nicaraguan woods.
+That depends a bit on the "project". In case of a systematic job, it is usually based on a map of type PICC or satelite photos  in case no basemap is available such as in the Nicaraguan woods.
 Sometimes, I notice a missing detail on my GPS, that can be a missing speed lit, or building; I make a note (or try to remember) to fix it when I am back home.
 
 ## How do you do surveys ?
@@ -37,7 +37,6 @@ Longer term, we hope that this can gradually serve the authorities ; Arlon alrea
 
 ## What is your biggest accomplishment ?
 I really enjoyed the experience of the "HOT" project in which I participated. We created a complete map of a isolated area in Rwanda with a group of mappers. The map would be used for the treatment against malaria in that area. There was not a single building in the beginning, not a single road. And we did this together.
-J'ai beaucoup aimé l'expérience "HOT" à laquelle j'ai participé. En collectif on a fait toute la carte demandée pour le traitement anti-malaria dans une zone isolée et vierge du Rwanda: pas une maison sur la carte au départ, pas un chemin et nous avons tout cartographié ensemble!! I liked the experience and want to promote the use of OSM in such projects.
 
 ## Why do you map ?
 Maps are beautiful, they allow you to travel in the real world or in your head without producing CO2.
