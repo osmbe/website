@@ -42,23 +42,25 @@ J'ai beaucoup aimé l'expérience "HOT" à laquelle j'ai participé. En collecti
 ## Why do you map ?
 Maps are beautiful, they allow you to travel in the real world or in your head without producing CO2.
 
-## Quelle est la partie la plus difficile en cartographie ?
-Avoir une bonne information de terrain. Les photos sont parfois très insuffisantes et je ne me suis pas lancé dans l'enregistrement de mes déplacements; cela m'intéresse moins, je laisse à d'autres la précision gps, je suis plus pour la qualité du rendu et la collection des détails ou de ce qui "structure" l'espace.
+## What is the most difficult part of mapping ?
+Having good information about a place. Sometimes one needs more than photos and I did not start recording my movements; it interests me less, I leave that to others. I'm more for the quality of the rendering and the collection of details or what "structures" the space.
 
-## Quels sont vos plans de cartographie dans un futur proche ?
-Je voudrais contribuer à finaliser l'encodage de toutes les adresses au moins sur Arlon et partir sur Attert un peu au nord. 
-Ce qui me plairait après cela c'est de prendre mon vélo et de cartographier la nature et les points remarquables sur Arlon et Attert: bois, cultures, chemins,...
+## What are your plans in the near future ?
+I want to contribute to the last part of the mapping of the addresses in Arlon and start in Attert a bit more to the nord.
+After that, I would be pleased to take my bicycle and map the nature and the important points such as the forests, roads and cultural items in Arlon and Attert.
 
-## Avez-vous des contacts avec d'autres cartographes ?
-Oui, nous avons créé un groupe sur initiative de foxandpatatoes autour d'Arlon. Nous avons un objectif d'améliorer la carte près de chez nous et de promouvoir son usage par les services publics et le grand public. On fait un gros travail aussi de prosélytisme et de formation des personnes intéressées.
+## Do you have contact with other mappers ?
+Yes, we have created a group of mappers around Arlon under the impuls of foxandpotatoes. The goal is to improve the map close to us and to promote the usage to public services and the general public. We also do a lot of proselytism and training interested people.
 
-## Utilisez-vous vous-même OpenStreetMap ? Comment ?
-Le GPS sur le téléphone avec OSMAND (https://osmand.net/) et ORUXmap (un projet espagnol: https://www.oruxmaps.com/cs/es/) et j'ai trouvé le moyen de gagner beaucoup de liberté avec le GPS de grande marque que j'ai dans la voiture: je charge la carte de l'endroit ou je vais tout à fait librement (http://garmin.openstreetmap.nl/) et j'ai une carte actualisée de n'importe quel pays. Par contre, la batterie flanche et je me fie de plus en plus au téléphone! 
+## Do you use OpenStreetMap yourself ?
+I use [OsmAnd](https://osmand.net/) and [ORUXmap](https://www.oruxmaps.com/cs/es/), a Spanish project on my phone.
+I also found a way to gain a freedom over the use of GPS devices of well-known brands: http://garmin.openstreetmap.nl/
+This gives me an up-to-date map of any country. Moreover, the battery is not that good anymore and I rely more and more on my phone.
 
-## Faites-vous d'autres choses que la cartographie qui soit liées à
-OpenStreetMap ?
-Je travaille dans la coopération au développement et donc j'essaie de trouver des opportunités d'exploiter OSM; cela peut servir quand il faut créer une petite carte dans un rapport (je veille à citer la source et la licence "open data"!) et cela peut servir pour les logiciels de GIS mais je n'ai pas beaucoup d'expérience de première main. 
-J'utilise OSM dans les sites web que je crée pour promouvoir mes activités dans la région.
+## Do you do anything for OpenStreetMap besides mapping ?
+I work for a construction company and I always look for opportunities to use OpenStreetMap. Than can be a for a small map that one has to put in a report (I do mention the source and the open data license!), or for GIS applications, but I do not have a lot of first hand experience with that.
 
-## Pour conclure, y a-t-il autre chose que vous voulez mentionner ?
-OSM est un bon exemple de ce qu'est un développement collaboratif et libre et de la force de la communauté. J'aurais toujours voulu le faire dans les logiciels mais je n'ai pas les connaissances alors que la cartographie est plus accessible; chacun à son niveau peu apporter une information géographique utile qui est améliorée peu à peu par ceux qui en savent plus.
+I do use OpenStreetMap on the websites that I create to promote my activities in the region.
+
+## To conclude, is there anything else you want to mention ?
+OpenStreetMap is a good example of a crowd-sourced, free project and of the power of a community. I always wanted do that in software, but I lack the knowledge, but carthography is achievable. Everybody can contribute a piece of useful geographical information, which can be improved by those with more knowledge.
