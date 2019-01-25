@@ -27,7 +27,7 @@ Parfois je vois un détail qui manque sur mon GPS - limitation de vitesse, No de
 
 ## Comment menez-vous vos relevés sur le terrain ?
 J'en fais peu, ce sont des détails. Lors de mes voyages lointains, je retiens le chemin et ce que je vois et je vais comparer avec la carte, la photo satellite de fond et je fais ce que je peux. 
-Je cherche maintenant à maîtriser un bon outil de cartographie offline sur le téléphone; je n'ai pas encore tout-à-fait trouvé ce qui me correspondait ou compris la logique des outils proposés mais streetcomplete (https://github.com/westnordost/StreetComplete/) me semble intéressant.
+Je cherche maintenant à maîtriser un bon outil de cartographie offline sur le téléphone; je n'ai pas encore tout-à-fait trouvé ce qui me correspondait ou compris la logique des outils proposés mais [StreetComplete](https://github.com/westnordost/StreetComplete/) me semble intéressant.
 
 ## Où cartographiez-vous ? Localement, HOT ?
 Pour le moment, nous avons un groupe qui s'est créé au sud de la Province de Luxembourg et nous nous sommes donné pour objectif d'encoder toutes les adresses des différentes communes en commençant par ce qui est près de chez nous (dessiner les maisons et leur attribuer les étiquettes d'adresses). L'idée c'est que la carte OSM soit exploitable avec un GPS grand public - pour trouver une adresse et s'y rendre - mais cela peut servir aux autorités progressivement; Arlon semble d'ailleurs préférer OSM à d'autres options sur son site web et pour étudier les questions de mobilité douce.  
@@ -46,10 +46,10 @@ Je voudrais contribuer à finaliser l'encodage de toutes les adresses au moins s
 Ce qui me plairait après cela c'est de prendre mon vélo et de cartographier la nature et les points remarquables sur Arlon et Attert: bois, cultures, chemins,...
 
 ## Avez-vous des contacts avec d'autres cartographes ?
-Oui, nous avons créé un groupe sur initiative de foxandpatatoes autour d'Arlon. Nous avons un objectif d'améliorer la carte près de chez nous et de promouvoir son usage par les services publics et le grand public. On fait un gros travail aussi de prosélytisme et de formation des personnes intéressées.
+Oui, nous avons créé un groupe sur initiative de foxandpotatoes autour d'Arlon. Nous avons un objectif d'améliorer la carte près de chez nous et de promouvoir son usage par les services publics et le grand public. On fait un gros travail aussi de prosélytisme et de formation des personnes intéressées.
 
 ## Utilisez-vous vous-même OpenStreetMap ? Comment ?
-Le GPS sur le téléphone avec OSMAND (https://osmand.net/) et ORUXmap (un projet espagnol: https://www.oruxmaps.com/cs/es/) et j'ai trouvé le moyen de gagner beaucoup de liberté avec le GPS de grande marque que j'ai dans la voiture: je charge la carte de l'endroit ou je vais tout à fait librement (http://garmin.openstreetmap.nl/) et j'ai une carte actualisée de n'importe quel pays. Par contre, la batterie flanche et je me fie de plus en plus au téléphone! 
+Le GPS sur le téléphone avec [OsmAnd](https://osmand.net/) et [ORUXmap](https://www.oruxmaps.com/cs/es/) (un projet espagnol) et j'ai trouvé le moyen de gagner beaucoup de liberté avec le GPS de grande marque que j'ai dans la voiture: je charge la carte de l'endroit ou je vais tout à fait librement http://garmin.openstreetmap.nl/ et j'ai une carte actualisée de n'importe quel pays. Par contre, la batterie flanche et je me fie de plus en plus au téléphone! 
 
 ## Faites-vous d'autres choses que la cartographie qui soit liées à
 OpenStreetMap ?
