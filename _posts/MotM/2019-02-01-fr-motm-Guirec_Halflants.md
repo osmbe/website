@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month:  Guirec Halflants (Belgique)'
+title: 'Contributeur du mois:  Guirec Halflants (Belgique)'
 featured: 
 layout: post
 category: motm
