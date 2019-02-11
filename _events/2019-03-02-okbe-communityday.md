@@ -35,7 +35,7 @@ Overview of all super exciting workshops:
 And not to forget... included in your registration ticket:
 
 - 12:30-13:30 Lunch
-- 16:00-17:00: Drinks
+- 16:00-17:00 Drinks
 
 Questions or suggestions? Or want to talk about your ideas or initiatives? That's great! Just let us know via <astrid@openknowledge.be>.
 
