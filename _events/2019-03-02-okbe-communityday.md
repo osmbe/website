@@ -46,3 +46,35 @@ Questions or suggestions? Or want to talk about your ideas or initiatives? That'
 For the eigth time in history, groups from around the world will create local events, where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
 
 All outputs are open for everyone to use and re-use.
+
+---
+
+## OpenStreetMap Belgium workshops
+
+- **10:00 - 10:15**  
+  **Introduction to OpenStreetMap & OpenStreetMap Belgium**
+- **10:15 - 11:15**  
+  **Mapathon: Missing maps in Belgium**  
+  Learn the basics of mapping while putting missing villages on the map!
+- **11:15 - 11:30**  
+  **An introduction to indoor mapping - and an invitation to map this building, today!**
+- **11:30 - 12:30**  
+  **Making thematic maps for beginners with Overpass-Turbo**  
+  OSM is data, not just maps. Learn how to extract live subsets of data (security cameras, playgrounds, cafés with wifi) and show them on an always up to date map. Use the same map as a mobile data editing app. Workshop using Overpass-Turbo and MapContrib.
+- **12:30 - 13:30**  
+  LUNCH BREAK
+- **13:30 - 14:00**  
+  **Picture mapping: learn how to map anything using street level imagery**  
+  Learn how to look at publicly available pictures to scan for anything mappable.
+- **14:00 - 15:00**  
+  **Use free-beer tiles on your website: a how-to**
+  OpenStreetMap Belgium offers free tiles for your website. Learn how to use them!
+- **15:00 - 15:30**  
+  **Free podium / Mapping time**
+- **15:30 - 15:45**  
+  **Indoor mapping: show the results**  
+  We mapped this building today, let’s see what it looks like now.
+- **15:45 - 16:00**  
+  **Closing words**
+- **16:00 - 17:00**  
+  DRINK
