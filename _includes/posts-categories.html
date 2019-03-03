@@ -1,0 +1,31 @@
+{% assign posts = site.posts | concat: site.events %}
+{% assign posts = posts | sort: "date" | reverse %}
+
+{% assign posts_lang = posts | where: 'lang', page.lang %}
+
+<div class="list-group list-group-flush">
+    {% for category in site.data.categories %}
+
+    <a href="{{ category.slug | append: '.html' | prepend: '/category/' | prepend: page.lang | relative_url }}" class="list-group-item list-group-item-action">
+        {% case category.slug %}
+        {% when 'motm' %}
+        <i class="fas fa-fw fa-star"></i>
+        {% when 'event' %}
+        <i class="far fa-fw fa-calendar-alt"></i>
+        {% when 'diary' %}
+        <i class="far fa-fw fa-newspaper"></i>
+        {% endcase %}
+
+        {{ category.name[page.lang] }}
+
+        {% if category.slug == 'diary' %}
+        {% assign posts = posts_lang | where_exp: 'item', 'item.category == nil' %}
+        {% else %}
+        {% assign posts = posts_lang | where: 'category', category.slug %}
+        {% endif %}
+
+        <span class="badge badge-light badge-pill">{{ posts | size }}</span>
+    </a>
+
+    {% endfor %}
+</div>

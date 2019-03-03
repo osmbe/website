@@ -1,0 +1,33 @@
+---
+title: Contact
+layout: default
+lang: en
+order: 4
+redirect_from:
+    - /contact.html
+---
+
+<div>
+    <h1>
+        <i class="fas fa-mail-bulk"></i>
+        Contact us
+    </h1>
+    <hr>
+
+    <div class="text-center">
+        <strong>Open Knowledge Belgium VZW/ASBL</strong><br>
+        {{ site.data.contact.address }}<br>
+        TVA: {{ site.data.contact.vat }}
+    </div>
+    <hr>
+
+    <p>
+        The Belgian community has an official e-mail address for all your questions:
+        <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>.<br>
+        Want to learn about mapping, choose the channel you prefer below!<br>
+        In all our channel, the default language is English, but feel free to use your own language!
+    </p>
+</div>
+
+<iframe src="https://community.osm.be/resources/europe/belgium?iframe" marginheight="0" marginwidth="0" width="100%"
+    height="1000" frameborder="0">Loading...</iframe>

@@ -1,0 +1,103 @@
+---
+title: Support us
+layout: default
+lang: nl
+order: 3
+redirect_from:
+    - /signup-nl.html
+---
+
+<div>
+    <h1>
+        <i class="fas fa-users"></i>
+        Meet us
+    </h1>
+    <hr>
+    <p>
+        We organize our events through <a href="https://www.meetup.com/OpenStreetMap-Belgium/" target="_blank">Meetup</a>,
+        and keep an activity calendar : check our <a href="/en/category/event.html">Calendar page</a>.
+    </p>
+    <p>
+        Are you ready to step up your commitment to OpenStreetMap in Belgium ?<br>
+        Then <strong>become an official member</strong>, using the <a href="https://members.osm.be/subscribe/members" target="_blank">this
+            form</a>.
+    </p>
+    <p>
+        Do you just want to be updated about our most important news and activities ?<br>
+        Then <strong>subscribe to our newsletter</strong> using <a href="https://members.osm.be/subscribe/newsletter" target="_blank">this
+            other form</a>.
+    </p>
+</div>
+
+<div class="mt-5">
+    <h1>
+        <i class="fas fa-donate"></i>
+        Donaties
+    </h1>
+    <hr>
+
+    <p>
+        Donaties aan OpenStreetMap België helpen ons om, onder andere, deze website te hosten, onkosten voor
+        vrijwilligers te vergoeden en het help ons met de organisatie van specifieke projecten. We gebruiken de
+        donaties ook om t-shirts, stickers & banners te laten maken voor promotie doeleinden.
+    </p>
+
+    <p>
+        You can use the following form or make a wired transfer on Open Knowledge Belgium bank account :
+        <strong>{{ site.data.contact.bank }}</strong>.<br>
+        Please add a note to the wire transfer stating that your donation is for OpenStreetMap Belgium.
+    </p>
+
+    <div>
+        <h2>Recurrente donatie</h2>
+
+        <div class="donation">
+            <h3>Maandelijks</h3>
+            <ul id="donation-monthly-items" class="donation-items">
+            </ul>
+
+            <h3>Jaarlijks</h3>
+            <ul id="donation-yearly-items" class="donation-items">
+            </ul>
+        </div>
+
+        <h2>Eénmalige donatie</h2>
+
+        <p>
+            Geeft het bedrag in dat je wenst te doneren hieronder. Na het klikken op doneer zal er een ander formulier
+            openen voor invoeren van credit card informatie.
+        </p>
+
+        <div class="donation">
+            <ul class="donation-items">
+                <li class="donation-btn" data-amount="10">10 &euro;</li>
+                <li class="donation-btn" data-amount="25">25 &euro;</li>
+                <li class="donation-btn" data-amount="100">100 &euro;</li>
+                <li class="donation-custom">
+                    <input id="donation-amount" type="number" name="amount" min="0" step="0.01" lang="{{ page.lang }}"
+                        placeholder="Ander bedrag">
+                    <span class="currency">&euro;</span>
+                </li>
+            </ul>
+            <button id="donation-submit" disabled="disabled">Doneer</button>
+        </div>
+
+        <hr>
+
+        <div id="donation-result">
+            <span id="donation-loading" style="display: none;">Je betaling wordt verwerkt..</span>
+            <span id="donation-result-success" style="display: none; color: green;">
+                <strong>Bedankt voor je donatie, we hebben ze goed ontvangen!</strong>
+            </span>
+            <span id="donation-result-error" style="display: none; color: red;">
+                <strong>Er was een probleem met je donatie (er is geen betaling gebeurd). Probeer later opnieuw.</strong>
+            </span>
+        </div>
+
+        <p>
+            Je donaties via credit card zullen verwerkt worden via <a href="https://stripe.com/" target="_blank">Stripe</a>.
+            Een aanrekening onder "<em>Donation to OpenStreetMap Belgium</em>" zal verschijnen op je credit card rekening.
+        </p>
+    </div>
+
+</div>

@@ -2,34 +2,35 @@
 layout: default
 ---
 
-<h2 class="h1">
-	{% case page.category %}
-	{% when 'motm' %}
-	<i class="fas fa-star"></i>
-	{% else %}
-	<i class="far fa-newspaper"></i>
-	{% endcase %}
+<h1>
+    {% case page.category %}
+    {% when 'motm' %}
+    <i class="fas fa-star"></i>
+    {% else %}
+    <i class="far fa-newspaper"></i>
+    {% endcase %}
 
-	{{ page.title }}
-</h2>
+    {{ page.title }}
+</h1>
 <p class="text-info">
-	<strong class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</strong>
-	-
-	<strong class="author">
-		<i class="fas fa-user"></i>
-		{{ page.author }}
-	</strong>
+    <strong class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</strong>
+    -
+    <strong class="author">
+        <i class="fas fa-user"></i>
+        {{ page.author }}
+    </strong>
 </p>
 <hr>
 
 {% if page.featured %}
+{% assign directory = page.date | date: "%Y/%m" | prepend: '/' | prepend: page.category | prepend: 'assets/images/' | append: '/' %}
 <div class="text-center">
-	<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
-	{% if page.featured_caption %}
-	<div>
-		<em>{{ page.featured_caption }}</em>
-	</div>
-	{% endif %}
+    <img src="{{ page.featured | prepend: directory | relative_url }}" alt="{{ page.featured }}">
+    {% if page.featured_caption %}
+    <div>
+        <em>{{ page.featured_caption }}</em>
+    </div>
+    {% endif %}
 </div>
 <hr>
 {% endif %}

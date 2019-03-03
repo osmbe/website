@@ -1,0 +1,8 @@
+<ul>
+    {% assign events = site.events | where_exp: "item", "item.tags contains 'mapathon'" | where: "lang", page.lang | reverse %}
+    {% for event in events %}
+    <li>
+        <span class="text-info">{{ event.date | date: "%d.%m.%Y" }}</span> <a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

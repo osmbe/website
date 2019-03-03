@@ -1,0 +1,28 @@
+{% assign posts = site.posts | concat: site.events %}
+{% assign posts = posts | sort: "date" | reverse %}
+
+{% assign posts = posts | where: 'lang', page.lang %}
+
+{% if page.category %}
+    {% if page.category == 'diary' %}
+    {% assign posts = posts | where_exp: 'item', 'item.category == nil' %}
+    {% else %}
+    {% assign posts = posts | where: 'category', page.category %}
+    {% endif %}
+{% endif %}
+
+{% for post in posts %}
+
+<div>
+    {% case post.category %}
+    {% when 'event' %}
+    {% include post-item-event.html %}
+    {% when 'motm' %}
+    {% include post-item-motm.html %}
+    {% else %}
+    {% include post-item.html %}
+    {% endcase %}
+</div>
+<hr>
+
+{% endfor %}

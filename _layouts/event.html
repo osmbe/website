@@ -4,10 +4,10 @@ layout: default
 
 {% assign map=true %}
 
-<h2 class="h1">
+<h1>
     <i class="far fa-calendar-alt"></i>
     {{ page.title }}
-</h2>
+</h1>
 <p class="text-info">
     <strong class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</strong>
     {% if page.location %}
@@ -25,7 +25,7 @@ layout: default
 
 {% if page.featured %}
 <div class="text-center">
-    <img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
+    <img src="{{ page.featured | prepend: '/assets/images/event/' | relative_url }}" alt="{{ page.featured }}">
     {% if page.featured_caption %}
     <div>
         <em>{{ page.featured_caption }}</em>

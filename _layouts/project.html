@@ -2,24 +2,30 @@
 layout: default
 ---
 
-<h2 class="h1">{{ page.title }}</h2>
-{% if page.project_lead %}
+<h1>
+    <i class="fas fa-rocket"></i>
+    {{ page.title }}
+</h2>
+
+{% if page.lead %}
 <p class="text-info">
-	<strong>Project lead:</strong> {{ page.project_lead }}
+    <strong>
+        <i class="fas fa-user-astronaut"></i>
+        Project lead:
+    </strong>
+    {{ page.lead }}
 </p>
 {% endif %}
 <hr>
 
 {% if page.featured %}
 <div class="text-center">
-	<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
-	{% if page.featured_caption %}
-	<div>
-		<em>{{ page.featured_caption }}</em>
-	</div>
-	{% endif %}
+    <img src="{{ page.featured | prepend: '/assets/images/post/' | relative_url }}" alt="{{ page.featured }}">
+    {% if page.featured_caption %}
+    <em>{{ page.featured_caption }}</em>
+    {% endif %}
 </div>
 <hr>
 {% endif %}
 
-{{ page.content }}
+{{ content }}

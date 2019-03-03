@@ -1,0 +1,17 @@
+- slug: event
+  name:
+    en: Events
+    fr: Evénements
+    nl: Evenementen
+
+- slug: motm
+  name:
+    en: Mapper of the Month
+    fr: Mapper of the Month
+    nl: Mapper van de maand
+
+- slug: diary
+  name:
+    en: Diary
+    fr: Journal
+    nl: Diary
