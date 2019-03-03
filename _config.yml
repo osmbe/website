@@ -1,34 +1,38 @@
-banner:
-  name:
-    en: OpenStreetMap Belgium
-    nl: OpenStreetMap België
-    fr: OpenStreetMap Belgique
-  welcome:
-    en: Welcome to OSM-BE!
-    nl: Welkom bij OSM-BE!
-    fr: Bienvenue chez OSM-BE
-  byline:
-    en: This is the home of the OpenStreetMap community in Belgium!
-    nl: "&nbsp;"
-    fr: "&nbsp;"
+title:
+  en: OpenStreetMap Belgium
+  nl: OpenStreetMap België
+  fr: OpenStreetMap Belgique
+description: OpenStreetMap Belgium community website
+
+markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
 twitter:
   username: osm_be
-url: https://openstreetmap.be
-description: OpenStreetMap Belgium community website
 social:
   name: OpenStreetMap Belgium
   links:
     - https://twitter.com/osm_be
     - https://www.facebook.com/groups/1419016881706058/
     - https://github.com/osmbe
+
+url: https://openstreetmap.be
+baseurl: ""
+
 exclude:
   - INSTALL.md
-permalink: /:year/:month/:day/:title:output_ext
+
 future: true
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
 collections:
+  # category:
+  #   output: true
+  #   permalink: /:collection/:name:output_ext
   events:
     output: true
+  #   permalink: /:categories/:year/:month/:day/:title:output_ext

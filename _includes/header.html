@@ -1,101 +1,86 @@
-{% assign lang=page.lang | default: 'en' %}
+{% assign lang = page.lang | default: 'en' %}
+{% assign url_length = page.url | size %}
+{% assign url = page.url | slice: 3, url_length %}
+{% assign url2 = page.url | slice: 10, url_length %}
 
-{% assign lang-page = lang | prepend:'-' %}
-{% assign lang-post = lang | append:'-' %}
+{% for html_page in site.html_pages %}
 
-{% if page.url == "/" %}
-	{% assign url = '/index.html' %}
-{% else %}
-	{% assign url = page.url %}
+{% if html_page.name == page.name and html_page.lang == 'en' %}
+{% assign item-en = html_page %}
+{% elsif html_page.name == page.name and html_page.lang == 'fr' %}
+{% assign item-fr = html_page %}
+{% elsif html_page.name == page.name and html_page.lang == 'nl' %}
+{% assign item-nl = html_page %}
 {% endif %}
 
-{% if lang == "en" %}
-	{% assign page-en = url %}
-	{% assign page-fr = url | replace_first: '.html','-fr.html' %}
-	{% assign page-nl = url | replace_first: '.html','-nl.html' %}
-{% else %}
-	{% assign page-en = url | replace_first: lang-page,'' %}
-	{% assign page-fr = url | replace_first: lang-page,'-fr' %}
-	{% assign page-nl = url | replace_first: lang-page,'-nl' %}
-{% endif %}
-
-{% if page-en == '/index.html' %}
-	{% assign page-en = '/' %}
-{% endif %}
-
-{% assign post-en = url | replace_first: lang-post,'en-' %}
-{% assign post-fr = url | replace_first: lang-post,'fr-' %}
-{% assign post-nl = url | replace_first: lang-post,'nl-' %}
-
-{% for p in site.pages %}
-	{% if p.url == page-en %}
-		{% assign link-en = page-en %}
-	{% endif %}
-	{% if p.url == page-fr %}
-		{% assign link-fr = page-fr %}
-	{% endif %}
-	{% if p.url == page-nl %}
-		{% assign link-nl = page-nl %}
-	{% endif %}
 {% endfor %}
 
-{% for p in site.posts %}
-	{% if p.url == post-en %}
-		{% assign link-en = post-en %}
-	{% endif %}
-	{% if p.url == post-fr %}
-		{% assign link-fr = post-fr %}
-	{% endif %}
-	{% if p.url == post-nl %}
-		{% assign link-nl = post-nl %}
-	{% endif %}
+{% for post in site.posts %}
+
+{% assign post_url_length = post.url | size %}
+{% assign post_url = post.url | slice: 3, post_url_length %}
+
+{% if post_url == url and post.lang == 'en' %}
+{% assign item-en = post %}
+{% elsif post_url == url and post.lang == 'fr' %}
+{% assign item-fr = post %}
+{% elsif post_url == url and post.lang == 'nl' %}
+{% assign item-nl = post %}
+{% endif %}
+
 {% endfor %}
 
-<header id="header" style="background-image: url({{ site.baseurl }}/assets/images/background.jpg);">
-	<div id="language-switcher">
-		{% if link-en != nil %}
-		<a href="{{ link-en | relative_url }}">EN</a>
-		{% else %}
-		<span class="text-muted">EN</span>
-		{% endif %}
-		&bull;
-		{% if link-fr != nil %}
-		<a href="{{ link-fr | relative_url }}">FR</a>
-		{% else %}
-		<span class="text-muted">FR</span>
-		{% endif %}
-		&bull;
-		{% if link-nl != nil %}
-		<a href="{{ link-nl | relative_url }}">NL</a>
-		{% else %}
-		<span class="text-muted">NL</span>
-		{% endif %}
-	</div>
+{% for event in site.events %}
 
-	<div class="container text-center">
+{% assign event_url_length = event.url | size %}
+{% assign event_url = event.url | slice: 10, event_url_length %}
 
-		<h1><a href="{{ site.baseurl }}/">{{ site.banner.name[lang] }}</a></h1>
+{% if event_url == url2 and event.lang == 'en' %}
+{% assign item-en = event %}
+{% elsif event_url == url2 and event.lang == 'fr' %}
+{% assign item-fr = event %}
+{% elsif event_url == url2 and event.lang == 'nl' %}
+{% assign item-nl = event %}
+{% endif %}
 
-		<nav id="nav">
-			<ul class="list-inline">
-				{% assign pages=site.pages | where:"lang",lang | sort:"order" %}
-				{% for p in pages %}
-				{% if p.order > 0 %}
-				<li class="list-inline-item">
-					<a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-				</li>
-				{% endif %}
-				{% endfor %}
-			</ul>
-		</nav>
+{% endfor %}
 
-		{% if page.name == "index.html" or page.name == "index-fr.html" or page.name == "index-nl.html" %}
-		<img src="{{ site.baseurl }}/assets/images/logo.png">
-		<div id="banner">
-			<h2>{{ site.banner.welcome[lang] }}</h2>
-			<p>{{ site.banner.byline[lang] }}</p>
-		</div>
-		{% endif %}
+<header id="header" class="py-3 mb-5" style="background-image: url({{ 'assets/images/background.jpg' | relative_url }});">
+    <div class="container text-center">
 
-	</div>
+        <div id="language-switcher">
+            {% if item-en != nil %}
+            <a href="{{ item-en.url | relative_url }}">EN</a>
+            {% else %}
+            <span class="text-muted">EN</span>
+            {% endif %}
+            &bull;
+            {% if item-fr != nil %}
+            <a href="{{ item-fr.url | relative_url }}">FR</a>
+            {% else %}
+            <span class="text-muted">FR</span>
+            {% endif %}
+            &bull;
+            {% if item-nl != nil %}
+            <a href="{{ item-nl.url | relative_url }}">NL</a>
+            {% else %}
+            <span class="text-muted">NL</span>
+            {% endif %}
+        </div>
+
+        <img class="mt-5" src="{{ site.baseurl }}/assets/images/logo.svg" style="height:200px;">
+
+        <nav id="nav" class="mb-5">
+            <ul class="list-inline my-0">
+                {% assign html_pages = site.html_pages | where: 'lang', lang | where_exp: 'item', 'item.order > 0' |
+                sort: 'order' %}
+                {% for html_page in html_pages %}
+                <li class="list-inline-item">
+                    <a href="{{ html_page.url | relative_url }}">{{ html_page.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+
+    </div>
 </header>

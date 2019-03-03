@@ -1,17 +1,9 @@
 <h3>
-    {% case post.category %}
-    {% when 'motm' %}
-    <i class="fas fa-fw fa-star"></i>
-    {% else %}
     <i class="far fa-fw fa-newspaper"></i>
-    {% endcase %}
-
-    <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-    </a>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 </h3>
 <div class="text-info">
-    <strong class="post-date" datetime="{{post.date}}">{{post.date | date: "%d.%m.%Y"}}</strong>
+    <strong class="post-date" datetime="{{ post.date }}">{{ post.date | date: "%d.%m.%Y" }}</strong>
     {% if post.author %}
     -
     <strong class="author">
@@ -23,9 +15,9 @@
 
 <div class="media">
     {% if post.featured %}
-    <div class="mr-3 media-featured" style="background-image: url({{ site.baseurl }}/assets/{{ post.featured }});"></div>
+    <div class="mr-3 media-featured" style="background-image: url({{ post.featured | prepend: 'assets/images/post/' | relative_url }});"></div>
     {% endif %}
     <div class="media-body">
-        {{ post.excerpt | strip_html | truncate: 750 }}
+        {{ post.excerpt | strip_html | truncate: 500 }}
     </div>
 </div>

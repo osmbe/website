@@ -1,38 +1,31 @@
 <div class="row">
-	<div class="col-sm-7">
-		<h2>Organisations partenaires</h2>
-		<p>Devenir membre de notre communauté ou de notre réseau ? Venez nous voir sur <a href="http://github.com/osmbe/" target="_blank">GitHub</a>.</p>
+    <div class="col-sm-6">
+        <h2>OpenStreetMap Belgique</h2>
+        <p>
+            Nous sommes
+            <ul>
+                <li>
+                    un groupe de travail membre d'
+                    <a href="http://www.openknowledge.be/" target="_blank">Open Knowledge Belgium</a>
+                </li>
+                <li>
+                    un <a href="https://wiki.osmfoundation.org/wiki/Local_Chapters" target="_blank">Local Chapter</a>
+                    de l'<a href="https://blog.openstreetmap.org/about/" target="_blank">OpenStreetMap Foundation</a>
+                </li>
+            </ul>
+        </p>
+    </div>
+    <div class="col-sm-6">
+        <h2>Organisations partenaires</h2>
+        <p>
+            Devenir membre de notre communauté ou de notre réseau ?
+            Venez nous voir sur <a href="http://github.com/osmbe/" target="_blank">GitHub</a>.
+        </p>
 
-		<ul class="default">
-		{% for partner in site.data.partners %}
-			<li><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
-		{% endfor %}
-		</ul>
-	</div>
-	<div class="col-sm-5">
-		<h2>Open Knowledge Belgium</h2>
-		<p>
-			Nous sommes un groupe de travail membre d'<a href="http://www.openknowledge.be/" target="_blank">Open Knowledge Belgium</a>
-			et un <a href="https://wiki.osmfoundation.org/wiki/Local_Chapters" target="_blank">Local Chapter</a>
-			de l'<a href="https://blog.openstreetmap.org/about/" target="_blank">OpenStreetMap Foundation</a>.
-		</p>
-
-		<address>
-			<strong>Adresse</strong><br>
-			Open Knowledge Belgium VZW/ASBL<br>
-			{{ site.data.contact.address }}
-		</address>
-		<p>
-			<strong>E-mail</strong><br>
-			{{ site.data.contact.email }}
-		</p>
-		<p>
-			<strong>TVA</strong><br>
-			{{ site.data.contact.vat }}
-		</p>
-		<p>
-			<strong>Compte Bancaire</strong><br>
-			{{ site.data.contact.bank }}
-		</p>
-	</div>
+        <ul class="default">
+            {% for partner in site.data.partners %}
+            <li><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>

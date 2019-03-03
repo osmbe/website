@@ -1,11 +1,11 @@
 - name: OpenStreetMap Foundation
   url: http://wiki.osmfoundation.org/wiki/Main_Page
 
-- name: Trage Wegen
-  url: http://www.tragewegen.be/
-
 - name: Open Knowledge Belgium
   url: http://www.openknowledge.be/
+
+- name: Trage Wegen
+  url: http://www.tragewegen.be/
 
 - name: OSGeo Belgium
   url: http://wiki.osgeo.org/wiki/Belgium
@@ -16,5 +16,5 @@
 - name: Missing Maps
   url: http://www.missingmaps.org/
 
-- name: Maptime Belgium
-  url: http://maptime.io/belgium/
+# - name: Maptime Belgium
+#   url: http://maptime.io/belgium/

@@ -1,0 +1,39 @@
+{% assign projects = site.pages | where: 'lang', page.lang | where: 'layout', 'project' %}
+
+{% for project in projects %}
+<div class="media">
+    <div class="mr-3 media-featured" style="background-image: url({{ project.featured | prepend: 'assets/images/post/' | relative_url }});"></div>
+
+    <div class="media-body">
+        <h2>{{ project.title }}</h2>
+
+        {% if project.lead %}
+        <p class="text-info">
+            <strong>
+                <i class="fas fa-user-astronaut"></i>
+                Project lead:
+            </strong>
+            {{ project.lead }}
+        </p>
+        {% endif %}
+
+        <p>
+            {{ project.content | markdownify | strip_html | truncate: 500 }}
+        </p>
+
+        <p>
+            <a href="{{ project.url | relative_url }}">
+                {% case page.lang %}
+                {% when 'fr' %}
+                En savoir plus
+                {% when 'nl' %}
+                Read more
+                {% else %}
+                Read more
+                {% endcase %}
+            </a>
+        </p>
+    </div>
+</div>
+<hr>
+{% endfor %}

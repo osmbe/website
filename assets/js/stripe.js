@@ -7,7 +7,7 @@ const webtask = 'https://wt-db442aaaa0511f3885fb43b4f75f999f-0.sandbox.auth0-ext
 
 let handler = StripeCheckout.configure({
     allowRememberMe: false,
-    image: 'https://openstreetmap.be/assets/images/logo.png',
+    image: 'https://www.osm.be/assets/images/logo.png',
     key: 'pk_live_jmxH8iRoSMffFBkUG2LhGXlc',
     locale: 'auto',
     token: function(token) {

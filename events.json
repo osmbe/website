@@ -18,7 +18,7 @@ layout: null
     },{% else %}"{{ site.author }}",{% endif %}
     {% endif %}
 "items": [
-    {% assign posts=site.events | reverse %}
+    {% assign posts=site.events | sort: "date" | reverse %}
     {% for post in posts %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
