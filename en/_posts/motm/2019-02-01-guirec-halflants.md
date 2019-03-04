@@ -5,6 +5,7 @@ layout: post
 category: motm
 author: escada
 lang: en
+redirect_from: /2019/02/01/en-motm-Guirec_Halflants.html
 ---
 _translation by Escada and Koninklijke_
 
