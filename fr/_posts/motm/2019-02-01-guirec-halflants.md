@@ -5,6 +5,7 @@ layout: post
 category: motm
 author: escada
 lang: fr
+redirect_from: /2019/02/01/fr-motm-Guirec_Halflants.html
 ---
 
 ## Qui êtes-vous ?
