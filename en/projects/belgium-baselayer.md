@@ -4,7 +4,7 @@ layout: project
 lang: en
 featured: belgium-basemap1.png
 lead: Jonathan Beliën
-redirect_form: /2017/01/06/en-project-belgium-baselayer.html
+redirect_from: /2017/01/06/en-project-belgium-baselayer.html
 ---
 
 The goal for this project is to offer a OpenStreetMap baselayer for Belgium. This baselayer will be available for anyone using OpenLayers, Leaflet, ...
