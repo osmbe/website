@@ -4,6 +4,7 @@ layout: project
 lang: en
 featured: heritage.png
 lead: escada
+redirect_from: /2017/04/01/en-project-heritage-crowd-sourced.html
 ---
 
 # Heritage in Flanders and Crowdsourced Projects
