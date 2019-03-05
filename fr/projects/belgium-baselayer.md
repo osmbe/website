@@ -4,6 +4,7 @@ layout: project
 lang: fr
 featured: belgium-basemap1.png
 lead: Jonathan Beliën
+redirect_from: /2017/01/06/fr-project-belgium-baselayer.html
 ---
 
 Le but de ce projet est d'offrir un fond de carte OpenStreetMap pour la Belgique. Ce fond de carte est disponible pour tout utilisateur de OpenLayers, Leaflet, QGIS, ...
