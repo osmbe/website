@@ -4,6 +4,7 @@ layout: project
 lang: fr
 featured: heritage.png
 lead: escada
+redirect_from: /2017/04/01/fr-project-heritage-crowd-sourced.html
 ---
 
 # Les projets de crowdsourcing appliqué au patrimoine en Belgique
