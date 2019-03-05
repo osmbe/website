@@ -5,6 +5,7 @@ lang: fr
 featured: road-completion2.gif
 featured_caption: "En rouge, les données officielles. Au moins c'est rouge, au plus OSM est complet."
 lead: Joost Schouppe & Ben Abelshausen
+redirect_from: /2017/01/06/fr-project-road-completion.html
 ---
 
 Nous nous appelons Open**STREET**Map pour une raison: nous avons un excellent réseau routier. Il y a les "turn restrictions" et la navigation entre les différentes voies de la route, les sentiers de randonnée et les pistes cyclables. Mais il y a encore quelques petites erreurs qui traînent par ci par là. Notre objectif est de corriger ces erreurs en utilisant les données libres d'accès ("open-data") officielles pour vérifier et détecter les données manquantes. Nous en profitons également pour améliorer les données officielles et vous offrir une qualité minimale garantie.
