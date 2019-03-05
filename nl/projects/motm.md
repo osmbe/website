@@ -4,6 +4,7 @@ layout: project
 lang: nl
 featured: community.jpg
 lead: Marc Gemis
+redirect_from: /2017/01/06/nl-project-motm.html
 ---
 
 Mapper van de maand was één van onze eerste projecten. Het valt ons op dat er veel aandacht is voor oftwel mensen die iets met OSM doen in hun job of voor diegenen die één van de vele softwaretools bouwen in het OSM-ecosysteem, terwijl het eigenlijk de mappers zijn die de kaart elke dag levend houden. Dit project heeft als doel om hun een stem te geven.
