@@ -5,6 +5,7 @@ lang: nl
 featured: road-completion2.gif
 featured_caption: "Overheidsdata in het rood. OSM in het zwart erbovenop. In de loop der tijd worden plaatsen waar er geen OSM wegen zijn (en je dus rood ziet) alsmaar zeldzamer."
 lead: Joost Schouppe & Ben Abelshausen
+redirect_from: /2017/01/06/nl-project-road-completion.html
 ---
 
 Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Natuurlijk hebben we een excellent routeerbaar wegnetwerk, maar toch zijn er nog veel kleine fouten. De bedoeling van dit project is om die kleine fouten te detecteren en ontbrekende wegen toe te voegen. Tegelijk willen we er ook voor zorgen dat we nooit achterlopen op de overheidsdata, en dat we fouten aan overheidskant kunnen laten nakijken door hen.
