@@ -4,6 +4,7 @@ layout: project
 lang: en
 featured: community.jpg
 lead: Marc Gemis
+redirect_from: /2017/01/06/en-project-motm.html
 ---
 
 Mapper of the month has been one of our longest running projects. We noticed there is a lot of attention for those who have OSM as their job or are software developers using OSM but not as much for the mappers at the core of the OSM community. From the start the main the Goal of the project is to put the splotlight on those mappers.
