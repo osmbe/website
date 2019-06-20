@@ -16,4 +16,4 @@ Let's build a community with everybody interested in OpenStreetMap!
 
 The target audience is everybody! From hearing the word OpenStreetMap a few seconds ago to the total expert in no time. There will be someone you can discuss and have a drink with we’re an interational community speaking English, Dutch, French so come join us!
 
-Tell us what you'd like discuss/present/share.
+We are finally launching the GRB buildings import in Flanders, so drop in if you want to learn how you can help. But you're welcome to discuss/present/share anything you like.
