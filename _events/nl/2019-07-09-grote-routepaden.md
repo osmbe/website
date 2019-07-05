@@ -2,7 +2,7 @@
 layout: event
 category: event
 lang: nl
-title: Grote Routepaden in OpenStreetMap: workflow
+title: "Grote Routepaden in OpenStreetMap: workflow"
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/262805538/
 location:
   name: Krookcafé
