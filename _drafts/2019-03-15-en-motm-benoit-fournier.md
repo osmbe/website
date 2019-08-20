@@ -3,7 +3,7 @@ title: 'Mapper of the month: Benoît Fournier (France)'
 featured: 
 layout: post
 category: motm
-author: escada
+author: pietervdvn
 lang: en
 ---
 
