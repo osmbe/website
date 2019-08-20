@@ -101,7 +101,6 @@ Yes, I met most of them during events, locally or international (esp. [State of 
 And of course also via online communications such as mailing lists and forums.
 
 ## Do you use OSM yourself? How?
-## Utilisez-vous vous-même OpenStreetMap ? Comment ?
 
 I simply use OSM for the map and for navigation with my car, by foot or by bicycle.
 I also use it when I'm lost, when I want to plan or want to follow trajects or for geographic queries for me, my kids or my relatives...
