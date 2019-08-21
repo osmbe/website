@@ -3,152 +3,122 @@ title: 'Mapper of the month: Benoît Fournier (France)'
 featured: 
 layout: post
 category: motm
-author: escada
+author: pietervdvn
 lang: en
 ---
 
-## Qui êtes-vous ?
 
-Je m'appelle Benoît Fournier, je vis avec ma famille en France et je
-travaille à Paris ou dans sa région.
+## Who are you?
 
-## Quand et comment avez-vous découvert OpenStreetMap ?
+I'm called Benoît Fournier, I live in France together with my family. I work in Paris or the region around it.
 
-J'ai découvert OpenStreetMap fin 2014.
+## How and when did you discover OpenStreetMap?
 
-Je cherchais à l'époque une application de téléphone mobile avec des
-cartes téléchargeables hors-ligne.
-Je voulais avoir des cartes disponibles sans données mobile, pour des
-trajets en vélo ou à pied.
-Les recherches m'ont amené vers OSMAnd et le projet OpenStreetMap.
-En quelques semaines, au fur et et à mesure, j'ai découvert les
-premiers éléments de l'univers OSM et j'ai fait mes premiers pas : les
-éditeurs, les données, le wiki, quelques notes sur la carte, mes
-premiers messages à d'autres contributeurs.
-Puis mes premières contributions directes, quelques éditions
-téméraires et les erreurs qui vont avec !
+I've discovered OpenStreetMap at the end of 2014: I needed an application on my mobile phone
+with offline, predownloaded maps. I wanted to have maps without having to use mobile data for cycle and hiking trajects.
+My search took me to [OsmAnd](https://osmand.net/) and the OpenStreetMap-project.
+Slowly but surely, I made my first steps and discovered the elements of the OSM-universe:
+the data, the editors, the wiki, some map notes, my first message to other contributors, ...
+soon followed by my first contributions, of which a few a bit reckless and contianed the necessary errors!
 
-L'ouverture du projet, le détail des données et la richesse de
-l'écosystème m'ont vraiment frappé à l'époque.
-Je pense notamment aux outils spécifiques à OSM (JOSM, iD, Tasking
-Manager, mapRoulette, les outils qualité...), la documentation (le
-wiki sans-fin, les tutoriels), la communication (forum, listes de
-diffusion, ...), les applications et réutilisations à l'infini, ...
-Tout cela m'apparaissait extrêmement riche, foissonant, à la fois en
-plein développement, auto-suffisant et très ouvert.
+The openness of the project, the detail of the maps and the richness of the ecosystem 
+really blew my mind at the time. Some specific tools come to mind (such as JOSM, iD,
+the Tasking Manager, maproulette or the other great tools), the documentation (the endless wiki, the tutorials),
+all the application and of course the infinite reuse of the data itself.
 
-## Que cartographiez-vous ? Y a-t-il des différences depuis vos débuts ?
+All that struck me as being extremely rich, exciting, sometimes still in heavy development but at the same time as being self-sufficient and all very open.
 
-Je n'ai pas un thème particulier, je change souvent d'outil et de
-thématique, en fonction de mon temps libre et de mes aspirations du
-moment.
-J'ai commencé avec des POIs et des attributs sur les routes pour la
-navigation et la cyclabilité (sens uniques, bandes cyclables,
-limitations de vitesse, ...).
-J'ai aussi fait de la numérisation à partir d'images satellites dans
-des cartoparties avec CartONG ou HOT.
+## What do you map? Is there a difference with the start of your mapping?
 
-Depuis 2017 j'utilise aussi l'application StreetComplete. Autre
-différence : j'utilise maintenant plusieurs comptes (en fonction de
-mes activités ou des éditeurs) pour préserver un peu plus certains
-aspects de vie privée.
+I don't map a specific subject. I often change tools and subjects, depending on
+how much spare time I have or what I like to do at the time.
 
-## Comment cartographiez-vous ?
+I started with POIs and attributes for cycling navigation and cycling comfort, such as oneways, cyclelanes, speed limits.
+I've also mapped based on satellite imagery for [CartONG](https://www.cartong.org/) or [HOT](https://www.hotosm.org/).
 
-Pour les modifications de mon quartier proche, je cartographie par
-notes ou par mémoire.
-Une fois devant l'éditeur sur ordinateur et si la tâche est plus
-complexe, j'utilise un maximum de données disponibles pour recouper
-les informations : les imageries aériennes, les prises de vues au sol,
-le cadastre, ...
+Since 2017, I've also been using [StreetComplete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) ([on FDroid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/)).
+Another difference since the start is that I use multiple accounts,
+depending on the editor and what subject I map. 
+This is to preserve my privacy.
 
-## Comment menez-vous vos relevés sur le terrain ?
 
-Pour un relevé avec un objectif précis, je prends des notes et des
-cartes sur papier.
-Si c'est organisé en groupe, les atlas de Field Papers sont très utiles.
-Pour une déambulation oppurtuniste, je me repose sur les applications
-mobiles StreetComplete (pour completer les attributs en suivant les
-suggestions) ou Maps.me (pour ajouter des POIs).
+## How do you map?
 
-## Où cartographiez-vous ? Localement, HOT ?
+I map based on notes or memory for changes close to where I live.
+However, once I'm on my computer and if the task at hand becomes more complex,
+I use all the data that is available to me: aerial imagery, images taken from street level,
+the official 'cadastre'-maps, ... _(note of the translator: France has an official dataset on all the buildings, called 'cadastre'. OSM is allowed to use it and it is included as WMS into most editors)_
 
-Dans mon quartier, sur le trajet de mon travail, pendant certains
-voyages (mais pas activement si je suis en famille) et lors de
-cartoparties à distance.
 
-## Quel est votre plus grande réussite en tant que cartographe ?
+## How do you conduct your field surveys?
 
-Ajouter les étages de la Tour Eiffel, avec le concours de plusieurs
-autres contributeurs pour réparer mes erreurs de jeunesse :)
+For a survey with a specific objective, I take notes and
+maps on paper.
+If it is organized in groups, [Field Papers](http://fieldpapers.org/) are very useful.
+For an oppurtunistic stroll, I rely on the applications
+StreetComplete mobiles (to complete the attributes by following the
+suggestions) or [Maps.me](https://maps.me/) to add POIs.
 
-## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
 
-Je participe au projet OpenStreetMap pour contribuer à un bien commun,
-qui attache beaucoup d'importance à l'expertise locale.
-Cela est doublement motivant car je suis des deux côtés de la chaîne :
-j'utilise moi-même les données et les applications d'OSM.
-Je sais également que tous les autres peuvent utiliser directement ou
-indirectement, dans des cas d'usages sans limites, en tant que
-citoyen-ne-s, associations, organisations, entreprises,
-administrations.
+## Where do you map? Locally? Or remote for HOT?
 
-## Quelle est la partie la plus difficile en cartographie ?
+I map in my vicinity, on the way to my work, during travels (but not activily if family is with me), but also remotely.
 
-Le plus difficile en cartographie c'est le premier commentaire
-désobligeant et antipathique par un contributeur aguerri (qui a oublié
-que tout le monde doit débuter puis s'améliorer).
+## What is your biggest mapping achievement?
 
-Sauf si vous avez un métier et/ou une famille et/ou une autre passion
-: alors le plus difficile c'est de trouver du temps libre.
+Adding all the levels to the Eiffel tower ([OsmBuildings](https://osmbuildings.org/?lat=48.86007&lon=2.29030&zoom=16.8&tilt=45&rotation=-24), and with the help of multiple other contributors: repairing my earlier mistakes ;)
 
-Sauf si vous êtes dans une région plutôt pauvre, avec peu d'accès à un
-ordinateur et à Internet : alors le plus difficile c'est de trouver
-des ressources et du temps libre et un ordinateur et de l'énegie et
-une connexion Internet.
+## Why do you map? WHat does motivate you?
 
-## Quels sont vos plans de cartographie dans un futur proche ?
+I participate in OPenStreetMap to contribute to a common good,
+which attaches a lot of importance to the local expertise.
+It is motivating me twice, as I see both sides of the chain,
+by using all those tools myself as well.
 
-Je voudrais convertir plus de personnes, avoir plus de contributrices
-et contributeurs parce que je pense qu'une large participation est une
-bonne manière d'avoir les données les plus détaillées et les plus
-fraîches possibles.
+Of course, I also know that all the other people can use the data as well,
+directly or indirectly in uncountable usecases for citoyens, organisations, NGO's, corporations, administrations, ...
 
-## Avez-vous des contacts avec d'autres cartographes ?
 
-Oui, j'ai rencontré plusieurs personnes dans des rencontres locales ou
-internationales (State of the Map), et en participant à des groupes de
-travail et des activités communes.
-Et bien sûr avec la communication en ligne (mails, forums).
+## What is the most difficult part of mapping?
 
-## Utilisez-vous vous-même OpenStreetMap ? Comment ?
+The most difficult part is the first disrespectful and unsympathetic comment from
+an entrenched contributor (who has forgotten that everyone must make mistakes to get better).
 
-Je l'utilise simplement pour la carte et de navigation, en véhicule
-motorisé, à pied ou à vélo.
-Quand je suis perdu ;
-Pour planifier ou suivre des trajets ;
-Pour n'importe quelle recherche géographique avec mes enfants ou mes proches...
+Apart from that, the most difficult part is finding time, next to having a job, a family or another passion.
 
-## Faites-vous d'autres choses que la cartographie qui soit liées à
-OpenStreetMap ?
+For those in a poor region, the most difficult part is finding a computer and an internet connection...
 
-Oui ! C'est une partie importante pour moi.
-Je participe depuis plusieurs années à l'association française
-OpenStreetMap France et au groupe de travail de la Fondation OSM pour
-l'organisation de la conférence State of the Map (SotM).
-Par le passé, j'ai participé ici et là à des traductions des outils
-OSM, à la documentation pour les débutants (comme le site LearnOSM), à
-des discussions (du point de vue de l'utilisateur) pour le
-développement informatique de certains outils de l'écosystème OSM, à
-des présentations et des initiations pour le public ou des
-associations et peut-être quelques autres aspects que je peux oublier.
 
-## Pour conclure, y a-t-il autre chose que vous voulez mentionner ?
+## What are your mapping plans in the near future?
 
-L'exploration commence dans votre quartier ; nous sommes tous les
-experts locaux qui peuvent voir les particularités, les détails et les
-changements.
+I'd like to convert more persons, have more female and male contributors
+because I think that a big participation is a good way to have more detailed and more up-to-date data.
 
-D'abord cartographiez pour vous, pour votre plaisir et pour le partage.
-Puis cartographiez pour les autres, cartographiez avec les autres, et
-faites cartographier les autres.
+
+## Do you have contact with other cartographers?
+
+Yes, I met most of them during events, locally or international (esp. [State of the Map](https://2019.stateofthemap.org/)), but also in the Working Groups or in the active communities.
+And of course also via online communications such as mailing lists and forums.
+
+## Do you use OSM yourself? How?
+
+I simply use OSM for the map and for navigation with my car, by foot or by bicycle.
+I also use it when I'm lost, when I want to plan or want to follow trajects or for geographic queries for me, my kids or my relatives...
+
+## Do you do other activities (except for mapping) that are related to OSM?
+
+Yes!  And it is quite an important one for me:
+Since a few year, I participate in the [French chapter](OpenStreetMap.fr) and in the 
+Working Group which organizes the State of the Map.
+
+In the past, I also helped translating multiple OSM-tools such as documentation
+for new contributors (such as [LearnOSM](https://learnosm.org/en/)), participated in discussions (from the users standpoint) on how tools should be developed, held presentations, organized initiations for the public or organisations, and perhaps a few other aspects that I forgot about. 
+
+## At last, are there other things you want to mention?
+
+Exploration starts at your front door. We are all the local experts who could see
+the small details, the peculiarities and the changes in our neighbourhoods.
+
+First, map for yourself, for your own pleasure, for your own use and to share.
+Then, map for others, map together with others. At last, let others map together with you.
+
