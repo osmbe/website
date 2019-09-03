@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+tags: [mapathon]
 lang: en
 title: Missing Maps @ MSF
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/264468195/

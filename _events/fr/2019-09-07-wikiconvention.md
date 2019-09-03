@@ -2,6 +2,7 @@
 layout: event
 category: event
 lang: fr
+tags: [mapathon]
 title: WikiConvention francophone - Atelier de cartographie humanitaire, HotOSM
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/264525328/
 location:
