@@ -73,7 +73,7 @@ redirect_from:
                 <li class="donation-btn" data-amount="25">25 &euro;</li>
                 <li class="donation-btn" data-amount="100">100 &euro;</li>
                 <li class="donation-custom">
-                    <input id="donation-amount" type="number" name="amount" min="0" step="0.01" lang="{{ page.lang }}"
+                    <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
                         placeholder="Autre montant">
                     <span class="currency">&euro;</span>
                 </li>
@@ -81,21 +81,28 @@ redirect_from:
             <button id="donation-submit" disabled="disabled">Faire un don</button>
         </div>
 
-        <hr>
-
         <div id="donation-result">
-            <span id="donation-loading" style="display: none;">Votre paiement est en cours de traitement ...</span>
-            <span id="donation-result-success" style="display: none; color: green;">
+            <div id="donation-result-success" style="display: none; color: green;">
                 <strong>Un tout grand merci pour votre don, il a bien été reçu.</strong>
-            </span>
-            <span id="donation-result-error" style="display: none; color: red;">
-                <strong>Toutes nos excuses, une erreur s'est produite (vous ne serez pas débité), veuillez réessayer plus tard.</strong>
-            </span>
+            </div>
+            <div id="donation-result-cancel" style="display: none; color: gray;">
+                <strong>Votre donation a été annulée.</strong>
+            </div>
+            <div id="donation-result-error" style="display: none; color: red;">
+                <strong>
+                    Toutes nos excuses, une erreur s'est produite (vous ne serez pas débité), veuillez réessayer
+                    plus tard.
+                </strong>
+                <div id="error-message"></div>
+            </div>
         </div>
+
+        <hr>
 
         <p>
             Votre don par carte de crédit sera traité par <a href="https://stripe.com/" target="_blank">Stripe</a>.
-            Le don apparaîtra avec la mention "<em>Donation to OpenStreetMap Belgium</em>" sur vos extraits de carte de crédit.
+            Le don apparaîtra avec la mention "<em>Donation to OpenStreetMap Belgium</em>" sur vos extraits de carte de
+            crédit.
         </p>
     </div>
 

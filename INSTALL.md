@@ -36,8 +36,8 @@ We use <https://webtask.io/> to run the Stripe "component" for the donation page
 
 You will have to configure :
 
-- `STRIPE_SECRET_KEY`
-- `STRIPE_CONNECT_ACCOUNT`
+- `STRIPE_SECRET_KEY` (secret API key from "parent" account)
+- `STRIPE_CONNECT_ACCOUNT` (your acount)
 
 Here is the webtask source code :
 
@@ -55,75 +55,59 @@ const app = express();
 app.use(bodyParser.json());
 
 /**
- * Create Charge or Subscription
+ * Create Checkout session
  */
-app.post('/payment', (request, response) => {
+app.post('/session', (request, response) => {
   const ctx = request.webtaskContext;
   const STRIPE_SECRET_KEY = ctx.secrets.STRIPE_SECRET_KEY;
 
-  /**
-   * Recurring payment :
-   * - Create Customer
-   * - Create Subscription
-   */
-  if (typeof request.body.plan !== 'undefined') {
-    // Create Customer
-    stripe(STRIPE_SECRET_KEY).customers.create({
-      email: request.body.email,
-      source: request.body.stripeToken
-    }, {
-      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
-    }, (errorCustomer, customer) => {
-      if (errorCustomer) {
-        response.status(400).json({ 'error': errorCustomer.message });
-      } else {
-        // Create Subscription
-        stripe(STRIPE_SECRET_KEY).subscriptions.create({
-          application_fee_percent: 5,
-          customer: customer.id,
-          items: [
-            {
-              plan: request.body.plan,
-            },
-          ]
-        }, {
-          stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
-        }, function(errorSubscription, subscription) {
-          if (errorSubscription) {
-            response.status(400).json({ 'error': errorSubscription.message });
-          } else {
-            response.json({ 'success': 'Subscription done!' });
-          }
-        });
+  const amount = request.body.amount;
+  const plan = request.body.plan;
+  const url = request.body.url || 'https://openstreetmap.be';
+  const lang = request.body.lang || 'en';
+
+  let options = {
+    success_url: `${url}/${lang}/support.html#success`,
+    cancel_url: `${url}/${lang}/support.html#cancel`,
+    payment_method_types: ['card']
+  };
+
+  if (typeof plan !== 'undefined') {
+    Object.assign(options, {
+      subscription_data: {
+        items: [{
+          plan: plan,
+        }],
+        application_fee_percent: 5,
       }
     });
-  }
-  /**
-   * Single donation :
-   * - Create Charge
-   */
-  else {
-    stripe(STRIPE_SECRET_KEY).charges.create({
-      amount: request.body.amount,
-      application_fee: request.body.amount * 0.05,
-      currency: 'eur',
-      statement_descriptor: 'Donation to OSMBE', // Max. 22 characters
-      /*destination: {
-        account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
-        amount: request.body.amount * 0.95
-      },*/
-      receipt_email: request.body.email,
-      source: request.body.stripeToken
-    }, {
-      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
-    }, (errorCharge, charge) => {
-      if (errorCharge) {
-        response.status(400).json({ 'error': errorCharge.message });
-      } else {
-        response.json({ 'success': 'Payment done!' });
-      }
+  } else if (amount !== 'undefined') {
+    Object.assign(options, {
+      payment_intent_data: {
+        application_fee_amount: amount * 0.05,
+      },
+      line_items: [{
+        name: 'Single donation',
+        amount: amount,
+        currency: 'eur',
+        quantity: 1,
+      }],
     });
   }
+
+  stripe(STRIPE_SECRET_KEY).checkout.sessions.create(
+    options,
+    {
+      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
+    },
+    (err, session) => {
+      if (err) {
+        response.status(400).json({ error: err.message });
+      } else {
+        response.json(session);
+      }
+    }
+  );
 });
 
 /**
@@ -133,43 +117,50 @@ app.get('/subscriptions', (request, response) => {
   const ctx = request.webtaskContext;
   const STRIPE_SECRET_KEY = ctx.secrets.STRIPE_SECRET_KEY;
 
-  stripe(STRIPE_SECRET_KEY).plans.list({
-  }, {
-    stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
-  }, (errorSubscriptions, plans) => {
-    if (errorSubscriptions) {
-      response.status(400).json({ 'error': errorSubscriptions.message });
-    } else {
-      let result = {
-        monthly: [],
-        yearly: []
-      };
+  stripe(STRIPE_SECRET_KEY).plans.list(
+    {},
+    {
+      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
+    },
+    (errorSubscriptions, plans) => {
+      if (errorSubscriptions) {
+        response.status(400).json({ error: errorSubscriptions.message });
+      } else {
+        let result = {
+          monthly: [],
+          yearly: [],
+        };
 
-      plans.data.map((plan) => {
-        const { id, amount, interval, interval_count, metadata } = plan;
+        plans.data.map(plan => {
+          const { id, amount, interval, interval_count, metadata } = plan;
 
-        if (typeof metadata.hidden === 'undefined') {
-          if (interval === 'year' && interval_count === 1) {
-            result.yearly.push({
-              id,
-              amount
-            });
-          } else if (interval === 'month' && interval_count === 1) {
-            result.monthly.push({
-              id,
-              amount
-            });
+          if (typeof metadata.hidden === 'undefined') {
+            if (interval === 'year' && interval_count === 1) {
+              result.yearly.push({
+                id,
+                amount,
+              });
+            } else if (interval === 'month' && interval_count === 1) {
+              result.monthly.push({
+                id,
+                amount,
+              });
+            }
           }
-        }
-      });
+        });
 
-      result.monthly.sort((a, b) => parseFloat(a.amount) - parseFloat(b.amount));
-      result.yearly.sort((a, b) => parseFloat(a.amount) - parseFloat(b.amount));
+        result.monthly.sort(
+          (a, b) => parseFloat(a.amount) - parseFloat(b.amount)
+        );
+        result.yearly.sort(
+          (a, b) => parseFloat(a.amount) - parseFloat(b.amount)
+        );
 
-      response.json(result);
+        response.json(result);
+      }
     }
-  });
+  );
 });
 
-module.exports = fromExpress(app);  
+module.exports = fromExpress(app);
 ```

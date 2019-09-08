@@ -73,7 +73,7 @@ redirect_from:
                 <li class="donation-btn" data-amount="25">25 &euro;</li>
                 <li class="donation-btn" data-amount="100">100 &euro;</li>
                 <li class="donation-custom">
-                    <input id="donation-amount" type="number" name="amount" min="0" step="0.01" lang="{{ page.lang }}"
+                    <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
                         placeholder="Other amount">
                     <span class="currency">&euro;</span>
                 </li>
@@ -81,22 +81,26 @@ redirect_from:
             <button id="donation-submit" disabled="disabled">Donate</button>
         </div>
 
-        <hr>
-
         <div id="donation-result">
-            <span id="donation-loading" style="display: none;">Your payment is being processed ...</span>
-            <span id="donation-result-success" style="display: none; color: green;">
+            <div id="donation-result-success" style="display: none; color: green;">
                 <strong>Thank you for your donation, it has been received.</strong>
-            </span>
-            <span id="donation-result-error" style="display: none; color: red;">
-                <strong>Sorry there was an error making your payment (you won't be charged), please try again later.</strong>
-            </span>
+            </div>
+            <div id="donation-result-cancel" style="display: none; color: gray;">
+                <strong>Your donation was canceled.</strong>
+            </div>
+            <div id="donation-result-error" style="display: none; color: red;">
+                <strong>
+                    Sorry there was an error making your payment (you won't be charged), please try again later.
+                </strong>
+                <div id="error-message"></div>
+            </div>
         </div>
+
+        <hr>
 
         <p>
             Your credit card donation will be processed by <a href="https://stripe.com/" target="_blank">Stripe</a>.
             The charge will appear as "<em>Donation to OpenStreetMap Belgium</em>" on your credit card statement.
         </p>
     </div>
-
 </div>

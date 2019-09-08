@@ -1,0 +1,18 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 2em;
+    background-color: rgba(0, 0, 0, 0.75);
+    z-index: 10;
+
+    & > .overlay-loading {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        color: #fff;
+        padding: 2em;
+    }
+}

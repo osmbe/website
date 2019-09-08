@@ -55,7 +55,14 @@
         crossorigin=""></script>
     <script src="{{ 'assets/js/event.js' | relative_url }}"></script>
     {% else if page.name == "support.html" %}
-    <script src="https://checkout.stripe.com/checkout.js"></script>
+    {% include overlay-stripe.html %}
+    <script>
+        window.app = {
+            url: '{{ site.url }}',
+            lang: '{{ lang }}'
+        }
+    </script>
+    <script src="https://js.stripe.com/v3"></script>
     <script src="{{ 'assets/js/stripe.js' | relative_url }}"></script>
     {% endif %}
 

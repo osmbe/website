@@ -75,7 +75,7 @@ redirect_from:
                 <li class="donation-btn" data-amount="25">25 &euro;</li>
                 <li class="donation-btn" data-amount="100">100 &euro;</li>
                 <li class="donation-custom">
-                    <input id="donation-amount" type="number" name="amount" min="0" step="0.01" lang="{{ page.lang }}"
+                    <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
                         placeholder="Ander bedrag">
                     <span class="currency">&euro;</span>
                 </li>
@@ -83,18 +83,23 @@ redirect_from:
             <button id="donation-submit" disabled="disabled">Doneer</button>
         </div>
 
-        <hr>
-
         <div id="donation-result">
-            <span id="donation-loading" style="display: none;">Je betaling wordt verwerkt..</span>
-            <span id="donation-result-success" style="display: none; color: green;">
+            <div id="donation-result-success" style="display: none; color: green;">
                 <strong>Bedankt voor je donatie, we hebben ze goed ontvangen!</strong>
-            </span>
-            <span id="donation-result-error" style="display: none; color: red;">
-                <strong>Er was een probleem met je donatie (er is geen betaling gebeurd). Probeer later
-                    opnieuw.</strong>
-            </span>
+            </div>
+            <div id="donation-result-cancel" style="display: none; color: gray;">
+                <strong>Je donatie was geannuleerd.</strong>
+            </div>
+            <div id="donation-result-error" style="display: none; color: red;">
+                <strong>
+                    Er was een probleem met je donatie (er is geen betaling gebeurd). Probeer later
+                    opnieuw.
+                </strong>
+                <div id="error-message"></div>
+            </div>
         </div>
+
+        <hr>
 
         <p>
             Je donaties via credit card zullen verwerkt worden via <a href="https://stripe.com/"
