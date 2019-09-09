@@ -5,6 +5,8 @@ title:
 description: OpenStreetMap Belgium community website
 
 markdown: kramdown
+sass:
+  style: compressed
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
@@ -25,6 +27,11 @@ baseurl: ""
 
 exclude:
   - INSTALL.md
+  - package.json
+  - package-lock.json
+  - node_modules/
+  - .cache/
+  - _javascript/
 
 future: true
 permalink: /:categories/:year/:month/:day/:title:output_ext

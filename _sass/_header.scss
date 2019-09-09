@@ -1,0 +1,30 @@
+#header {
+    background-color: #222833;
+    background-size: cover;
+    color: #fff;
+
+    #language-switcher {
+        text-align: center;
+
+        a {
+            color: #3ac984;
+        }
+    }
+
+    #nav {
+        font-size: 1.8em;
+
+        a:hover {
+            color: #3ac984;
+            text-decoration: none;
+        }
+    }
+
+    a {
+        color: #fff;
+    }
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: 1rem;
+}

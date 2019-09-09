@@ -14,13 +14,11 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     {% if page.layout == "event" %}
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
-        integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
-        crossorigin="">
+    <link rel="stylesheet" href="{{ 'assets/event.css' | relative_url }}">
     {% endif %}
-    <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'assets/style.css' | relative_url }}">
     {% if page.highlight == true %}
-    <link rel="stylesheet" href="{{ 'assets/css/highlight.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'assets/highlight.css' | relative_url }}">
     {% endif %}
     {% seo title=false %}
 </head>
@@ -47,13 +45,11 @@
         </div>
     </footer>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
     {% if page.layout == "event" %}
-    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
-        integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
-        crossorigin=""></script>
-    <script src="{{ 'assets/js/event.js' | relative_url }}"></script>
+    <script src="{{ 'assets/event.js' | relative_url }}"></script>
     {% else if page.name == "support.html" %}
     {% include overlay-stripe.html %}
     <script>
@@ -63,7 +59,7 @@
         }
     </script>
     <script src="https://js.stripe.com/v3"></script>
-    <script src="{{ 'assets/js/stripe.js' | relative_url }}"></script>
+    <script src="{{ 'assets/stripe.js' | relative_url }}"></script>
     {% endif %}
 
     {% include google-analytics.html %}

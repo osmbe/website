@@ -164,3 +164,27 @@ app.get('/subscriptions', (request, response) => {
 
 module.exports = fromExpress(app);
 ```
+
+## Build JS bundles
+
+### Event page
+
+```bash
+npm install
+npm run build:event
+```
+
+### Support page
+
+Create `.env` file:
+
+```
+STRIPE_CONNECT_ACCOUNT =
+STRIPE_PUBLISHABLE_KEY =
+WEBTASK_URL =
+```
+
+```bash
+npm install
+npm run build:stripe
+```

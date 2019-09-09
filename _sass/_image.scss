@@ -1,0 +1,35 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+img + em {
+    display: block;
+    color: #808080;
+    font-style: italic;
+    font-size: 0.75em;
+}
+
+figure {
+    display: table;
+    margin: auto;
+    margin-bottom: 1rem;
+    text-align: center;
+
+    figcaption {
+        caption-side: bottom;
+        display: table-caption;
+    }
+}
+
+
+.media {
+    margin: 32px auto;
+
+    .media-featured {
+        background-position: center;
+        background-size: cover;
+        border-radius: 50% !important;
+        height: 150px;
+        width: 150px;
+    }
+}

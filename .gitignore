@@ -1,4 +1,7 @@
 _site/
+.cache/
 .sass-cache/
+node_modules/
+.env
 .jekyll-metadata
 desktop.ini
