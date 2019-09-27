@@ -1,5 +1,5 @@
 ---
-title: "Open Streetlevel Imagery
+title: Open Streetlevel Imagery
 featured: riot.png
 layout: post
 author: OpenStreetMap Belgium
