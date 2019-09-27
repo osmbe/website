@@ -1,6 +1,6 @@
 ---
 title: Open Streetlevel Imagery
-featured: riot.png
+featured: Bing_Streetside_NYC.gif
 layout: post
 author: OpenStreetMap Belgium
 lang: fr
