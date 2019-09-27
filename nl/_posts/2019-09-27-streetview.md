@@ -39,9 +39,9 @@ Stel je openbare aanbestedingen op, splits ze dan zeker op in een luik voor open
 
 Wij maken al miljoenen afbeeldingen in België onder een vrije licentie. Maar we willen voor jou werken, terwijl we voor onszelf werken. We hebben meer foto's nodig om een uitmuntende, gebiedsdekkende basiskaart voor iedereen te hebben. Wij zijn allemaal onbetaalde vrijwilligers en investeren onze tijd en soms ook ons geld om dit te kunnen doen. Maar we hebben hulp nodig om de kwaliteit omhoog te tillen. Op dit moment willen we de volgende camera's aanschaffen:
 
-Blackvue Dashcam DR900S - ideaal voor een auto, gemakkelijkst te gebruiken
-GoPro Hero 7 Black - veelzijdig, bruikbaar in auto, op de fiets of al wandelend
-GoPro Fusion - voor 360°-beelden
+Blackvue Dashcam DR900S - ideaal voor een auto, gemakkelijkst te gebruiken  
+GoPro Hero 7 Black - veelzijdig, bruikbaar in auto, op de fiets of al wandelend  
+GoPro Fusion - voor 360°-beelden  
 
 Deze camera's zijn eenvoudig in gebruik en niet duur. In ruil voor een camera of bruikleen ervan, concentreren we ons op je interessegebied. In ruil voor een bijdrage in de kosten, voorzien we opleiding voor je werknemers om zelf beeldmateriaal te verzamelen, en bieden we ondersteuning bij technische problemen. Er zijn ook goedkope oplossingen voor microfinanciering om ons te laten focussen op je gebied. [Contacteer ons](community@osm.be) voor meer informatie.
 
