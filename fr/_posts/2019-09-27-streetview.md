@@ -40,9 +40,9 @@ Si vous préparez des offres publiques, vous devriez certainement les diviser en
 
 Nous produisons déjà des millions d'images en Belgique sous licence libre. Mais nous voulons travailler pour vous pendant que nous travaillons pour nous-mêmes. Nous avons besoin de plus de photos pour avoir une excellente carte de base couvrant tout le territoire. Nous sommes tous des bénévoles non rémunérés et investissons notre temps et parfois notre argent pour le faire. Mais nous avons besoin d'aide pour élever la qualité. Nous voulons actuellement acheter les appareils suivants:
 
-Blackvue Dashcam DR900S - idéal pour la voiture, facile à utiliser
-GoPro Hero 7 Black - polyvalent, convient pour la voiture, pour le vélo ou pour le randonneur
-GoPro Fusion - si vous avez besoin de vues 360°
+Blackvue Dashcam DR900S - idéal pour la voiture, facile à utiliser  
+GoPro Hero 7 Black - polyvalent, convient pour la voiture, pour le vélo ou pour le randonneur  
+GoPro Fusion - si vous avez besoin de vues 360°  
 
 Ces caméras sont faciles à utiliser et peu coûteuses. En échange d'une caméra ou du prêt de celle-ci, nous nous concentrons sur votre domaine d'intérêt. En échange d'une contribution aux coûts, nous proposons à vos employés une formation leur permettant de collecter eux-mêmes les supports visuels, ainsi qu'une assistance pour les problèmes techniques. Il existe également des solutions de microfinance bon marché pour nous permettre de nous concentrer sur votre région. Contactez-nous (community@osm.be) pour plus d'informations.
 
