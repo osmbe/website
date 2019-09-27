@@ -30,7 +30,7 @@ At OpenStreetMap Belgium, we want to work with you. If you lend us a camera and 
 
 ## Call to action
 
-f open images exist, who knows what data will be derived from them? Computer vision can turn them into data about anything you like – for free if you work under CC-BY-SA 4.0, at competitive prices in other cases. All faces and license plates can be censored for free – by installing the right tools or by uploading them to a web portal. And most of all: you will be helping your colleagues in other government branches, as well as civil society around this country. It is your duty to consider this option.
+If open images exist, who knows what data will be derived from them? Computer vision can turn them into data about anything you like – for free if you work under CC-BY-SA 4.0, at competitive prices in other cases. All faces and license plates can be censored for free – by installing the right tools or by uploading them to a web portal. And most of all: you will be helping your colleagues in other government branches, as well as civil society around this country. It is your duty to consider this option.
 
 If you are looking for low-budget solutions, contact us.
 
@@ -40,9 +40,9 @@ If you are working on public tenders, split them into a parcel for open data
 
 We are contributing millions of openly licensed images in Belgium already. But we want to work for you, while working for ourselves. We need more street level imagery to be able to provide an excellent open basemap for everyone. We are volunteers, and we invest our time and sometimes our money to be able to do this. But we need support to improve the quality. Right now, we are looking for these cameras:
 
-Blackvue Dashcam DR900S - ideal for a car, easiest to use
-GoPro Hero 7 Black - multipurpose, fits a car, a bike or a hike
-GoPro Fusion - if you need a 360 view
+Blackvue Dashcam DR900S - ideal for a car, easiest to use  
+GoPro Hero 7 Black - multipurpose, fits a car, a bike or a hike  
+GoPro Fusion - if you need a 360 view  
 
 These cameras are inexpensive and easy to operate by anyone. In return for a camera donation or lease, we will focus on your area of interest. In return for a contribution in the costs, we will also provide training to your employees to collect imagery themselves, and provide ongoing support for technical issues. There are also low-cost solutions to provide microfunding to help direct attention to your area of interest. [Contact us](community@osm.be) for details.
 
