@@ -1,6 +1,6 @@
 ---
 title: Open Streetlevel Imagery
-featured: riot.png
+featured: https://blog.openstreetmap.org/wp-content/uploads/2018/07/Bing_Streetside_NYC.gif
 layout: post
 author: OpenStreetMap Belgium
 lang: en
