@@ -34,7 +34,7 @@ If open images exist, who knows what data will be derived from them? Computer vi
 
 If you are looking for low-budget solutions, contact us.
 
-If you are working on public tenders, split them into a parcel for open data
+If you are working on public tenders, split them into a parcel for open data collection and a second part for service provision.
 
 ## The OpenStreetMap Belgium role
 
