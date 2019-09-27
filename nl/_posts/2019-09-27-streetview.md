@@ -1,6 +1,6 @@
 ---
-title: "Open Straatbeelden
-featured: riot.png
+title: Open Straatbeelden
+featured: Bing_Streetside_NYC.gif
 layout: post
 author: OpenStreetMap Belgium
 lang: nl
