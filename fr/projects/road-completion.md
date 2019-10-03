@@ -29,14 +29,14 @@ Une fois que ces outils sont opérationnels et que nous avons effectué une prem
 ![]({{ site.baseurl }}/assets/images/post/road-completion1.jpg)
 *Un exemple de routes "lentes" manquantes*
 
-### Actualités
-
-Nous allons planifier un "hackday" consacré à ce sujet. C'est pour vous si vous voulez en savoir plus sur l'utilisation de données ouvertes pour améliorer OSM, et vice versa. Surtout si vous voulez travailler avec les bases de données PostgreSQL, les tuiles vectorielles, Osmose ou Maproulette.
+Vous pouvez aider: [voici les instructions](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions) 
 
 ### Événements clés
 
 * Exploration de "Wegenregister" comme source, avec couches cartographiques et fichiers GPX téléchargeables ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
 * L'inverse: validation de "Wegenregister" à partir d'OSM à Anvers ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
-* Mise en route d'[une tâche dans le "Tasking Manager belge"](https://tasks.osm.be/project/2); utilisation de la ville de Halle comme exemple.
+* Mise en route d'une tâche dans le "Tasking Manager belge"; utilisation de la ville de Halle comme exemple.
 * [Page wiki avec les status du project](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * Premier tache "Maproulette": [instructions ici](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
+* Presentations a State of The Map 2017 et AIV Trefdag
+* Projet Open Summer of Code 2018
