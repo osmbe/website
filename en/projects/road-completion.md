@@ -43,5 +43,6 @@ Once these tools are up-and-running and we have done a first pass over the data,
 * Set up [a Task in the Belgian tasking manager](https://tasks.osm.be/project/2); in the town of Halle as an example.
 * Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * [Presented the project at FOSS4G](http://slides.com/benabelshausen-1/deck-1).
-* Ran a first comparison and [first results](https://github.com/osmbe/road-completion/tree/master/results/wegenregister) are available.
-* Started a first Maproulette task to map missing roads
+* Started a first Maproulette task to map missing roads (see current status)
+* Presented at State of the Map 2018 and AIV Trefdag 2017
+* Created a tool at Open Summer of Code 2018
