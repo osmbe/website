@@ -25,14 +25,14 @@ In dit kader willen we ook een meetinstrument aanbieden dat de kwaliteit van OSM
 ![]({{ site.baseurl }}/assets/images/post/road-completion1.jpg)
 *Groen: trage wegen. Grijs: reeds getekende wegen. Zwart: wegen die deze maand verbeterd of toegevoegd werden.*
 
-### Op de agenda
-
-Binnenkort presenteren we het project op de [Trefdag Informatie Vlaanderen](https://overheid.vlaanderen.be/trefdag-informatie-vlaanderen).
+Je kan nog steeds helpen, nadat je [deze instructies leest](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions) 
 
 ### Key events van dit project
 
 * Exploratie van het Wegenregister als bron, met afgeleide kaartlagen om mappers te helpen. Zie dit ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
 * In omgekeerde richting: Wegenregister valideren met OSM, case study in Antwerpen ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
-* [Taak toegevoegd in de Belgische tasking manager](https://tasks.osm.be/project/2); voorbeeldproject Halle.
+* Taak toegevoegd in de (stopgezette) Belgische tasking manager; voorbeeldproject Halle.
 * [Wiki pagina gemaakt](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project) om de concrete taken te organiseren.
 * Eerste Maproulette taak online, [instructies vind je hier](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
+* Presentatie op AIV Trefdag 2017 en State of the Map 2018
+* Open Summer of Code project
