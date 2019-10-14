@@ -43,10 +43,12 @@ Blackvue Dashcam DR900S - ideaal voor een auto, gemakkelijkst te gebruiken
 GoPro Hero 7 Black - veelzijdig, bruikbaar in auto, op de fiets of al wandelend  
 GoPro Fusion - voor 360°-beelden  
 
-Deze camera's zijn eenvoudig in gebruik en niet duur. In ruil voor een camera of bruikleen ervan, concentreren we ons op je interessegebied. In ruil voor een bijdrage in de kosten, voorzien we opleiding voor je werknemers om zelf beeldmateriaal te verzamelen, en bieden we ondersteuning bij technische problemen. Er zijn ook goedkope oplossingen voor microfinanciering om ons te laten focussen op je gebied. [Contacteer ons](community@osm.be) voor meer informatie.
+Deze camera's zijn eenvoudig in gebruik en niet duur. In ruil voor een camera of bruikleen ervan, concentreren we ons op je interessegebied. In ruil voor een bijdrage in de kosten, voorzien we opleiding voor je werknemers om zelf beeldmateriaal te verzamelen, en bieden we ondersteuning bij technische problemen. Er zijn ook goedkope oplossingen voor microfinanciering om ons te laten focussen op je gebied. [Contacteer ons](mailto:community@osm.be) voor meer informatie.
 
 De OpenStreetMap-gemeenschap droomt van een depot waar open beeldmateriaal gedumpt kan worden en waar dienstverleners er waarde kan uit halen. We zijn op zoek naar organisaties die dat kunnen helpen verwezenlijken.
 
 ## Over ons
 
 OpenStreetMap Belgium ondersteunt de missie om OpenStreetMap in België te verbeteren. We zijn een groep van Open Knowledge Belgium en een Local Chapter van de OpenStreetMap Foundation. Samen willen we geografische data voor de velen, niet de weinigen.
+
+Vragen, opmerkingen of suggesties? Stuur ze [naar de community](mailto:community@osm.be)
