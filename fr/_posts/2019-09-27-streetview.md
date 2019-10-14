@@ -44,10 +44,12 @@ Blackvue Dashcam DR900S - idéal pour la voiture, facile à utiliser
 GoPro Hero 7 Black - polyvalent, convient pour la voiture, pour le vélo ou pour le randonneur  
 GoPro Fusion - si vous avez besoin de vues 360°  
 
-Ces caméras sont faciles à utiliser et peu coûteuses. En échange d'une caméra ou du prêt de celle-ci, nous nous concentrons sur votre domaine d'intérêt. En échange d'une contribution aux coûts, nous proposons à vos employés une formation leur permettant de collecter eux-mêmes les supports visuels, ainsi qu'une assistance pour les problèmes techniques. Il existe également des solutions de microfinance bon marché pour nous permettre de nous concentrer sur votre région. Contactez-nous (community@osm.be) pour plus d'informations.
+Ces caméras sont faciles à utiliser et peu coûteuses. En échange d'une caméra ou du prêt de celle-ci, nous nous concentrons sur votre domaine d'intérêt. En échange d'une contribution aux coûts, nous proposons à vos employés une formation leur permettant de collecter eux-mêmes les supports visuels, ainsi qu'une assistance pour les problèmes techniques. Il existe également des solutions de microfinance bon marché pour nous permettre de nous concentrer sur votre région. [Contactez-nous](mailto:community@osm.be) pour plus d'informations.
 
 La communauté OpenStreetMap rêve d’un dépôt où les images ouvertes peuvent être vidées et où les fournisseurs de services peuvent en tirer profit. Nous recherchons des organisations qui peuvent aider à atteindre cet objectif.
 
 ## À propos de OpenStreetMap Belgium
 
 OpenStreetMap Belgium a pour mission d'améliorer OpenStreetMap en Belgique. Nous sommes un groupe de Open Knowledge Belgium et un Local Chapter de la Fondation OpenStreetMap. Ensemble, nous voulons des données géographiques pour le plus grand nombre et non pour quelques-uns.
+
+Questions ou suggestions? Envayez-les a la [communauté](mailto:community@osm.be).
