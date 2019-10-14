@@ -44,10 +44,12 @@ Blackvue Dashcam DR900S - ideal for a car, easiest to use
 GoPro Hero 7 Black - multipurpose, fits a car, a bike or a hike  
 GoPro Fusion - if you need a 360 view  
 
-These cameras are inexpensive and easy to operate by anyone. In return for a camera donation or lease, we will focus on your area of interest. In return for a contribution in the costs, we will also provide training to your employees to collect imagery themselves, and provide ongoing support for technical issues. There are also low-cost solutions to provide microfunding to help direct attention to your area of interest. [Contact us](community@osm.be) for details.
+These cameras are inexpensive and easy to operate by anyone. In return for a camera donation or lease, we will focus on your area of interest. In return for a contribution in the costs, we will also provide training to your employees to collect imagery themselves, and provide ongoing support for technical issues. There are also low-cost solutions to provide microfunding to help direct attention to your area of interest. [Contact us](mailto:community@osm.be) for details.
 
 The OpenStreetMap community are dreaming of an open imagery depository where images can be dumped and service providers can use them to create value. We are looking for organisations that can help make this happen.
 
 ## About us
 
 OpenStreetMap Belgium works to improve the map in Belgium. We are a branch of Open Knowledge Belgium and a Local Chapter of the OpenStreetMap Foundation. Together we want to help build open map data for the benefit of the many, not the few.
+
+Questions, remarks or suggestions? Send them to [community (at) osm.be](mailto:community@osm.be)
