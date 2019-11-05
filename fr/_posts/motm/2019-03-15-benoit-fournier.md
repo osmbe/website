@@ -1,18 +1,11 @@
 ---
-title: 'Mapper of the month: Benoît Fournier (France)'
-featured: 
+title: "Mapper of the month: Benoît Fournier (France)"
+featured:
 layout: post
 category: motm
 author: escada
 lang: fr
 ---
-https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Benoît-Fournier/i-zRN5k5v/0/d376198e/XL/Screenshot%20JOSM%20Eiffel%20tower-XL.png
-
-Sotm-FR group photo (I took it), as used in
-http://www.weeklyosm.eu/archives/10415
-
-Local chapter agreement (as used on
-https://blog.openstreetmap.org/2017/12/30/welcome-osm-france/)
 
 ## Qui êtes-vous ?
 
@@ -137,6 +130,7 @@ Pour planifier ou suivre des trajets ;
 Pour n'importe quelle recherche géographique avec mes enfants ou mes proches...
 
 ## Faites-vous d'autres choses que la cartographie qui soit liées à
+
 OpenStreetMap ?
 
 Oui ! C'est une partie importante pour moi.

@@ -7,10 +7,9 @@ author: escada
 lang: en
 ---
 
-##Who are you ? 
-Hi, I"m Kevin Kenny, OSM user 'ke9tv'.
+## Who are you ? 
 
-[IMAGE (attached): uglymug.jpg Own work, CC0]
+Hi, I"m Kevin Kenny, OSM user 'ke9tv'.
 
 I'm a computer engineer by trade, living and working in Niskayuna, New
 York, USA, https://www.openstreetmap.org/relation/175479, west of the
@@ -22,8 +21,6 @@ open-source software development, and hiking. It's the last that drew
 me back into OpenStreetMap, since some of my favourite places have
 atrocious maps. (Surprisingly, New York State has some remote, and hence
 badly mapped, wilderness.)
-
-[IMAGE: https://www.flickr.com/photos/ke9tv/9764660284 Own work, CC-BY-SA]
 
 ## When and how did you discover OpenStreetMap ?
 
@@ -102,9 +99,6 @@ that's likely the reason. In any case, it's better to have the trail
 mapped with a somewhat sketchy alignment and perhaps a few amenities
 missing than not to have it there at all. "The perfect is the enemy of
 the good".
-
-[IMAGE (attached): DSC_3880.JPG Copyright © 2014 by Jon Stelling. Used
-by permission.]
 
 ## What is your biggest achievement as mapper ?
 
