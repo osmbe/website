@@ -2,7 +2,7 @@
 
 The new OpenStreetMap Belgium website.
 
-The master branch is published to <https://www.openstreetmap.be>.
+The master branch is published to <https://openstreetmap.be>.
 
 ## Customizing the website
 
