@@ -62,42 +62,25 @@ app.post("/session", (request, response) => {
   const STRIPE_SECRET_KEY = ctx.secrets.STRIPE_SECRET_KEY;
 
   const amount = request.body.amount;
-  const plan = request.body.plan;
   const url = request.body.url || "https://openstreetmap.be";
   const lang = request.body.lang || "en";
 
   let options = {
     success_url: `${url}/${lang}/support.html#success`,
     cancel_url: `${url}/${lang}/support.html#cancel`,
-    payment_method_types: ["card"]
-  };
-
-  if (typeof plan !== "undefined") {
-    Object.assign(options, {
-      subscription_data: {
-        items: [
-          {
-            plan: plan
-          }
-        ],
-        application_fee_percent: 5
+    payment_method_types: ["card"],
+    payment_intent_data: {
+      application_fee_amount: amount * 0.05
+    },
+    line_items: [
+      {
+        name: "Single donation",
+        amount: amount,
+        currency: "eur",
+        quantity: 1
       }
-    });
-  } else if (amount !== "undefined") {
-    Object.assign(options, {
-      payment_intent_data: {
-        application_fee_amount: amount * 0.05
-      },
-      line_items: [
-        {
-          name: "Single donation",
-          amount: amount,
-          currency: "eur",
-          quantity: 1
-        }
-      ]
-    });
-  }
+    ]
+  };
 
   stripe(STRIPE_SECRET_KEY).checkout.sessions.create(
     options,
