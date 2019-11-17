@@ -59,42 +59,72 @@ app.use(bodyParser.json());
  */
 app.post("/session", (request, response) => {
   const ctx = request.webtaskContext;
-  const STRIPE_SECRET_KEY = ctx.secrets.STRIPE_SECRET_KEY;
 
-  const amount = request.body.amount;
+  const stripeAPI = stripe(ctx.secrets.STRIPE_SECRET_KEY); // OKBE Secret key
+
+  const plan = request.body.plan || null;
+  const amount = request.body.amount || null;
   const url = request.body.url || "https://openstreetmap.be";
   const lang = request.body.lang || "en";
 
-  let options = {
-    success_url: `${url}/${lang}/support.html#success`,
-    cancel_url: `${url}/${lang}/support.html#cancel`,
-    payment_method_types: ["card"],
-    payment_intent_data: {
-      application_fee_amount: amount * 0.05
-    },
-    line_items: [
+  if (plan !== null) {
+    stripeAPI.checkout.sessions.create(
       {
-        name: "Single donation",
-        amount: amount,
-        currency: "eur",
-        quantity: 1
+        locale: lang,
+        success_url: `${url}/${lang}/support.html#success`,
+        cancel_url: `${url}/${lang}/support.html#cancel`,
+        payment_method_types: ["card"],
+        subscription_data: {
+          items: [
+            {
+              plan
+            }
+          ],
+          application_fee_percent: 5
+        }
+      },
+      {
+        stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT // OSMBE Account
+      },
+      (err, session) => {
+        if (err) {
+          response.status(400).json({ error: err.message });
+        } else {
+          response.json(session);
+        }
       }
-    ]
-  };
-
-  stripe(STRIPE_SECRET_KEY).checkout.sessions.create(
-    options,
-    {
-      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT
-    },
-    (err, session) => {
-      if (err) {
-        response.status(400).json({ error: err.message });
-      } else {
-        response.json(session);
+    );
+  } else {
+    stripeAPI.checkout.sessions.create(
+      {
+        locale: lang,
+        success_url: `${url}/${lang}/support.html#success`,
+        cancel_url: `${url}/${lang}/support.html#cancel`,
+        payment_method_types: ["card"],
+        payment_intent_data: {
+          application_fee_amount: amount * 0.05
+        },
+        line_items: [
+          {
+            name: "Single donation",
+            amount: amount,
+            currency: "eur",
+            quantity: 1
+          }
+        ]
+      },
+      {
+        stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT // OSMBE Account
+      },
+      (err, session) => {
+        if (err) {
+          response.status(400).json({ error: err.message });
+        } else {
+          response.json(session);
+        }
       }
-    }
-  );
+    );
+  }
 });
 
 module.exports = fromExpress(app);

@@ -1,13 +1,7 @@
 import createPayment from "./stripe/payment";
+import redirect from "./stripe/redirect";
 
 (function() {
-  const stripe = Stripe(process.env.STRIPE_PUBLISHABLE_KEY, {
-    stripeAccount: process.env.STRIPE_CONNECT_ACCOUNT
-  });
-
-  const successUrl = `${window.app.url}/${window.app.lang}/support.html#success`;
-  const cancelUrl = `${window.app.url}/${window.app.lang}/support.html#cancel`;
-
   if (window.location.hash === "#success") {
     document.getElementById("donation-result-success").style.display = "";
     document.getElementById("donation-result-success").scrollIntoView();
@@ -16,44 +10,29 @@ import createPayment from "./stripe/payment";
     document.getElementById("donation-result-cancel").scrollIntoView();
   }
 
-  document.querySelectorAll(".donation-btn").forEach(element => {
-    const plan = element.dataset.planId;
-    const sku = element.dataset.skuId;
+  // Recurring donation
+  document.querySelectorAll(".donation-btn[data-plan-id]").forEach(element => {
+    element.addEventListener("click", event => {
+      const plan = event.target.dataset.planId;
 
-    const items = [];
-    // Single donation
-    if (typeof sku !== "undefined") {
-      items.push({ sku, quantity: 1 });
-    }
-    // Recurring donation
-    else if (typeof plan !== "undefined") {
-      items.push({ plan, quantity: 1 });
-    }
-
-    element.addEventListener("click", () => {
-      if (items.length === 0) {
-        console.error("Invalid donation button: please provide plan or sku id");
-      } else {
-        stripe
-          .redirectToCheckout({
-            items,
-            successUrl,
-            cancelUrl
-          })
-          .then(result => {
-            if (result.error) {
-              const { message } = result.error;
-
-              document.getElementById("error-message").innerText = message;
-              document.getElementById("donation-result-error").style.display =
-                "";
-              document.getElementById("donation-result-error").scrollIntoView();
-            }
-          });
-      }
+      redirect({
+        plan,
+        lang: window.app.lang || "en",
+        url: window.app.url || "https://openstreetmap.be"
+      });
     });
   });
 
+  // Single donation (predefined amount)
+  document.querySelectorAll(".donation-btn[data-amount]").forEach(element => {
+    element.addEventListener("click", event => {
+      const amount = parseInt(event.target.dataset.amount);
+
+      createPayment(amount);
+    });
+  });
+
+  // Single donation (custom amount)
   ["change", "blur", "keyup"].forEach(type => {
     document.getElementById("donation-amount").addEventListener(type, event => {
       const amount = parseInt(event.target.value);

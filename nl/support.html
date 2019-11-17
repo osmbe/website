@@ -82,22 +82,17 @@ redirect_from:
             <i class="fab fa-cc-amex"></i>
         </h2>
 
-        <p>
-            Geeft het bedrag in dat je wenst te doneren hieronder. Na het klikken op doneer zal er een ander formulier
-            openen voor invoeren van credit card informatie.
-        </p>
-
         <div class="donation">
             <div class="donation-items">
-                <button class="donation-btn" data-sku-id="sku_GCAL8udhviNogf" role="link">10 EUR</button>
-                <button class="donation-btn" data-sku-id="sku_GCAKxk8lQBfM9m" role="link">25 EUR</button>
-                <button class="donation-btn" data-sku-id="sku_GCALRzavqHDGXc" role="link">50 EUR</button>
-                <button class="donation-btn" data-sku-id="sku_GCALHARyR1GGBg" role="link">100 EUR</button>
+                <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
+                <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
+                <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
+                <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
             </div>
 
             <div class="donation-custom input-group mb-3">
                 <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
-                    class="form-control" placeholder="Other amount" aria-label="Other amount">
+                    class="form-control" placeholder="Bedrag (EUR)" aria-label="Bedrag in euros">
                 <div class="input-group-append">
                     <button id="donation-submit" class="btn btn-primary" type="button" disabled>Doneer</button>
                 </div>
