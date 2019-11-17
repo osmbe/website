@@ -50,19 +50,37 @@ redirect_from:
     </p>
 
     <div>
-        <h2>Recurrente donatie</h2>
+        <h2>
+            Recurrente donatie
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <i class="fab fa-cc-amex"></i>
+        </h2>
 
         <div class="donation">
             <h3>Maandelijks</h3>
-            <ul id="donation-monthly-items" class="donation-items">
-            </ul>
+            <div id="donation-monthly-items" class="donation-items">
+                <button class="donation-btn" data-plan-id="monthly-5" role="link">5 EUR</button>
+                <button class="donation-btn" data-plan-id="monthly-10" role="link">10 EUR</button>
+                <button class="donation-btn" data-plan-id="monthly-25" role="link">25 EUR</button>
+                <button class="donation-btn" data-plan-id="monthly-100" role="link">100 EUR</button>
+            </div>
 
             <h3>Jaarlijks</h3>
-            <ul id="donation-yearly-items" class="donation-items">
-            </ul>
+            <div id="donation-yearly-items" class="donation-items">
+                <button class="donation-btn" data-plan-id="yearly-50" role="link">50 EUR</button>
+                <button class="donation-btn" data-plan-id="yearly-100" role="link">100 EUR</button>
+                <button class="donation-btn" data-plan-id="yearly-250" role="link">250 EUR</button>
+                <button class="donation-btn" data-plan-id="yearly-500" role="link">500 EUR</button>
+            </div>
         </div>
 
-        <h2>Eénmalige donatie</h2>
+        <h2>
+            Eénmalige donatie
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <i class="fab fa-cc-amex"></i>
+        </h2>
 
         <p>
             Geeft het bedrag in dat je wenst te doneren hieronder. Na het klikken op doneer zal er een ander formulier
@@ -70,17 +88,20 @@ redirect_from:
         </p>
 
         <div class="donation">
-            <ul class="donation-items">
-                <li class="donation-btn" data-amount="10">10 &euro;</li>
-                <li class="donation-btn" data-amount="25">25 &euro;</li>
-                <li class="donation-btn" data-amount="100">100 &euro;</li>
-                <li class="donation-custom">
-                    <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
-                        placeholder="Ander bedrag">
-                    <span class="currency">&euro;</span>
-                </li>
-            </ul>
-            <button id="donation-submit" disabled="disabled">Doneer</button>
+            <div class="donation-items">
+                <button class="donation-btn" data-sku-id="sku_GCAL8udhviNogf" role="link">10 EUR</button>
+                <button class="donation-btn" data-sku-id="sku_GCAKxk8lQBfM9m" role="link">25 EUR</button>
+                <button class="donation-btn" data-sku-id="sku_GCALRzavqHDGXc" role="link">50 EUR</button>
+                <button class="donation-btn" data-sku-id="sku_GCALHARyR1GGBg" role="link">100 EUR</button>
+            </div>
+
+            <div class="donation-custom input-group mb-3">
+                <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
+                    class="form-control" placeholder="Other amount" aria-label="Other amount">
+                <div class="input-group-append">
+                    <button id="donation-submit" class="btn btn-primary" type="button" disabled>Doneer</button>
+                </div>
+            </div>
         </div>
 
         <div id="donation-result">
