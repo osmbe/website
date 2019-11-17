@@ -30,7 +30,11 @@ export default function(data) {
         });
     })
     .catch(error => {
-      document.getElementById("error-message").textContent = error;
+      document.querySelector(".overlay").style.display = "none";
+
+      document.getElementById("error-message").innerText = error;
       document.getElementById("donation-result-error").style.display = "";
+
+      document.getElementById("donation-result-error").scrollIntoView();
     });
 }
