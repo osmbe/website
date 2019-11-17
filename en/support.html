@@ -4,7 +4,7 @@ layout: default
 lang: en
 order: 3
 redirect_from:
-    - /signup.html
+- /signup.html
 ---
 
 <div>
@@ -14,7 +14,8 @@ redirect_from:
     </h1>
     <hr>
     <p>
-        We organize our events through <a href="https://www.meetup.com/OpenStreetMap-Belgium/" target="_blank">Meetup</a>,
+        We organize our events through <a href="https://www.meetup.com/OpenStreetMap-Belgium/"
+            target="_blank">Meetup</a>,
         and keep an activity calendar : check our <a href="/en/category/event.html">Calendar page</a>.
     </p>
     <p>
@@ -24,7 +25,8 @@ redirect_from:
     </p>
     <p>
         Do you just want to be updated about our most important news and activities ?<br>
-        Then <strong>subscribe to our newsletter</strong> using <a href="https://members.osm.be/subscribe/newsletter" target="_blank">this other form</a>.
+        Then <strong>subscribe to our newsletter</strong> using <a href="https://members.osm.be/subscribe/newsletter"
+            target="_blank">this other form</a>.
     </p>
 </div>
 
@@ -48,19 +50,37 @@ redirect_from:
     </p>
 
     <div>
-        <h2>Recurring donation</h2>
+        <h2>
+            Recurring donation
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <i class="fab fa-cc-amex"></i>
+        </h2>
 
         <div class="donation">
             <h3>Monthly</h3>
-            <ul id="donation-monthly-items" class="donation-items">
-            </ul>
+            <div id="donation-monthly-items" class="donation-items">
+                <button class="donation-btn" data-plan-id="monthly-5" role="link">5 EUR</button>
+                <button class="donation-btn" data-plan-id="monthly-10" role="link">10 EUR</button>
+                <button class="donation-btn" data-plan-id="monthly-25" role="link">25 EUR</button>
+                <button class="donation-btn" data-plan-id="monthly-100" role="link">100 EUR</button>
+            </div>
 
             <h3>Yearly</h3>
-            <ul id="donation-yearly-items" class="donation-items">
-            </ul>
+            <div id="donation-yearly-items" class="donation-items">
+                <button class="donation-btn" data-plan-id="yearly-50" role="link">50 EUR</button>
+                <button class="donation-btn" data-plan-id="yearly-100" role="link">100 EUR</button>
+                <button class="donation-btn" data-plan-id="yearly-250" role="link">250 EUR</button>
+                <button class="donation-btn" data-plan-id="yearly-500" role="link">500 EUR</button>
+            </div>
         </div>
 
-        <h2>Single donation</h2>
+        <h2>
+            Single donation
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <i class="fab fa-cc-amex"></i>
+        </h2>
 
         <p>
             Please enter the amount you wish to donate in euro below. Clicking donate will open the form allowing you
@@ -68,17 +88,28 @@ redirect_from:
         </p>
 
         <div class="donation">
-            <ul class="donation-items">
-                <li class="donation-btn" data-amount="10">10 &euro;</li>
-                <li class="donation-btn" data-amount="25">25 &euro;</li>
-                <li class="donation-btn" data-amount="100">100 &euro;</li>
-                <li class="donation-custom">
+            <div class="donation-items">
+                <button class="donation-btn" data-sku-id="sku_GBpiob1C6tlEOd" role="link">10 EUR</button>
+                <button class="donation-btn" data-sku-id="sku_GC9O3VEW3BGwoZ" role="link">25 EUR</button>
+                <button class="donation-btn" data-sku-id="sku_GC9O3VEW3BGwoZ" role="link">50 EUR</button>
+                <button class="donation-btn" role="link">100 EUR</button>
+
+                <!-- <li class="donation-custom">
                     <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
                         placeholder="Other amount">
                     <span class="currency">&euro;</span>
-                </li>
-            </ul>
-            <button id="donation-submit" disabled="disabled">Donate</button>
+                </li> -->
+            </div>
+
+            <div class="donation-custom input-group mb-3">
+                <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
+                    class="form-control" placeholder="Other amount" aria-label="Other amount">
+                <div class="input-group-append">
+                    <button id="donation-submit" class="btn btn-primary" type="button" disabled>Donate</button>
+                </div>
+            </div>
+
+            <!-- <button id="donation-submit" disabled="disabled">Donate</button> -->
         </div>
 
         <div id="donation-result">

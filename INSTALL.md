@@ -42,12 +42,12 @@ You will have to configure :
 Here is the webtask source code :
 
 ```javascript
-'use latest';
+"use latest";
 
-import express from 'express';
-import { fromExpress } from 'webtask-tools';
-import bodyParser from 'body-parser';
-import stripe from 'stripe';
+import express from "express";
+import { fromExpress } from "webtask-tools";
+import bodyParser from "body-parser";
+import stripe from "stripe";
 
 bodyParser.json();
 
@@ -57,106 +57,58 @@ app.use(bodyParser.json());
 /**
  * Create Checkout session
  */
-app.post('/session', (request, response) => {
+app.post("/session", (request, response) => {
   const ctx = request.webtaskContext;
   const STRIPE_SECRET_KEY = ctx.secrets.STRIPE_SECRET_KEY;
 
   const amount = request.body.amount;
   const plan = request.body.plan;
-  const url = request.body.url || 'https://openstreetmap.be';
-  const lang = request.body.lang || 'en';
+  const url = request.body.url || "https://openstreetmap.be";
+  const lang = request.body.lang || "en";
 
   let options = {
     success_url: `${url}/${lang}/support.html#success`,
     cancel_url: `${url}/${lang}/support.html#cancel`,
-    payment_method_types: ['card']
+    payment_method_types: ["card"]
   };
 
-  if (typeof plan !== 'undefined') {
+  if (typeof plan !== "undefined") {
     Object.assign(options, {
       subscription_data: {
-        items: [{
-          plan: plan,
-        }],
-        application_fee_percent: 5,
+        items: [
+          {
+            plan: plan
+          }
+        ],
+        application_fee_percent: 5
       }
     });
-  } else if (amount !== 'undefined') {
+  } else if (amount !== "undefined") {
     Object.assign(options, {
       payment_intent_data: {
-        application_fee_amount: amount * 0.05,
+        application_fee_amount: amount * 0.05
       },
-      line_items: [{
-        name: 'Single donation',
-        amount: amount,
-        currency: 'eur',
-        quantity: 1,
-      }],
+      line_items: [
+        {
+          name: "Single donation",
+          amount: amount,
+          currency: "eur",
+          quantity: 1
+        }
+      ]
     });
   }
 
   stripe(STRIPE_SECRET_KEY).checkout.sessions.create(
     options,
     {
-      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
+      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT
     },
     (err, session) => {
       if (err) {
         response.status(400).json({ error: err.message });
       } else {
         response.json(session);
-      }
-    }
-  );
-});
-
-/**
- * Get Subscriptions (monthly & yearly)
- */
-app.get('/subscriptions', (request, response) => {
-  const ctx = request.webtaskContext;
-  const STRIPE_SECRET_KEY = ctx.secrets.STRIPE_SECRET_KEY;
-
-  stripe(STRIPE_SECRET_KEY).plans.list(
-    {},
-    {
-      stripe_account: ctx.secrets.STRIPE_CONNECT_ACCOUNT,
-    },
-    (errorSubscriptions, plans) => {
-      if (errorSubscriptions) {
-        response.status(400).json({ error: errorSubscriptions.message });
-      } else {
-        let result = {
-          monthly: [],
-          yearly: [],
-        };
-
-        plans.data.map(plan => {
-          const { id, amount, interval, interval_count, metadata } = plan;
-
-          if (typeof metadata.hidden === 'undefined') {
-            if (interval === 'year' && interval_count === 1) {
-              result.yearly.push({
-                id,
-                amount,
-              });
-            } else if (interval === 'month' && interval_count === 1) {
-              result.monthly.push({
-                id,
-                amount,
-              });
-            }
-          }
-        });
-
-        result.monthly.sort(
-          (a, b) => parseFloat(a.amount) - parseFloat(b.amount)
-        );
-        result.yearly.sort(
-          (a, b) => parseFloat(a.amount) - parseFloat(b.amount)
-        );
-
-        response.json(result);
       }
     }
   );
