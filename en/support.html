@@ -50,7 +50,7 @@ redirect_from:
     </p>
 
     <div>
-        <h2>
+        <h2 class="mb-4">
             Recurring donation
             <i class="fab fa-cc-visa"></i>
             <i class="fab fa-cc-mastercard"></i>
@@ -75,27 +75,67 @@ redirect_from:
             </div>
         </div>
 
-        <h2>
+        <h2 class="mb-4">
             Single donation
-            <i class="fab fa-cc-visa"></i>
-            <i class="fab fa-cc-mastercard"></i>
-            <i class="fab fa-cc-amex"></i>
         </h2>
 
-        <div class="donation">
-            <div class="donation-items">
-                <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
-                <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
-                <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
-                <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
-            </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <h3 class="text-center">
+                    Credit card
+                    <i class="fab fa-cc-visa"></i>
+                    <i class="fab fa-cc-mastercard"></i>
+                    <i class="fab fa-cc-amex"></i>
+                </h3>
 
-            <div class="donation-custom input-group mb-3">
-                <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
-                    class="form-control" placeholder="Amount (EUR)" aria-label="Amount in euros">
-                <div class="input-group-append">
-                    <button id="donation-submit" class="btn btn-primary" type="button" disabled>Donate</button>
+                <div class="donation">
+                    <div class="donation-items">
+                        <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
+                        <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
+                        <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
+                        <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
+                    </div>
+
+                    <div class="text-center my-3">OR</div>
+
+                    <div class="donation-custom input-group mb-3">
+                        <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
+                            class="form-control" placeholder="Amount (EUR)" aria-label="Amount in euros">
+                        <div class="input-group-append">
+                            <button id="donation-submit" class="btn btn-primary" type="button" disabled>Donate</button>
+                        </div>
+                    </div>
                 </div>
+            </div>
+            <div class="col-lg-6">
+                <h3 class="text-center">
+                    Bancontact
+                    <img src="{{ 'assets/images/bancontact.svg' | relative_url }}" alt="Bancontact"
+                        style="height: 2rem;">
+                </h3>
+
+                <form id="form-bancontact" autocomplete="off" class="donation">
+                    <div class="donation-custom form-group text-left mb-1">
+                        <input type="text" class="form-control" id="donation-name-bancontact" placeholder="Name on card"
+                            required>
+                    </div>
+
+                    <div class="donation-custom form-group text-left mb-1">
+                        <input type="email" class="form-control" id="donation-email-bancontact" placeholder="Email"
+                            required>
+                    </div>
+
+                    <div class="donation-custom input-group mb-3">
+                        <input id="donation-amount-bancontact" type="number" name="amount" min="0" step="1"
+                            lang="{{ page.lang }}" class="form-control" placeholder="Amount (EUR)"
+                            aria-label="Amount in euros" required>
+                        <div class="input-group-append">
+                            <button id="donation-submit-bancontact" class="btn btn-primary" type="submit" disabled>
+                                Donate
+                            </button>
+                        </div>
+                    </div>
+                </form>
             </div>
         </div>
 

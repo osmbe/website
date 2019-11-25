@@ -1,5 +1,5 @@
-import createPayment from "./stripe/payment";
 import redirect from "./stripe/redirect";
+import createSource from "./stripe/source";
 
 (function() {
   if (window.location.hash === "#success") {
@@ -23,16 +23,20 @@ import redirect from "./stripe/redirect";
     });
   });
 
-  // Single donation (predefined amount)
+  // Single donation Credit Card (predefined amount)
   document.querySelectorAll(".donation-btn[data-amount]").forEach(element => {
     element.addEventListener("click", event => {
       const amount = parseInt(event.target.dataset.amount);
 
-      createPayment(amount);
+      redirect({
+        amount,
+        lang: window.app.lang || "en",
+        url: window.app.url || "https://openstreetmap.be"
+      });
     });
   });
 
-  // Single donation (custom amount)
+  // Single donation Credit Card (custom amount)
   ["change", "blur", "keyup"].forEach(type => {
     document.getElementById("donation-amount").addEventListener(type, event => {
       const amount = parseInt(event.target.value);
@@ -52,6 +56,57 @@ import redirect from "./stripe/redirect";
 
       event.preventDefault();
 
-      createPayment(amount);
+      redirect({
+        amount,
+        lang: window.app.lang || "en",
+        url: window.app.url || "https://openstreetmap.be"
+      });
+    });
+
+  // Single donation Bancontact (custom amount)
+  ["change", "blur", "keyup"].forEach(type => {
+    document
+      .getElementById("donation-amount-bancontact")
+      .addEventListener(type, event => {
+        const amount = parseInt(event.target.value);
+
+        if (amount > 0) {
+          document
+            .getElementById("donation-submit-bancontact")
+            .removeAttribute("disabled");
+        } else {
+          document
+            .getElementById("donation-submit-bancontact")
+            .setAttribute("disabled", "");
+        }
+      });
+  });
+
+  document
+    .getElementById("form-bancontact")
+    .addEventListener("submit", event => {
+      const name = document.getElementById("donation-name-bancontact").value;
+      const email = document.getElementById("donation-email-bancontact").value;
+      const amount = parseInt(
+        document.getElementById("donation-amount-bancontact").value
+      );
+
+      event.preventDefault();
+
+      document
+        .querySelectorAll("#donation-result > div")
+        .forEach(element => (element.style.display = "none"));
+
+      document.querySelector(".overlay").style.display = "";
+
+      createSource(
+        name,
+        email,
+        amount,
+        window.app.url || "https://openstreetmap.be",
+        window.app.lang || "en"
+      ).then(source => {
+        document.location.href = source.redirect.url;
+      });
     });
 })();

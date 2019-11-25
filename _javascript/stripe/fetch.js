@@ -1,6 +1,6 @@
 "use strict";
 
-export default function(method, url, data) {
+export default async function(method, url, data) {
   let options = {
     method: method,
     mode: "cors",
@@ -20,5 +20,12 @@ export default function(method, url, data) {
     });
   }
 
-  return fetch(url, options);
+  const response = await fetch(url, options);
+  const json = await response.json();
+
+  if (response.ok !== true) {
+    throw new Error(json.detail);
+  }
+
+  return json;
 }
