@@ -1,7 +1,4 @@
-title:
-  en: OpenStreetMap Belgium
-  nl: OpenStreetMap België
-  fr: OpenStreetMap Belgique
+title: OpenStreetMap Belgium
 description: OpenStreetMap Belgium community website
 
 markdown: kramdown
@@ -35,6 +32,9 @@ exclude:
 
 future: true
 permalink: /:categories/:year/:month/:day/:title:output_ext
+feed:
+  collections:
+    - events
 
 collections:
   # category:
