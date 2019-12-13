@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "leaflet": "^1.5.1",
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {},
   "browserslist": [
