@@ -2,10 +2,10 @@
 
 import fetch from "../fetch";
 
-export default async function(amount, url, lang) {
+export default async function (amount, url, lang) {
   const json = await fetch(
     "POST",
-    "https://stripe.osm.be/checkout/session/donation",
+    `${process.env.STRIPE_API}/checkout/session/donation`,
     {
       locale: lang,
       successUrl: `${url}/${lang}/support.html#success`,
