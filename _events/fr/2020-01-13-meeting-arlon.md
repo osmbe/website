@@ -3,7 +3,7 @@ layout: event
 category: event
 lang: fr
 title: OpenStreetMap Arlon meetup
-rsvp: https://www.meetup.com/fr-FR/OpenStreetMap-Belgium/events/267468399/
+rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/267468399/
 location:
   name: Tennis Club Garisart
   address: Zone Artisanale 30 - 6700 Arlon (Weyler)
