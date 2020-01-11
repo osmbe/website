@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-lang: en
+lang: nl
 title: Workshop "Starten met OpenStreetMap en OpenHistoricalMap"
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/267806944/
 location:
