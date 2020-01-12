@@ -1,0 +1,59 @@
+---
+---
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <title>OpenStreetMap Belgium</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            background-image: url({{ 'assets/images/background.jpg' | relative_url }});
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+</head>
+
+<body class="d-flex align-items-center justify-content-center flex-column">
+
+    <img src="{{ site.baseurl }}/assets/images/logo.svg" style="height:200px;">
+
+    <div class="list-group text-center">
+        <a href="{% link en/index.html %}" class="list-group-item list-group-item-action">
+            OpenStreetMap Belgium (English)
+        </a>
+        <a href="{% link fr/index.html %}" class="list-group-item list-group-item-action">
+            OpenStreetMap Belgique (Français)
+        </a>
+        <a href="{% link nl/index.html %}" class="list-group-item list-group-item-action">
+            OpenStreetMap België (Nederlands)
+        </a>
+    </div>
+
+    <script>
+        (function () {
+            var language = navigator.language || navigator.browserLanguage;
+
+            switch (language.slice(0, 2)) {
+                case "en": document.location.href = "{% link en/index.html %}"; break;
+                case "fr": document.location.href = "{% link fr/index.html %}"; break;
+                case "nl": document.location.href = "{% link nl/index.html %}"; break;
+            }
+        })();
+    </script>
+
+</body>
+
+</html>
