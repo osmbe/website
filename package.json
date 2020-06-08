@@ -1,8 +1,8 @@
 {
   "name": "website",
   "scripts": {
-    "build:event": "parcel build --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=event.js _javascript/event.js",
-    "build:stripe": "parcel build --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=stripe.js _javascript/stripe.js"
+    "build:event": "parcel build --no-cache --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=event.js _javascript/event.js",
+    "build:stripe": "parcel build --no-cache  --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=stripe.js _javascript/stripe.js"
   },
   "devDependencies": {
     "leaflet": "^1.6.0",
