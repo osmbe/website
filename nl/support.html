@@ -50,12 +50,13 @@ redirect_from:
     </p>
 
     <div>
-        <h2 class="mb-4">
+        <h2 class="mb-0">
             Recurrente donatie
             <i class="fab fa-cc-visa"></i>
             <i class="fab fa-cc-mastercard"></i>
             <i class="fab fa-cc-amex"></i>
         </h2>
+        <p class="text-muted">Alleen kredietkaart</p>
 
         <div class="donation">
             <h3>Maandelijks</h3>
@@ -75,69 +76,33 @@ redirect_from:
             </div>
         </div>
 
-        <h2 class="mb-4">
+        <h2 class="mb-0">
             Eénmalige donatie
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <i class="fab fa-cc-amex"></i>
+            <img src="{{ 'assets/images/bancontact.svg' | relative_url }}" alt="Bancontact" style="height: 2rem;">
         </h2>
+        <p class="text-muted">Kredietkaart of Bancontact</p>
 
-        <div class=" row">
-            <div class="col-lg-6">
-                <h3 class="text-center">
-                    Kredietkaart
-                    <i class="fab fa-cc-visa"></i>
-                    <i class="fab fa-cc-mastercard"></i>
-                    <i class="fab fa-cc-amex"></i>
-                </h3>
-
-                <div class="donation">
-                    <div class="donation-items">
-                        <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
-                        <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
-                        <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
-                        <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
-                    </div>
-
-                    <div class="text-center my-3">OF</div>
-
-                    <div class="donation-custom input-group mb-3">
-                        <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
-                            class="form-control" placeholder="Bedrag (EUR)" aria-label="Bedrag in euros">
-                        <div class="input-group-append">
-                            <button id="donation-submit" class="btn btn-primary" type="button" disabled>
-                                Doneer
-                            </button>
-                        </div>
-                    </div>
-                </div>
+        <div class="donation">
+            <div class="donation-items">
+                <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
+                <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
+                <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
+                <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
             </div>
-            <div class="col-lg-6">
-                <h3 class="text-center">
-                    Bancontact
-                    <img src="{{ 'assets/images/bancontact.svg' | relative_url }}" alt="Bancontact"
-                        style="height: 2rem;">
-                </h3>
 
-                <form id="form-bancontact" autocomplete="off" class="donation">
-                    <div class="donation-custom form-group text-left mb-1">
-                        <input type="text" class="form-control" id="donation-name-bancontact" placeholder="Naam"
-                            required>
-                    </div>
+            <div class="text-center my-3">OF</div>
 
-                    <div class="donation-custom form-group text-left mb-1">
-                        <input type="email" class="form-control" id="donation-email-bancontact"
-                            placeholder="E-mailadres" required>
-                    </div>
-
-                    <div class="donation-custom input-group mb-3">
-                        <input id="donation-amount-bancontact" type="number" name="amount" min="0" step="1"
-                            lang="{{ page.lang }}" class="form-control" placeholder="Bedrag (EUR)"
-                            aria-label="Bedrag in euros" required>
-                        <div class="input-group-append">
-                            <button id="donation-submit-bancontact" class="btn btn-primary" type="submit" disabled>
-                                Doneer
-                            </button>
-                        </div>
-                    </div>
-                </form>
+            <div class="donation-custom input-group mb-3">
+                <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
+                    class="form-control" placeholder="Bedrag (EUR)" aria-label="Bedrag in euros">
+                <div class="input-group-append">
+                    <button id="donation-submit" class="btn btn-primary" type="button" disabled>
+                        Doneer
+                    </button>
+                </div>
             </div>
         </div>
 
