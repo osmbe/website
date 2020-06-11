@@ -44,5 +44,5 @@ Once these tools are up-and-running and we have done a first pass over the data,
 * Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * [Presented the project at FOSS4G](http://slides.com/benabelshausen-1/deck-1).
 * Started a first Maproulette task to map missing roads (see current status)
-* Presented at [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) (video) and AIV Trefdag 2017
+* Presented at [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) ([video](https://www.youtube.com/watch?v=K0PClU5yZTQ&feature=youtu.be) and [slides](https://github.com/osmbe/website/)) and AIV Trefdag 2017
 * Created a tool at Open Summer of Code 2018
