@@ -38,5 +38,5 @@ Vous pouvez aider: [voici les instructions](https://wiki.openstreetmap.org/wiki/
 * Mise en route d'une tâche dans le "Tasking Manager belge"; utilisation de la ville de Halle comme exemple.
 * [Page wiki avec les status du project](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * Premier tache "Maproulette": [instructions ici](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
-* Presentations a State of The Map 2017 et AIV Trefdag
+* Presentations a [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) (video) et AIV Trefdag
 * Projet Open Summer of Code 2018
