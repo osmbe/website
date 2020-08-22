@@ -7,7 +7,7 @@ lang: en
 ---
 
 
-![Marek Kleciak](http://www.openstreetmap.org/attachments/users/images/000/338/611/large/bc2dcb86cd4ba99f45ed526e755a8014.jpg)
+![Marek Kleciak](https://www.openstreetmap.org/attachments/users/images/000/338/611/large/bc2dcb86cd4ba99f45ed526e755a8014.jpg)
 
 ## Who are you?
 I'm half German half Polish. I'm living in Bavaria in Germany. I'm a car navigation professional responsible for innovation management. Previously I worked with navigation maps and city modelling. Years before I developed specifications for 3D city models for the German government in [Hamburg](http://www.openstreetmap.org/relation/2618040). Then I started to work for one of the biggest car navigation companies. 
