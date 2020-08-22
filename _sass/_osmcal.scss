@@ -1,0 +1,57 @@
+.osmcal-list__list,
+.osmcal-calendar__list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.osmcal-list__event,
+.osmcal-calendar__event {
+    margin-bottom: 10px;
+}
+
+.osmcal-list__event--cancelled,
+.osmcal-calendar__event--cancelled,
+.osmcal-map__event--cancelled {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.osmcal-list__event>a,
+.osmcal-calendar__event>a,
+.osmcal-map__event>a {
+    color: #333 !important;
+    text-decoration: none;
+}
+
+.osmcal-list__event>a:hover,
+.osmcal-calendar__event>a:hover,
+.osmcal-map__event>a:hover {
+    color: gray !important;
+}
+
+.osmcal-list__event__name,
+.osmcal-calendar__event__name,
+.osmcal-map__event__name {
+    font-weight: bold;
+}
+
+#osmcal-calendar .osmcal-calendar__list {
+    padding-left: 15px;
+}
+
+.osmcal-calendar__date {
+    text-align: center;
+}
+
+.osmcal-calendar__date--today {
+    font-weight: bold;
+}
+
+.osmcal-calendar__date--has-event {
+    font-style: italic;
+}
+
+.custom-list-entry-box {
+    align-items: center;
+    display: flex;
+}

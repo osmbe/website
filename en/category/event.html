@@ -19,6 +19,10 @@ redirect_from:
         {% include posts-list.html %}
     </div>
     <div class="d-none d-xl-block col-xl-4">
+        <h2 class="h4">Next events in Belgium</h2>
+        <hr class="mt-0">
+        {% include osmcal.html locales="en" %}
+
         <h2 class="h4">Categories</h2>
         {% include posts-categories.html %}
 
