@@ -19,8 +19,6 @@ lang: en
 
 <p>Last, but not least I am a father and I love spending a good part of my life on that!</p>
 
-<p><img src="http://champs-libres.coop/img/julien.jpg" alt="Julien"></p>
-
 <h2>How and when did you discover OpenStreetMap?</h2>
 
 <p>Purely by accident, in an article of the magazine of GRACQ. It got me inspired to continue. Back then, I started contributing with the  things that interested me the most at that time: cycle routes and infrastructure for cyclists.</p>
