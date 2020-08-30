@@ -1,11 +1,12 @@
-<div id="osmcal" data-in="Belgium" data-locales="{{ include.locales }}"></div>
+<div id="osmcal"></div>
+<hr>
 
-<script async src="https://unpkg.com/@jbelien/openstreetmap-calendar-widget@0.2.0/dist/osmcal.js"
-    integrity="sha512-b0+nLpPCxJAzv5kNuMWZMqvNu0JDqz2FqAhVf9rblldUnzIvVJI5h68iU4ly5OYDfhEMy278FhwNVZvtkc12Ag=="
+<script src="https://unpkg.com/@jbelien/openstreetmap-calendar-widget@0.3.0/dist/osmcal.js"
+    integrity="sha512-IjhLdVdt4WC+plIvDmYyggwPwT6ILBGXYqfCIN+APNdUc9FTnRMpZnQPB0C9ElrN8YHie/UqhiJ4xtPyh+HTHA=="
     crossorigin=""></script>
 <script async>
     (function () {
-        const widget = new OSMCal.WidgetList(document.getElementById("osmcal"));
+        const widget = new OSMCal.WidgetList(document.getElementById("osmcal"), { filter: {in: "Belgium"}, locales: "{{ include.locales }}", hideCancelled: true });
         widget.display();
     })();
 </script>
