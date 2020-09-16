@@ -1,5 +1,5 @@
 ---
-title: "Mapper of the Month: Jacques Fondaire"
+title: "Mapper of the Month: Jacques Fondaire (Belgique)"
 featured:
 layout: post
 category: motm
