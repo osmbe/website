@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du mois : Joost Schouppe'
+title: 'Contributeur du mois: Joost Schouppe'
 featured: joost_schouppe.jpg
 layout: post
 category: motm

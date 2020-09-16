@@ -1,5 +1,5 @@
 ---
-title: "Mapper of the month: Benoît Fournier (France)"
+title: "Contributeur du mois: Benoît Fournier (France)"
 featured:
 layout: post
 category: motm

@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du Mois : Matthieu Gaillet'
+title: 'Contributeur du mois: Matthieu Gaillet'
 featured: MatthieuGaillet.jpg
 layout: post
 category: motm

@@ -1,11 +1,12 @@
 ---
-title: "Contributeur du mois Juin 2017: Julien Minet (Belgique)"
+title: "Contributeur du mois: Julien Minet (Belgique)"
 featured: 
 layout: post
 category: motm
 author: escada
 lang: fr
 ---
+
 ## Qui êtes-vous ?
 
 Je m’appelle Julien Minet. Je suis de la province de Luxembourg, à la limite de l’Ardenne et de la Gaume. Bio-ingénieur de formation, j’ai travaillé comme chercheur à l’UCL puis à l’ULg – Arlon pendant 8 ans. Je développe actuellement une activité en développement web, SIG et cartographie numérique.

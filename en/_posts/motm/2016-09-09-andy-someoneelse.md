@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Andy (United Kingdom)'
+title: 'Mapper in the Spotlight: Andy (United Kingdom)'
 featured: AndySomeoneElse.jpg
 layout: post
 category: motm

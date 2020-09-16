@@ -1,5 +1,5 @@
 ---
-title: "Mapper van de maand September 2017: Jonathan Beliën (België)"
+title: "Mapper van de maand: Jonathan Beliën (België)"
 featured:
 layout: post
 category: motm

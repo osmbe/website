@@ -1,5 +1,5 @@
 ---
-title: "Belgian Mapper of the Month: Stijn Rombauts"
+title: "Mapper of the Month: Stijn Rombauts"
 layout: post
 category: motm
 author: escada

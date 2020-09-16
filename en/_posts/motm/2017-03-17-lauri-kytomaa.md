@@ -1,12 +1,10 @@
 ---
-title: "Mapper of the Month March 2017: Lauri Kytömaa (Finland)"
+title: "Mapper of the Month: Lauri Kytömaa (Finland)"
 layout: post
 category: motm
 author: escada
 lang: en
 ---
-
-# Mapper of the Month: Lauri Kytömaa (Finland)
 
 ![Lauri's Heatmap](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lauri-Kytömaa/i-9P9QfLW/0/O/osmheatmapalv.png)
 

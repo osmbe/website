@@ -7,7 +7,6 @@ author: Marc Gemis
 lang: nl
 ---
 
-
 _[Vincent Van Eyken](http://www.openstreetmap.org/user/QuercE) is recentelijk afgestudeerd als burgerlijk ingenieur - architect. Vanuit die achtergrond heeft hij een gezonde interesse voor alles wat te maken heeft met stedenbouw, openbare ruimte en landschapsarchitectuur, maar is hij ook al lang en zeker even sterk gepassioneerd door geografie en cartografie. Het is dus niet heel erg verwonderlijk dat hij uiteindelijk bij OpenStreetMap verzeild zou geraken.
 Vincent mapt onder het pseudoniem [QuercE](http://www.hdyc.neis-one.org/?QuercE),  wat een variatie is op de latinisering van zijn achternaam; ‘quercus’ (adj. ‘querceus’) is namelijk Latijn voor ‘eik(en)’._
 

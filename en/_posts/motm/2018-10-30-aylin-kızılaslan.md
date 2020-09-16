@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Aylin Kızılaslan (Turkey)'
+title: 'Mapper of the Month: Aylin Kızılaslan (Turkey)'
 featured:
 layout: post
 category: motm

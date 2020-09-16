@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Wille Marcel (Brazil)'
+title: 'Mapper of the Month: Wille Marcel (Brazil)'
 featured: 
 layout: post
 category: motm
@@ -7,7 +7,6 @@ author: escada
 lang: en
 redirect_from: /2018/12/29/en-motm-marcel-wille.html
 ---
-Mapper of the month: Wille Marcel (Brasil)
 
 ## Who are you ? 
 

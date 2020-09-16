@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Marc Gemis'
+title: 'Mapper of the Month: Marc Gemis'
 featured: MarcGemis.jpg
 layout: post
 category: motm

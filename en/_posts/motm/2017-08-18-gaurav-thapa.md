@@ -1,10 +1,11 @@
 ---
-title: "Mapper of the Month August 2017: Gaurav Thapa (Nepal)"
+title: "Mapper of the Month: Gaurav Thapa (Nepal)"
 layout: post
 category: motm
 author: escada
 lang: en
 ---
+
 ## Please introduce yourself 
 My name is Gaurav Thapa and I am currently employed as a Geographer/Project Manager at Kathmandu Living Labs in Nepal.  I currently live in Pokhara, Nepal but also spend a considerable amount of time in my hometown of Kathmandu, Nepal. Travelling and seeing new places continues to be one of my great passions and mapping has allowed me to travel to places where I will never be able to go physically. Beyond this my hobbies include playing football, cycling and attempting to be away from my computer as much as possible.
 

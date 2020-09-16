@@ -1,5 +1,5 @@
 ---
-title: "Mapper in the spotlight: Clifford Snow"
+title: "Mapper in the spotlight: Clifford Snow (USA)"
 layout: post
 category: motm
 author: Jorieke Vyncke

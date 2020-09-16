@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du mois : Guy Vanvuchelen'
+title: 'Contributeur du mois: Guy Vanvuchelen'
 featured: GuyVV.jpg
 layout: post
 category: motm

@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Lutz Lange (Germany)'
+title: 'Mapper in the Spotlight: Lutz Lange (Germany)'
 featured: LutzLange.jpg
 layout: post
 category: motm

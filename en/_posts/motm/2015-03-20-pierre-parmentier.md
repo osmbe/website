@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the moth: Pierre Parmentier'
+title: 'Mapper of the Month: Pierre Parmentier'
 featured: foxandpotatoes.jpg
 layout: post
 category: motm

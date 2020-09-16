@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Sarah Hoffman (Germany)'
+title: 'Mapper in the Spotlight: Sarah Hoffman (Germany)'
 featured: SarahHoffman.jpg
 layout: post
 category: motm

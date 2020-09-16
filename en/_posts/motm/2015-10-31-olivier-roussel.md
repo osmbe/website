@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Olivier Roussel'
+title: 'Mapper of the Month: Olivier Roussel'
 layout: post
 category: motm
 author: Marc Gemis

@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du Mois : Vincent Van Eyken'
+title: 'Contributeur du mois: Vincent Van Eyken'
 featured: VicentVanEyken.jpg
 layout: post
 category: motm

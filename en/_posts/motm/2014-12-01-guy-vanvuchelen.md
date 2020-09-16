@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Guy Vanvuchelen'
+title: 'Mapper of the Month: Guy Vanvuchelen'
 featured: GuyVV.jpg
 layout: post
 category: motm

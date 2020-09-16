@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Allan Mustard (USA/Turkmenistan)'
+title: 'Mapper of the Month: Allan Mustard (USA/Turkmenistan)'
 featured: 
 layout: post
 category: motm

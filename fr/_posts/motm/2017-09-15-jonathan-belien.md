@@ -1,11 +1,12 @@
 ---
-title: "Contributeur du mois Septembre 2017: Jonathan Beliën (Belgique)"
+title: "Contributeur du mois: Jonathan Beliën (Belgique)"
 featured:
 layout: post
 category: motm
 author: escada
 lang: fr
 ---
+
 ## Qui êtes-vous ?
 
 ![Jonathan on hdyc](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jonathan-Beliën/i-2wVmTgF/0/7c87e077/X2/Screen%20Shot%202017-09-13%20at%2012.29.51-X2.png)

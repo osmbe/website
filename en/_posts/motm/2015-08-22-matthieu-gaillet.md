@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Matthieu Gaillet'
+title: 'Mapper of the Month: Matthieu Gaillet'
 featured: MatthieuGaillet.jpg
 layout: post
 category: motm

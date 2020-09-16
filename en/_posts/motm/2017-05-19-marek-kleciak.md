@@ -1,11 +1,10 @@
 ---
-title: "Mapper of the Month May 2017: Marek Kleciak (Germany/Poland)"
+title: "Mapper of the Month: Marek Kleciak (Germany/Poland)"
 layout: post
 category: motm
 author: escada
 lang: en
 ---
-
 
 ![Marek Kleciak](https://www.openstreetmap.org/attachments/users/images/000/338/611/large/bc2dcb86cd4ba99f45ed526e755a8014.jpg)
 

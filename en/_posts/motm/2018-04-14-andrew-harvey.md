@@ -1,11 +1,12 @@
 ---
-title: 'Mapper of the Month April 2018: Andrew Harvey (Australia)'
+title: 'Mapper of the Month: Andrew Harvey (Australia)'
 featured:
 layout: post
 category: motm
 author: escada
 lang: en
 ---
+
 ## Please introduce yourself
 
 I'm Andrew Harvey, living in Sydney. I work in geospatial IT, so I'm lucky

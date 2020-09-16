@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Jinal Foflia (India)'
+title: 'Mapper in the Spotlight: Jinal Foflia (India)'
 featured: JinalFoflia.jpg
 layout: post
 category: motm

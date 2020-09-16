@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Ben Laenen'
+title: 'Mapper of the Month: Ben Laenen'
 featured: eimai.jpg
 layout: post
 category: motm

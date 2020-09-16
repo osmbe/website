@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Kevin Kenny (USA)'
+title: 'Mapper of the Month: Kevin Kenny (USA)'
 featured:
 layout: post
 category: motm

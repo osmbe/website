@@ -1,5 +1,5 @@
 ---
-title: "Mapper van de Maand Juli 2017: Jamie Nadeau (Canada)"
+title: "Mapper van de maand: Jamie Nadeau (Canada)"
 featured:
 layout: post
 category: motm

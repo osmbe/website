@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Brice Maron'
+title: 'Mapper of the Month: Brice Maron'
 layout: post
 category: motm
 author: Marc Gemis

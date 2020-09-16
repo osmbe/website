@@ -1,5 +1,5 @@
 ---
-title: "Mapper of the Month November 2017: Horea Meleg & Florin Badita"
+title: "Mapper of the Month: Horea Meleg & Florin Badita"
 layout: post
 category: motm
 author: escada

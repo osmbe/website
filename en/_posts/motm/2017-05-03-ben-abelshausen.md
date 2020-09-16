@@ -1,10 +1,11 @@
 ---
-title: "Mapper of the Month April 2017: Ben Abelshausen (Belgium)"
+title: "Mapper of the Month: Ben Abelshausen (Belgium)"
 layout: post
 category: motm
 author: escada
 lang: en
 ---
+
 ## Can you introduce yourself? 
 
 The last years, my main occupation was OpenstreetMap. I was also one of the

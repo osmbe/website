@@ -9,6 +9,8 @@ lang: en
 
 *Translated from French by Pierre Parmentier*
 
+Jacques Fondaire username: [`jfonda`](https://www.openstreetmap.org/user/jfonda)
+
 ## Jacques, would you like to briefly introduce yourself to our readers?
 
 At the age of 12, I learned to read and use IGN maps with a Recta compass, which allowed me to move almost anywhere. Today I am retired and I am interested in tourism projects. I live in Athus, a small Belgian town 500 m from Luxembourg and 2 km from France.

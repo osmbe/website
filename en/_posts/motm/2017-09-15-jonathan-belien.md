@@ -1,10 +1,11 @@
 ---
-title: "Mapper of the Month September 2017: Jonathan Beliën (Belgium)"
+title: "Mapper of the Month: Jonathan Beliën (Belgium)"
 layout: post
 category: motm
 author: escada
 lang: en
 ---
+
 ## Please introduce yourself
 
 ![Jonathan on hdyc](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jonathan-Beliën/i-2wVmTgF/0/7c87e077/X2/Screen%20Shot%202017-09-13%20at%2012.29.51-X2.png)

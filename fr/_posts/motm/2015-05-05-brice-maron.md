@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur du mois : Brice Maron'
+title: 'Contributeur du mois: Brice Maron'
 layout: post
 category: motm
 author: Marc Gemis

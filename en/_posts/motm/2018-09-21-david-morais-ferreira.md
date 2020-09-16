@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: David Morais Ferreira (Luxembourg)'
+title: 'Mapper of the Month: David Morais Ferreira (Luxembourg)'
 featured: 
 layout: post
 category: motm

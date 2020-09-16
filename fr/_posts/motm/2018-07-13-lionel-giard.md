@@ -6,6 +6,7 @@ category: motm
 author: escada
 lang: fr
 ---
+
 ## Qui êtes-vous ?
 
 Je m’appelle Lionel Giard, je suis un géographe du Brabant Wallon (du côté de Louvain-la-Neuve) - diplômé d'un Master en sciences géographiques de l'Université Catholique de Louvain (UCL) en 2016. Je travaille donc avec tous ce qui est SIG, cartes et données spatiales au quotidien. En plus de ma passion pour la cartographie, je suis également un grand amateur de l'Histoire en général - deux passions qui se marient bien !

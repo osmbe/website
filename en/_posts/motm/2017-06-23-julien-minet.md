@@ -1,14 +1,14 @@
 ---
-title: "Mapper of the Month June 2017: Julien Minet (Belgium)"
+title: "Mapper of the Month: Julien Minet (Belgium)"
 layout: post
 category: motm
 author: escada
 lang: en
 ---
+
 ## Please introduce yourself
 
 I am Julien Minet. I come from the Luxembourg province in Belgium, from the border between the Ardens and the Gaume. I have a degree as Bio-engineer and worked for 8 years as a researcher at UCL and now ULg - Arlon. At the moment I work in web development, GIS and digital maps.
-
 
 ![Maps of Arlon](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Julien-Minet/i-28mFrq5/0/adcba395/O/wallpapermapsmaker_arlon.png)
 

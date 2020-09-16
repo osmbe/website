@@ -1,5 +1,5 @@
 ---
-title: 'Contributeur de Mars 2018: Nathalie Sidibe (Mali)'
+title: 'Contributeur du mois: Nathalie Sidibe (Mali)'
 featured:
 layout: post
 category: motm

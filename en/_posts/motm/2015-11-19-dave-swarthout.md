@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Dave Swarthout (USA/Thailand)'
+title: 'Mapper in the Spotlight: Dave Swarthout (USA/Thailand)'
 featured: DaveSwarthout.jpg
 layout: post
 category: motm

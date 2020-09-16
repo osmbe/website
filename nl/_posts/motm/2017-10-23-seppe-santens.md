@@ -1,11 +1,12 @@
 ---
-title: "Mapper van de maand oktober 2017: Seppe Santens (België)"
+title: "Mapper van de maand: Seppe Santens (België)"
 featured:
 layout: post
 category: motm
 author: escada
 lang: nl
 ---
+
 ## Wie ben je? 
 Ik ben Seppe Santens, geboren en getogen in Aalter en aan het werk als projectleider bij het Mobiliteitsbedrijf van de Stad Gent. Mijn username “L’imaginaire” is het gevolg van een (misschien niet zo succesvolle) zoektocht naar een dj-naam vele jaren geleden. Af en toe maak ik nog wel eens elektronische muziek, maar de meeste tijd gaat tegenwoordig toch naar mijn twee kinderen…
 

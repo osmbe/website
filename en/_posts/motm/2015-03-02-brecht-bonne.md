@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Brecht Bonne '
+title: 'Mapper of the Month: Brecht Bonne '
 featured: brecht.png
 layout: post
 category: motm

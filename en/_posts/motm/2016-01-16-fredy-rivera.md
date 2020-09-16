@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Fredy Rivera (Colombia)'
+title: 'Mapper in the Spotlight: Fredy Rivera (Colombia)'
 featured: FredyRivera.jpg
 layout: post
 category: motm

@@ -1,5 +1,5 @@
 ---
-title: "Mapper of the Month October 2017: Seppe Santens (Belgium)"
+title: "Mapper of the Month: Seppe Santens (Belgium)"
 layout: post
 category: motm
 author: escada

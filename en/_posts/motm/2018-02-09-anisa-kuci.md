@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the Month February 2018: Anisa Kuci (Albania)'
+title: 'Mapper of the Month: Anisa Kuci (Albania)'
 featured:
 layout: post
 category: motm

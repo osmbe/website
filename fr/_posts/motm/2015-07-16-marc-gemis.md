@@ -1,11 +1,12 @@
 ---
-title: 'Contributeur du Mois: Marc Gemis'
+title: 'Contributeur du mois: Marc Gemis'
 featured: MarcGemis.jpg
 layout: post
 category: motm
 author: Jorieke
 lang: fr
 ---
+
 Marc Gemis, 48 ans, travaille en qualité de programmeur informatique pour une multinationale à Mortsel. Sa plus grande passion sont ses chiens, qu'il promène quotidiennement. Son surnom, [escada](http://wiki.openstreetmap.org/wiki/User:Escada) est aussi le nom d'un de ses chiens.
 
 **Comment as-tu découvert OpenStreetMap ?**

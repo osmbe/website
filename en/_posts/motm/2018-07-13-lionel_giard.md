@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Lionel Giard (Belgium)'
+title: 'Mapper of the Month: Lionel Giard (Belgium)'
 featured:
 layout: post
 category: motm

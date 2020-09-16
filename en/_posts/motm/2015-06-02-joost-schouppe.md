@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Joost Schouppe'
+title: 'Mapper of the Month: Joost Schouppe'
 featured: joost_schouppe.jpg
 layout: post
 category: motm

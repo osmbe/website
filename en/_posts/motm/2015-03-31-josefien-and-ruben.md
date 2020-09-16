@@ -1,5 +1,5 @@
 ---
-title: 'Mappers of the month: Josefien & Ruben'
+title: 'Mappers of the Month: Josefien & Ruben'
 featured: midgard_badges.jpg
 layout: post
 category: motm

@@ -7,7 +7,6 @@ author: xivk
 lang: nl
 ---
 
-
 _OpenStreetMap zou niet bestaan zonder "mappers". Daarom zetten we er vanaf nu elke maand één in de verf.**Onze eerste mapper van de maand is: Ben Laenen!**_
 
 Ben Laenen is bekend in OpenStreetMap onder de gebruikersnaam <a href="http://www.openstreetmap.org/user/Eimai">Eimai</a> (spreek uit: /ˈimɛ/ zoals het Grieks είμαι), woont in Antwerpen en is in het echte leven treinbestuurder. Hij is al een tijdje actief in de FOSS-wereld en is één van de mensen die verantwoordelijk zijn voor DejaVu Fonts. Dit is één van de standaardlettertypes van verschillende Linuxdistributies, en ook het lettertype dat je ziet op de meeste standaard OpenStreetMap-kaarten. Op die manier is hij dus ook actief in de Libre Graphics gemeenschap, in het bijzonder met de typografische aspecten ervan.

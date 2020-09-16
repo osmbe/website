@@ -7,7 +7,9 @@ author: xivk
 lang: fr
 ---
 
-_OpenStreetMap n'existerais pas sans ses contributeurs (ou "mappers"). Pour cette raison nous vous présenterons chaque mois un de ces contributeurs. **Notre premier contributeur du mois est : Ben Laenen !**_
+_OpenStreetMap n'existerais pas sans ses contributeurs (ou "mappers"). Pour cette raison nous vous présenterons chaque mois un de ces contributeurs. 
+
+**Notre premier contributeur du mois est : Ben Laenen !**_
 
 Ben Laenen, connu dans la communauté OpenStreetMap sous le pseudonyme de <a href="http://www.openstreetmap.org/user/Eimai">Eimai</a> (qui se prononce /ˈimɛ/ comme le mot grec είμαι (je suis)), vit à Anvers et est conducteur de train. Durant ses études, Ben est devenu un membre actif du monde FOSS. Par exemple, il est un des responsables de la police "DejaVu", une police standard se trouvant dans beaucoup de distributions Linux. Cette police est aussi utilisée dans Mapnik, le principal outil de rendu de carte d'OpenStreetMap. Ainsi, il est aussi actif dans la communauté "Libre Graphics", plus spécialement pour les sujets typographiques.
 

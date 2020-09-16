@@ -6,7 +6,9 @@ category: motm
 author: escada
 lang: en
 ---
+
 ## Who are you? 
+
 Sus is my computer related nickname, on OpenStreetmap I use susvhv. In the early days of the PCs I always had problems with the ç of François, my real name (smiles).
 I was born in 1933, (I leave it to you to calculate my age) in Brussels and I was a technician at the [Belgian Nuclear Research Center](https://www.sckcen.be/en) or SCK in [Mol](http://www.openstreetmap.org/relation/1263864), where I live at the moment. I was sent on early retirement during a restructuring at the SCK. I have been enjoying home life for over 25 years since that moment.
 When I went to school, there were no computers. Luckily, I got the opportunity at work to spend time to learn about hardware and software and get familiar with microprocessors and microcontrollers. Until now, I have bought all my desktop computers as parts and assembled them myself. The last one runs [Ubuntu](https://www.ubuntu.com/). My laptop runs Windows 10. Unlike the desktops, I buy my laptops.

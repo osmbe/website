@@ -1,5 +1,5 @@
 ---
-title: 'Mapper in the spotlight: Dave Corley (Ireland)'
+title: 'Mapper in the Spotlight: Dave Corley (Ireland)'
 featured: DaveCorley.jpg
 layout: post
 category: motm

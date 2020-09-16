@@ -1,5 +1,5 @@
 ---
-title: 'Belgian mapper of the month: Julien Fastré'
+title: 'Contributeur du mois: Julien Fastré'
 featured: julien.jpg
 layout: post
 category: motm

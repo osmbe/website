@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Volker Schmidt (Europe)'
+title: 'Mapper of the Month: Volker Schmidt (Europe)'
 featured: 
 layout: post
 category: motm
@@ -7,7 +7,6 @@ author: escada
 lang: en
 redirect_from: /2019/02/21/en-motm-Volker_Schmidt.html
 ---
-
 
 ![Volker at Petrified Forest National Park AZ 2016](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Volker-Schmidt/i-NjX6xPR/0/a85900c7/X3/photo%2004-1-X3.jpg)
 *Volker at Petrified Forest National Park AZ 2016*

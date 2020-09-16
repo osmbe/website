@@ -1,5 +1,5 @@
 ---
-title: "Mapper of the Month January 2018: Pieter Vander Vennet"
+title: "Mapper of the Month: Pieter Vander Vennet"
 featured:
 layout: post
 category: motm

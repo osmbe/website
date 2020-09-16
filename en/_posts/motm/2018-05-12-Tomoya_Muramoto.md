@@ -1,11 +1,12 @@
 ---
-title: 'Mapper of the month: Tomoya Muramoto (Japan)'
+title: 'Mapper of the Month: Tomoya Muramoto (Japan)'
 featured:
 layout: post
 category: motm
 author: escada
 lang: en
 ---
+
 ## Who are you ?
 
 My name is Tomoya Muramoto. I think many OSM mappers have some IT speciality, but I don't. I'm a chemical engineer. I live in Yokohama, Japan.

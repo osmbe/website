@@ -1,5 +1,5 @@
 ---
-title: 'Mapper of the month: Yasunari Yamashita (Japan)'
+title: 'Mapper of the Month: Yasunari Yamashita (Japan)'
 featured:
 layout: post
 category: motm
@@ -15,8 +15,6 @@ I work for a company that is not active in map-related activities.
 ![Yasunari Yamashita](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Yasunari-yamashita/i-7877CKw/0/618fb63a/XL/MyPhoto-XL.jpg)
 
 ## When and how did you discover OpenStreetMap ?
-
-
 
 I was introduced to OpenStreetMap by a friend in September 2009.
 

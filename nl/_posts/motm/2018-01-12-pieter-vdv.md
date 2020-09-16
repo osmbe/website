@@ -1,11 +1,12 @@
 ---
-title: "Mapper van de maand Januari 2018: Pieter Vander Vennet"
+title: "Mapper van de maand: Pieter Vander Vennet"
 featured:
 layout: post
 category: motm
 author: escada
 lang: nl
 ---
+
 Deze keer hebben we een jonge, beginnende Belgische mapper vol enthousiasme. Hij kan uren praten over OpenStreetMap en dat zie je
 ook wel aan de lengte van het interview. We hopen echter dat zijn enthousiasme aanstekelijk werkt. Veel leesplezier.
 

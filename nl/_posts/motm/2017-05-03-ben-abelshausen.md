@@ -1,5 +1,5 @@
 ---
-title: "Mapper van de Maand April 2017: Ben Abelshausen (België)"
+title: "Mapper van de maand: Ben Abelshausen (België)"
 featured: 
 layout: post
 category: motm
