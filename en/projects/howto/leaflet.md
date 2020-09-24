@@ -1,6 +1,7 @@
 ---
 title: How to create a simple map (with a marker) using Leaflet ?
 layout: project
+subpage: true
 lang: en
 highlight: true
 ---

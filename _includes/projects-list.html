@@ -1,10 +1,14 @@
 {% assign projects = site.pages | where: 'lang', page.lang | where: 'layout', 'project' %}
 
 {% for project in projects %}
+{% unless project.subpage %}
 <div class="media">
     <div class="mr-3 media-featured" style="background-image: url({{ project.featured | prepend: 'assets/images/post/' | relative_url }});"></div>
 
     <div class="media-body">
+        {{ debug(project.subpage) }}
+        {{ debug(project.highlight) }}
+
         <h2>{{ project.title }}</h2>
 
         {% if project.lead %}
@@ -36,4 +40,5 @@
     </div>
 </div>
 <hr>
+{% endunless %}
 {% endfor %}
