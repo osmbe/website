@@ -1,5 +1,5 @@
 ---
-title: "Mapper of the Month: Thierry Hancart (Belgium)"
+title: "Mapper van de maand: Thierry Hancart (België)"
 featured:
 layout: post
 category: motm
