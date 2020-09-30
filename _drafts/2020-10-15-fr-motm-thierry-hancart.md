@@ -8,6 +8,7 @@ lang: fr
 ---
 
 Thierry Hancart username: [`ThierryHancart`](https://www.openstreetmap.org/user/ThierryHancart)
+Thierry Hancart contribution page (https://hdyc.neis-one.org/?ThierryHancart)
 
 ## Bonjour Thierry ! Voudrais-tu te présenter brièvement à nos lecteurs ?
 
