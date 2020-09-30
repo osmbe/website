@@ -13,11 +13,11 @@ Thierry Hancart username: [`ThierryHancart`](https://www.openstreetmap.org/user/
 
 ## Hallo Thierry! Wil je jezelf even voorstellen aan onze lezers?
 
-Mijn naam is Thierry Hancart en ik woon in de gemeente Gedinne, ten zuiden van de provincie Namen. Toen ik jong was, raakte ik al heel vroeg vertrouwd met scoutinggroepen en het lezen van kaarten. Aardrijkskunde en geschiedenis zijn gebieden die mij interesseren. Gepassioneerd door wandeltochten en fotografie, en nieuwskierig in informatica, ten tijde van de pensioen, ging ik naar OpenStreetMap.
+Mijn naam is Thierry Hancart en ik woon in de gemeente Gedinne, in het zuiden van de provincie Namen. Toen ik jong was, raakte ik al heel vroeg vertrouwd met scoutinggroepen en het lezen van kaarten. Aardrijkskunde en geschiedenis zijn gebieden die mij interesseren. Gepassioneerd door wandeltochten en fotografie, en nieuwsgierig in informatica, en bij aanvang van mijn pensioen, ging ik naar OpenStreetMap.
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
-In 2015, werd ik aangetrokken door de geest van vrije software en zocht ik naar alternatieven voor de klassieke Windows, Google, Google Maps, … Ik ontdekte OpenStreetMap tijdens dit onderzoek en het idee om deel te nemen aan dit project werd me duidelijk. Il heb de documentatie onderzocht – voornamelijk de wiki – en aantekenigen gemaakt en ben in juli 2015 begonnen.
+In 2015, werd ik aangetrokken door de geest van vrije software en zocht ik naar alternatieven voor de klassieke Windows, Google, Google Maps, … Ik ontdekte OpenStreetMap tijdens dit onderzoek en het idee om deel te nemen aan dit project werd me duidelijk. Ik heb de documentatie onderzocht – voornamelijk de wiki – en aantekenigen gemaakt en ben in juli 2015 begonnen.
 
 ## Hoe gebruik je OpenStreetMap?
 
@@ -26,7 +26,7 @@ In het veld zijn smartphone, wandel GPS en camera mijn belangrijkste hulpmiddele
 
 ## Wat voor soort bijdrager ben je en in welk kaartgebied map je?
 
-Na een wetenschappelijke opleiding probeer ik een zekere strengheid en precisie in mijn coderingen te respecteren. Daarom controleer ik ze altijd met behulp van de beschikbare tools. Ik controleer mijn informatie met verschillende officiële databases die op het internet te vinden zijn. Ik verbeter fouten als ik dat kan. Ik breng mijn gemeente en haar omgeving in kaart, evenals de plaatsen die ik tijdens mijn wandelingen en vakanties bezoek. Maar ook verre streken want ik doe mee aan het HOT (Humanitarian OpenStreetMap Team) programma in Afrika.
+Na een wetenschappelijke opleiding probeer ik een zekere strengheid en precisie in mijn coderingen te respecteren. Daarom controleer ik ze altijd met behulp van de beschikbare tools. Ik controleer mijn informatie met verschillende officiële databases die op het internet te vinden zijn. Ik verbeter fouten als ik dat kan. Ik breng mijn gemeente en haar omgeving in kaart, evenals de plaatsen die ik tijdens mijn wandelingen en vakanties bezoek. Maar ook verre streken, want ik doe mee aan het HOT (Humanitarian OpenStreetMap Team) programma in Afrika.
 
 
 ## Wat ben je in kaart aan het brengen? Heb je een specialisatie?
