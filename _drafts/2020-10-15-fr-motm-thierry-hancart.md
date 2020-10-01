@@ -12,7 +12,7 @@ Thierry Hancart contribution page: <https://hdyc.neis-one.org/?ThierryHancart>
 
 ## Bonjour Thierry ! Voudrais-tu te présenter brièvement à nos lecteurs ?
 
-Je m'appelle Thierry Hancart et habite dans la commune de Gedinne, au sud de la province de Namur. Dans ma jeunesse, la féquentation des groupements scouts m'a familiarisé très tôt à la lecture des cartes. La géographie et l'histoire sont des domaines qui m'intéressent. Passionné de randonnées et adepte de la photographie, intéressé par l'informatique, je me suis dirigé vers OpenStreetMap à l'heure de la retraite.
+Je m'appelle Thierry Hancart et habite dans la commune de Gedinne, au sud de la province de Namur. Dans ma jeunesse, la fréquentation des groupements scouts m'a familiarisé très tôt à la lecture des cartes. La géographie et l'histoire sont des domaines qui m'intéressent. Passionné de randonnées et adepte de la photographie, intéressé par l'informatique, je me suis dirigé vers OpenStreetMap à l'heure de la retraite.
 
 
 ## Comment et quand as-tu découvert OpenStreetMap ?
