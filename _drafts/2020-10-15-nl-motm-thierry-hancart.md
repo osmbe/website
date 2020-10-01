@@ -7,9 +7,7 @@ author: Pierre Parmentier
 lang: nl
 ---
 
-*Translated from French by Pierre Parmentier*
-
-Thierry Hancart username: [`ThierryHancart`](https://www.openstreetmap.org/user/ThierryHancart)
+Zijn [homepage](https://www.openstreetmap.org/user/ThierryHancart) en zijn [bijdragepagina](https://hdyc.neis-one.org/?ThierryHancart).
 
 ## Hallo Thierry! Wil je jezelf even voorstellen aan onze lezers?
 
@@ -73,4 +71,6 @@ Om mij op de hoogte te houden van de ontwikkelingen bij OpenStreetMap raadpleeg 
 
 Veel success iedereen! Wees gelukkig en geniet van het leven! En lang leve het OpenStreetMap-project.
 
-**Hartelijk dank, Thierry, voor dit interview.**
+## Hartelijk dank, Thierry, voor dit interview.
+
+*Translated from French by Pierre Parmentier*
