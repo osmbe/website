@@ -1,10 +1,7 @@
 <div id="osmcal"></div>
 <hr>
 
-<script src="https://unpkg.com/@jbelien/openstreetmap-calendar-widget@0.3.0/dist/osmcal.js"
-    integrity="sha512-IjhLdVdt4WC+plIvDmYyggwPwT6ILBGXYqfCIN+APNdUc9FTnRMpZnQPB0C9ElrN8YHie/UqhiJ4xtPyh+HTHA=="
-    crossorigin=""></script>
-<script async>
+<script>
     (function () {
         const widget = new OSMCal.WidgetList(document.getElementById("osmcal"), { filter: {in: "Belgium"}, locales: "{{ include.locales }}", hideCancelled: true });
         widget.display();
