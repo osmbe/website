@@ -50,16 +50,6 @@
         crossorigin="anonymous"></script>
     {% if page.layout == "event" %}
     <script src="{{ 'assets/event.js' | relative_url }}"></script>
-    {% else if page.name == "support.html" %}
-    {% include overlay-stripe.html %}
-    <script>
-        window.app = {
-            url: '{{ site.url }}',
-            lang: '{{ lang }}'
-        }
-    </script>
-    <script src="https://js.stripe.com/v3"></script>
-    <script src="{{ 'assets/stripe.js' | relative_url }}"></script>
     {% endif %}
 
     {% include fathom-analytics.html %}
