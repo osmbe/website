@@ -70,7 +70,7 @@
 
         <img class="mt-5" src="{{ site.baseurl }}/assets/images/logo.svg" style="height:200px;">
 
-        <nav id="nav" class="mb-5">
+        <nav id="nav" class="mb-3">
             <ul class="list-inline my-0">
                 {% assign html_pages = site.html_pages | where: 'lang', lang | where_exp: 'item', 'item.order > 0' |
                 sort: 'order' %}
@@ -82,5 +82,33 @@
             </ul>
         </nav>
 
+        <div class="d-flex justify-content-center">
+            <div class="mr-3">
+                {% if lang == 'fr' %}
+                Prochain événement:
+                {% elsif lang == 'nl' %}
+                Volgende evenement:
+                {% else %}
+                Next event:
+                {% endif %}
+            </div>
+            <div id="next-event" class="text-left small"></div>
+        </div>
+
     </div>
 </header>
+
+<script>
+    (function () {
+        const widget = new OSMCal.WidgetList(document.getElementById("next-event"), { limit: 1, filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        {% raw %}
+        widget.setTemplate(
+            '<div style="color: #fff;">' +
+            '<div class="font-weight-bold">{{ name }}</div>' +
+            '<div>{{ date.human }} - {{ location.short }}</div>' +
+            '</div>'
+        );
+        {% endraw %}
+        widget.display();
+    })();
+</script>
