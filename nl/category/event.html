@@ -8,24 +8,44 @@ redirect_from:
 ---
 
 <h1>
-    <i class="far fa-newspaper"></i>
-    Nieuws
+    <i class="far fa-fw fa-calendar-alt"></i>
+    Evenementen
 </h1>
-<h2>Evenementen</h2>
 <hr>
 
+<h2>Volgende evenementen in België</h2>
 <div class="row">
-    <div class="col">
-        {% include posts-list.html %}
-    </div>
-    <div class="d-none d-xl-block col-xl-4">
-        <h2 class="h4">Volgende evenementen in België</h2>
-        <hr class="mt-0">
-        {% include osmcal.html locales="nl" %}
-
-        <h2 class="h4">Categorieën</h2>
-        {% include posts-categories.html %}
-
-        {% include twitter.html %}
-    </div>
+    <div class="col-md" id="events-next"></div>
+    <div class="col-md" id="events-next-map" style="min-height: 350px; max-height: 350px;"></div>
 </div>
+<div class="small">Source: <a target="_blank" href="https://osmcal.org/?in=Belgium">https://osmcal.org/?in=Belgium</a></div>
+
+<hr>
+
+<h2>Vorige evenementen in België</h2>
+<div class="row">
+    <div class="col-md" id="events-past"></div>
+    <div class="col-md" id="events-past-map" style="min-height: 350px; max-height: 350px;"></div>
+</div>
+<div class="small">Source: <a target="_blank" href="https://osmcal.org/events/past/?in=Belgium">https://osmcal.org/events/past/?in=Belgium</a></div>
+
+<hr>
+
+<h2>Archieven</h2>
+{% include posts-list.html %}
+
+<script>
+    (function () {
+        const widgetNext = new OSMCal.WidgetList(document.getElementById("events-next"), { filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetNext.display();
+
+        const widgetNextMap = new OSMCal.WidgetMap(document.getElementById("events-next-map"), { filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetNextMap.display();
+
+        const widgetPast = new OSMCal.WidgetList(document.getElementById("events-past"), { past: true, filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetPast.display();
+
+        const widgetPastMap = new OSMCal.WidgetMap(document.getElementById("events-past-map"), { past: true, filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetPastMap.display();
+})();
+</script>
