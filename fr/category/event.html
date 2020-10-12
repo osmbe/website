@@ -32,7 +32,17 @@ redirect_from:
 <hr>
 
 <h2>Archives</h2>
-{% include posts-list.html %}
+<div class="row">
+    <div class="col">
+        {% include posts-list.html %}
+    </div>
+    <div class="d-none d-xl-block col-xl-4">
+        <h2 class="h4">Catégories</h2>
+        {% include posts-categories.html %}
+
+        {% include twitter.html %}
+    </div>
+</div>
 
 <script>
     (function () {
