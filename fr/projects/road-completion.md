@@ -4,7 +4,7 @@ layout: project
 lang: fr
 featured: road-completion2.gif
 featured_caption: "En rouge, les données officielles. Au moins c'est rouge, au plus OSM est complet."
-lead: Joost Schouppe & Ben Abelshausen
+lead: Joost Schouppe, Ben Abelshausen & Jonathan Beliën
 redirect_from: /2017/01/06/fr-project-road-completion.html
 ---
 
@@ -15,7 +15,6 @@ Nous nous appelons Open**STREET**Map pour une raison: nous avons un excellent r�
 Puisque la carte est créée par les contributeurs, chaque erreur que nous voyons sera corrigée. Mais quelques modifications de la carte ne sont pas parfois pas très visibles. Par exemple, une nouvelle route avec juste deux, trois maisons, sans aucune connexion ; le changement de nom d'une route, ou une erreur dans le nom d'une route ; ou encore une route qui a été tracée sur base d'anciennes photos aériennes de mauvaise qualité.
 
 Comme le gouvernement a enfin décidé de donner un accès libre à ses données, de plus en plus de jeux de données sur les routes sont maintenant disponibles. Nous voulons utiliser ces données pour améliorer notre carte - et pourquoi ne pas améliorer ces jeux de données également. Notre contributeur Joost Schouppe a déjà fait quelques expériences et a écrit un article sur le sujet : <http://www.openstreetmap.org/user/joost%20schouppe/diary/39250>.
-
 
 ![]({{ site.baseurl }}/assets/images/post/road-completion.gif)
 *L'évolution de la cartographie des routes à Bruxelles. Vert: routes "lentes". Gris: routes cartographiées. Noir: routes ajouté ce mois-là.*
@@ -39,4 +38,5 @@ Vous pouvez aider: [voici les instructions](https://wiki.openstreetmap.org/wiki/
 * [Page wiki avec les status du project](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * Premier tache "Maproulette": [instructions ici](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
 * Presentations a [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) (video) et AIV Trefdag
-* Projet Open Summer of Code 2018
+* Projet [Open Summer of Code 2018](https://2018.summerofcode.be/roadcompletion.html)
+* [Micro-subvention 2020 de la Fondation OpenStreetMap Foundation](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project)

@@ -35,4 +35,5 @@ Je kan nog steeds helpen, nadat je [deze instructies leest](https://wiki.openstr
 * [Wiki pagina gemaakt](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project) om de concrete taken te organiseren.
 * Eerste Maproulette taak online, [instructies vind je hier](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
 * Presentatie op AIV Trefdag 2017 en [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) (video)
-* Open Summer of Code project
+* [Open Summer of Code 2018 project](https://2018.summerofcode.be/roadcompletion.html)
+* [OpenStreetMap Foundation microgrant 2020](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project)
