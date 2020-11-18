@@ -19,7 +19,6 @@ Ce fond de carte est disponible en 4 versions linguistiques :
 * Le tag `name` par défaut (c'est ce qui est utilisé sur <https://openstreetmap.org/>) ;
 * En Français, avec le tag `name:fr` ;
 * En Néérlandais, avec le tag `name:nl` ;
-* En Allemand, avec le tag `name:de` ;
 
 ### Evénements clés
 
@@ -28,26 +27,22 @@ Nous avons d'abord essayé d'utiliser la technologie des *VectorTiles* pour le f
 Nous avons donc décidé de retourner un bon vieux *raster* en suivant la procédure décrite par <https://switch2osm.org/> :
 
 - Fork du dépôt <https://github.com/gravitystorm/openstreetmap-carto> ;
-- Edition de la procédure pour extraire les données nécessaires ; si le `name:fr` (ou `name:nl` ou `name:de`) n'est pas disponible, le `name` est affiché ;
+- Edition de la procédure pour extraire les données nécessaires ; si le `name:fr` (ou `name:nl`) n'est pas disponible, le `name` est affiché ;
 - Ajout des icônes propres à la Belgique (voir ci-dessous) ;
 - Hébergement du serveur sur <https://tile.osm.be/> ;
 - Ecriture de la documentation : <https://github.com/jbelien/openstreetmap-carto-be/wiki> ;
-- Activation de la mise à jour automatique des fonds de carte (une fois par semaine, tous les Dimanches) ;
-
-**Mise à jour mi-2017 :** Grâce au projet [OpenMapTiles](https://openmaptiles.org/), cela devrait être beaucoup plus simple de mettre en place les *VectorTiles* pour la Belgique. Cela sera déployé dans un futur proche.
 
 ### Icônes propres aux fonds de carte OpenStreetMap Belgique
 
-- Pharmacie : signe "+" vert ;
+- Icône pour `amenity=fast_food` + `cuisine=friture`
+- Icône pour `craft=brewery` ou `industrial=brewery`
 
 ### Comment utiliser le fond de carte ?
 
 Vous pouvez visualiser les fonds de carte ici : <https://tile.osm.be/>.
 
-Tout le monde peut utiliser les *tiles* dans leur propre application en utilisant *OpenLayes*, *Leaflet* ou toute autre libraire :
-
-- Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)*, allez voir la documentation <https://github.com/jbelien/openstreetmap-carto-be/wiki/> ;
-- La documentation pour *[Leaflet](http://leafletjs.com/)* doit encore être écrite ;
+Tout le monde peut utiliser les *tiles* dans leur propre application en utilisant *OpenLayes*, *Leaflet* ou toute autre libraire.  
+Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)* ou *[Leaflet](http://leafletjs.com/)*, allez voir la documentation <https://openstreetmap.be/en/projects/howto.html#how-to-use-free-openstreetmap-belgium-baselayer>.
 
 **Veuillez respecter les [conditions d'utilisation](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) !**
 
