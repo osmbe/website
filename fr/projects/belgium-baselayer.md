@@ -42,7 +42,7 @@ Nous avons donc décidé de retourner un bon vieux *raster* en suivant la procé
 Vous pouvez visualiser les fonds de carte ici : <https://tile.osm.be/>.
 
 Tout le monde peut utiliser les *tiles* dans leur propre application en utilisant *OpenLayes*, *Leaflet* ou toute autre libraire.  
-Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)* ou *[Leaflet](http://leafletjs.com/)*, allez voir la documentation <https://openstreetmap.be/en/projects/howto.html#how-to-use-free-openstreetmap-belgium-baselayer>.
+Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)* ou *[Leaflet](http://leafletjs.com/)*, allez voir la documentation <https://github.com/jbelien/openstreetmap-carto-be/wiki/>.
 
 **Veuillez respecter les [conditions d'utilisation](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) !**
 

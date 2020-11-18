@@ -31,7 +31,6 @@ So we went back to good old raster tiles with <https://switch2osm.org/>:
 - Add custom icons/rendering
 - Host the tile server on <https://tile.osm.be/>
 - Write the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
-- Enable auto-update of the tiles
 
 ### Custom icons/rendering
 
