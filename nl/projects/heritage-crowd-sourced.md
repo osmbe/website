@@ -1,6 +1,6 @@
 ---
 title: "Erfgoed in Vlaanderen en crowdsourced projecten"
-featured: images/heritage.png
+featured: heritage.png
 layout: project
 author: escada
 lang: nl
