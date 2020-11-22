@@ -58,21 +58,21 @@ redirect_from:
         </h2>
         <p class="text-muted">Alleen kredietkaart</p>
 
-        <div class="donation">
+        <div class="text-center mb-5">
             <h3>Maandelijks</h3>
             <div id="donation-monthly-items" class="donation-items">
-                <button class="donation-btn" data-plan-id="monthly-5" role="link">5 EUR</button>
-                <button class="donation-btn" data-plan-id="monthly-10" role="link">10 EUR</button>
-                <button class="donation-btn" data-plan-id="monthly-25" role="link">25 EUR</button>
-                <button class="donation-btn" data-plan-id="monthly-100" role="link">100 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-5" role="link">5 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-10" role="link">10 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-25" role="link">25 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-100" role="link">100 EUR</button>
             </div>
 
-            <h3>Jaarlijks</h3>
+            <h3 class="mt-3">Jaarlijks</h3>
             <div id="donation-yearly-items" class="donation-items">
-                <button class="donation-btn" data-plan-id="yearly-50" role="link">50 EUR</button>
-                <button class="donation-btn" data-plan-id="yearly-100" role="link">100 EUR</button>
-                <button class="donation-btn" data-plan-id="yearly-250" role="link">250 EUR</button>
-                <button class="donation-btn" data-plan-id="yearly-500" role="link">500 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-50" role="link">50 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-100" role="link">100 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-250" role="link">250 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-500" role="link">500 EUR</button>
             </div>
         </div>
 
@@ -85,40 +85,56 @@ redirect_from:
         </h2>
         <p class="text-muted">Kredietkaart of Bancontact</p>
 
-        <div class="donation">
-            <div class="donation-items">
-                <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
-                <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
-                <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
-                <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
-            </div>
-
-            <div class="text-center my-3">OF</div>
-
-            <div class="donation-custom input-group mb-3">
-                <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
-                    class="form-control" placeholder="Bedrag (EUR)" aria-label="Bedrag in euros">
-                <div class="input-group-append">
-                    <button id="donation-submit" class="btn btn-primary" type="button" disabled>
-                        Doneer
-                    </button>
+        <div class="row justify-content-md-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="form-group">
+                    <label>Selecteer uw bedrag:</label>
+                    <div class="btn-group donation-items" role="group">
+                        <button class="btn btn-outline-primary donation-btn" data-amount="10">
+                            10 EUR
+                        </button>
+                        <button class="btn btn-outline-primary donation-btn" data-amount="25">
+                            25 EUR
+                        </button>
+                        <button class="btn btn-outline-primary donation-btn" data-amount="50">
+                            50 EUR
+                        </button>
+                        <button class="btn btn-outline-primary donation-btn" data-amount="100">
+                            100 EUR
+                        </button>
+                    </div>
                 </div>
-            </div>
-        </div>
 
-        <div id="donation-result">
-            <div id="donation-result-success" style="display: none; color: green;">
-                <strong>Bedankt voor je donatie, we hebben ze goed ontvangen!</strong>
-            </div>
-            <div id="donation-result-cancel" style="display: none; color: gray;">
-                <strong>Je donatie was geannuleerd.</strong>
-            </div>
-            <div id="donation-result-error" style="display: none; color: red;">
-                <strong>
-                    Er was een probleem met je donatie (er is geen betaling gebeurd). Probeer later
-                    opnieuw.
-                </strong>
-                <div id="error-message"></div>
+                <form autocomplete="off">
+                    <div class="form-group">
+                        <label for="donation-amount">Bedrag:</label>
+                        <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
+                            class="form-control" placeholder="Amount (EUR)" aria-label="Amount in euros" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="donation-message">Bericht (facultatief):</label>
+                        <input id="donation-message" type="text" name="message" class="form-control">
+                    </div>
+
+                    <button id="donation-submit" type="submit" class="btn btn-block btn-primary" disabled>Doneer</button>
+                </form>
+
+                <div id="donation-result">
+                    <div id="donation-result-success" style="display: none; color: green;">
+                        <strong>Bedankt voor je donatie, we hebben ze goed ontvangen!</strong>
+                    </div>
+                    <div id="donation-result-cancel" style="display: none; color: gray;">
+                        <strong>Je donatie was geannuleerd.</strong>
+                    </div>
+                    <div id="donation-result-error" style="display: none; color: red;">
+                        <strong>
+                            Er was een probleem met je donatie (er is geen betaling gebeurd). Probeer later
+                            opnieuw.
+                        </strong>
+                        <div id="error-message"></div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -139,7 +155,7 @@ redirect_from:
 <script>
     window.app = {
         url: '{{ site.url }}',
-        lang: '{{ lang }}'
+        lang: '{{ page.lang }}'
     }
 </script>
 <script src="https://js.stripe.com/v3"></script>

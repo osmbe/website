@@ -19,7 +19,7 @@ export default async function(data) {
     if (typeof data.plan !== "undefined") {
       session = await createSessionPlan(data.plan, data.url, data.lang);
     } else {
-      session = await createSessionDonation(data.amount, data.url, data.lang);
+      session = await createSessionDonation(data.amount, data.url, data.message, data.lang);
     }
 
     if (session.error) {

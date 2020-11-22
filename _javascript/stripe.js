@@ -27,11 +27,13 @@ import redirect from "./stripe/redirect";
     element.addEventListener("click", event => {
       const amount = parseInt(event.target.dataset.amount);
 
-      redirect({
-        amount,
-        lang: window.app.lang || "en",
-        url: window.app.url || "https://openstreetmap.be"
-      });
+      document.getElementById("donation-amount").value = amount;
+
+      if (amount > 0) {
+        document.getElementById("donation-submit").removeAttribute("disabled");
+      } else {
+        document.getElementById("donation-submit").setAttribute("disabled", "");
+      }
     });
   });
 
@@ -52,11 +54,13 @@ import redirect from "./stripe/redirect";
     .getElementById("donation-submit")
     .addEventListener("click", event => {
       const amount = parseInt(document.getElementById("donation-amount").value);
+      const message = document.getElementById("donation-message").value;
 
       event.preventDefault();
 
       redirect({
         amount,
+        message,
         lang: window.app.lang || "en",
         url: window.app.url || "https://openstreetmap.be"
       });
