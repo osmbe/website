@@ -1,11 +1,9 @@
-
 ---
 title: MapComplete
 layout: project
 lang: nl
 lead: Pieter Vander Vennet
 ---
-
 
 
 
