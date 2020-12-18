@@ -7,7 +7,7 @@ lead: Pieter Vander Vennet
 
 
 
-More and more use OpenStreetMap (OSM) as their basemap. But we're not just a map - we're an open spatial database. How many apps do you know that collect drinking fountains, public toilets, camping spots, bar's with wifi, parking info etc? Unfortunately, all of these apps have their own little data island. All of these things could be built very easily on top of OpenStreetMap! 
+More and more use OpenStreetMap (OSM) as their basemap. But we're not just a map - we're an open spatial database. How many apps do you know that collect drinking fountains, public toilets, camping spots, bars with wifi, parking info etc? Unfortunately, all of these apps have their own little data island. All of these things could be built very easily on top of OpenStreetMap! 
 
 Collecting this data outside of OpenStreetMap has serious disadvantages.
 * **Everyone who builds such an app, has to built everything**: a website, a database, user account management, various apps, a user community, a data curation model, data hosting, etc. 
@@ -50,20 +50,23 @@ The foundational work has been laid already, thanks to grants from Groen for [Bu
 
 A good way to work together is through an [Open Summer of Code](https://osoc.be/) project, but we're open to other models as well. And we will keep improving the tool anyway!
 
-A key future development is using it to present non-OpenStreetMap data to users, with an eye to integrating that data into OpenStreetMap. In that process, the external data is also validated, helping the original source maintian quality of their dataset.
+A key future development is using it to present non-OpenStreetMap data to users, with an eye to integrating that data into OpenStreetMap. In that process, the external data is also validated, helping the original source maintain quality of their dataset.
 
 
-## Key events
+## Info & history
 
 For more information about the tool (including a list of all themes): https://wiki.openstreetmap.org/wiki/MapComplete
 
 Try it out at [mapcomplete.osm.be](https://mapcomplete.osm.be/). 
 
 * Development started: May 2020, [Buurtnatuur.be](https://buurtnatuur.be/)
-* Major extension of the project: July 2020, [Cyclofix project](https://cyclofix.osm.be)), as on [OSOC project](https://osoc.be/editions/2020/cyclofix)
+* Major extension of the project: July 2020, [Cyclofix project](https://cyclofix.osm.be)), as an [OSOC project](https://osoc.be/editions/2020/cyclofix)
 * Continued development:
     * reviews integration via https://mangrove.reviews/
     * interface for adding opening hours
     * layered icons (e.g. green for "open right now")
     * theme builder for advanced users
     * add functionality to combine themes
+
+### Inspirations & alternatives
+There are several other apps to edit OpenStreetMap on mobile. [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci) has all the functionality of a dekstop editor. [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) is a gamified approach that focuses on extending existing data and has a very wide range of "quests". [MapContrib](https://wiki.openstreetmap.org/wiki/MapContrib) is very similar to MapComplete in goals and options. Umap does not have editing features, but can be used to make maps similar to MapComplete and allows to upload or draw data from outside of OpenStreetMap. Then there are tools like [OSMTracker](https://wiki.openstreetmap.org/wiki/OSMTracker_(Android)) which help you survey data in the field, but expect you to add the data to OpenStreetMap in a desktop tool.
