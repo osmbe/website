@@ -1,6 +1,6 @@
 ﻿---
 title: "Mapper van de maand: Gustavo Soares (Brazilië)"
-featured:
+featured: img2.jpg
 layout: post
 category: motm
 author: Pierre Parmentier

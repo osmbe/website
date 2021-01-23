@@ -1,6 +1,6 @@
 ---
 title: "Contributeur du mois : Gustavo Soares (Brésil)"
-featured:
+featured: img2.jpg
 layout: post
 category: motm
 author: Pierre Parmentier
