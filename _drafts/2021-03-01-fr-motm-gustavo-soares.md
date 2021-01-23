@@ -1,5 +1,5 @@
 ---
-title: "Contributeur du mois : PlayzinhoAgro (Brésil)"
+title: "Contributeur du mois : Gustavo Soares (Brésil)"
 featured:
 layout: post
 category: motm

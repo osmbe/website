@@ -1,5 +1,5 @@
 ﻿---
-title: "Mapper van de maand: PlayzinhoAgro (Brazilië)"
+title: "Mapper van de maand: Gustavo Soares (Brazilië)"
 featured:
 layout: post
 category: motm

@@ -1,5 +1,5 @@
 ﻿---
-title: "Mapper of the Month: PlayzinhoAgro (Brazil)"
+title: "Mapper of the Month: Gustavo Soares (Brazil)"
 featured:
 layout: post
 category: motm
