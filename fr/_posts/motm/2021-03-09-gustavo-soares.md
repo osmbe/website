@@ -12,7 +12,8 @@ Sa [page personnelle](https://www.openstreetmap.org/user/PlayzinhoAgro) et sa [p
 ## Voudrais-tu te présenter brièvement à nos lecteurs ?
 
 Je m'appelle Gustavo Soares (PlayzinhoAgro). Avec la quarantaine, j'ai fini par devenir un cartographe bénévole à plein temps. Je suis également un fan d'[ElementaryOS](https://elementary.io/) et un activiste du logiciel libre. Mon éditeur préféré a été IDv3 et j'ai essayé d'utiliser JOSM. J'ai utilisé une instance du projet DAMN, [Divide and map. Now.](https://www.damn-project.org/) comme gestionnaire de tâches. C'est une excellente alternative au gestionnaire de tâches HOT auto-hébergé, principalement parce qu'il est léger. Au début, je l'ai utilisé avec un serveur de 500 Mo et 1vCPU facile à installer. J'avais l'habitude de cartographier les villes de l'État du Maranhão au Brésil. Actuellement je travaille à Timon (Maranhão) où je vis mais je poste toujours de nouvelles zones dans le [Mapeia.space](https://tarefas.mapeia.space/).
-![Image](img3.jpg "icon")
+
+![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
 
 ## Comment et quand as-tu découvert OpenStreetMap ?
 
@@ -33,7 +34,6 @@ J'aime me considérer comme un cartographe généraliste. Pour moi, créer une c
 ## Quelle est ta plus grande prouesse en tant que contributeur ?
 
 Pour moi, cela en fait deux : mon premier 1k dans OpenStreetMap, et le fait d'être maintenant interviewé en qualité de Contributeur du mois.
-![Image](img2.jpg "icon")
 
 ## Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
 
@@ -62,7 +62,8 @@ WeeklyOSM (merci aux traducteurs portugais), reddit/OpenStreetMap et les groupes
 ## Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 Je tiens à te remercier de m'avoir appelé pour cette interview. Je vous invite à visiter et à contribuer au domaine [Mapeia.space](https://tarefas.mapeia.space/). Actuellement, mon travail est soutenu par des dons, et si vous le pouvez, faites un don : mon [liberapay](https://liberapay.com/gustavo22soares).
-![Image](img1.png "icon")
+
+![Image]({% link /assets/images/motm/2021/03/img1.png %})
 
 **Merci, Gustavo, pour cette interview.**
 

@@ -12,7 +12,8 @@ Zijn [homepage](https://www.openstreetmap.org/user/PlayzinhoAgro) and zijn [bijd
 ## Wil je jezelf even voorstellen aan onze lezers?
 
 Mijn naam is Gustavo Soares (PlayzinhoAgro). Met de quarantaine werd ik uiteindelijk een voltijds vrijwilliger mapper. Ik ben ook een [ElementaryOS](https://elementary.io/) fanboy en vrije software activist. Mijn favoriete editor was IDv3 en ik heb geprobeerd JOSM te gebruiken. Ik heb een instance van het DAMN project [Divide and map. Now.](https://www.damn-project.org/) gebruikt als een task manager. Het is een geweldig alternatief voor de zelf gehoste HOT-taakmanager vooral omdat het licht is. In het begin gebruikte ik een server met 500mb en 1vCPU die eenvoudig te installeren is. Vroeger bracht ik steden in de staat Maranhão in Brazilië in kaart. Op dit moment werk ik in Timon (Maranhão) waar ik momenteel leef, maar ik plaats altijd nieuwe gebieden in de [Mapeia.space](https://tarefas.mapeia.space/).
-![Image](img3.jpg "icon")
+
+![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
@@ -33,7 +34,6 @@ Ik beschouw mezelf graag als een generieke mapper. Voor mij is het maken van een
 ## Waar ben je het meest trots op als mapper?
 
 Voor mij zijn het er uiteindelijk twee: mijn eerste 1k in OpenStreetMap, en nu wordt ik geïnterviewd als de Mapper van de maand.
-![Image](img2.jpg "icon")
 
 ## Waarom breng je het in kaart? Wat motiveert je?
 
@@ -62,7 +62,8 @@ OSMWeekly (bedankt aan Portugese vertalers), reddit/OpenStreetMap en de groepen 
 ## Om af te sluiten, is er nog iets dat je aan de lezerzou willen vertellen?
 
 Ik wil je bedanken voor het feit dat je mij voor dit interview hebt gebeld. Ik nodig iedereen uit die een bezoek wil brengen en een bijdrage wil leveren aan [Mapeia.space](https://tarefas.mapeia.space/). Op dit moment wordt mijn werk ondersteund door donaties, en als je kun, doe dan een donatie: mijn [liberapay](https://liberapay.com/gustavo22soares).
-![Image](img1.png "icon")
+
+![Image]({% link /assets/images/motm/2021/03/img1.png %})
 
 **Dank je, Gustavo, voor dit interview.**
 

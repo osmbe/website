@@ -11,7 +11,9 @@ His [homepage](https://www.openstreetmap.org/user/PlayzinhoAgro) and his [contri
 
 ## Would you like to briefly introduce yourself to our readers?
 
-My name is Gustavo Soares (PlayzinhoAgro). With the quarantine I ended up becoming a full-time volunteer mapper. I am also an [ElementaryOS](https://elementary.io/) fanboy and free software activist. My favourite editor has been IDv3 and I have tried to use JOSM. I have used an instance of DAMN Project, [Divide and map. Now.](https://www.damn-project.org/) as a task manager. It is a great alternative to the self-hosted HOT task manager mainly for being light. In the beginning I used it with a server with 500mb and 1vCPU being easy to install. I used to map cities in the state of Maranhão in Brazil. Currently I have been working in Timon, Maranhão where I now I live but I'm always posting new areas in the [Mapeia.space](https://tarefas.mapeia.space/).![Image](img3.jpg "icon")
+My name is Gustavo Soares (PlayzinhoAgro). With the quarantine I ended up becoming a full-time volunteer mapper. I am also an [ElementaryOS](https://elementary.io/) fanboy and free software activist. My favourite editor has been IDv3 and I have tried to use JOSM. I have used an instance of DAMN Project, [Divide and map. Now.](https://www.damn-project.org/) as a task manager. It is a great alternative to the self-hosted HOT task manager mainly for being light. In the beginning I used it with a server with 500mb and 1vCPU being easy to install. I used to map cities in the state of Maranhão in Brazil. Currently I have been working in Timon, Maranhão where I now I live but I'm always posting new areas in the [Mapeia.space](https://tarefas.mapeia.space/).
+
+![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
 
 ## How and when did you get to know OpenStreetMap?
 
@@ -32,7 +34,6 @@ I like to consider myself a generic mapper. For me, creating a base  map is the 
 ## What is your greatest achievement as mapper?
 
 For me it ends up being two: my first 1k in OpenStreetMap, and being interviewed now for the Mapper of the Month.!
-![Image](img2.jpg "icon")
 
 ## Why are you mapping? What motivates you?
 
@@ -61,6 +62,7 @@ _WeeklyOSM_ (thanks to Portuguese translators), _reddit/OpenStreetMap_ and group
 ## To conclude, is there anything else you want to share with the readers?
 
 I would like to thank you for calling me for this interview. I invite the readers to visit and contribute to the areas of [Mapeia](https://tarefas.mapeia.space/). Currently my work is supported by donations, and if you can, make a donation: my [liberapay](https://liberapay.com/gustavo22soares).
-![Image](img1.png "icon")
+
+![Image]({% link /assets/images/motm/2021/03/img1.png %})
 
 **Thank you, Gustavo, for this interview.**
