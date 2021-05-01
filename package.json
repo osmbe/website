@@ -5,7 +5,7 @@
     "build:stripe": "parcel build --no-cache  --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=stripe.js _javascript/stripe.js"
   },
   "devDependencies": {
-    "leaflet": "^1.6.0",
+    "leaflet": "^1.7.1",
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {},
