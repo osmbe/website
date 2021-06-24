@@ -1,0 +1,39 @@
+﻿---
+title: "Mapper van de maand: s8evq (België)"
+featured:
+layout: post
+category: motm
+author: Pierre Parmentier
+lang: nl
+---
+
+Zijn [homepage](https://www.openstreetmap.org/user/s8evq) en zijn [bijdragerpagina](https://hdyc.neis-one.org/?s8evq).
+
+## Hallo Pieter! Wil je jezelf even voorstellen aan onze lezers?
+Ik ben Pieter en map onder de gebruikersnaam s8evq. Ik woon in Aalter, België. Ik geef les aan volwassenen en ik ben dus bezig met OpenStreetMap gewoon als hobby. Ik heb geen GIS achtergrond maar heb kaarten altijd fascinerend gevonden.
+## Hoe en wanneer heb je OpenStreetMap ontdekt?
+Op reis gebruiken we vaak OsmAnd voor wandelingen. Tijdens een wandeling in Gran Paradiso, Italië zat er een foutje in de navigatie. Ik wou dit zelf rechtzetten. Na wat zoekwerk ben ik bij osm.org gekomen. Zelf het probleem oplossen via de editor kon ik niet, dus had ik een note achtergelaten. Ik was verbaasd dat er onmiddellijk antwoord op kwam en het probleem zeer snel opgelost werd. Terug thuis heb ik me verder in verdiept in OpenStreetMap.
+## Hoe gebruik je OpenStreetMap?
+Vaak via OsmAnd voor wandelingen en fietstochten, of verschillende websites voor routeplanning en voorbereiding. Het zijn namelijk de meest gedetailleerde kaarten die bestaan.
+## Wat voor soort bijdrager ben je en in welk kaartgebied map je?
+Ik probeer bijdragen te leveren in Oost- en West-Vlaanderen. Vaak verbeter ik paden in natuurgebieden. Ik voeg ook de ontbrekende hiking routes toe. Momenteel werk ik ook veel aan het up to date houden van de lange afstandswandelingen (GR) in Vlaanderen en werk daarvoor samen met Grote Routepaden VZW. Ook onze wiki pagina's probeer ik up to date te houden en vul ze geregeld aan. Vooral dan de pagina's over onze lokale Belgische verkeerswetgeving en hoe we die naar OpenStreetMap vertalen. Ik lees ook mee en antwoord op e-mails die gestuurd worden naar community@osm.be. Daarop komen geregeld vragen binnen van mensen van buiten het OpenStreetMap project.
+## Wat ben je in kaart aan het brengen? Heb je een specialisatie?
+Te veel verschillende projecten tegelijk. Maar heel concreet zal ik de komende dagen de lange afstandswandeling GR5A, die heel populair is in Belgie op punt zetten. Een specialisatie is misschien een groot woord, maar ik heb wel duidelijk een focus op hiking route relations.
+## Waar ben je het meest trots op als mapper?
+Dit vind ik moeilijk te zeggen. We voegen allemaal kleine verbeteringen toe die samen een mooi geheel maken. Maar als ik er een iets mag uitpikken ben ik bijvoorbeeld wel blij over mijn werk op de hiking route wiki paginas. Na veel overleg op de tagging mailinglist zijn we er in geslaagd om de verschillende wiki pagina's over wandelen op elkaar af te stemmen en een uniforme tagging schema naar voor te brengen. Deze wordt nu gebruikt in een [wiki template](https://wiki.openstreetmap.org/wiki/Hiking#Tags_of_the_relation).
+## Waarom breng je het in kaart? Wat motiveert je?
+Ik vind het eenvoudigweg leuk om mee te werken aan het groter project, wetende dat vele mensen voordeel zullen halen uit het kaartmateriaal.
+## Heb je ideeën over hoe we de OpenStreetMap-gemeenschap kunnen uitbreiden of meer mappers kunnen motiveren?
+Ik lees mee en antwoord op emails dat mensen sturen naar de Belgische OpenStreetMap community. Daaruit merk ik dat veel mensen het principe achter OpenStreetMap niet goed begrijpen. Met het principe bedoel ik dat OpenStreetMap slechts de databank is, en dat verschillende data users de gegevens op hun manier kunnen voorstellen. Daarom denk ik dat het echt wel tijd is om de frontpagina osm.org een update te geven. Contributor Juminet heeft een tijdje terug een heel duidelijke [diary post](https://www.openstreetmap.org/user/juminet/diary/391470) over gemaakt: . Het is namelijk niet eenvoudig om als nieuwe gebruiker je weg te vinden in al die verschillende tools en websites en projecten. Ik geloof dat we daardoor veel nieuwe mappers afhaken. Daarom dat er voor mij, binnen OpenStreetMap, alles iets gecentraliseerder georganiseerd mag worden. Maar ik weet dat zeker niet iedereen daar zo over denkt.
+Daarnaast geloof ik ook sterk in de lokale community en het opbouwen van goede contacten via meetups. Als een nieuwe mapper ergens terecht kan met vragen, zal die minder snel afhaken.
+## Heb je contact met andere mappers?
+Ja. Vaak. Via onze sterke Belgische community. We hebben een heel actief Matrix kanaal. Ook onze meetups versterken de band en tonen de echte mensen achter de gebruikersnamen. In het begin heb ik er veel vragen gesteld en heel snel bijgeleerd. Nu overleggen we heel vaak over tagging schema’s of lokale problemen en komen we snel tot een consensus. Ik heb het gevoel dat consensus veel sneller bereikt wordt op lokaal niveau, dan op internationaal niveau (zoals via de tagging mailing list bijvoorbeeld).
+## Naar uw mening wat is de grootste kracht van OpenStreetMap?
+De openheid van de data. Het feit dat we een open, vrij en gratis product kunnen afleveren dat gedetailleerder is dan dat van de commerciele spelers.
+## Wat is de grootste uitdaging voor OpenStreetMap?
+Het up to date houden van de ingebrachte data niet altijd eenvoudig is. Gelukkig kan je nu met StreetComplete zeer gemakkelijk de datum van laatste controle toevoegen. Een andere uitdaging is om een aangename omgeving te bieden aan nieuwe mappers, waarin men niet bang is om fouten te maken.
+## Hoe blijf je op de hoogte van het OpenStreetMap-nieuws?
+Ik lees soms _weeklyOSM_.eu en verschillende mailing lists. Maar ik lees zeker niet alles van die mailing lists.
+## Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer?
+Ik zou iedere mapper aanraden om in contact te treden met je lokale community. Het is leuker als je weet dat je samen aan een project werkt!
+**Hartelijk dank, Pieter, voor dit interview.**

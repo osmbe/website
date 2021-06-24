@@ -1,0 +1,41 @@
+---
+title: "Contributeur du mois: s8evq (Belgique)"
+featured:
+layout: post
+category: motm
+author: Pierre Parmentier
+lang: fr
+---
+
+Sa [homepage](https://www.openstreetmap.org/user/uuu) et sa [page de contribution](https://hdyc.neis-one.org/?uuu).
+
+## Bonjour Pieter. Voudrais-tu te présenter brièvement à nos lecteurs ?
+Je suis Pieter et je cartographie sous le nom de s8evq. Je vis à Aalter, en Belgique. J'enseigne aux adultes et je travaille donc avec l'OpenStreetMap juste comme un hobby. Je n'ai pas de formation en SIG, mais j'ai toujours trouvé les cartes fascinantes.
+## Comment et quand as-tu découvert OpenStreetMap ?
+Lorsque nous voyageons, nous utilisons souvent OsmAnd pour les randonnées. Lors d'une randonnée au Grand Paradis, en Italie, il y a eu une erreur de navigation. Je voulais le réparer moi-même. Après quelques recherches, j'ai trouvé osm.org. Je ne pouvais pas résoudre le problème moi-même, alors j'ai laissé une note. J'ai été surpris d'obtenir une réponse immédiate et le problème a été résolu très rapidement. De retour chez moi, j'ai approfondi l'étude d'OpenStreetMap.
+## Comment utilises-tu OpenStreetMap ?
+Souvent via OsmAnd pour les randonnées et les balades à vélo, ou divers sites web pour la planification et la préparation des itinéraires. Après tout, ce sont les cartes les plus détaillées qui existent.
+## Quelle sorte de contributeur es-tu et dans quelle région cartographies-tu ?
+J'essaie d'apporter des contributions en Flandre orientale et occidentale. J'améliore souvent les sentiers dans les zones naturelles. J'ajoute également les sentiers de randonnée manquants. En ce moment, je travaille également à la mise à jour des chemins de grande randonnée (GR) en Flandre et je collabore avec Grote Routepaden VZW. J'essaie également de maintenir nos pages wiki à jour et de les enrichir régulièrement. En particulier les pages sur le code de la route belge et la façon dont nous le traduisons en OpenStreetMap. Je lis et réponds également aux courriers électroniques envoyés à community@osm.be. Je reçois régulièrement des questions à ce sujet de la part de personnes extérieures au projet OpenStreetMap.
+## Que cartographies-tu ? As-tu une spécialisation ?
+Trop de projets différents en même temps. Mais dans les prochains jours, je travaillerai sur la randonnée longue distance GR5A, qui est très populaire en Belgique. Peut-être qu'une spécialisation est un grand mot, mais je me concentre clairement sur les relations avec les itinéraires de randonnée.
+## Quelle est ta plus grande prouesse en tant que contributeur ?
+Je trouve cela difficile à dire. Nous apportons tous de petites améliorations qui forment un bel ensemble. Mais si je devais en choisir un dans la liste, je serais heureux de mon travail sur les pages wiki des itinéraires de randonnée. Après de nombreuses discussions sur la liste de diffusion sur le balisage, nous avons réussi à aligner les différentes pages wiki sur la randonnée et à proposer un système de balisage uniforme. Ceci est maintenant utilisé dans un [modèle wiki](https://wiki.openstreetmap.org/wiki/Hiking#Tags_of_the_relation).
+## Pourquoi cartographies-tu ? Qu’est-ce qui te motive ?
+J'aime simplement participer à un projet plus vaste, sachant que de nombreuses personnes bénéficieront du matériel cartographique.
+## As-tu des idées pour élargir la communauté OpenStreetMap, pour motiver plus de gens à contribuer ?
+Je lis et réponds aux e-mails que les gens envoient à la communauté belge d'OpenStreetMap. Je constate que beaucoup de gens ne comprennent pas le principe de l'OpenStreetMap. Par principe, j'entends que l'OpenStreetMap n'est que la base de données et que les différents utilisateurs de données peuvent présenter les données à leur manière. Par conséquent, je pense qu'il est vraiment temps de mettre à jour la page d'accueil de osm.org. Le contributeur Juminet a rédigé un [billet très clair](https://www.openstreetmap.org/user/juminet/diary/391470) à ce sujet il y a quelque temps. Il n'est pas facile de trouver son chemin en tant que nouvel utilisateur dans tous ces outils, sites web et projets différents. Je crois que c'est la raison pour laquelle beaucoup de nouveaux mappeurs abandonnent. C'est pourquoi, pour moi, au sein d'OpenStreetMap, tout pourrait être organisé de manière plus centralisée. Mais je sais que tout le monde ne le pense pas.
+Je crois aussi fermement à la communauté locale et à l'établissement de bons contacts grâce aux rencontres. Si un nouveau mappeur a un endroit où poser ses questions, il est moins susceptible d'abandonner.
+## As-tu des contacts avec d’autres contributeurs ?
+Oui, je le fais. Souvent. Grâce à notre forte communauté belge. Nous avons un canal Matrix très actif. Nos rencontres renforcent également les liens et montrent les vraies personnes qui se cachent derrière les noms d'utilisateur. Au début, j'ai posé beaucoup de questions et j'ai appris très vite. Aujourd'hui, nous discutons très souvent des schémas de balisage ou des problèmes locaux et parvenons rapidement à un consensus. J'ai l'impression que le consensus est atteint beaucoup plus rapidement au niveau local qu'au niveau international (comme sur la liste de diffusion sur le balisage, par exemple).
+## Quelle est, selon toi, la plus grande force d’OpenStreetMap ?
+L'ouverture des données. Le fait que nous puissions fournir un produit ouvert et gratuit qui est plus détaillé que celui des acteurs commerciaux.
+## Quel est le plus grand défi pour OpenStreetMap ?
+Il n'est pas toujours facile de maintenir les données à jour. Heureusement, avec StreetComplete, vous pouvez désormais ajouter très facilement la date du dernier contrôle. Un autre défi consiste à offrir un environnement agréable aux nouveaux mappeurs, où ils n'ont pas peur de faire des erreurs.
+## Comment restes-tu à jour par rapport à l’actualité d’OpenStreetMap ?
+Je lis parfois _weeklyOSM_ et diverses listes de diffusion. Mais je ne lis certainement pas tout ce qui figure sur ces listes de diffusion.
+## Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
+Je recommande à tous les cartographes d'entrer en contact avec leur communauté locale. C'est plus amusant quand on sait que l'on travaille sur un projet ensemble !
+**Merci, Pieter, pour cette interview.**
+
+*Traduit du néerlandais par Claire Muyllaert et Pierre Parmentier avec l’aide de www.DeepL.com/Translator.*
