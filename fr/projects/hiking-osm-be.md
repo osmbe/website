@@ -1,5 +1,5 @@
 ---
-title: Cartes de randonnées hiking.osm.be
+title: Cartes de randonnées avec OSM!
 layout: project
 lang: fr
 lead: Julien Minet

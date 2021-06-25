@@ -1,5 +1,5 @@
 ---
-title: hiking-osm-be maps
+title: hiking maps with OSM!
 layout: project
 lang: en
 lead: Julien Minet
