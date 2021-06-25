@@ -13,4 +13,4 @@ These maps, whose catalog will evolve with time and demand, can be downloaded at
 
 By contributing to OpenStreetMap, you improve these maps and can use them freely for your leisure!
 
-This project was initiated by the two companies [Champs-Libres Coopérative](https://www.champs-libres.coop/) and the [atelier cartographique](https://atelier-cartographique.be/). More information on the [FAQ](https://hiking.osm.be/fr/index.html#FAQ).
+This project was initiated by the two companies [Champs-Libres Coopérative](https://www.champs-libres.coop/) and the [atelier cartographique](https://atelier-cartographique.be/). More information on the [FAQ](https://hiking.osm.be/nl/index.html#FAQ).
