@@ -8,24 +8,54 @@ redirect_from:
 ---
 
 <h1>
-    <i class="far fa-newspaper"></i>
-    Our latest news
+    <i class="far fa-fw fa-calendar-alt"></i>
+    Events
 </h1>
-<h2>Events</h2>
 <hr>
 
+<h2>Next events in Belgium</h2>
+<div class="row">
+    <div class="col-md" id="events-next"></div>
+    <div class="col-md" id="events-next-map" style="min-height: 350px; max-height: 350px;"></div>
+</div>
+<div class="small">Source: <a target="_blank" href="https://osmcal.org/?in=Belgium">https://osmcal.org/?in=Belgium</a></div>
+
+<hr>
+
+<h2>Past events in Belgium</h2>
+<div class="row">
+    <div class="col-md" id="events-past"></div>
+    <div class="col-md" id="events-past-map" style="min-height: 350px; max-height: 350px;"></div>
+</div>
+<div class="small">Source: <a target="_blank" href="https://osmcal.org/events/past/?in=Belgium">https://osmcal.org/events/past/?in=Belgium</a></div>
+
+<hr>
+
+<h2>Archives</h2>
 <div class="row">
     <div class="col">
         {% include posts-list.html %}
     </div>
     <div class="d-none d-xl-block col-xl-4">
-        <h2 class="h4">Next events in Belgium</h2>
-        <hr class="mt-0">
-        {% include osmcal.html locales="en" %}
-
         <h2 class="h4">Categories</h2>
         {% include posts-categories.html %}
 
         {% include twitter.html %}
     </div>
 </div>
+
+<script>
+    (function () {
+        const widgetNext = new OSMCal.WidgetList(document.getElementById("events-next"), { filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetNext.display();
+
+        const widgetNextMap = new OSMCal.WidgetMap(document.getElementById("events-next-map"), { filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetNextMap.display();
+
+        const widgetPast = new OSMCal.WidgetList(document.getElementById("events-past"), { past: true, filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetPast.display();
+
+        const widgetPastMap = new OSMCal.WidgetMap(document.getElementById("events-past-map"), { past: true, filter: {in: "Belgium"}, locales: "{{ page.lang }}", hideCancelled: true });
+        widgetPastMap.display();
+})();
+</script>

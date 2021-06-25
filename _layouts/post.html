@@ -24,7 +24,12 @@ layout: default
 
 {% if page.featured %}
 <div class="text-center">
+    {% if page.category == 'motm' %}
+    {% assign yearmonth = page.date | date: '%Y/%m/' %}
+    <img src="{{ page.featured | prepend: yearmonth | prepend: 'assets/images/motm/' | relative_url }}" alt="{{ page.featured }}">
+    {% else %}
     <img src="{{ page.featured | prepend: 'assets/images/post/' | relative_url }}" alt="{{ page.featured }}">
+    {% endif %}
     {% if page.featured_caption %}
     <div>
         <em>{{ page.featured_caption }}</em>

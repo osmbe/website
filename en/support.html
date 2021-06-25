@@ -9,24 +9,61 @@ redirect_from:
 
 <div>
     <h1>
-        <i class="fas fa-users"></i>
+        <i class="fas fa-comments"></i>
         Meet us
     </h1>
     <hr>
+
     <p>
-        We organize our events through <a href="https://www.meetup.com/OpenStreetMap-Belgium/"
-            target="_blank">Meetup</a>,
-        and keep an activity calendar : check our <a href="/en/category/event.html">Calendar page</a>.
+        We regularly organize <a href="{% link en/projects/mapathons.md %}">mapathons</a> and meetups.<br>
+        You can subscribe to our events on <a target="_blank" href="https://www.meetup.com/OpenStreetMap-Belgium/"
+            target="_blank">Meetup.com</a> or check our <a href="{% link en/category/event.html %}">Calendar</a>.
     </p>
+</div>
+
+<div class="mt-5">
+    <h1>
+        <i class="fas fa-users"></i>
+        Join us
+    </h1>
+    <hr>
+
     <p>
         Are you ready to step up your commitment to OpenStreetMap in Belgium ?<br>
-        Then <strong>become an official member</strong> of our organization, by contacting us at
-        <a href="mailto:board@osm.be">board@osm.be</a>.
+        Then <strong>become one of <a target="_blank" href="https://members.osm.be/view/members">the
+                members</a></strong> of our organization, by contacting us at
+        <a href="mailto:board@osm.be">board@osm.be</a>.<br>
+        Membership is free for individuals. Just a paragraph to introduce yourself is enough.<br>
+        Members can choose the Board and can vote during <a target="_blank"
+            href="https://github.com/osmbe/working-group-bylaws/tree/master/minutes">official meetings</a>.
+    </p>
+    <hr>
+    <p>
+        Does your organization make use of OpenStreetMap in Belgium, and do you want to help us help you?<br>
+        Then <strong>join us as a corporate member</strong>!
     </p>
     <p>
+        As a corporate member you get these benefits:
+        <ul>
+            <li>OpenStreetMap Belgium will promote specific mapping activities that are beneficial to you</li>
+            <li>Limited free consultancy: we will help you analyse business cases that could work with OpenStreetMap
+                (max 8 hours)</li>
+            <li>We will help you engage with the community when you do projects in Belgium</li>
+            <li>We will put your logo on our front page and show it during events</li>
+            <li>You can mention a link to OpenStreetMap Belgium in your own communications</li>
+            <li>And of course your will get instant karma</li>
+        </ul>
+    </p>
+    <p>
+        We offer this for 1.000 EUR yearly to <a target="_blank"
+            href="https://ec.europa.eu/growth/smes/sme-definition_en">SMEs</a> and 5.000 EUR yearly to others.<br>
+        Contact <a href="mailto:board@osm.be">board@osm.be</a> to discuss your membership!
+    </p>
+    <hr>
+    <p>
         Do you just want to be updated about our most important news and activities ?<br>
-        Then <strong>subscribe to our newsletter</strong> using <a href="https://members.osm.be/subscribe/newsletter"
-            target="_blank">this other form</a>.
+        Then <strong>subscribe to our newsletter</strong> using <a target="_blank"
+            href="https://members.osm.be/subscribe/newsletter">this form</a>.
     </p>
 </div>
 
@@ -38,13 +75,22 @@ redirect_from:
     <hr>
 
     <p>
-        Donating to OpenStreetMap Belgium helps our group to host this website, refund travel expenses for volunteers,
-        and it enables us to organize specific projects. We also use the donations to have t-shirts, stickers and
-        banners made for promotion.
+        OpenStreetMap Belgium operates on a very small budget. Right now, we can afford to pay for our servers and
+        an occasional train ticket.<br>
+        With your donation, we aim to:
+        <ul>
+            <li>Systematically refund transport costs for volunteers at events</li>
+            <li>Give hi-viz vests to volunteer mappers</li>
+            <li>Create promotional materials</li>
+            <li>Give a volunteer fee to mappers who organize activities or join meetings with partners</li>
+            <li>Larger donations will help us fund one or more of <a href="{% link en/projects.html %}">our projects</a> and
+                help us professionalize our organization, for example to apply for subsidies and get more administrative and
+                communication support.</li>
+        </ul>
     </p>
 
     <p>
-        You can use the following form or make a wired transfer on Open Knowledge Belgium bank account :
+        You can use the following form or make a wired transfer to the Open Knowledge Belgium bank account :
         <strong>{{ site.data.contact.bank }}</strong>.<br>
         Please add a note to the wire transfer stating that your donation is for OpenStreetMap Belgium.
     </p>
@@ -58,21 +104,21 @@ redirect_from:
         </h2>
         <p class="text-muted">Credit card only</p>
 
-        <div class="donation">
+        <div class="text-center mb-5">
             <h3>Monthly</h3>
             <div id="donation-monthly-items" class="donation-items">
-                <button class="donation-btn" data-plan-id="monthly-5" role="link">5 EUR</button>
-                <button class="donation-btn" data-plan-id="monthly-10" role="link">10 EUR</button>
-                <button class="donation-btn" data-plan-id="monthly-25" role="link">25 EUR</button>
-                <button class="donation-btn" data-plan-id="monthly-100" role="link">100 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-5" role="link">5 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-10" role="link">10 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-25" role="link">25 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="monthly-100" role="link">100 EUR</button>
             </div>
 
-            <h3>Yearly</h3>
+            <h3 class="mt-3">Yearly</h3>
             <div id="donation-yearly-items" class="donation-items">
-                <button class="donation-btn" data-plan-id="yearly-50" role="link">50 EUR</button>
-                <button class="donation-btn" data-plan-id="yearly-100" role="link">100 EUR</button>
-                <button class="donation-btn" data-plan-id="yearly-250" role="link">250 EUR</button>
-                <button class="donation-btn" data-plan-id="yearly-500" role="link">500 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-50" role="link">50 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-100" role="link">100 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-250" role="link">250 EUR</button>
+                <button class="btn btn-primary donation-btn" data-plan-id="yearly-500" role="link">500 EUR</button>
             </div>
         </div>
 
@@ -85,37 +131,57 @@ redirect_from:
         </h2>
         <p class="text-muted">Credit card or Bancontact</p>
 
-        <div class="donation">
-            <div class="donation-items">
-                <button class="donation-btn" data-amount="10" role="link">10 EUR</button>
-                <button class="donation-btn" data-amount="25" role="link">25 EUR</button>
-                <button class="donation-btn" data-amount="50" role="link">50 EUR</button>
-                <button class="donation-btn" data-amount="100" role="link">100 EUR</button>
-            </div>
-
-            <div class="text-center my-3">OR</div>
-
-            <div class="donation-custom input-group mb-3">
-                <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
-                    class="form-control" placeholder="Amount (EUR)" aria-label="Amount in euros">
-                <div class="input-group-append">
-                    <button id="donation-submit" class="btn btn-primary" type="button" disabled>Donate</button>
+        <div class="row justify-content-md-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="form-group">
+                    <label>Select your amount:</label>
+                    <div class="btn-group donation-items" role="group">
+                        <button class="btn btn-outline-primary donation-btn" data-amount="10">
+                            10 EUR
+                        </button>
+                        <button class="btn btn-outline-primary donation-btn" data-amount="25">
+                            25 EUR
+                        </button>
+                        <button class="btn btn-outline-primary donation-btn" data-amount="50">
+                            50 EUR
+                        </button>
+                        <button class="btn btn-outline-primary donation-btn" data-amount="100">
+                            100 EUR
+                        </button>
+                    </div>
                 </div>
-            </div>
-        </div>
 
-        <div id="donation-result">
-            <div id="donation-result-success" style="display: none; color: green;">
-                <strong>Thank you for your donation, it has been received.</strong>
-            </div>
-            <div id="donation-result-cancel" style="display: none; color: gray;">
-                <strong>Your donation was canceled.</strong>
-            </div>
-            <div id="donation-result-error" style="display: none; color: red;">
-                <strong>
-                    Sorry there was an error making your payment (you won't be charged), please try again later.
-                </strong>
-                <div id="error-message"></div>
+                <form autocomplete="off">
+                    <div class="form-group">
+                        <label for="donation-amount">Amount:</label>
+                        <input id="donation-amount" type="number" name="amount" min="0" step="1" lang="{{ page.lang }}"
+                            class="form-control" placeholder="Amount (EUR)" aria-label="Amount in euros" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="donation-message">Message (optional):</label>
+                        <input id="donation-message" type="text" name="message" class="form-control">
+                    </div>
+
+                    <button id="donation-submit" type="submit" class="btn btn-block btn-primary"
+                        disabled>Donate</button>
+                </form>
+
+                <div id="donation-result">
+                    <div id="donation-result-success" style="display: none; color: green;">
+                        <strong>Thank you for your donation, it has been received.</strong>
+                    </div>
+                    <div id="donation-result-cancel" style="display: none; color: gray;">
+                        <strong>Your donation was canceled.</strong>
+                    </div>
+                    <div id="donation-result-error" style="display: none; color: red;">
+                        <strong>
+                            Sorry there was an error making your payment (you won't be charged), please try again
+                            later.
+                        </strong>
+                        <div id="error-message"></div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -127,3 +193,14 @@ redirect_from:
         </p>
     </div>
 </div>
+
+{% include overlay-stripe.html %}
+
+<script>
+    window.app = {
+        url: '{{ site.url }}',
+        lang: '{{ page.lang }}'
+    }
+</script>
+<script src="https://js.stripe.com/v3"></script>
+<script src="{{ 'assets/stripe.js' | relative_url }}"></script>

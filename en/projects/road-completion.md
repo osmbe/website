@@ -4,7 +4,7 @@ layout: project
 lang: en
 featured: road-completion2.gif
 featured_caption: "Red is government data, the less red, the more complete OSM becomes."
-lead: Joost Schouppe & Ben Abelshausen
+lead: Joost Schouppe, Ben Abelshausen & Jonathan Beliën
 redirect_from: /2017/01/06/en-project-road-completion.html
 ---
 
@@ -32,9 +32,9 @@ Once these tools are up-and-running and we have done a first pass over the data,
 
 ### Current status
 
-- We are mapping in Maproulette, to get started go to this [instructions page](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions).
-- ~~We are doing a first comparison.~~
-- ~~We are building a first version of the comparison tools.~~
+- Comparison process is running every week for [Flanders](https://github.com/osmbe/road-completion/tree/master/data/belgium/flanders/difference) and [Brussels](https://github.com/osmbe/road-completion/tree/master/data/belgium/brussels/difference)
+- Comparison process is run manually for [Wallonia](https://github.com/osmbe/road-completion/tree/master/data/belgium/wallonia/difference)
+- We are mapping in MapRoulette, to get started go to this [instructions page](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
 
 ### Project key events
 
@@ -43,6 +43,8 @@ Once these tools are up-and-running and we have done a first pass over the data,
 * Set up [a Task in the Belgian tasking manager](https://tasks.osm.be/project/2); in the town of Halle as an example.
 * Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
 * [Presented the project at FOSS4G](http://slides.com/benabelshausen-1/deck-1).
-* Started a first Maproulette task to map missing roads (see current status)
+* Started a first Maproulette task to map missing roads
 * Presented at [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) ([video](https://www.youtube.com/watch?v=K0PClU5yZTQ&feature=youtu.be) and [slides](https://github.com/osmbe/website/)) and AIV Trefdag 2017
-* Created a tool at Open Summer of Code 2018
+* Created a prototype at [Open Summer of Code 2018](https://2018.summerofcode.be/roadcompletion.html)
+* [OpenStreetMap Foundation microgrant 2020](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project)
+

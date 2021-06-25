@@ -3,7 +3,7 @@ title: Mapper of the Month
 layout: project
 lang: en
 featured: community.jpg
-lead: Marc Gemis
+lead: Pierre Parmentier & Marc Gemis
 redirect_from: /2017/01/06/en-project-motm.html
 ---
 
