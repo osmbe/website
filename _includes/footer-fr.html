@@ -21,7 +21,11 @@
     </div>
     <div class="col-sm-6">
         <h2>Membres <i>corporate</i></h2>
-        <p>Ces organisations soutiennent OpenStreetMap Belgique.</p>
+        <p>
+            Ces organisations
+            <a href="{% link fr/support.html %}">soutiennent</a>
+            OpenStreetMap Belgique.
+        </p>
         <ul class="corporate-members">
             {% for company in site.data.corporate-members %}
             <li>
