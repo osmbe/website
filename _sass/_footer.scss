@@ -13,4 +13,19 @@
     hr {
         border-color: #fff;
     }
+
+    .corporate-members {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        padding-left: 0;
+
+        li {
+            margin: 0 1em;
+
+            img {
+                max-height: 150px;
+            }
+        }
+    }
 }

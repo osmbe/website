@@ -16,15 +16,19 @@
         </p>
     </div>
     <div class="col-sm-6">
-        <h2>Organisations partenaires</h2>
-        <p>
-            Devenir membre de notre communauté ou de notre réseau ?
-            Venez nous voir sur <a href="http://github.com/osmbe/" target="_blank">GitHub</a>.
-        </p>
-
-        <ul class="default">
-            {% for partner in site.data.partners %}
-            <li><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
+        <h2>Membres <i>corporate</i></h2>
+        <p>Ces organisations soutiennent OpenStreetMap Belgique.</p>
+        <ul class="corporate-members">
+            {% for company in site.data.corporate-members %}
+            <li>
+                <a href="{{ company.url }}" title="{{ company.name }}" target="_blank">
+                    {% if company.logo.dark %}
+                    <img src="{{ 'assets/logos/' | append: company.logo.dark | relative_url }}" alt="{{ company.name }}">
+                    {% else %}
+                    <img src="{{ 'assets/logos/' | append: company.logo | relative_url }}" alt="{{ company.name }}">
+                    {% endif %}
+                </a>
+            </li>
             {% endfor %}
         </ul>
     </div>
