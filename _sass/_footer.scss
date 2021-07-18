@@ -14,6 +14,21 @@
         border-color: #fff;
     }
 
+    .part-of {
+        list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+        padding-left: 0;
+
+        li {
+            text-align: center;
+
+            img {
+                max-height: 150px;
+            }
+        }
+    }
+
     .corporate-members {
         list-style: none;
         display: flex;
