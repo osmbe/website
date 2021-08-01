@@ -1,5 +1,5 @@
 ---
-title: "Contributeur du mois : Gustavo Soares (Brésil)"
+title: "Contributeur du mois: Gustavo Soares (Brésil)"
 featured: img2.jpg
 layout: post
 category: motm
