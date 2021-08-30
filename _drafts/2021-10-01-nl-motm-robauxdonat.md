@@ -32,7 +32,7 @@ Ik breng een beetje van alles in kaart, maar ik ben echt gespecialiseerd in alle
 
 ## Waar ben je het meest trots op als mapper?
 
-Ik ben er zeer trots op dat ik met Noémie een project van de maand [^2] heb opgezet betreffende de gendarmerieën en dat deze in één maand tijd allemaal in kaart zijn gebracht, dat wil zeggen ongeveer 3&nbsp;500 gendarmerieën en 400 politiebureaus. Dit project is opgezet met de digitale opdracht van de Algemene Directie van de Gendarmerie Nationale, en wat mij het meest verheugde was dat de rijkswachters op het terrein een bijdrage leverden. Dit project is voor hen rechtstreeks van nut omdat de gendarmerie een aangepaste versie van OSMAnd gebruikt.
+Ik ben er zeer trots op dat ik met Noémie een project van de maand [^2] heb opgezet betreffende de gendarmerieën en dat deze in één maand tijd allemaal in kaart zijn gebracht, dat wil zeggen ongeveer 3&nbsp;500 gendarmerieën en 400 politiebureaus. Dit project is opgezet met de digitale opdracht van de Algemene Directie van de Gendarmerie Nationale, en wat mij het meest verheugde was dat de rijkswachters op het terrein een bijdrage leverden. Dit project is voor hen rechtstreeks van nut omdat de gendarmerie een aangepaste versie van OsmAnd gebruikt.
 
 ## Waarom breng je het in kaart? Wat motiveert je?
 
