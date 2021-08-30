@@ -32,7 +32,7 @@ Je cartographie un peu de tout mais j'ai vraiment une spécialisation sur tout c
 
 ## Quelle est ta plus grande prouesse en tant que contributeur ?
 
-Je suis très fier d'avoir monté un Projet du Mois [^2] avec Noémie concernant les gendarmeries et que toutes ont été cartographiées en un mois tout pile, soit environ 3 500 gendarmeries et 400 commissariats de police. Ce projet a pu être monté avec la Mission numérique de la Direction générale de Gendarmerie nationale et ce qui m’a fait le plus plaisir c'est que des gendarmes de terrain ont contribué. Ce projet leur est directement utile car la gendarmerie utilise une version modifiée d’OSMAnd.
+Je suis très fier d'avoir monté un Projet du Mois [^2] avec Noémie concernant les gendarmeries et que toutes ont été cartographiées en un mois tout pile, soit environ 3 500 gendarmeries et 400 commissariats de police. Ce projet a pu être monté avec la Mission numérique de la Direction générale de Gendarmerie nationale et ce qui m’a fait le plus plaisir c'est que des gendarmes de terrain ont contribué. Ce projet leur est directement utile car la gendarmerie utilise une version modifiée d’OsmAnd.
 
 ## Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
 
