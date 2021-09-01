@@ -17,7 +17,7 @@ Mon nom est Karel, en ligne c'est Dasrakel. Je vis et cartographie à Roeselare,
 
 Je connais assez bien les logiciels libres, je les utilise et j'ai participé à des traductions. C'est par ce biais que j'ai découvert OpenStreetMap, comment et où je ne me souviens pas exactement. Je me souviens qu'il était assez populaire auprès des personnes cherchant à éviter Google. J'ai également appris à apprécier les licences accessibles et à permettre aux gens de contribuer de manière anonyme.
 
-Au début, je cartographiais les bâtiments à partir des photos satellites de Bing. Cela a également fonctionné, mais avec JOSM et le GRB [^1], il est désormais beaucoup plus facile de faire de bonnes contributions. Je suis également retourné à ces premiers endroits pour améliorer mes propres contributions. Ils n'étaient pas mauvais, mais je peux faire mieux maintenant.
+Au début, je cartographiais les bâtiments à partir des photos satellites de Bing. Cela a également fonctionné, mais avec JOSM et le GRB &mdash; Fichier de référence à grande échelle ou Carte de base de la Flandre &mdash; il est désormais beaucoup plus facile de faire de bonnes contributions. Je suis également retourné à ces premiers endroits pour améliorer mes propres contributions. Ils n'étaient pas mauvais, mais je peux faire mieux maintenant.
 
 ## Comment utilises-tu OpenStreetMap ?
 
@@ -29,7 +29,7 @@ En général à peu près tout et micro-cartographie à Roeselare.
 
 Quand j'en ai envie et qu'il ne pleut pas, je sors et je fais mon relevé d'une rue qui n'a pas encore été faite. Cela se résume à marcher et à noter tout ce que je rencontre en texte sur mon téléphone avec beaucoup d'abréviations. La plupart de mes contributions sont basées sur ce principe.
 
-### Que cartographies-tu ? As-tu une spécialisation ?
+## Que cartographies-tu ? As-tu une spécialisation ?
 
 Les rues elles-mêmes étaient déjà largement achevées et sont également mises à jour rapidement. Je travaille surtout sur les bâtiments, les chemins, les magasins et les petits détails comme un parcmètre ou un banc. J'ai commencé par une rue et j'ai continué à ajouter un autre bloc. Je pourrais continuer à l'infini, mais c'est aussi littéralement de plus en plus loin de ma porte, bien sûr.
 
@@ -41,7 +41,7 @@ Avec le wiki à portée de main, la plupart des choses sont assez simples. Il ex
 
 En un an, j'ai ajouté de nombreux bâtiments et détails de Roeselare. Faire un relevé rue par rue et ensuite cartographier. La carte n'était pas vide avant mon arrivée, elle est clairement beaucoup plus complète, et les rendus sont devenus plus jolis aussi.
 
-### Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
+## Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
 
 Je cartonne parce que je sais que quelqu'un en bénéficiera. On ne trouve pas toujours tout sur toutes les cartes, au moins avec OpenStreetMap je peux l'ajouter moi-même. Grâce à la cartographie, je connais les rues par leur nom et je connais des petits coins que je n'aurais jamais découverts autrement.
 
@@ -75,7 +75,4 @@ Merci à tous ceux qui nous aident. Les petites choses aident aussi. Même si vo
 
 **Merci beaucoup, Karel, pour cette interview.**
 
-[^1]: Fichier de référence à grande échelle ou Carte de base de la Flandre (GRB)
-
 *Traduit du néerlandais par Claire Muyllaert et Pierre Parmentier avec l'aide de [www.DeepL.com/Translator](www.DeepL.com/Translator).*
-
