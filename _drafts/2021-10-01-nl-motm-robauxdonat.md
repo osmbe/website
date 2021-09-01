@@ -9,7 +9,6 @@ lang: nl
 
 Zijn [homepage](https://wiki.openstreetmap.org/wiki/User:Gendy54) en zijn [bijdragerpagina](https://hdyc.neis-one.org/?Gendy54).
 
-
 ## Hallo Donat. Wil je jezelf even voorstellen aan onze lezers?
 
 Ik ben een 37 jarige man. Ik kom oorspronkelijk uit Nancy in Lotharingen, Frankrijk. Ik woon al 10 jaar in de buurt van Parijs. Ik werk bij personeelszaken in een ziekenhuisomgeving.
@@ -20,7 +19,7 @@ Ik herinner het me helemaal niet. Wat ik wel kan zeggen is dat ik altijd al een 
 
 ## Hoe gebruik je OpenStreetMap?
 
-Ik gebruik OpenStreetMap voornamelijk om bij te dragen en ook een beetje op een utilitaire manier. Ik gebruik uMap regelmatig voor het in kaart brengen van crises met de VISOV vereniging-associatie [^¹].
+Ik gebruik OpenStreetMap voornamelijk om bij te dragen en ook een beetje op een utilitaire manier. Ik gebruik uMap regelmatig voor het in kaart brengen van crises met de VISOV vereniging-associatie ([Internationale Vrijwilligers in Virtuele Operationele Ondersteuning](https://twitter.com/VISOV1/status/1427741296110841856)).
 
 ## Wat voor soort bijdrager bent u en in welke kaartgebied map je?
 
@@ -32,7 +31,7 @@ Ik breng een beetje van alles in kaart, maar ik ben echt gespecialiseerd in alle
 
 ## Waar ben je het meest trots op als mapper?
 
-Ik ben er zeer trots op dat ik met Noémie een project van de maand [^2] heb opgezet betreffende de gendarmerieën en dat deze in één maand tijd allemaal in kaart zijn gebracht, dat wil zeggen ongeveer 3&nbsp;500 gendarmerieën en 400 politiebureaus. Dit project is opgezet met de digitale opdracht van de Algemene Directie van de Gendarmerie Nationale, en wat mij het meest verheugde was dat de rijkswachters op het terrein een bijdrage leverden. Dit project is voor hen rechtstreeks van nut omdat de gendarmerie een aangepaste versie van OsmAnd gebruikt.
+Ik ben er zeer trots op dat ik met Noémie een project van de maand ([https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale](https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale)) heb opgezet betreffende de gendarmerieën en dat deze in één maand tijd allemaal in kaart zijn gebracht, dat wil zeggen ongeveer 3&nbsp;500 gendarmerieën en 400 politiebureaus. Dit project is opgezet met de digitale opdracht van de Algemene Directie van de Gendarmerie Nationale, en wat mij het meest verheugde was dat de rijkswachters op het terrein een bijdrage leverden. Dit project is voor hen rechtstreeks van nut omdat de gendarmerie een aangepaste versie van OsmAnd gebruikt.
 
 ## Waarom breng je het in kaart? Wat motiveert je?
 
@@ -42,7 +41,7 @@ Ik heb een zeer "openbare dienst"-opvatting over OpenStreetMap. Wat mij momentee
 
 Op mijn niveau ben ik erg betrokken bij het democratiseren van OpenStreetMap, vooral wat betreft het leren kennen van de tools. Ik stel sessies op afstand van JOSM voor degenen die willen leren hoe het te gebruiken en zo de bijdrage aan OpenStreetMap te vergemakkelijken. Ik hoop overal ervaren contribuanten te verspreiden die nieuwkomers dicht bij huis kunnen helpen. Op dit moment staat een beginnend medewerker er meestal alleen voor. Dit kan ook helpen het aantal fouten en dus tijdrovende correcties, die niemand wil maken, te verminderen.
 
-Ik heb ook een meer audiovisueel project in de pijplijn [^3] om de kennis van het OpenStreetMap project te democratiseren. In het tijdperk van de tutorials kunnen we volgens mij niet om dit communicatiemedium heen, dat me veel relevanter lijkt dan de wiki en de statische blogpagina's die geen volledige toe-eigening van het project toelaten. En tenslotte heb ik nog een project lopen met twee vrienden, maar meer zal ik niet zeggen. Het zal een verrassing zijn!
+Ik heb ook een meer audiovisueel project in de pijplijn ([https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel](https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel)) om de kennis van het OpenStreetMap project te democratiseren. In het tijdperk van de tutorials kunnen we volgens mij niet om dit communicatiemedium heen, dat me veel relevanter lijkt dan de wiki en de statische blogpagina's die geen volledige toe-eigening van het project toelaten. En tenslotte heb ik nog een project lopen met twee vrienden, maar meer zal ik niet zeggen. Het zal een verrassing zijn!
 
 ## Heb je contact met andere mappers?
 
@@ -72,11 +71,5 @@ De VISOV-vereniging maakt inderdaad deel uit van de VOST-beweging, maar iedereen
 Met de cartografie op uMap kunnen we de feedback van burgers via sociale netwerken geolokaliseren: Twitter, Facebook, Instagram,&#8230; Foto van vernielde brug, bijvoorbeeld. Op die manier kan ruwe informatie worden omgezet in geformatteerde informatie voor overheidsinstanties (prefecturen, hulpdiensten) en dus beter bruikbaar worden gemaakt voor geografische verschijnselen die anders niet zichtbaar zouden zijn. Door het in kaart brengen kunnen we de burgers ook informeren over de plaatsen van opvang: gemeenschapshuis, gymnastiekzaal en dit publiceren op sociale netwerken.
 
 **Dank je, Donat, voor dit interview.**
-
-[^1]: [Internationale Vrijwilligers in Virtuele Operationele Ondersteuning](https://twitter.com/VISOV1/status/1427741296110841856)
-
-[^2]: [https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale](https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale)
-
-[^3]: [https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel](https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel)
 
 *Vertaald uit het Frans door Claire Muyllaert en Pierre Parmentier met de hulp van www.DeepL.com/Translator.*
