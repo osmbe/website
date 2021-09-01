@@ -17,7 +17,7 @@ My name is Karel, online is Dasrakel. I live and map in Roeselare, Belgium. My f
 
 I am pretty well versed in free software, I use it and have helped with translations. I came across OpenStreetMap through that, how or where I don't remember exactly. I do remember that it was quite popular with people trying to avoid Google. I also cultivated an appreciation for accessible licences and allowing people to contribute anonymously.
 
-In the beginning, I mapped buildings based on Bing satellite photos. That also worked, but with JOSM and the GRB [^1] it is now much easier to make good contributions. I have also gone back to those first places to improve my own contributions. They were not wrong, but I can do better now.
+In the beginning, I mapped buildings based on Bing satellite photos. That also worked, but with JOSM and the GRB &mdash; the Large-scale Reference File or Base map of Flanders &mdash; it is now much easier to make good contributions. I have also gone back to those first places to improve my own contributions. They were not wrong, but I can do better now.
 
 ## How do you use OpenStreetMap?
 
@@ -74,8 +74,5 @@ Rather what I happen to come across. Sometimes I read a blog, the subreddit or M
 Thank you to everyone who helps. The little bit helps too. Even if you don't draw, a map comment or MapComplete will also make the map better.
 
 **Thank you very much, Karel, for this interview.**
-
-[^1]: Large-scale Reference File or Base map of Flanders
-
 
 *Translated from Dutch by Claire Muyllaert and Pierre Parmentier with the help of [www.DeepL.com/Translator](www.DeepL.com/Translator).*
