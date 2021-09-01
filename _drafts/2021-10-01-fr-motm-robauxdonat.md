@@ -20,7 +20,7 @@ Je ne m'en rappelle plus du tout. Ce que je peux dire c'est que j'ai toujours é
 
 ## Comment utilises-tu OpenStreetMap ?
 
-J'utilise surtout OpenStreetMap pour contribuer et assez peu de manière utilitaire. J’utilise régulièrement uMap dans le cadre de la cartographie de crise avec l’association Visov [^¹].
+J'utilise surtout OpenStreetMap pour contribuer et assez peu de manière utilitaire. J’utilise régulièrement uMap dans le cadre de la cartographie de crise avec l’association Visov ([Volontaires Internationaux en Soutien Opérationnel Virtuel](https://twitter.com/VISOV1/status/1427741296110841856)).
 
 ## Quelle sorte de contributeur es-tu et dans quelle région cartographies-tu ?
 
@@ -32,7 +32,7 @@ Je cartographie un peu de tout mais j'ai vraiment une spécialisation sur tout c
 
 ## Quelle est ta plus grande prouesse en tant que contributeur ?
 
-Je suis très fier d'avoir monté un Projet du Mois [^2] avec Noémie concernant les gendarmeries et que toutes ont été cartographiées en un mois tout pile, soit environ 3 500 gendarmeries et 400 commissariats de police. Ce projet a pu être monté avec la Mission numérique de la Direction générale de Gendarmerie nationale et ce qui m’a fait le plus plaisir c'est que des gendarmes de terrain ont contribué. Ce projet leur est directement utile car la gendarmerie utilise une version modifiée d’OsmAnd.
+Je suis très fier d'avoir monté un Projet du Mois ([https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale](https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale)) avec Noémie concernant les gendarmeries et que toutes ont été cartographiées en un mois tout pile, soit environ 3 500 gendarmeries et 400 commissariats de police. Ce projet a pu être monté avec la Mission numérique de la Direction générale de Gendarmerie nationale et ce qui m’a fait le plus plaisir c'est que des gendarmes de terrain ont contribué. Ce projet leur est directement utile car la gendarmerie utilise une version modifiée d’OsmAnd.
 
 ## Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
 
@@ -42,7 +42,7 @@ J'ai une conception très “service public” d’OpenStreetMap. Ce qui me moti
 
 À mon niveau je suis beaucoup impliqué pour démocratiser OpenStreetMap et notamment la prise en main des outils. Je propose des sessions de prise en main à distance de JOSM pour qui le souhaite pour faciliter la prise en main et ainsi faciliter la contribution à OpenStreetMap. J’espère par ce biais essaimer un peu partout des contributeurs aguerris qui pourront aider les nouveaux près de chez eux. Actuellement, un contributeur qui commence se trouve le plus souvent tout seul. Cela peut aussi permettre de diminuer les erreurs et donc les corrections qui prennent beaucoup de temps et que personne n’a envie de faire.
 
-J'ai aussi un projet sous le coude plus audiovisuel [^3] pour démocratiser la connaissance du projet OpenStreetMap. À l'heure des tutoriels je pense qu'on ne peut pas faire l'impasse sur ce média de communication qui me paraît beaucoup plus pertinent que le wiki et des pages de blog introuvables et statiques qui ne permettent pas une appropriation complète du projet. Et enfin j’ai un autre projet en cours avec deux amis, mais je n’en dis pas plus. Ce sera la surprise!
+J'ai aussi un projet sous le coude plus audiovisuel ([https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel](https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel)) pour démocratiser la connaissance du projet OpenStreetMap. À l'heure des tutoriels je pense qu'on ne peut pas faire l'impasse sur ce média de communication qui me paraît beaucoup plus pertinent que le wiki et des pages de blog introuvables et statiques qui ne permettent pas une appropriation complète du projet. Et enfin j’ai un autre projet en cours avec deux amis, mais je n’en dis pas plus. Ce sera la surprise!
 
 ## As-tu des contacts avec d’autres contributeurs ?
 
@@ -72,11 +72,3 @@ Effectivement l'association VISOV fait partie du mouvement des VOST, mais chacun
 La cartographie sur uMap permet de géolocaliser les remontées des citoyens via les réseaux sociaux: Twitter, Facebook, Instagram,&#8230; Photo de pont détruit, par exemple. Elle permet ainsi de transformer l'information brute en information mise en forme à destination des pouvoirs publics &mdash; préfectures, services de secours &mdash; et donc plus exploitable sur des phénomènes géographiques, qui ne seraient pas visibles dans le cas contraire. La cartographie nous permet également de renseigner les citoyens sur les lieux d'accueil: salle communale, gymnase et de publier cela sur les réseaux sociaux.
 
 **Merci, Donat, pour cette interview.**
-
-[^1]: [Volontaires Internationaux en Soutien Opérationnel Virtuel](https://twitter.com/VISOV1/status/1427741296110841856)
-
-[^2]: [https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale](https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale)
-
-[^3]: [https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel](https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel)
-
-
