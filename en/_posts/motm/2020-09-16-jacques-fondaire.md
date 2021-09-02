@@ -55,7 +55,7 @@ The greatest strength is its presence on the ground, which makes it possible to 
 
 If we manage to convince many people and associations to use OpenStreetMap rather than other mapping applications, a major challenge will be to finance powerful servers to transmit information in real time. There are already times when servers take a long time to respond.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 I subscribe to the weeklyOSM feed. However, reading the Wiki seems more important to me to allow a contributor to get into the spirit of the project. 
 

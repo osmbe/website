@@ -53,7 +53,7 @@ Short answer will be _Community and Data_.
 
 I would say first thing is the Community, Local Chapters across the globe because of local knowledge and local needs.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 About Kosovo, I would say the main channel is the Telegram group, while globally I would say that the main channels are the mailing lists.
 

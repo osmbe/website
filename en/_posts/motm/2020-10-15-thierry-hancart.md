@@ -51,7 +51,7 @@ It continues to be fed by enthusiasts, independent of the commercial circuits.
 
 To become a database that is as complete as possible and competitive compared to the big names in the sector.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 To keep me informed of OpenStreetMap's developments, I regularly consult the OpenStreetMap Belgium and France mailing lists, as well as the wiki files.
 

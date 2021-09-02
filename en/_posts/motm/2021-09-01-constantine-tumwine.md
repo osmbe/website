@@ -56,7 +56,7 @@ One of OpenStreetMap’s greatest strength is that it doesn’t just give you a 
 
 In my own experience I think the challenge that I have faced with OpenStreetMap is that some imageries are not clear and this makes it difficult for one to make better maps.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 Be known for reliability. The definition of reliable is to be consistently good in quality or performance and able to be trusted. You don't need a detailed explanation as to how having your own name associated with this kind of statement will benefit your reputation and career
 

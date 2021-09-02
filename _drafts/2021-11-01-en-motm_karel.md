@@ -65,7 +65,7 @@ It is very flexible, and not only that open license. We invent new tags or value
 
 A map is logically very location-specific. So we need an interested person in every village who wants to help.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 Rather what I happen to come across. Sometimes I read a blog, the subreddit or Matrix. For mapping itself, it's not really necessary to keep up to date, as long as you use the wiki.
 

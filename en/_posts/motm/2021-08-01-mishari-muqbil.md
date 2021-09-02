@@ -77,7 +77,7 @@ The challenge is in bringing in more contributors from Asia, where there's a lac
 
 The other challenge I see as the quantity of data grows is making an environment welcoming to new users. There will inherently be a conflict between new users who have a different interpretation of the map and more established mappers. Sometimes this is overwhelming for newcomers and a source of much anguish for established mappers.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 Mostly via _weeklyOSM_, OSM Thailand Forum, and the OSM Asia Telegram channel.
 
