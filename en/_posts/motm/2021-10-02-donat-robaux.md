@@ -1,5 +1,5 @@
 ---
-title: "Contributor of the month: Gendy54 (France)"
+title: "Contributor of the month: Donat Robaux (France)"
 featured: 
 layout: post
 category: motm
@@ -7,8 +7,7 @@ author: Pierre Parmentier
 lang: en
 ---
 
-His [homepage](https://wiki.openstreetmap.org/wiki/User:Gendy54) and his [contribution page](https://hdyc.neis-one.org/?Gendy54).
-
+His [homepage](https://www.openstreetmap.org/user/gendy54) and his [contribution page](https://hdyc.neis-one.org/?gendy54).
 
 ## Hello Donat. Would you like to briefly introduce yourself to our readers?
 
@@ -32,7 +31,7 @@ I map a bit of everything but I really specialise in everything to do with healt
 
 ## What is your greatest achievement as mapper?
 
-I am very proud to have set up a Project of the Month ([https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale](https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale)) with Noémie concerning gendarmeries and that all of them have been mapped in just one month, that is to say about 3&nbsp;500 gendarmeries and 400 police stations. This project was set up with the digital mission of the Gendarmerie Nationale's General Directorate, and what I was most pleased about was that the gendarmes in the field contributed. This project is directly useful to them because the gendarmerie uses a modified version of OsmAnd.
+I am very proud to have set up a Project of the Month (<https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale>) with Noémie concerning gendarmeries and that all of them have been mapped in just one month, that is to say about 3&nbsp;500 gendarmeries and 400 police stations. This project was set up with the digital mission of the Gendarmerie Nationale's General Directorate, and what I was most pleased about was that the gendarmes in the field contributed. This project is directly useful to them because the gendarmerie uses a modified version of OsmAnd.
 
 ## What are you mapping? What motivates you?
 
@@ -42,7 +41,7 @@ I have a very "public service" conception of OpenStreetMap. What motivates me at
 
 At my level, I'm very involved in democratizing OpenStreetMap, especially in terms of getting to know the tools. I propose remote sessions of JOSM for those who want to learn how to use it and thus facilitate the contribution to OpenStreetMap. I hope to spread experienced contributors everywhere who can help newcomers close to home. At the moment, a contributor who is just starting out is usually on his own. This can also help reduce the number of errors and therefore time-consuming corrections that no one wants to make.
 
-I also have a more audiovisual project in the pipeline ([https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel](https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel)) to democratise knowledge of the OpenStreetMap project. In the age of tutorials, I think that we can't ignore this medium of communication, which seems to me to be much more relevant than the wiki and the static blog pages that don't allow a complete appropriation of the project. And finally I have another project in progress with two friends, but I won't say more. It will be a surprise!
+I also have a more audiovisual project in the pipeline (<https://wiki.openstreetmap.org/wiki/User:Gendy54/Projet_audiovisuel>) to democratise knowledge of the OpenStreetMap project. In the age of tutorials, I think that we can't ignore this medium of communication, which seems to me to be much more relevant than the wiki and the static blog pages that don't allow a complete appropriation of the project. And finally I have another project in progress with two friends, but I won't say more. It will be a surprise!
 
 ## Do you have contacts with other mappers?
 
@@ -67,10 +66,11 @@ I look forward to the French WeeklyOSM every weekend. I look at the internationa
 Have fun mapping!
 
 ## I have one more small question. You mentioned VISOVs. I understand that VISOV is part of VOST. Could you tell us more about how OpenStreetMap is helping them in a concrete way?
+
 The VISOV association is indeed part of the VOST movement, but everyone does what they want in their own country. There is no federation or anything else.
 
-The mapping on uMap allows us to geolocalise the feedback from citizens via social networks: Twitter, Facebook, Instagram,&#8230; (photo of destroyed bridge for example). It thus enables raw information to be transformed into formatted information for public authorities (prefectures, emergency services) and therefore more usable for geographical phenomena that would not otherwise be visible. Mapping also allows us to inform citizens about the places of reception: community hall, gymnasium and to publish this on social networks.
+The mapping on uMap allows us to geolocalise the feedback from citizens via social networks: Twitter, Facebook, Instagram, ... (photo of destroyed bridge for example). It thus enables raw information to be transformed into formatted information for public authorities (prefectures, emergency services) and therefore more usable for geographical phenomena that would not otherwise be visible. Mapping also allows us to inform citizens about the places of reception: community hall, gymnasium and to publish this on social networks.
 
-**Thank you, Louis, for this interview.**
+**Thank you, Donat, for this interview.**
 
 *Translated from French by Pierre Parmentier with the help of www.DeepL.com/Translator.*
