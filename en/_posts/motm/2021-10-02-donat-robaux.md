@@ -31,7 +31,7 @@ I map a bit of everything but I really specialise in everything to do with healt
 
 ## What is your greatest achievement as mapper?
 
-I am very proud to have set up a Project of the Month (<https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale>) with Noémie concerning gendarmeries and that all of them have been mapped in just one month, that is to say about 3&nbsp;500 gendarmeries and 400 police stations. This project was set up with the digital mission of the Gendarmerie Nationale's General Directorate, and what I was most pleased about was that the gendarmes in the field contributed. This project is directly useful to them because the gendarmerie uses a modified version of OsmAnd.
+I am very proud to have set up a Project of the Month (<https://wiki.openstreetmap.org/wiki/FR:Project_of_the_month/Gendarmerie_nationale>) with Noémie concerning gendarmeries and that all of them have been mapped in just one month, that is to say about 3 500 gendarmeries and 400 police stations. This project was set up with the digital mission of the Gendarmerie Nationale's General Directorate, and what I was most pleased about was that the gendarmes in the field contributed. This project is directly useful to them because the gendarmerie uses a modified version of OsmAnd.
 
 ## What are you mapping? What motivates you?
 
