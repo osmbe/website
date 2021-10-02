@@ -1,5 +1,5 @@
 ---
-title: "Contributor of the month: Donat Robaux (France)"
+title: "Mapper of the month: Donat Robaux (France)"
 featured: 
 layout: post
 category: motm
