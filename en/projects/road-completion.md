@@ -14,7 +14,7 @@ We're called OpenSTREETMap for a reason: we have an excellent road network. With
 
 As we are crowdsourcers, every mistake that our crowd sees will be corrected. But some changes aren't very visible. For example, a new road with just a few houses, without connections. A name change of a road, or a misspelled road name. Or a road that was mapped back when aerial imagery was much lower quality.
 
-We use open-data and machine learning to verify OSM data. As governments are finally embracing open data, more and more open road datasets are becoming available. We want to use that data to improve our map - and why not, to improve those open datasets themselves too.
+We use open data and machine learning to verify OSM data. As governments are finally embracing open data, more and more open road datasets are becoming available. We want to use that data to improve our map - and why not, to improve those open datasets themselves too.
 
 As a community, we want to build the tools to make sure that any correction in the official open data road sets is made visible to the mapping community as quickly and as accurately as possible. We started with the Flemish road dataset, but there are similar datasets in the other regions and around the world. So we've built something that is easily scalable to any dataset of road centerlines worldwide.
 
