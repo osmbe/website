@@ -27,13 +27,14 @@ In dit kader willen we ook een meetinstrument aanbieden dat de kwaliteit van OSM
 
 Je kan nog steeds helpen, nadat je [deze instructies leest](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions) 
 
-### Key events van dit project
+### Sleutelmomenten van dit project
 
 * Exploratie van het Wegenregister als bron, met afgeleide kaartlagen om mappers te helpen. Zie dit ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
 * In omgekeerde richting: Wegenregister valideren met OSM, case study in Antwerpen ([artikel - EN](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
-* Taak toegevoegd in de (stopgezette) Belgische tasking manager; voorbeeldproject Halle.
+* Taak toegevoegd in de (stopgezette) Belgische tasking manager; Halle als voorbeeldproject.
 * [Wiki pagina gemaakt](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project) om de concrete taken te organiseren.
 * Eerste Maproulette taak online, [instructies vind je hier](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
 * Presentatie op AIV Trefdag 2017 en [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) (video)
 * [Open Summer of Code 2018 project](https://2018.summerofcode.be/roadcompletion.html)
-* [OpenStreetMap Foundation microgrant 2020](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project)
+* The huidige versie van het project wordt bijgehouden op de [OSMBE github pagina](https://github.com/osmbe/road-completion/). Met een [OpenStreetMap Foundation microgrant 2020](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project) kon bestuurslid Jonathan Beliën de nodige tijd investeren in het bouwen van de tool. Vlaanderen, Brussel en Wallonië werden eerst opgezet. Later volgden Luxemburg, Kosovo en Nederland.
+* In 2021 werkten we samen met Digitaal Vlaanderen om hen te helpen onze feedback te verwerken. We bezorgden 561 gevallen waarin de officiële data wellicht fout waren. Dit leidde in 90% van de gevallen tot een correctie van de officiële data. 
