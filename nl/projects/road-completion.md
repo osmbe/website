@@ -14,7 +14,7 @@ Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Nat
 
 Aangezien OSM volledig gebaseerd is op crowdsourcing, zal onze crowd elk opgemerkt foutje corrigeren. Sommige wijzigingen op het terrein vallen echter niet echt op. Een nieuwe verkaveling met maar een paar huizen in een doodlopende straat bijvoorbeeld. Een wijziging van een straatnaam of een spelfout in die naam. Een weg die slecht ingetekend is in OSM omdat de luchtfoto's vroeger van mindere kwaliteit waren.
 
-We maken gebruik van open data en machine learning om OSM data te verifiëren. Nu overheden eindelijk hun data vrijgeven als open data, zijn er steeds meer datasets met wegen beschikbaar. We willen die data gebruiken om onze kaart te verbeteren – en waarom niet, om de overheidsdata zelf ook te verbeteren.
+Overheden over de hele wereld zetten in op open data, zodat meer en meer datasets met wegen beschikbaar worden. We kunnen ook machine vision loslaten op luchtfoto's om een wegennetwerk op te bouwen. We willen die data gebruiken om onze kaart te verbeteren – en waarom niet, om de overheidsdata zelf ook te verbeteren.
 
 We bouwen tools om verbeteringen in de officiële wegendata aan te bieden aan onze mappers, op een snelle en gemakkelijke manier. Omdat het niet enkel Vlaanderen is dat dit soort data aanbiedt, proberen we iets te bouwen dat eenvoudig uit te breiden is naar om het even welke dataset van wegassen, wereldwijd.
 
