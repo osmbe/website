@@ -8,22 +8,22 @@ lead: Joost Schouppe, Ben Abelshausen & Jonathan Beliën
 redirect_from: /2017/01/06/nl-project-road-completion.html
 ---
 
-Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Natuurlijk hebben we een excellent routeerbaar wegnetwerk, maar toch zijn er nog veel kleine fouten. De bedoeling van dit project is om die kleine fouten te detecteren en ontbrekende wegen toe te voegen. Tegelijk willen we er ook voor zorgen dat we nooit achterlopen op de overheidsdata, en dat we fouten aan overheidskant kunnen laten nakijken door hen.
+Hoewel we OpenStreetMap heten, zijn niet echt álle straten gemapped in OSM. Natuurlijk hebben we een excellent routeerbaar wegnetwerk, maar toch zijn er hier en daar nog kleine fouten. De bedoeling van dit project is om die fouten te detecteren en ontbrekende wegen toe te voegen. Tegelijk willen we er ook voor zorgen dat we nooit achterlopen op de overheidsdata, en dat we fouten aan overheidskant kunnen laten nakijken door hen.
 
 ### Crowdsourcing, open data en machine learning
 
-Aangezien OSM volledig gebaseerd is op crowdsourcing, zal onze crowd elk opgemerkt foutje corrigeren. Sommige wijzigingen op het terrein vallen echter niet zo op. Een nieuwe verkaveling met maar een paar huizen in een doodlopende straat bijvoorbeeld. Een wijziging van een straatnaam of een spelfout in die naam. Een weg die slecht ingetekend is in OSM omdat de luchtfoto's vroeger van mindere kwaliteit waren.
+Aangezien OSM volledig gebaseerd is op crowdsourcing, zal onze crowd elk opgemerkt foutje corrigeren. Sommige wijzigingen op het terrein vallen echter niet echt op. Een nieuwe verkaveling met maar een paar huizen in een doodlopende straat bijvoorbeeld. Een wijziging van een straatnaam of een spelfout in die naam. Een weg die slecht ingetekend is in OSM omdat de luchtfoto's vroeger van mindere kwaliteit waren.
 
-We maken gebruik van open data en machine learning om OSM data te verifiëren. Nu overheden eindelijk hun data vrijgeven als open data, zijn er steeds meer datasets met wegen beschikbaar. We willen die data gebruiken om onze kaart te verbeteren – en waarom niet, om de overheidsdata zelf te verbeteren.
+We maken gebruik van open data en machine learning om OSM data te verifiëren. Nu overheden eindelijk hun data vrijgeven als open data, zijn er steeds meer datasets met wegen beschikbaar. We willen die data gebruiken om onze kaart te verbeteren – en waarom niet, om de overheidsdata zelf ook te verbeteren.
 
-We willen tools bouwen verbeteringen in de officiële wegendata aanbieden aan onze mappers, op een snelle en gemakkelijke manier. Omdat het niet enkel Vlaanderen is dat dit soort data aanbiedt, gaan we proberen iets te bouwen dat eenvoudig uit te breiden is naar om het even welke dataset van wegassen, wereldwijd.
+We bouwen tools om verbeteringen in de officiële wegendata aan te bieden aan onze mappers, op een snelle en gemakkelijke manier. Omdat het niet enkel Vlaanderen is dat dit soort data aanbiedt, proberen we iets te bouwen dat eenvoudig uit te breiden is naar om het even welke dataset van wegassen, wereldwijd.
 
 ![]({{ site.baseurl }}/assets/images/post/road-completion1.jpg)
 *De evolutie van het mappen van trage wegen in Brussel. Groen: trage wegen. Grijs: reeds getekende wegen. Zwart: wegen die deze maand verbeterd of toegevoegd werden.*
 
 ### Betrouwbare data
 
-OpenStreetMap groeit op een chaotische manier. Op bepaalde plaatsen is de kwaliteit van de data verbluffend. Op andere plaatsen is de kaart nog rudimentair. Wie de OSM data gebruikt, krijgt doorgaans geen kwaliteitsgarantie. We willen het vertrouwen in de data verhogen met de eenvoudige garantie dat OSM minstens even complete is als de overheidsdata. Met de tool die we bouwden, kan je op elk moment het aantal wegsegmenten zien dat de overheid kent, maar OSM nog niet. Met deze objectieve meting van volledigheid willen we de OSM data voor nog meer usecases geschikt maken.
+OpenStreetMap groeit op een chaotische manier. Op bepaalde plaatsen is de kwaliteit van de data verbluffend. Op andere plaatsen is de kaart nog rudimentair. Wie de OSM data gebruikt, krijgt doorgaans geen kwaliteitsgarantie. We willen het vertrouwen in de data verhogen met de eenvoudige garantie dat OSM minstens even volledig is als de overheidsdata. Met de tool die we bouwden, kan je op elk moment het aantal wegsegmenten zien dat de overheid kent, maar OSM nog niet. Met deze objectieve meting van volledigheid willen we de OSM data voor nog meer usecases geschikt maken.
 
 Je kan [het aantal ontbrekende wegen hier opvolgen](https://osmbe.github.io/road-completion/). 
 
