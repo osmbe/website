@@ -1,0 +1,54 @@
+---
+title: "Mapper of the Month: d1sr4n (Russia)"
+featured:
+layout: post
+category: motm
+author: Pierre Parmentier
+lang: en
+---
+
+His [homepage](https://www.openstreetmap.org/user/uuu) and his [contribution page](https://hdyc.neis-one.org/?uuu).
+
+## Hello. Would you like to briefly introduce yourself to our readers?
+I am Daniel. OpenStreetMap mapper for 1339 days now. I'm twenty-something and I really like the winters.
+
+## How and when did you get to know OpenStreetMap?
+Back in 2017 I was looking for a decent alternative to the old maps but didn't find one. Instead i've found a great tool to create a map for myself and for the others.
+
+## How do you use OpenStreetMap?
+I do use OpenStreetMap as the map when I hike or travel. I also learned many new things about the Earth while mapping. Sometimes I just stare at the map. This is fun too.
+
+## What kind of contributor are you and in which area do you map?
+Mapper. Mostly I map Komi Republic [^1], yet sometimes I do other parts of the world too.
+
+## What are you mapping? Do you have a specialisation?
+Everything is important, so I trying to map every single detail within a certain limit, resolution. Mostly, natural features.
+
+## What is your greatest achievement as mapper?
+That thing [^2], what caught your attention is probably it.
+
+## Why are you mapping? What motivates you?
+I like the meditative deconstruction of complex real world objects into an abstract simple shapes. It brings me peace. I also like the map that i'm getting out of that, but this is a side benefit.
+
+## Do you have any ideas to expand the OpenStreetMap community, to motivate more people to contribute?
+OpenStreetMap should become more user friendly to grow. In my opinion, the important thing is not to keep attracting new people but make those who came by themselves stay.
+
+## Do you have contact with other mappers?
+Sure! We communicate via Messenger. Unfortunately, very few people map the same area that I do, so I am one by myself.
+
+## What is in your view the greatest strength of OpenStreetMap?
+Freedom. In OpenStreetMap, anyone free to map or edit whatever features they want. It is really pleasant and it sets the right tone to the process.
+
+## What are the largest challenges for OpenStreetMap?
+Lack of level of details consistency. One area might get mapped so well that it's not really necessary to look off the screen while walking, while the other nearby area might not contain a vital information such as a river or a wall, blocking your way. And there is no way for the end user to know that beforehand.
+
+## How to do stay on top of news about OpenStreetMap?
+You read about OpenStreetMap, you talk to the different mappers.
+
+## To conclude, is there anything else you want to share with the readers?
+_landcover_ tag is great!
+
+**Thank you, Daniel, for this interview.**
+
+[^1]: [https://en.wikipedia.org/wiki/Komi_Republic](https://en.wikipedia.org/wiki/Komi_Republic)
+[^2]: His homepage!
