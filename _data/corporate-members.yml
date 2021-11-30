@@ -7,3 +7,7 @@
   logo:
     light: anyways-light.png
     dark: anyways-dark.png
+
+- name: Champs-Libres
+  url: https://www.champs-libres.coop/
+  logo: champslibres.png
