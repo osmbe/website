@@ -1,5 +1,5 @@
 ﻿title: "Mapper of the month: Koos Krijnders (The Netherlands)"
-featured:
+featured: kk-01.jpeg; kk-02.jpg; kk-03.jpg
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -25,6 +25,8 @@ Privately I use it for all sorts of things. OpenCycleMap and Komoot for bike tou
 
 Almost everything I do is in the context of Missing Maps. I create tasks for areas at the request of aid organisations such as the Red Cross, organise mapathons to get these areas mapped and validated by volunteers, validate a lot myself and if necessary I also map. Validation is badly needed, because a lot of it is done by volunteers with little experience. That is why I put time and energy into training mappers to become validators. 
 I don't have a specific mapping area, although by far most of what I do is in Africa.
+![Image](kk-01.jpeg)
+![Image](kk-02.jpg)
 
 ## What are you mapping? Do you have a specialisation?
 
@@ -34,7 +36,7 @@ In recent years, more than 100 tasks have been created by the Netherlands Red Cr
 
 ## What is your greatest achievement as mapper?
 
-That was in 2017 during the major hurricane <em>Irma</em> on Sint-Maarten in the Caribbean. Shortly after the first very alarming reports, we received recent aerial photos from the French IGN. These first had to be edited to get them into the Missing Maps task manager. They succeeded and 24 hours later the Dutch part of Sint-Maarten was completely mapped, thanks to a planned mapathon at the faculty of Geo-Information Science and Earth Observation (ITC) in Enschede. Sixty students mapped the entire Dutch part of Sint-Maarten in one evening. The first result (five minutes after everything had been mapped) was already very significant: there were about 13&nbsp;000 buildings on Sint-Maarten. With an average house occupancy of four people, this meant that approximately 50&nbsp;000 people lived there and not the 80&nbsp;000 diets who lived there according to the statistics for Sint-Maarten. This made a world of difference to the relief effort — the first thing that had to be brought in was drinking water. That made a difference of a few planes..
+That was in 2017 during the major hurricane <em>Irma</em> on Sint-Maarten in the Caribbean. Shortly after the first very alarming reports, we received recent aerial photos from the French IGN. These first had to be edited to get them into the Missing Maps task manager. ![Image](kk-03.jpg) They succeeded and 24 hours later the Dutch part of Sint-Maarten was completely mapped, thanks to a planned mapathon at the faculty of Geo-Information Science and Earth Observation (ITC) in Enschede. Sixty students mapped the entire Dutch part of Sint-Maarten in one evening. The first result (five minutes after everything had been mapped) was already very significant: there were about 13&nbsp;000 buildings on Sint-Maarten. With an average house occupancy of four people, this meant that approximately 50&nbsp;000 people lived there and not the 80&nbsp;000 diets who lived there according to the statistics for Sint-Maarten. This made a world of difference to the relief effort — the first thing that had to be brought in was drinking water. That made a difference of a few planes..
 The first relief team had already set off for Sint-Maarten that day, landing first on Curaçao because Sint-Maarten's airport was unusable. There, the map, which had just been completed, was downloaded. In the first plane to land was a team of the Netherlands Red Cross with this up to date OpenStreetMap! This map was then used intensively in the relief effort, while there was no electricity, internet or mobile telephony available. 
 In the same week, drone images were made of the damage to buildings. Based on this, the most affected areas were selected as priority areas for the relief effort. This is where the centres where food, drinking water, and all kinds of aid materials were distributed were located.
 

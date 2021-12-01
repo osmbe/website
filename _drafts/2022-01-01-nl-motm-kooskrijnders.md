@@ -1,5 +1,5 @@
 ﻿title: "Mapper van de maand: Koos Krijnders (Nederland)"
-featured:
+featured: kk-01.jpeg; kk-02.jpg; kk-03.jpg
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -25,6 +25,8 @@ Prive gebruik ik het voor van alles en nog wat. OpenCycleMap en Komoot voor fiet
 
 Bijna alles wat ik doe is in het kader van Missing Maps. Ik maak taken aan voor gebieden op verzoek van hulporganisaties als het Rode Kruis, organiseer mapathons om deze gebieden gekarteerd en gevalideerd te krijgen door vrijwilligers, valideer zelf ook veel en als het nodig is ga ik ook mappen. Het valideren is hard nodig, omdat veel door vrijwilligers wordt gedaan met weinig ervaring. Ik stop daarom ook tijd en energie in het <em>opleiden</em> van karteerders tot valideerders. 
 Een specifiek kaartgebied heb ik niet, al is is verreweg het meeste wat ik in Afrika.
+![Image](kk-01.jpeg)
+![Image](kk-02.jpg)
 
 ## Wat ben je in kaart aan het brengen? Heb je een specialisatie?
 
@@ -33,7 +35,7 @@ In de afgelopen jaren zijn er meer dan 100 taken gemaakt door Nederlandse Rode K
 
 ## Waar ben je het meest trots op als mapper?
 
-Dat was in 2017 bij de grote orkaan <em>Irma</em> op Sint-Maarten in de Cariben. We kregen kort na de eerste zeer alarmerende berichten de beschikking over recente luchtfoto’s van het franse IGN. Die moesten eerst bewerkt worden om ze in de <em>task manager</em> van Missing Maps te krijgen. Dat lukte en 24 uur later was het Nederlandse deel van Sint-Maarten helemaal gemapt, dankzij een reeds geplande mapathon op de faculteit Geo-Informatie Wetenschappen en Aardobservatie (ITC) in Enschede. 60 studenten hebben toen in één avond het hele Nederlandse deel van Sint-Maarten gedaan. Het eerste resultaat (vijf minuten nadat alles was gekarteerd) was al heel belangrijk: er stonden ongeveer 13&nbsp;000 gebouwen op Sint-Maarten. Met een gemiddelde woningbezetting van vier personen betekende dist er plusminus 50&nbsp;000 mensen woonden en niet de 80&nbsp;000 dieet volgens de statistiek van Sint-Maarten woonden. Voor de hulpverlening maakte dat een wereld van verschil — het eerste dat moest worden aangevoerd was drinkwater. Dat scheelde een paar vliegtuigen.
+Dat was in 2017 bij de grote orkaan <em>Irma</em> op Sint-Maarten in de Cariben. We kregen kort na de eerste zeer alarmerende berichten de beschikking over recente luchtfoto’s van het franse IGN. Die moesten eerst bewerkt worden om ze in de <em>task manager</em> van Missing Maps te krijgen. ![Image](kk-03.jpg) Dat lukte en 24 uur later was het Nederlandse deel van Sint-Maarten helemaal gemapt, dankzij een reeds geplande mapathon op de faculteit Geo-Informatie Wetenschappen en Aardobservatie (ITC) in Enschede. 60 studenten hebben toen in één avond het hele Nederlandse deel van Sint-Maarten gedaan. Het eerste resultaat (vijf minuten nadat alles was gekarteerd) was al heel belangrijk: er stonden ongeveer 13&nbsp;000 gebouwen op Sint-Maarten. Met een gemiddelde woningbezetting van vier personen betekende dist er plusminus 50&nbsp;000 mensen woonden en niet de 80&nbsp;000 dieet volgens de statistiek van Sint-Maarten woonden. Voor de hulpverlening maakte dat een wereld van verschil — het eerste dat moest worden aangevoerd was drinkwater. Dat scheelde een paar vliegtuigen.
 De eerste hulpploeg was die dag toen al op weg gegaan naar Sint-Maarten en landde eerst op Curaçao, omdat het vliegveld van Sint-Maarten onbruikbaar was. Daar is de kaart, die net klaar was, gedownload. In het eerste vliegtuig dat kon landen zat een ploeg van het Nederlandse Rode Kruis met deze up to date OpenStreetMap kaart! Deze kaart is vervolgens intensief gebruikt bij de hulpverlening, terwijl er nog geen stroom, internet, of mobiele telefonie beschikbaar was. 
 In diezelfde week nog zijn dronebeelden gemaakt van de schade aan gebouwen. Op basis hiervan werden de meest getroffen gebieden geselecteerd als prioriteitsgebied bij de hulpverlening. Hier kwamen de centra waar voedsel, drinkwater, en allerlei hulpmaterialen werden uitgedeeld.
 
