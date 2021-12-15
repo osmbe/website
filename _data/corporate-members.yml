@@ -1,6 +1,8 @@
 - name: GEO-6
   url: https://geo6.be/
-  logo: geo6.png
+  logo:
+    light: geo6-light.png
+    dark: geo6-dark.png
 
 - name: ANYWAYS
   url: https://www.anyways.eu/
