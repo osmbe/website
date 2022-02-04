@@ -11,7 +11,7 @@ His [homepage](https://www.openstreetmap.org/user/mustafakamil) and his [contrib
 
 ## Hello Mustafa. Would you like to briefly introduce yourself to our readers?
 
-My name is Mustafa Kamil. I am contributor to OpenStreetMap under the username mustafakamil. I live and work in the Saudi Arabia. But I am original from Sudan. 
+My name is Mustafa Kamil. I am contributor to OpenStreetMap under the username mustafakamil. I live and work in the Saudi Arabia. But I am original from Sudan.
 I am a big fan of open-source and and an avid user of open source.
 
 ## How and when did you get to know OpenStreetMap?
@@ -28,20 +28,20 @@ I can descript my self as an amateur contributor with a little bit of passion to
 
 ## What are you mapping? Do you have a specialisation?
 
-I am general mapper, but in Sudan particularly I am specialized on path, residential areas, farms especially in the remote areas. In the cities I am focusing on public roads, buildings, road junctions because it is very important for the navigation applications.	
+I am general mapper, but in Sudan particularly I am specialized on path, residential areas, farms especially in the remote areas. In the cities I am focusing on public roads, buildings, road junctions because it is very important for the navigation applications.
 
 ## What is your greatest achievement as mapper?
 
-My greatest achievement is having been contributor from 2014 till today with more than 1&nbsp;100&nbsp;000 map changes and 4&nbsp;600 changesets.
+My greatest achievement is having been contributor from 2014 till today with more than 1100000 map changes and 4600 changesets.
 
 ## Why are you mapping? What motivates you?
 
-I am motivated by the lack of informations on the GIS data in Sudan and the difficulties that the humanitarian and organizations are facing every day. And what motivates me the most is to see the impact of my work on the different platforms that are using OpenStreetMap. 
- 
+I am motivated by the lack of informations on the GIS data in Sudan and the difficulties that the humanitarian and organizations are facing every day. And what motivates me the most is to see the impact of my work on the different platforms that are using OpenStreetMap.
+
 ## Do you have any ideas to expand the OpenStreetMap community, to motivate more people to contribute?
 
-I think OpenStreetMap should target all the schools and university around the world especially the one related to the field, to try to push them to contribute in this effort, and from the contacts specially with the students they are very welcoming to join our community. 
- 
+I think OpenStreetMap should target all the schools and university around the world especially the one related to the field, to try to push them to contribute in this effort, and from the contacts specially with the students they are very welcoming to join our community.
+
 ## Do you have contact with other mappers?
 
 Indeed, I have a lot of contacts around the world via our Facebook Group locally and internationally.
@@ -59,7 +59,7 @@ Firstly the lack of quality of the aerial imagery what make it difficult to get 
 Mainly through OpenStreetMap, also through the OpenStreetMap WhatsApp groups and Telegram groups.
 
 ## I still have some questions. Are there many people in Sudan interested in OpenStreetMap?
- 
+
 Unfortunately, OpenStreetMap contributors are not much. But we have a page on Facebook and a student group of Geographic College of Khartoum University.
 
 ## Who are the real users of OpenStreetMap data?
@@ -73,7 +73,7 @@ Basically Sudan, but I have some contributions in neighboring countries, especia
 ## Are there any areas where data is significantly lacking?
 
 In Sudan I think Gezira State and White Nile State need more work.
-   
+
 ## Do you do much mapping with HOT?
 
 Yes, especially in Sudan and disaster areas in Africa and Middle East.
@@ -87,8 +87,3 @@ No.
 My advice to the new members of our community is to try to enjoy yourself in your continuation and try your best to have fun with OpenStreetMap community.
 
 **Thank you, Mustafa, for this interview.**
-
-
-
-
-

@@ -9,9 +9,9 @@ lang: fr
 
 Sa [homepage](https://www.openstreetmap.org/user/mustafakamil) et sa [page de contribution](https://hdyc.neis-one.org/?mustafakamil).
 
-## Bonjour Mustafa. Voudrais-tu te présenter brièvement à nos lecteurs ?
+## Bonjour Mustafa. Voudrais-tu te présenter brièvement à nos lecteurs ?
 
-Mon nom est Mustafa Kamil. Je contribue à OpenStreetMap sous le nom d'utilisateur mustafakamil. Je vis et travaille en Arabie saoudite. Mais je suis originaire du Soudan. 
+Mon nom est Mustafa Kamil. Je contribue à OpenStreetMap sous le nom d'utilisateur mustafakamil. Je vis et travaille en Arabie saoudite. Mais je suis originaire du Soudan.
 Je suis un grand fan et un utilisateur avide de l'open-source.
 
 ## Comment et quand as-tu découvert OpenStreetMap ?
@@ -32,7 +32,7 @@ Je suis un cartographe généraliste, mais au Soudan en particulier, je suis sp�
 
 ## Quelle est ta plus grande prouesse en tant que contributeur ?
 
-Ma plus grande réussite est d'avoir été contributeur de 2014 à aujourd'hui avec plus de 1&nbsp;100&nbsp;000 modifications et 4&nbsp;600 groupes de modifications.
+Ma plus grande réussite est d'avoir été contributeur de 2014 à aujourd'hui avec plus de 1100000 modifications et 4600 groupes de modifications.
 
 ## Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
 
@@ -59,7 +59,7 @@ Premièrement, le manque de qualité de l'imagerie aérienne rend difficile l'ob
 Principalement par l'intermédiaire d'OpenStreetMap, mais aussi des groupes OpenStreetMap WhatsApp et Telegram.
 
 ## J'ai encore quelques questions. Y a-t-il beaucoup de personnes au Soudan qui s'intéressent à OpenStreetMap ?
- 
+
 Malheureusement, les contributeurs d'OpenStreetMap ne sont pas nombreux. Mais nous avons une page sur Facebook et un groupe d'étudiants du Geographic College de l'Université de Khartoum.
 
 ## Qui sont les vrais utilisateurs des données OpenStreetMap ?
@@ -73,7 +73,7 @@ Essentiellement le Soudan, mais j'ai quelques contributions dans les pays voisin
 ## Y a-t-il des zones où les données font cruellement défaut ?
 
 Au Soudan, je pense que l'État de Gezira et l'État du Nil Blanc ont besoin de plus de travail.
-   
+
 ## Faites-vous beaucoup de cartographie avec HOT ?
 
 Oui, surtout au Soudan et dans les zones sinistrées d'Afrique et du Moyen-Orient.

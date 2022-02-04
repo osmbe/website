@@ -6,12 +6,12 @@ category: motm
 author: Pierre Parmentier
 lang: nl
 ---
-Zijn [homepage](https://www.openstreetmap.org/user/mustafakamil) en zijn [bijdrager pagina](https://hdyc.neis-one.org/?mustafakamil).
 
+Zijn [homepage](https://www.openstreetmap.org/user/mustafakamil) en zijn [bijdrager pagina](https://hdyc.neis-one.org/?mustafakamil).
 
 ## Hallo Mustafa. Wil je jezelf even voorstellen aan onze lezers?
 
-Mijn naam is Mustafa Kamil. Ik draag bij aan OpenStreetMap onder de gebruikersnaam mustafakamil. Ik woon en werk in Saoedi-Arabië. Maar ik ben afkomstig uit Soedan. 
+Mijn naam is Mustafa Kamil. Ik draag bij aan OpenStreetMap onder de gebruikersnaam mustafakamil. Ik woon en werk in Saoedi-Arabië. Maar ik ben afkomstig uit Soedan.
 Ik ben een grote fan en een fervent gebruiker van open-source.
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
@@ -32,7 +32,7 @@ Ik ben een algemeen cartograaf, maar in Soedan ben ik vooral gespecialiseerd in 
 
 ## Waar ben je het meest trots op als mapper?
 
-Mijn grootste prestatie is dat ik van 2014 tot vandaag contributor ben geweest met meer dan 1&nbsp;100&nbsp;000 kaartwijzigingen en 4&nbsp;600 wijzingsets.
+Mijn grootste prestatie is dat ik van 2014 tot vandaag contributor ben geweest met meer dan 1100000 kaartwijzigingen en 4600 wijzingsets.
 
 ## Waarom breng je het in kaart? Wat motiveert je?
 
@@ -56,17 +56,17 @@ Ten eerste is er een gebrek aan kwaliteit van de luchtfoto's wat het moeilijk ma
 
 ## Hoe blijf je op de hoogte van het OpenStreetMap-nieuws?
 
-Voornamelijk via OpenStreetMap, maar ook via de OSM WhatsApp-groepen en de OpenStreetMap Telegram-groepen. 
+Voornamelijk via OpenStreetMap, maar ook via de OSM WhatsApp-groepen en de OpenStreetMap Telegram-groepen.
 
 ## Ik heb nog enkele vragen. Zijn er veel mensen in Soedan die geïnteresseerd zijn in OpenStreetMap?
- 
+
 Helaas zijn er niet veel mensen die bijdragen aan osm. Maar we hebben een pagina op Facebook en een studentengroep van het Geografisch College van de Universiteit van Khartoum.
 
 ## Wie zijn de echte gebruikers van OpenStreetMap data?
 
 Ik heb geen informatie over echte gebruikers.
 
-##  Welke gebieden of regio's brengt u in kaart?
+## Welke gebieden of regio's brengt u in kaart?
 
 Voornamelijk Soedan, maar ik heb enkele bijdragen in buurlanden, vooral Saoedi-Arabië.
 
@@ -79,6 +79,7 @@ In Soedan denk ik dat de Al-Jazirah en Witte Nijl Staten meer werk nodig hebben.
 Ja, vooral in Soedan en rampgebieden in Afrika en het Midden-Oosten
 
 ## Doet u aan kartering met GPS-gegevens?
+
 Nee.
 
 ## Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer?
