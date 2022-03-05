@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mapper van de Maand: Søren Johannessen (Denemarken)"
 featured: 
 layout: post
