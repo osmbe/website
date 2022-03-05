@@ -11,7 +11,7 @@ His [homepage](https://www.openstreetmap.org/user/AE35) and his [contribution pa
 
 ## Hallo Søren. Wil je jezelf even voorstellen aan onze lezers?
 
-Ik woon ongeveer 50 km van Kopenhagen in Denemarken. Mijn opleiding is in Bibliotheek- en Informatiewetenschappen. Ik werk als GIS-consultant, waarbij ik soms ook OpenStreetMap data als oplossing voor mijn klanten gebruik. Bij voorbeeld &emdash; voor de gemeente Ballerup &emdash; heb ik een aantal OpenStreetMap data geïmporteerd met betrekking tot fietsnetwerk, maximum snelheidszones, kunstwerken, E-oplaadstations, enz. in hun PostgreSQL/PostGIS database.
+Ik woon ongeveer 50 km van Kopenhagen in Denemarken. Mijn opleiding is in Bibliotheek- en Informatiewetenschappen. Ik werk als GIS-consultant, waarbij ik soms ook OpenStreetMap data als oplossing voor mijn klanten gebruik. Bij voorbeeld ― voor de gemeente Ballerup ― heb ik een aantal OpenStreetMap data geïmporteerd met betrekking tot fietsnetwerk, maximum snelheidszones, kunstwerken, E-oplaadstations, enz. in hun PostgreSQL/PostGIS database.
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
@@ -31,7 +31,7 @@ Ik weet niet of dit een soort specialisatie-onderwerp is. Op dit moment breng ik
 
 ## Waar ben je het meest trots op als mapper?
 
-Wel, het moet de OpenStreetMap-les zijn van ongeveer 100 leden van de Deense Fietsersbond in 2012. Er werden vijf eendaagse karteringscursussen in vijf verschillende steden in Denemarken gegeven. De belangrijkste lering die we hieruit trokken was dat de ouderen en gepensioneerden die deelnamen  uiteindelijk de mensen waren die de meeste bijdragen leverden. Dus als je een mapping party plant, vergeet deze groep van ouderen niet. In de andere leeftijdsgroep hebben Peter Leth en ik op een zaterdagavond in 2016 een mapping party georganiseerd met 30 leerlingen (leeftijd 13-14) plus twee van hun aardrijkskundeleraren . Dit was ook een enorm plezier en ervaring. Ik wou dat ik meer tijd had voor lesgeven en het opzetten van mapping parties. 
+Wel, het moet de OpenStreetMap-les zijn van ongeveer 100 leden van de Deense Fietsersbond in 2012. Er werden vijf eendaagse karteringscursussen in vijf verschillende steden in Denemarken gegeven. De belangrijkste lering die we hieruit trokken was dat de ouderen en gepensioneerden die deelnamen  uiteindelijk de mensen waren die de meeste bijdragen leverden. Dus als je een mapping party plant, vergeet deze groep van ouderen niet. In de andere leeftijdsgroep hebben Peter Leth en ik op een zaterdagavond in 2016 een mapping party georganiseerd met 30 leerlingen (leeftijd 13-14) plus twee van hun aardrijkskundeleraren . Dit was ook een enorm plezier en ervaring. Ik wou dat ik meer tijd had voor lesgeven en het opzetten van mapping parties.
 
 ## Waarom breng je het in kaart? Wat motiveert je?
 
@@ -52,7 +52,7 @@ De gemeenschap! Het is verbazingwekkend om te bedenken dat elke maand ongeveer 4
 ## Wat is de grootste uitdaging voor OpenStreetMap?
 
 Ik denk dat het een kwestie is van stad en platteland. Zelfs in een klein land als Denemarken zien we een soort van data bias in stedelijke vergeleken met plattelandsgebieden, wat betekent dat kleine geografische objecten zoals fietshellingen, kunstwerken, trappen, leuningen, indoor sportclubs, enz. ontbreken in landelijke gebieden van Denemarken, omdat OpenStreetMap Denemarken niet veel bijdragers heeft buiten de grote stedelijke gebieden. Dus het krijgen van meer redacteuren in landelijke gebieden is iets dat we, bij OpenStreetMap, eraan moeten werken om op te lossen. Maar het is een enorme en ingewikkelde taak om uit te vinden hoe te worden opgelost.
- 
+
 ## oe blijf je op de hoogte van het OpenStreetMap-nieuws?
 
 weeklyOSM is een must read. Hashtag #openstreetmap op Twitter is ook een goede informatiebron. De Deense OpenStreetMap Talk-dk mailinglijst. OpenStreetMap Wiki is een geweldige plek om in de details te treden, zoals "Wat is de beste praktijk om XX-object in kaart te brengen?" of om tools te vinden. TagInfo Denmark, om te zien welk soort tags is gebruikt en feiten over hoeveel objecten van het type XX de OpenStreetMap Denmark gemeenschap tot nu toe in kaart heeft gebracht.
@@ -66,4 +66,4 @@ Ik wil de hele OpenStreetMap-gemeenschap hartelijk bedanken: "You guys rocks!". 
 *Vertaald uit het Engels by Claire Muyllaert and Pierre Parmentier met de hulp van www.DeepL.com/Translator.*
 
 (1) Lengtemeting van het fietsnetwerk in 98 Deense gemeenten
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTZf0N_3VzNYahyC5wfDr_M9lKOTAGkiM3-myG-zavf4lxJTpsQgmp2I0E7gS7MyP2BTnUMPFbnNzGi/pubhtml 
+<https://docs.google.com/spreadsheets/d/e/2PACX-1vTZf0N_3VzNYahyC5wfDr_M9lKOTAGkiM3-myG-zavf4lxJTpsQgmp2I0E7gS7MyP2BTnUMPFbnNzGi/pubhtml>
