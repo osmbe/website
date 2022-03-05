@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Contributeur du mois: Søren Johannessen (Danemark)"
 featured: 
 layout: post
