@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mapper of the Month: Søren Johannessen (Denmark)"
 featured: 
 layout: post
