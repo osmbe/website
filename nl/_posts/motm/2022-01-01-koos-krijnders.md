@@ -16,7 +16,7 @@ In 2016 betrokken geraakt bij het Nederlandse Rode Kruis om Missing Maps verder 
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
-Mijn eerste kennismaking was in in 2004 of 2005 — ik weet het niet meer precies, maar ik las in een artikel dat een meneer in Assen, provincie Drenthe, tijdend het uitlaten van zijn hond de kaart van Assen met behulp van GPS tekende door keurig over de stoeprand te lopen. En deze gegevens te uploaden OpenStreetMap. Fascinerend dat dit kon, maar voor professionele toepassingen toen nog volstrekt onbruikbaar. Ruim 20 jaar later ontmoet ik tijdens de State of the Map in Brussel deze meneer uit Assen – hij werkte bij het Nederlandse Rode Kruis en is nauw betrokken bij OpenStreetMap en Missing Maps. Laat ik mij kort daarvoor als vrijwilliger bij het Rode Kruis hebben aangemeld om het project Missing Maps verder te organiseren!
+Mijn eerste kennismaking was in in 2004 of 2005 — ik weet het niet meer precies, maar ik las in een artikel dat een meneer in Assen, provincie Drenthe, tijdens het uitlaten van zijn hond de kaart van Assen met behulp van GPS tekende door keurig over de stoeprand te lopen. En deze gegevens te uploaden OpenStreetMap. Fascinerend dat dit kon, maar voor professionele toepassingen toen nog volstrekt onbruikbaar. Ruim 10 jaar later ontmoet ik tijdens de State of the Map in Brussel deze meneer uit Assen – hij werkte bij het Nederlandse Rode Kruis en is nauw betrokken bij OpenStreetMap en Missing Maps. Laat ik mij kort daarvoor als vrijwilliger bij het Rode Kruis hebben aangemeld om het project Missing Maps verder te organiseren!
 
 ## Hoe gebruik je OpenStreetMap?
 
