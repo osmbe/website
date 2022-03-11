@@ -53,7 +53,7 @@ De gemeenschap! Het is verbazingwekkend om te bedenken dat elke maand ongeveer 4
 
 Ik denk dat het een kwestie is van stad en platteland. Zelfs in een klein land als Denemarken zien we een soort van data bias in stedelijke vergeleken met plattelandsgebieden, wat betekent dat kleine geografische objecten zoals fietshellingen, kunstwerken, trappen, leuningen, indoor sportclubs, enz. ontbreken in landelijke gebieden van Denemarken, omdat OpenStreetMap Denemarken niet veel bijdragers heeft buiten de grote stedelijke gebieden. Dus het krijgen van meer redacteuren in landelijke gebieden is iets dat we, bij OpenStreetMap, eraan moeten werken om op te lossen. Maar het is een enorme en ingewikkelde taak om uit te vinden hoe te worden opgelost.
 
-## oe blijf je op de hoogte van het OpenStreetMap-nieuws?
+## Hoe blijf je op de hoogte van het OpenStreetMap-nieuws?
 
 weeklyOSM is een must read. Hashtag #openstreetmap op Twitter is ook een goede informatiebron. De Deense OpenStreetMap Talk-dk mailinglijst. OpenStreetMap Wiki is een geweldige plek om in de details te treden, zoals "Wat is de beste praktijk om XX-object in kaart te brengen?" of om tools te vinden. TagInfo Denmark, om te zien welk soort tags is gebruikt en feiten over hoeveel objecten van het type XX de OpenStreetMap Denmark gemeenschap tot nu toe in kaart heeft gebracht.
 
