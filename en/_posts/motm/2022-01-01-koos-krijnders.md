@@ -16,7 +16,7 @@ In 2016 I became involved with the Netherlands Red Cross to further develop Miss
 
 ## How and when did you get to know OpenStreetMap?
 
-My first introduction was in 2004 or 2005. I don't remember exactly, but I read in an article that a gentleman in Assen, province of Drenthe, while walking his dog drew the map of Assen with the help of GPS by neatly walking over the kerb. And uploading this data to OpenStreetMap. Fascinating that this was possible, but for professional applications completely unusable at the time. Over 20 years later, during the State of the Map in Brussels, I met this gentleman from Assen — he worked for the Netherlands Red Cross and was closely involved with OpenStreetMap and Missing Maps. I had just signed up as a volunteer with the Red Cross to help organise the Missing Maps project!
+My first introduction was in 2004 or 2005. I don't remember exactly, but I read in an article that a gentleman in Assen, province of Drenthe, while walking his dog drew the map of Assen with the help of GPS by neatly walking over the kerb. And uploading this data to OpenStreetMap. Fascinating that this was possible, but for professional applications completely unusable at the time. Over 10 years later, during the State of the Map in Brussels, I met this gentleman from Assen — he worked for the Netherlands Red Cross and was closely involved with OpenStreetMap and Missing Maps. I had just signed up as a volunteer with the Red Cross to help organise the Missing Maps project!
 
 ## How do you use OpenStreetMap?
 
