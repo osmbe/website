@@ -16,7 +16,7 @@ En 2016, je me suis engagé auprès de la Croix-Rouge néerlandaise pour poursui
 
 ## Comment et quand as-tu découvert OpenStreetMap ?
 
-Ma première initiation date de 2004 ou 2005. Je ne me souviens plus exactement, mais j'ai lu dans un article qu'une personne de Assen, dans la province de Drenthe, avait dessiné le plan d'Assen à l'aide du GPS en marchant sur le trottoir alors qu'il promenait son chien. Et avait ensuite fait le téléchargement de ces données sur OpenStreetMap. Fascinant que cela soit possible, mais pour les applications professionnelles, complètement inutilisables à l'époque. Plus de 20 ans plus tard, lors du State of the Map à Bruxelles, j'ai rencontré ce monsieur de Assen — il travaillait pour la Croix-Rouge néerlandaise et était étroitement impliqué dans OpenStreetMap et Missing Maps. Je venais de m'inscrire comme volontaire auprès de la Croix-Rouge pour aider à organiser le projet *Missing Maps* !
+Ma première initiation date de 2004 ou 2005. Je ne me souviens plus exactement, mais j'ai lu dans un article qu'une personne de Assen, dans la province de Drenthe, avait dessiné le plan d'Assen à l'aide du GPS en marchant sur le trottoir alors qu'il promenait son chien. Et avait ensuite fait le téléchargement de ces données sur OpenStreetMap. Fascinant que cela soit possible, mais pour les applications professionnelles, complètement inutilisables à l'époque. Plus de 10 ans plus tard, lors du State of the Map à Bruxelles, j'ai rencontré ce monsieur de Assen — il travaillait pour la Croix-Rouge néerlandaise et était étroitement impliqué dans OpenStreetMap et Missing Maps. Je venais de m'inscrire comme volontaire auprès de la Croix-Rouge pour aider à organiser le projet *Missing Maps* !
 
 ## Comment utilises-tu OpenStreetMap ?
 
