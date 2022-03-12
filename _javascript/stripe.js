@@ -1,4 +1,4 @@
-import redirect from "./stripe/redirect";
+import { redirect } from "./stripe/redirect";
 
 (function() {
   if (window.location.hash === "#success") {
@@ -11,10 +11,10 @@ import redirect from "./stripe/redirect";
 
   // Recurring donation
   document.querySelectorAll(".donation-btn[data-plan-id]").forEach(element => {
-    element.addEventListener("click", event => {
+    element.addEventListener("click", async (event) => {
       const plan = event.target.dataset.planId;
 
-      redirect({
+      await redirect({
         plan,
         lang: window.app.lang || "en",
         url: window.app.url || "https://openstreetmap.be"
@@ -52,13 +52,13 @@ import redirect from "./stripe/redirect";
 
   document
     .getElementById("donation-submit")
-    .addEventListener("click", event => {
+    .addEventListener("click", async (event) => {
       const amount = parseInt(document.getElementById("donation-amount").value);
       const message = document.getElementById("donation-message").value;
 
       event.preventDefault();
 
-      redirect({
+      await redirect({
         amount,
         message,
         lang: window.app.lang || "en",

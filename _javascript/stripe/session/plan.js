@@ -1,9 +1,9 @@
 "use strict";
 
-import fetch from "../fetch";
+import { fetchStripe } from "../fetchStripe";
 
-export default async function (plan, url, lang) {
-  const json = await fetch(
+export async function createSessionPlan(plan, url, lang) {
+  const json = await fetchStripe(
     "POST",
     `${process.env.STRIPE_API}/checkout/session/plan`,
     {

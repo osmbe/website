@@ -1,8 +1,8 @@
 "use strict";
 
-import fetch from "../fetch";
+import { fetchStripe } from "../fetchStripe";
 
-export default async function (amount, url, message, lang) {
+export async function createSessionDonation(amount, url, message, lang) {
   const data = {
     locale: lang,
     successUrl: `${url}/${lang}/support.html#success`,
@@ -15,7 +15,7 @@ export default async function (amount, url, message, lang) {
     data.message = message;
   }
 
-  const json = await fetch(
+  const json = await fetchStripe(
     "POST",
     `${process.env.STRIPE_API}/checkout/session/donation`,
     data

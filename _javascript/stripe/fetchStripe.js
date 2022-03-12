@@ -1,6 +1,6 @@
 "use strict";
 
-export default async function(method, url, data) {
+export async function fetchStripe(method, url, data) {
   let options = {
     method: method,
     mode: "cors",
