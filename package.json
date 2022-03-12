@@ -5,6 +5,7 @@
     "build:stripe": "parcel build --no-cache  --no-source-maps --public-url /assets/ --dist-dir=assets/ _javascript/stripe.ts"
   },
   "devDependencies": {
+    "@stripe/stripe-js": "^1.24.0",
     "@types/leaflet": "^1.7.9",
     "@types/node": "^16.11.26",
     "leaflet": "^1.7.1",

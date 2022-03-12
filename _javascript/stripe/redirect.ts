@@ -1,12 +1,14 @@
 "use strict";
 
+import { loadStripe } from '@stripe/stripe-js';
+
 import { createSessionPlan } from "./session/plan";
 import { createSessionDonation } from "./session/donation";
 
 export async function redirect(data: StripePlanData | StripeDonationData) {
   if (typeof data === 'undefined' || typeof data !== 'object') return;
 
-  const stripe = Stripe(process.env.STRIPE_PUBLISHABLE_KEY, {
+  const stripe = await loadStripe(process.env.STRIPE_PUBLISHABLE_KEY, {
     stripeAccount: process.env.STRIPE_CONNECT_ACCOUNT
   });
 
