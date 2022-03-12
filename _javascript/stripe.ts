@@ -12,7 +12,7 @@ import { redirect } from "./stripe/redirect";
   // Recurring donation
   document.querySelectorAll(".donation-btn[data-plan-id]").forEach(element => {
     element.addEventListener("click", async (event) => {
-      const plan = event.target.dataset.planId;
+      const plan = (event.target as HTMLElement).dataset.planId;
 
       await redirect({
         plan,
@@ -25,9 +25,9 @@ import { redirect } from "./stripe/redirect";
   // Single donation Credit Card (predefined amount)
   document.querySelectorAll(".donation-btn[data-amount]").forEach(element => {
     element.addEventListener("click", event => {
-      const amount = parseInt(event.target.dataset.amount);
+      const amount = parseInt((event.target as HTMLElement).dataset.amount);
 
-      document.getElementById("donation-amount").value = amount;
+      (document.getElementById("donation-amount") as HTMLInputElement).value = amount.toString();
 
       if (amount > 0) {
         document.getElementById("donation-submit").removeAttribute("disabled");
@@ -40,7 +40,7 @@ import { redirect } from "./stripe/redirect";
   // Single donation Credit Card (custom amount)
   ["change", "blur", "keyup"].forEach(type => {
     document.getElementById("donation-amount").addEventListener(type, event => {
-      const amount = parseInt(event.target.value);
+      const amount = parseInt((event.target as HTMLInputElement).value);
 
       if (amount > 0) {
         document.getElementById("donation-submit").removeAttribute("disabled");
@@ -53,8 +53,8 @@ import { redirect } from "./stripe/redirect";
   document
     .getElementById("donation-submit")
     .addEventListener("click", async (event) => {
-      const amount = parseInt(document.getElementById("donation-amount").value);
-      const message = document.getElementById("donation-message").value;
+      const amount = parseInt((document.getElementById("donation-amount") as HTMLInputElement).value);
+      const message = (document.getElementById("donation-message") as HTMLInputElement).value;
 
       event.preventDefault();
 

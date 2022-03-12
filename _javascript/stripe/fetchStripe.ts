@@ -1,7 +1,7 @@
 "use strict";
 
-export async function fetchStripe(method, url, data) {
-  let options = {
+export async function fetchStripe(method: "POST", url: string, data: StripeAPIPlanData | StripeAPIDonationData) {
+  let options: RequestInit = {
     method: method,
     mode: "cors",
     cache: "no-cache",

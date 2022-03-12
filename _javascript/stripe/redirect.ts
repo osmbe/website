@@ -3,7 +3,7 @@
 import { createSessionPlan } from "./session/plan";
 import { createSessionDonation } from "./session/donation";
 
-export async function redirect(data) {
+export async function redirect(data: StripePlanData | StripeDonationData) {
   if (typeof data === 'undefined' || typeof data !== 'object') return;
 
   const stripe = Stripe(process.env.STRIPE_PUBLISHABLE_KEY, {
@@ -12,16 +12,16 @@ export async function redirect(data) {
 
   document
     .querySelectorAll("#donation-result > div")
-    .forEach(element => (element.style.display = "none"));
+    .forEach(element => ((element as HTMLDivElement).style.display = "none"));
 
-  document.querySelector(".overlay").style.display = "";
+  (document.querySelector(".overlay") as HTMLElement).style.display = "";
 
   try {
     let session;
-    if (typeof data.plan !== "undefined") {
-      session = await createSessionPlan(data.plan, data.url, data.lang);
-    } else if (typeof data.amount !== "undefined") {
-      session = await createSessionDonation(data.amount, data.url, data.message, data.lang);
+    if (data.hasOwnProperty('plan') && typeof (data as StripePlanData).plan !== "undefined") {
+      session = await createSessionPlan((data as StripePlanData));
+    } else if (data.hasOwnProperty('amount') && typeof (data as StripeDonationData).amount !== "undefined") {
+      session = await createSessionDonation((data as StripeDonationData));
     }
 
     if (typeof session === 'undefined') {
@@ -42,7 +42,7 @@ export async function redirect(data) {
         }
       });
   } catch (error) {
-    document.querySelector(".overlay").style.display = "none";
+    (document.querySelector(".overlay") as HTMLElement).style.display = "none";
 
     document.getElementById("error-message").innerText = error;
     document.getElementById("donation-result-error").style.display = "";
