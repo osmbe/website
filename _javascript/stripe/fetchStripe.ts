@@ -1,6 +1,8 @@
 "use strict";
 
-export async function fetchStripe(method: "POST", url: string, data: StripeAPIPlanData | StripeAPIDonationData) {
+import Stripe from 'stripe';
+
+export async function fetchStripe(method: "POST", url: string, data: StripeAPIPlanData | StripeAPIDonationData): Promise<Stripe.Checkout.Session> {
   let options: RequestInit = {
     method: method,
     mode: "cors",

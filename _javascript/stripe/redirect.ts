@@ -1,11 +1,12 @@
 "use strict";
 
 import { loadStripe } from '@stripe/stripe-js';
+import Stripe from 'stripe';
 
 import { createSessionPlan } from "./session/plan";
 import { createSessionDonation } from "./session/donation";
 
-export async function redirect(data: StripePlanData | StripeDonationData) {
+export async function redirect(data: StripePlanData | StripeDonationData): Promise<void> {
   if (typeof data === 'undefined' || typeof data !== 'object') return;
 
   const stripe = await loadStripe(process.env.STRIPE_PUBLISHABLE_KEY, {
@@ -19,7 +20,7 @@ export async function redirect(data: StripePlanData | StripeDonationData) {
   (document.querySelector(".overlay") as HTMLElement).style.display = "";
 
   try {
-    let session;
+    let session: Stripe.Checkout.Session;
     if (data.hasOwnProperty('plan') && typeof (data as StripePlanData).plan !== "undefined") {
       session = await createSessionPlan((data as StripePlanData));
     } else if (data.hasOwnProperty('amount') && typeof (data as StripeDonationData).amount !== "undefined") {
@@ -30,8 +31,8 @@ export async function redirect(data: StripePlanData | StripeDonationData) {
       throw 'Unable to initialize Stripe session';
     }
 
-    if (session.error) {
-      throw session.error;
+    if (session.hasOwnProperty('error')) {
+      throw (session as any).error;
     }
 
     stripe

@@ -1,8 +1,10 @@
 "use strict";
 
+import Stripe from 'stripe';
+
 import { fetchStripe } from "../fetchStripe";
 
-export async function createSessionDonation(donation: StripeDonationData) {
+export async function createSessionDonation(donation: StripeDonationData): Promise<Stripe.Checkout.Session> {
   const data: StripeAPIDonationData = {
     locale: donation.lang,
     successUrl: `${donation.url}/${donation.lang}/support.html#success`,

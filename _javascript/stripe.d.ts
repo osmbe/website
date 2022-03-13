@@ -19,9 +19,9 @@ declare type StripeDonationData = StripeData & {
  * Data sent to stripe.osm.be API
  */
 declare type StripeAPIData = {
-  locale: string,
   successUrl: string,
   cancelUrl: string,
+  locale?: string,
 }
 
 declare type StripeAPIPlanData = StripeAPIData & {
