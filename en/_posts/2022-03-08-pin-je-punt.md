@@ -9,7 +9,7 @@ lang: en
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7OtCK1_VsSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Toerisme Vlaanderen and the five touristic organisations of the Flemish provinces have been working together on [open data](https://opendata.vlaanderen.be/dataset?tags=Recreatie) for ten years. This includes the famous node networks for walking and cycling.
+Visit Flanders and the five touristic organisations of the Flemish provinces have been working together on [open data](https://opendata.vlaanderen.be/dataset?tags=Recreatie) for ten years. This includes the famous node networks for walking and cycling.
 
 On March 8th, they launched the "[Pin je Punt](https://www.toerismevlaanderen.be/pinjepunt)" project, with the support of OpenStreetMap Belgium.
 
