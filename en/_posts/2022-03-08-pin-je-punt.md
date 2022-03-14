@@ -19,6 +19,6 @@ The project runs on a [MapComplete](https://mapcomplete.osm.be/) theme, a tool t
 
 The data that was already available within the provinces, has been converted to [Notes](https://www.openstreetmap.org/user/Toerisme%20Vlaanderen%20-%20Pin%20je%20punt/notes). That way, the data will be validated one by one. They appear on the regular OSM.org site and in Pin Je Punt.
 
-The government agencies are doing this project to collect data that is available nowhere else for all of Flanders. By using OSM for data collection, the data will automatically flow to several data users. They will also set up services of their own to distrubute to their usual re-users.
+The government agencies are doing this project to collect data that is available nowhere else for all of Flanders. By using OSM for data collection, the data will automatically flow to several data users. They will also set up services of their own to distrubute to their usual re-users. Duting the process, Visit Flanders took the initiative to join us as a Corporate Member.
 
 [Try it out yourself](https://www.toerismevlaanderen.be/pinjepunt), and let us know what you think! We're also monitoring all the edits as they come in - and we could use your help with that.
