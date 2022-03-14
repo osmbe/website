@@ -1,5 +1,5 @@
 ---
-title: "\"Pin je Punt\" project with Toerisme Vlaanderen"
+title: "\"Pin je Punt\" project with Visit Flanders"
 layout: post
 author: OpenStreetMap Belgium
 lang: en
