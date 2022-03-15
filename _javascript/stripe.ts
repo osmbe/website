@@ -1,4 +1,4 @@
-import redirect from "./stripe/redirect";
+import { redirect } from "./stripe/redirect";
 
 (function() {
   if (window.location.hash === "#success") {
@@ -11,10 +11,10 @@ import redirect from "./stripe/redirect";
 
   // Recurring donation
   document.querySelectorAll(".donation-btn[data-plan-id]").forEach(element => {
-    element.addEventListener("click", event => {
-      const plan = event.target.dataset.planId;
+    element.addEventListener("click", async (event) => {
+      const plan = (event.target as HTMLElement).dataset.planId;
 
-      redirect({
+      await redirect({
         plan,
         lang: window.app.lang || "en",
         url: window.app.url || "https://openstreetmap.be"
@@ -25,9 +25,9 @@ import redirect from "./stripe/redirect";
   // Single donation Credit Card (predefined amount)
   document.querySelectorAll(".donation-btn[data-amount]").forEach(element => {
     element.addEventListener("click", event => {
-      const amount = parseInt(event.target.dataset.amount);
+      const amount = parseInt((event.target as HTMLElement).dataset.amount);
 
-      document.getElementById("donation-amount").value = amount;
+      (document.getElementById("donation-amount") as HTMLInputElement).value = amount.toString();
 
       if (amount > 0) {
         document.getElementById("donation-submit").removeAttribute("disabled");
@@ -40,7 +40,7 @@ import redirect from "./stripe/redirect";
   // Single donation Credit Card (custom amount)
   ["change", "blur", "keyup"].forEach(type => {
     document.getElementById("donation-amount").addEventListener(type, event => {
-      const amount = parseInt(event.target.value);
+      const amount = parseInt((event.target as HTMLInputElement).value);
 
       if (amount > 0) {
         document.getElementById("donation-submit").removeAttribute("disabled");
@@ -52,13 +52,13 @@ import redirect from "./stripe/redirect";
 
   document
     .getElementById("donation-submit")
-    .addEventListener("click", event => {
-      const amount = parseInt(document.getElementById("donation-amount").value);
-      const message = document.getElementById("donation-message").value;
+    .addEventListener("click", async (event) => {
+      const amount = parseInt((document.getElementById("donation-amount") as HTMLInputElement).value);
+      const message = (document.getElementById("donation-message") as HTMLInputElement).value;
 
       event.preventDefault();
 
-      redirect({
+      await redirect({
         amount,
         message,
         lang: window.app.lang || "en",

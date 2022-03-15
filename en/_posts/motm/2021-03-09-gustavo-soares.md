@@ -55,7 +55,7 @@ For me, the greatest strength of OpenStreetMap is that it is open software. This
 
 I believe that we face two major challenges: the first is that our community is still small — we need more local publishers to not only map but also to keep them up to date. The other problem is that we do not yet know the impact that the influence of Big Tech can have on OpenStreetMap.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 _WeeklyOSM_ (thanks to Portuguese translators), _reddit/OpenStreetMap_ and groups in your community.
 

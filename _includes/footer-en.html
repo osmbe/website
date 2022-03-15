@@ -1,27 +1,42 @@
 <div class="row">
     <div class="col-sm-6">
         <h2>OpenStreetMap Belgium</h2>
-        <p>
-            We are
-            <ul>
-                <li>
-                    a working group and part of
+
+        <ul class="part-of">
+            <li>
+                <img src="{{ 'assets/logos/okbe.png' | relative_url }}" alt="Open Knowledge Belgium">
+                <div>
+                    Activity of<br>
                     <a href="http://www.openknowledge.be/" target="_blank">Open Knowledge Belgium</a>
-                </li>
-                <li>
-                    a <a href="https://wiki.osmfoundation.org/wiki/Local_Chapters" target="_blank">Local Chapter</a>
-                    of the <a href="https://blog.openstreetmap.org/about/" target="_blank">OpenStreetMap Foundation</a>
-                </li>
-            </ul>
-        </p>
+                </div>
+            </li>
+            <li>
+                <img src="{{ 'assets/logos/osm.png' | relative_url }}" alt="OpenStreetMap Foundation">
+                <div>
+                    <a href="https://wiki.osmfoundation.org/wiki/Local_Chapters" target="_blank">Local Chapter</a> of<br>
+                    the <a href="https://wiki.osmfoundation.org/" target="_blank">OpenStreetMap Foundation</a>
+                </div>
+            </li>
+        </ul>
     </div>
     <div class="col-sm-6">
-        <h2>Partners and associated organizations</h2>
-        <p>Become part of our community and our network. Visit us on <a href="http://github.com/osmbe/" target="_blank">GitHub</a>.</p>
-
-        <ul class="default">
-            {% for partner in site.data.partners %}
-            <li><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
+        <h2>Corporate Members</h2>
+        <p>
+            These organizations
+            <a href="{% link en/support.html %}">support</a>
+            OpenStreetMap Belgium.
+        </p>
+        <ul class="corporate-members">
+            {% for company in site.data.corporate-members %}
+            <li>
+                <a href="{{ company.url }}" title="{{ company.name }}" target="_blank">
+                    {% if company.logo.dark %}
+                    <img src="{{ 'assets/logos/' | append: company.logo.dark | relative_url }}" alt="{{ company.name }}">
+                    {% else %}
+                    <img src="{{ 'assets/logos/' | append: company.logo | relative_url }}" alt="{{ company.name }}">
+                    {% endif %}
+                </a>
+            </li>
             {% endfor %}
         </ul>
     </div>

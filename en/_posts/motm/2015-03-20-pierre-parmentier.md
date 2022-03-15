@@ -47,7 +47,7 @@ The greatest strength of OpenStreetMap is to be free. Opportunities to use and r
 
 OpenStreetMap must take advantage of the current trend to put everything on maps, to go graphical. It is a quite recent phenomenon.
 
-**How to do stay on top of news about OpenStreetMap?**
+**How do you stay on top of news about OpenStreetMap?**
 
 I read the mailing lists Talk-be and Newbies.
 

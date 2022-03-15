@@ -1,17 +1,16 @@
 {
   "name": "website",
   "scripts": {
-    "build:event": "parcel build --no-cache --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=event.js _javascript/event.js",
-    "build:stripe": "parcel build --no-cache  --no-source-maps --public-url /assets/ --out-dir=assets/ --out-file=stripe.js _javascript/stripe.js"
+    "build:event": "parcel build --no-cache --no-source-maps --public-url /assets/ --dist-dir=assets/ _javascript/event.ts",
+    "build:stripe": "parcel build --no-cache  --no-source-maps --public-url /assets/ --dist-dir=assets/ _javascript/stripe.ts"
   },
   "devDependencies": {
+    "@stripe/stripe-js": "^1.24.0",
+    "@types/leaflet": "^1.7.9",
+    "@types/node": "^16.11.26",
     "leaflet": "^1.7.1",
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.3.2",
+    "stripe": "^8.209.0"
   },
-  "dependencies": {},
-  "browserslist": [
-    "last 3 chrome version",
-    "last 3 firefox version",
-    "last 3 safari version"
-  ]
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }

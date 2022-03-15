@@ -2,6 +2,7 @@
 title: MapComplete
 layout: project
 lang: fr
+featured: mapcomplete.png
 lead: Pieter Vander Vennet
 ---
 

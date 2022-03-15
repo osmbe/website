@@ -72,7 +72,7 @@ Jose: I would like that for every newbie there is someone who gives them feedbac
 
 Ruben: That is a great idea. Of course that asks for a lot of dedication and effort from experienced mappers but after a while we would see more people staying active in the project. Many make just a few changesets and subsequently forget about their account. A good and informative portal, that is referenced when you are mapping, could already make a difference. A second point is the need for a good, clickable slippy map. [OpenLinkMap](http://www.openlinkmap.org/) is a wonderful initiative, but we I am convinced that we can do better. Friends to whom I show that website are not impressed, because it does not look as good as Google Maps. People are picky about the look of websites these days ...
 
-**How to do stay on top of news about OpenStreetMap?**
+**How do you stay on top of news about OpenStreetMap?**
 
 Jose: Ruben tells me, of course. He reads about all new stuff he encounters and is on several mailinglists.
 

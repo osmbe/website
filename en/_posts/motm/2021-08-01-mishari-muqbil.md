@@ -11,7 +11,7 @@ His [homepage](https://www.openstreetmap.org/user/Mishari) and his [contribution
 
 ## Hello Mishari! Would you like to briefly introduce yourself to our readers?
 
-I'm Mishari Muqbil, based in Bangkok, Thailand, and I attribute much of who I am to the open source movement. Presently I'm an InnerSource coach, which is I help organisations and teams adopt open source principles and methodologies. 
+I'm Mishari Muqbil, based in Bangkok, Thailand, and I attribute much of who I am to the open source movement. Presently I'm an InnerSource coach, which is I help organisations and teams adopt open source principles and methodologies.
 
 I co-organise Open Tech Summit Thailand, an international open source conference, co-founded CoderDojo Thailand, a free programming community for kids age 7-17, co-organise Bangkok Scientifique, a meetup to improve science literacy, and am a part of the Homeschooling community because I always felt learning in communities (such as OpenStreetMap) was more impactful than learning in school.
 
@@ -43,7 +43,7 @@ As a community member, my most notable achievement is engaging Grab [company] wh
 
 Firstly curiosity, it's fascinating to look at maps and see how civilisation has expanded and evolved, from the old city to modern developments. Through maps, we can often see the way different generations have applied their vision to a city. I also like to look at how people move around, the limits of our town planning, and how people have hacked it by creating accessible shortcuts through private property.
 
-Secondly, for cycling, I consider that the more data I feed into OpenStreetMap, the more I can get out of the algorithms that process bicycle routing, making cycling more enjoyable. 
+Secondly, for cycling, I consider that the more data I feed into OpenStreetMap, the more I can get out of the algorithms that process bicycle routing, making cycling more enjoyable.
 
 Thirdly, I don't know what exciting services would be created out of my contribution. Perhaps one day, I will need to rely on wheelchair routing. Maybe someone is looking for a vegetarian or halal restaurant in my area. Perhaps there's a parent out there looking for a restroom, a tourist looking for a landmark, or a logistics company optimising their routes to make parcel delivery cheaper and reducing energy consumption. Things built on the data I've helped contributed can make my life better.
 
@@ -77,7 +77,7 @@ The challenge is in bringing in more contributors from Asia, where there's a lac
 
 The other challenge I see as the quantity of data grows is making an environment welcoming to new users. There will inherently be a conflict between new users who have a different interpretation of the map and more established mappers. Sometimes this is overwhelming for newcomers and a source of much anguish for established mappers.
 
-## How to do stay on top of news about OpenStreetMap?
+## How do you stay on top of news about OpenStreetMap?
 
 Mostly via _weeklyOSM_, OSM Thailand Forum, and the OSM Asia Telegram channel.
 

@@ -11,7 +11,7 @@ Zijn [homepage](https://www.openstreetmap.org/user/Mishari) en zijn [bijdragerpa
 
 ## Hallo Misrahi! Wil je jezelf even voorstellen aan onze lezers?
 
-Ik ben Mishari Muqbil, woonachtig in Bangkok, Thailand, en ik schrijf veel van wie ik ben toe aan de open source beweging. Momenteel ben ik een InnerSource coach, dat wil zeggen dat ik organisaties en teams help om open source principes en methodologieën te adopteren. 
+Ik ben Mishari Muqbil, woonachtig in Bangkok, Thailand, en ik schrijf veel van wie ik ben toe aan de open source beweging. Momenteel ben ik een InnerSource coach, dat wil zeggen dat ik organisaties en teams help om open source principes en methodologieën te adopteren.
 
 Ik ben mede-organisator van Open Tech Summit Thailand, een internationale open source conferentie, mede-oprichter van CoderDojo Thailand, een *gratis* programmeer gemeenschap voor kinderen van 7-17 jaar. Ik ben ook mede-organisator van Bangkok Scientifique, een meetup om wetenschappelijke cultuur te verbeteren, en maak deel uit van de Homeschooling gemeenschap omdat ik altijd het gevoel heb gehad dat leren in gemeenschappen (zoals OpenStreetMap) meer impact had dan leren op school.
 
@@ -43,7 +43,7 @@ Als lid van de gemeenschap is mijn meest opmerkelijke prestatie het inschakelen 
 
 Ten eerste nieuwsgierigheid, het is fascinerend om naar kaarten te kijken en te zien hoe de beschaving is uitgebreid en geëvolueerd, van de oude stad tot moderne ontwikkelingen. Door middel van kaarten kunnen we vaak zien hoe verschillende generaties hun visie op een stad hebben toegepast. Ik kijk ook graag naar hoe mensen zich verplaatsen, naar de grenzen van onze stadsplanning en hoe mensen die hebben doorbroken door toegankelijke sluiproutes via privéterreinen te creëren.
 
-Ten tweede, wat fietsen betreft, ben ik van mening dat hoe meer gegevens ik in OpenStreetMap stop, hoe meer ik uit de algoritmen kan halen die de fietsrouting verwerken, waardoor fietsen aangenamer wordt. 
+Ten tweede, wat fietsen betreft, ben ik van mening dat hoe meer gegevens ik in OpenStreetMap stop, hoe meer ik uit de algoritmen kan halen die de fietsrouting verwerken, waardoor fietsen aangenamer wordt.
 
 Ten derde weet ik niet welke spannende diensten er uit mijn bijdrage zouden voortkomen. Misschien zal ik op een dag een beroep moeten doen op rolstoelrouting. Misschien is er iemand op zoek naar een vegetarisch of halal restaurant bij mij in de buurt. Misschien is er een ouder op zoek naar een toilet, een toerist op zoek naar een bezienswaardigheid, of een logistiek bedrijf dat zijn routes optimaliseert om pakketbezorging goedkoper te maken en het energieverbruik te verminderen. Dingen die gebouwd zijn op de gegevens die ik heb helpen bijdragen, kunnen mijn leven beter maken.
 

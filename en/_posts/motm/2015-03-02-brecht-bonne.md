@@ -51,7 +51,7 @@ Back in 2007, I did not start mapping because the map was just empty. It seemed 
 
 The greatest strength is neutrality. The community has to political agenda. Also, the short time frame that is needed to completely map a area after a disaster is amazing. Because the system depends on the contributions of volunteers, everything goes faster than when it would be based on payed labour.
 
-**How to do stay on top of news about OpenStreetMap?**
+**How do you stay on top of news about OpenStreetMap?**
 
 The monthly meetings, and of course the OSM.be website.
 

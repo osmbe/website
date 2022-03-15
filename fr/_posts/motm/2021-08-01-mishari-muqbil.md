@@ -43,7 +43,7 @@ En tant que membre de la communauté, ma réalisation la plus notable est d'avoi
 
 Tout d'abord la curiosité, il est fascinant de regarder des cartes et de voir comment la civilisation s'est développée et a évolué, de la vieille ville aux développements modernes. Grâce aux cartes, on peut souvent voir comment les différentes générations ont appliqué leur vision à une ville. J'aime aussi regarder comment les gens se déplacent, les limites de notre urbanisme et comment les gens l'ont détourné en créant des raccourcis accessibles à travers des propriétés privées.
 
-Deuxièmement, pour le vélo, je considère que plus j'alimente OpenStreetMap en données, plus je peux tirer profit des algorithmes qui traitent les itinéraires cyclables, ce qui rend le vélo plus agréable. 
+Deuxièmement, pour le vélo, je considère que plus j'alimente OpenStreetMap en données, plus je peux tirer profit des algorithmes qui traitent les itinéraires cyclables, ce qui rend le vélo plus agréable.
 
 Troisièmement, je ne sais pas quels services passionnants pourraient être créés à partir de ma contribution. Peut-être qu'un jour, j'aurai besoin de recourir au routage des fauteuils roulants. Peut-être quelqu'un cherche-t-il un restaurant végétarien ou halal dans ma région. Peut-être y a-t-il un parent à la recherche de toilettes, un touriste à la recherche d'un point de repère, ou une entreprise de logistique qui optimise ses itinéraires pour rendre la livraison de colis moins chère et réduire la consommation d'énergie. Les choses construites à partir des données que j'ai contribué à créer peuvent améliorer ma vie.
 
