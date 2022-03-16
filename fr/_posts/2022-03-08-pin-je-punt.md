@@ -1,5 +1,5 @@
 ---
-title: Le projet "\"Pin je Punt\" de Visit Flanders (Flandre Tourisme)"
+title: Le projet "\"Pin je Punt\" de Visit Flanders"
 layout: post
 author: OpenStreetMap Belgium
 lang: fr
