@@ -10,10 +10,6 @@
     light: anyways-light.png
     dark: anyways-dark.png
 
-- name: RouteYou
-  url: https://www.routeyou.com/
-  logo: routeyou.jpg
-
 - name: Champs-Libres
   url: https://www.champs-libres.coop/
   logo: champslibres.png
@@ -21,3 +17,7 @@
 - name: Visit Flanders
   url: https://www.visitflanders.com/
   logo: visit-flanders.jpg
+
+- name: RouteYou
+  url: https://www.routeyou.com/
+  logo: routeyou.jpg
