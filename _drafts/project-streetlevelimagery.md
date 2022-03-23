@@ -1,11 +1,10 @@
 ---
 title: Open Streetlevel Imagery
 featured: Bing_Streetside_NYC.gif
-layout: post
-author: OpenStreetMap Belgium
+layout: project
+lead: Joost Schouppe
 lang: en
 ---
-
 
 ## Why street level imagery matters and why it should be open
 All around the world, people are making a digital twin of the world. They might want to know where the shops are, need data to train a driverless car algorithm, or want to know where the traffic signs are. This work is done by private companies, by government and by volunteers in crowdsourcing projects. Sometimes, this can be done by using satellite imagery. Sometimes going outside is needed. But very often, _street level imagery_ is what is needed most. This allows to detect a lot of interesting features and to collect huge amounts of data without always having to go out.
@@ -16,18 +15,18 @@ However, this street level imagery is often not openly available. Google Street 
 
 The commercial sector continues to offer street view solutions. However, in almost all cases, the government does not retain ownership of the imagery. Instead of paying for data collection, you pay for access to the data. This means every single government organisation has to potentially pay again and again to access the same data. And it means there is no way to open the data. Unfortunately, Flemish local and regional governments are generally sticking to this practice. We believe **payment for the data collection should happen only once, and ownership of the imagery should be transferred to the government.** This way, tax payer's money is used responsibly. By releasing the imagery as open data, its value for society is increased even more.
 
-While [WVI]() has contributed open 360 imagery for most of the indsutrial areas in West-Flanders, and three Flemish municipalities have shared 360° imagery taken by [Vansteelandt](https://www.vansteelandt.be/), the vast majority of projects to not result in open data. offers the option to share some of the results publicly.  This is why in 2022 we are launching the Open StreetLevel Imagery Project. We will show that with a budget of less than 5000 euro, a significant impact can be made.
+While [WVI](https://www.wvigisco.be/best-practices/gis-coordinatie/oostrozebeke-als-eerste-volledige-gemeente-360-op-mapillary/) has contributed open 360 imagery for most of the indsutrial areas in West-Flanders, and three Flemish municipalities have shared 360° imagery taken by [Vansteelandt](https://www.vansteelandt.be/), the vast majority of projects that we hear about do not result in open data. This is why in 2022 we are launching the Open StreetLevel Imagery Project. We will try to show that with a budget of less than 5.000 euro, a significant impact can be made.
 
 ## The OpenStreetMap Belgium role
 
-Our members have been contributing millions of openly licensed streetlevel images in Belgium already. We do this because it helps us build the map. We want to support these contributors and increase the quality of their work. 
+Our members have been contributing millions of openly licensed streetlevel images in Belgium already. We do this because it helps us build the map. OpenStreetMap Belgium wants to support these contributors and increase the quality of their work. Most of the images are taken with smartphones or action cams. But in order to convince more people that this kind of platform is the right place for them to contribute, we are investing in 360° cameras.
 
-Next to each other: [TODO: image of the current OSMbe Members on mapillary map]
-[TODO: image of the current OSMbe official cameras on mapillary map]
+The images aren't just useful to local mappers. As we publish them on the Mapillary platform, they can be used by anyone in the business of producing open data. More than that: the platform automatically generates derived data about traffic signs and infrastructure, which is in turn available as open data. As we retain full ownership of the images, we can also share them under other licenses and on other platforms.
 
-In early 2022, we bought the first GoPro Max, a low cost 360° camera. As this turned out to be a success, it soon triggered the donation for a second 360 camera. We are constantly looking for volunteers who want to use the camera with a certain intensity.
+TODO Next to each other: ![OSMbe Members](mapillary-members.png)
+[OSMbe official](mapillary-official.png)
+(link: [OSMbe Official Cameras](https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062); [OSMbe members](https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062);
 
-The images aren't just useful to local mappers. As we publish them on the Mapillary platform, they can be used by anyone in the production of other open data. More than that: the platform automatically generates derived data about traffic signs and infrastructure, which is also available as open data. As we retain full ownership of the images, we can also share them under other licenses and on other platforms.
 
 ## How you can contribute
 
@@ -36,36 +35,18 @@ The images aren't just useful to local mappers. As we publish them on the Mapill
 * Do you have a use case for derived data? We can help set you up with the data and the tools.
 * Would you like to see your local area mapped first? We can help you reach out to your network to find volunteers, and support them to collect the data. 
 * Want to see the project grow? Give us an earmarked donation and we will invest it in the project.
-* The OpenStreetMap community are dreaming of an open imagery repository where images can be dumped and service providers can use them to create value. We are looking for organisations that can help make this happen.
+* The OpenStreetMap community are dreaming of an open imagery repository where images can be dumped and service providers can use them to create value. We are looking for organisations that can help make this happen. Right now we are building a simple backup solution for the images we took ourselves.
 
-[Contact us](mailto:community@osm.be) for details.
-
-
-
-# MAYBE USE SOME OF THE BELOW
-
-## Fast updates from the crowd
-
-The classic approach to government street view is hi-tech, and expensive. It is also slow. Of course, it is nice to have a perfect 360° image, and to be able to have centimetre precision of any pixel you click in the image. But what if something changed and you want to see yesterday's situation?
-
-There is an almost free alternative, which trades some quality for higher speed. The answer is the crowd. There are **several crowd-sourced imagery projects, which take advantage of motivated volunteers and ubiquitous smartphones or action cameras** to create a base-level street level image of the world.
-
-In Belgium, without any budget at all, several -million- pictures are openly available, taken by volunteers. Most of those volunteers collect them for their mapping in OpenStreetMap, the "Wikipedia of Maps". With one donated camera from [Mapillary](https://www.mapillary.com/), OpenStreetMap Belgium created 200.000 high quality images - all available under an open data license. Imagine what we could do if governments joined this crowd! These platforms are ready to host professional images too. The crowd is ready to support your mission too.
-
-At OpenStreetMap Belgium, we want to work with you. If you lend us a camera and some basic funding, we will prioritize your area of interest and train your employees to continue the work. Imagine installing a new dog toilet today, and having a map with the new infrastructure and a clickable image literally tomorrow. Imagine your garbage collectors providing a quarterly update of each and every street in your town. Imagine motivating volunteers to take pictures of all the paths and trails. Imagine not doing anything at all and -still- getting daily updates.
-
-## Call to action
-
-If open images exist, who knows what data will be derived from them? Computer vision can turn them into data about anything you like – for free if you work under CC-BY-SA 4.0, at competitive prices in other cases. All faces and license plates can be censored for free – by installing the right tools or by uploading them to a web portal. And most of all: you will be helping your colleagues in other government branches, as well as civil society around this country. It is your duty to consider this option.
-
-If you are looking for low-budget solutions, contact us.
-
-If you are working on public tenders, split them into a parcel for open data collection and a second part for service provision.
+[Get in touch with any question or proposal](mailto:community@osm.be) for details.
 
 
+## Key events
 
-## About us
-
-OpenStreetMap Belgium works to improve the map in Belgium. We are a branch of Open Knowledge Belgium and a Local Chapter of the OpenStreetMap Foundation. Together we want to help build open map data for the benefit of the many, not the few.
-
-Questions, remarks or suggestions? Send them to [community (at) osm.be](mailto:community@osm.be)
+* Early 2019. First GoPro donated by Mapillary. Intensive use by contributor polyglot (all the proposed cycle highways in Flanders get mapped) and Joost Schouppe
+* Late 2019. As the Digitaal Vlaanderen "Mobile Mapping" project is stopped, [we advocate for an open replacement](https://openstreetmap.be/en/2019/09/27/streetview.html).
+* June 2020. The origanally European open street level imagery company gets bought up by Facebook, as part of their OpenStreetMap centered maps strategy. [Some context](https://joemorrison.medium.com/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8). This brings a lot of debate in the OSM community; temporary technical issues; and medium term stability.
+* November 2020. OpenStreetCam becomes [KartaView](https://kartaview.org/). Images from Mapillary can be automatically transfered to this similar platform, operated by [Grab](https://www.grab.com), a South-East Asian taxi company that contributes to and makes use of OpenStreetMap data.
+* November 2021. The [OSM Belgium membership decides](https://github.com/osmbe/working-group-bylaws/blob/master/minutes/2021-11-30%20-%20official%20meeting.md) to invest in 360 cameras.
+* February 2022. The first camera is bought and gets heavy use in Lierde and Pepingen, by [Dirk Dedoncker, a mobility consultant](https://a2bmobility.be/).
+* March 2022. The camera goes to Saint-Georges-Sur-Meuse, where Pierre Serpe will use it for a project with the Gracq.
+* March 2022. As the first camera is in heavy use, we recieve an earmarked donation for a second camera.
