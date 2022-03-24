@@ -1,3 +1,6 @@
+PLEASE DO NOT EDIT HERE ANYMORE BUT AT https://hackmd.io/6BwTX0RKTyi9HFXjfxPbgA
+
+
 ---
 title: Open Streetlevel Imagery
 featured: Bing_Streetside_NYC.gif
