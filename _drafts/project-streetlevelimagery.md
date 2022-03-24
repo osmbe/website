@@ -13,9 +13,13 @@ However, this street level imagery is often not openly available. Google Street 
 
 ## Opening up
 
-The commercial sector continues to offer street view solutions. However, in almost all cases, the government does not retain ownership of the imagery. Instead of paying for data collection, you pay for access to the data. This means every single government organisation has to potentially pay again and again to access the same data. And it means there is no way to open the data. Unfortunately, Flemish local and regional governments are generally sticking to this practice. We believe **payment for the data collection should happen only once, and ownership of the imagery should be transferred to the government.** This way, tax payer's money is used responsibly. By releasing the imagery as open data, its value for society is increased even more.
+The commercial sector continues to offer street view solutions. However, in almost all cases, the government does not retain ownership of the imagery. Instead of paying for data collection, they pay for access to the data. This means the price is low for the individual governement organization, but federal, regional, provincial, intercommunal or communal are all buying access individually. In the end, the total cost for the tax payer is higher, without there being any open products that can benefit the rest of society.
 
-While [WVI](https://www.wvigisco.be/best-practices/gis-coordinatie/oostrozebeke-als-eerste-volledige-gemeente-360-op-mapillary/) has contributed open 360 imagery for most of the indsutrial areas in West-Flanders, and three Flemish municipalities have shared 360° imagery taken by [Vansteelandt](https://www.vansteelandt.be/), the vast majority of projects that we hear about do not result in open data. This is why in 2022 we are launching the Open StreetLevel Imagery Project. We will try to show that with a budget of less than 5.000 euro, a significant impact can be made.
+We believe **payment for the data collection should happen only once, and ownership of the imagery should be transferred to the government**. This would result in the lowest cost overal. By releasing the imagery as open data, its value for society is increased even more. Access to extra services can incentivise governements to pay up for the base data collection.
+
+While [WVI](https://www.wvigisco.be/best-practices/gis-coordinatie/oostrozebeke-als-eerste-volledige-gemeente-360-op-mapillary/) has contributed open 360° imagery for most of the indsutrial areas in West-Flanders, and three Flemish municipalities have shared 360° imagery taken by [Vansteelandt](https://www.vansteelandt.be/), the vast majority of projects that we hear about do not result in open data. 
+
+This is why in 2022 we are launching the Open StreetLevel Imagery Project. We will scale up our efforts to crowdsource open streetlevel imagery, as a low cost alternative. We will invest a very small budget, which we expect to have a significant impact.
 
 ## The OpenStreetMap Belgium role
 
@@ -27,8 +31,18 @@ TODO Next to each other: ![OSMbe Members](mapillary-members.png)
 [OSMbe official](mapillary-official.png)
 (link: [OSMbe Official Cameras](https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062); [OSMbe members](https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062);
 
+## Crowdsourcing for the win
+
+At OpenStreetMap Belgium, we believe crowdsourcing is the way to go. Define a common goal, make sure people have the means to work together and watch your project grow. That doesn't mean "volunteers only". The crowd is more than just citizens. As the project grows, professionals start to use it - and start contributing. Open streetlevel imagery project contributors are also companies and governement organizations. The reason is simple:
+- it's low cost. Since it takes no special skills to collect the imagery, you can work with volunteers or people who have to travel around anyway. Uploading is also quite easy
+- it's fast. Define a need today, grab your camera, and have the results available by the evening. Between large projects, ad hoc work can fill the gap
+- it has unexpected benefits. You get derived data for free, can download the censored images for re-use, and your local OpenStreetMap data might get better faster.
+
+While the low cost solution cannot offer the same benefits that advanced mobile mapping has, it can fill the gaps quite easily - possibly allowing you to leave more time between professional runs.
 
 ## How you can contribute
+
+Thanks for asking!
 
 * We're always looking for volunteers who want to use the camera. You don't need to be crazy ambitious, but of course the camera will go to people who can do most work first.
 * Do you think there's potential in your organization? We can set up a demo together and lend you a camera and accessories for testing purposes
