@@ -26,7 +26,7 @@ This is why in 2022 we, OpenStreetMap Belgium, are launching the Open StreetLeve
 
 Our members have been contributing millions of openly licensed street level images in Belgium already. We do this because it helps us build the map. OpenStreetMap Belgium wants to support these contributors and increase the quality of their work. Most of the images are taken with smartphones or action cameras. But in order to convince more people that this kind of platform is the right place for them to contribute, we are investing in 360° cameras.
 
-The images aren't just useful to local mappers. As we publish them on the [Mapillary](https://www'mapillary.com) platform, they can be used by anyone in the business of producing open data. More than that, the platform automatically generates derived data about traffic signs and infrastructure, which is in turn available as open data. As we retain full ownership of the images, we can also share them under other licenses and on other platforms.
+The images aren't just useful to local mappers. As we publish them on the [Mapillary](https://www.mapillary.com) platform, they can be used by anyone in the business of producing open data. More than that, the platform automatically generates derived data about traffic signs and infrastructure, which is in turn available as open data. As we retain full ownership of the images, we can also share them under other licenses and on other platforms.
 
 <div style="display: flex; max-width: 100%;">
   <div style="margin: 0.5rem;">
