@@ -64,7 +64,7 @@ Thanks for asking!
 - Want to see the project grow? Give us an earmarked [donation](https://openstreetmap.be/en/support.html) and we will invest it in the project.
 - The OpenStreetMap community are dreaming of an open imagery repository where images can be dumped and service providers can use them to create value. We are looking for organisations that can help make this happen. Right now we are building a simple backup solution for the images we took ourselves.
 
-[Get in touch with any question or proposal](mailto:community@osm.be) for details.
+[Get in touch with any question or proposal](mailto:community@osm.be).
 
 ## Key events
 
