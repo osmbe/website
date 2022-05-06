@@ -21,3 +21,7 @@
 - name: RouteYou
   url: https://www.routeyou.com/
   logo: routeyou.jpg
+
+- name: Mapbox
+  url: https://www.mapbox.com/
+  logo: mapbox-logo-white.png
