@@ -73,6 +73,7 @@ Thanks for asking!
 - June 2020. The originally European open street level imagery company gets bought up by Facebook, as part of their OpenStreetMap centered maps strategy. [Some context](https://joemorrison.medium.com/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8). This brings a lot of debate in the OSM community; temporary technical issues; and medium term stability.
 - November 2020. OpenStreetCam becomes [KartaView](https://kartaview.org/). Images from Mapillary can be automatically transfered to this similar platform, operated by [Grab](https://www.grab.com), a South-East Asian taxi company that contributes to and makes use of OpenStreetMap data.
 - November 2021. The [OSM Belgium membership decides](https://github.com/osmbe/working-group-bylaws/blob/master/minutes/2021-11-30%20-%20official%20meeting.md) to invest in 360 cameras.
-- February 2022. The first camera is bought and gets heavy use in Lierde and Pepingen, by [Dirk Dedoncker, a mobility consultant](https://a2bmobility.be/).
+- February 2022. After careful research, we decide to go for the GoPro Max: a userfriendly camera of about 500 euro. The first camera is bought and gets heavy use in Lierde and Pepingen, by [Dirk Dedoncker, a mobility consultant](https://a2bmobility.be/).
 - March 2022. The camera goes to Saint-Georges-Sur-Meuse, where Pierre Serpe will use it for a project with the [Gracq](https://www.gracq.org/groupes/saint-georges).
 - March 2022. As the first camera is in heavy use, we receive an earmarked donation for a second camera. This camera goes to [Westtoer](https://www.westtoer.be), for experimental use in preparation of new cycle routes.
+- April 2022. Because of continued succes and demand from volunteers, we buy a 3rd GoPro.
