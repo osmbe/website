@@ -1,5 +1,5 @@
 ---
-title: Open Streetlevel Beeldmateriaal
+title: Open Beeldmateriaal op Straatniveau
 featured: Bing_Streetside_NYC.gif
 layout: project
 lead: Joost Schouppe
@@ -26,7 +26,7 @@ Daarom lanceren wij in 2022 het Open StreetLevel Imagery Project. Wij schalen on
 
 Onze leden hebben in België al miljoenen straatbeelden bijgedragen onder open licentie. Wij doen dat omdat het ons helpt de kaart te verbeteren. OpenStreetMap België wil deze bijdragers ondersteunen en de kwaliteit van hun werk verhogen. De meeste beelden worden gemaakt met mobieltjes of actiecamera's. Om meer mensen te overtuigen dat dit platform de juiste plek is om bij te dragen, investeren wij in 360° camera's.
 
-Niet allen lokale mappers profiteren van de beelden. Omdat we ze publiceren op het Mapillary platform, kunnen ze door iedereen gebruikt worden om open data te genereren. En meer dan dat: het platform genereert automatisch afgeleide gegevens over verkeersborden en infrastructuur, informatie die vervolgens weer beschikbaar is als open data. Omdat we volledig eigenaar blijven van de beelden, kunnen we ze ook delen onder andere licenties en op andere platforms.
+Niet alleen lokale mappers profiteren van de beelden. Omdat we ze publiceren op het Mapillary platform, kunnen ze door iedereen gebruikt worden om open data te genereren. En meer dan dat: het platform genereert automatisch afgeleide gegevens over verkeersborden en infrastructuur, informatie die vervolgens weer beschikbaar is als open data. Omdat we volledig eigenaar blijven van de beelden, kunnen we ze ook delen onder andere licenties en op andere platforms.
 
 <div style="display: flex; max-width: 100%;">
   <div style="margin: 0.5rem;">
@@ -45,7 +45,7 @@ Niet allen lokale mappers profiteren van de beelden. Omdat we ze publiceren op h
 
 ## Het nut van Crowdsourcing
 
-Bij OpenStreetMap België geloven we dat crowdsourcing de weg vooruit is. Stel een gemeenschapelijk doel, zorg dat de mensen de middelen hebben om samen te werken, en zie hoe je project groeit. En dat betekent niet "uitsluitend vrijwilligers". De "crowd" is meer dan alleen burgers. Naarmate het project groeit, beginnen professinals het te gebruiken - en bij te dragen. Open straatbeeld bijdragers zijn ook bedrijven en overheidsorganisaties. De reden is eenvoudig:
+Bij OpenStreetMap België geloven we dat crowdsourcing de weg vooruit is. Stel een gemeenschapelijk doel, zorg dat de mensen de middelen hebben om samen te werken, en zie hoe je project groeit. En dat betekent niet "uitsluitend vrijwilligers". De "crowd" is meer dan alleen burgers. Naarmate het project groeit, beginnen professionals het te gebruiken - en bij te dragen. Open straatbeeld bijdragers zijn ook bedrijven en overheidsorganisaties. De reden is eenvoudig:
 
 - het kost weinig. Omdat er geen speciale vaardigheden nodig zijn om beelden te verzamelen, kun je werken met vrijwilligers of mensen die sowieso rondreizen. Beelden aanleveren is gemakkelijk.
 - het is snel. Bedenk nu wat je nodig hebt, grijp je camera en je hebt vanavond nog je resultaten. Tussen grote projecten in vult ad hoc werk het gat op.
@@ -76,4 +76,4 @@ Bedankt om dit te vragen!
 - Februari 2022. Na uitgebreid onderzoek kiezen we voor de GoPro Max, een gebruiksvriendelijke camera van zo'n 500 euro. De eerste camera wordt aangekocht en goed gebruikt in Lierde en Pepingen, by [Dirk Dedoncker, een mobiliteitsconsulent](https://a2bmobility.be/).
 - Maart 2022. De camera gaat naar Saint-Georges-Sur-Meuse, waar Pierre Serpe hem gaat gebruiken voor een project met de [Gracq](https://www.gracq.org/groupes/saint-georges).
 - Maart 2022. Omdat de eerste camera zo intensief gebruikt wordt, ontvangen we een geoormerkte donatie voor een tweede camera. Deze camera gaat naar [Westtoer](https://www.westtoer.be), voor experimenteel gebruik bij het uitwerken van nieuwe fietsroutes.
-- April 2022. Because of continued succes and demand from volunteers, we buy a 3rd GoPro.
+- April 2022. Omdat de zaken goed lopen en er voldoende vraag is vanuit de vrijwilligers, kopen we een derde GoPro.
