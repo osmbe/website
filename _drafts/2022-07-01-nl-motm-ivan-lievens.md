@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: nl
 ---
 
-Zijn [homepage](https://www.openstreetmap.org/user/uuu) en zijn [bidragerpagina](https://hdyc.neis-one.org/?uuu).
+Zijn [homepage](https://www.openstreetmap.org/user/Ivan%20Lievens) en zijn [bidragerpagina](https://hdyc.neis-one.org/?Ivan%20Lievens).
 
 ## Hallo Ivan. Wil je jezelf even voorstellen aan onze lezers?
 
@@ -15,7 +15,7 @@ Ik ben 57 jaar, getrouwd en vader van twee kinderen. Ik woon in Hofstade, deelge
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
-Tot mijn grote verbazing heb ik al sinds 29 augustus 2008 een account op openstreetmap.org. Ik gebruik al jaren GPS op motorfiets (Garmin zümo 550, 590, XT), in de auto (Garmin nüvi 2699) en op de fiets (Garmin Edge 705). Dit kan vooral om mooie rondritten te doen i.p.v. zo snel mogelijk van A naar B. Het is vooral door de fiets GPS dat ik op zoek gegaan ben naar een alternatief voor de dure en toch ook verouderde officiële topografische kaarten. Deze heb ik dan ook gevonden op https://www.openfietsmap.nl.
+Tot mijn grote verbazing heb ik al sinds 29 augustus 2008 een account op openstreetmap.org. Ik gebruik al jaren GPS op motorfiets (Garmin zümo 550, 590, XT), in de auto (Garmin nüvi 2699) en op de fiets (Garmin Edge 705). Dit kan vooral om mooie rondritten te doen i.p.v. zo snel mogelijk van A naar B. Het is vooral door de fiets GPS dat ik op zoek gegaan ben naar een alternatief voor de dure en toch ook verouderde officiële topografische kaarten. Deze heb ik dan ook gevonden op <https://www.openfietsmap.nl>.
 
 ## Hoe gebruik je OpenStreetMap?
 
