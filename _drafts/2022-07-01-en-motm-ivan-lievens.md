@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: en
 ---
 
-His [homepage](https://www.openstreetmap.org/user/Ivan Lievens) and his [contribution page](http://hdyc.neis-one.org/?Ivan Lievens).
+His [homepage](https://www.openstreetmap.org/user/Ivan%20Lievens) and his [contribution page](http://hdyc.neis-one.org/?Ivan%20Lievens).
 
 ## Hello Ivan. Would you like to briefly introduce yourself to our readers?
 
@@ -15,7 +15,7 @@ I am 57 years old, married and the father of two children. I live in Hofstade, p
 
 ## How and when did you get to know OpenStreetMap?
 
-To my great surprise, I have had an account on openstreetmap.org since 29 August 2008. I have been using GPS for years on my motorbike (Garmin Zümo 550, 590, XT), in the car (Garmin Nüvi 2699) and on my bicycle (Garmin Edge 705). This is mainly to make nice round trips instead of going from A to B as fast as possible. It is mainly because of the bicycle GPS that I started looking for an alternative for the expensive and also outdated official topographic maps. I have found it on https://www.openfietsmap.nl.
+To my great surprise, I have had an account on openstreetmap.org since 29 August 2008. I have been using GPS for years on my motorbike (Garmin Zümo 550, 590, XT), in the car (Garmin Nüvi 2699) and on my bicycle (Garmin Edge 705). This is mainly to make nice round trips instead of going from A to B as fast as possible. It is mainly because of the bicycle GPS that I started looking for an alternative for the expensive and also outdated official topographic maps. I have found it on <https://www.openfietsmap.nl>.
 
 ## How do you use OpenStreetMap?
 
@@ -63,8 +63,6 @@ Keep on mapping! Although I must admit that this is mainly an activity during th
 
 **Thank you, Ivan, for this interview.**
 
-
 *Translated from Dutch by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
 
 (1) GRB: Grootschalig Referentie Bestand i.e. basemap in Flanders
-

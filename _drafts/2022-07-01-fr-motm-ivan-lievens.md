@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: fr
 ---
 
-Sa [homepage](https://www.openstreetmap.org/user/Ivan Lievens) et sa [page de contribution](https://hdyc.neis-one.org/?Ivan Lievens).
+Sa [homepage](https://www.openstreetmap.org/user/Ivan%20Lievens) et sa [page de contribution](https://hdyc.neis-one.org/?Ivan%20Lievens).
 
 ## Bonjour Ivan. Voudrais-tu te présenter brièvement à nos lecteurs ?
 
@@ -15,7 +15,7 @@ J'ai 57 ans, je suis marié et père de deux enfants. J'habite à Hofstade, une 
 
 ## Comment et quand as-tu découvert OpenStreetMap ?
 
-À ma grande surprise, j'ai un compte sur openstreetmap.org depuis le 29 août 2008. J'utilise des GPS depuis des années sur ma moto (Garmin Zümo 550, 590, XT), dans la voiture (Garmin Nüvi 2699) et sur mon vélo (Garmin Edge 705). C'est principalement pour faire de beaux aller-retour au lieu d'aller d'un point A à un point B aussi vite que possible. C'est surtout grâce au GPS pour vélo que j'ai commencé à chercher une alternative aux cartes topographiques officielles coûteuses et également dépassées. Je l'ai trouvé sur https://www.openfietsmap.nl.
+À ma grande surprise, j'ai un compte sur openstreetmap.org depuis le 29 août 2008. J'utilise des GPS depuis des années sur ma moto (Garmin Zümo 550, 590, XT), dans la voiture (Garmin Nüvi 2699) et sur mon vélo (Garmin Edge 705). C'est principalement pour faire de beaux aller-retour au lieu d'aller d'un point A à un point B aussi vite que possible. C'est surtout grâce au GPS pour vélo que j'ai commencé à chercher une alternative aux cartes topographiques officielles coûteuses et également dépassées. Je l'ai trouvé sur <https://www.openfietsmap.nl>.
 
 ## Comment utilises-tu OpenStreetMap ?
 
