@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: en
 ---
 
-His [homepage](<https://www.openstreetmap.org/user/Nicxon%20Piaso>) and his [contribution page](<https://hdyc.neis-one.org/?Nicxon%20Piaso>).
+His [homepage](https://www.openstreetmap.org/user/Nicxon%20Piaso) and his [contribution page](https://hdyc.neis-one.org/?Nicxon%20Piaso).
 
 ## Hello Nicxon. Would you like to briefly introduce yourself to our readers?
 
