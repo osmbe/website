@@ -22,6 +22,10 @@
   url: https://www.routeyou.com/
   logo: routeyou.jpg
 
+- name: TomTom
+  url: https://www.tomtom.com/
+  logo: tomtom.png
+
 - name: Mapbox
   url: https://www.mapbox.com/
   logo: mapbox-logo-white.png
