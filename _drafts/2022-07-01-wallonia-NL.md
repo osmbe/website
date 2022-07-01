@@ -1,0 +1,14 @@
+---
+title: "Er beweegt wat in Wallonië"
+layout: post
+author: OpenStreetMap Belgium
+lang: nl
+---
+
+Er beweegt heel wat in Wallonië! De community rond Aarlen organiseert sowieso veel activiteiten, maar we we zijn nu ook contacten aan het leggen met de afdeling voor geografische informatie bij de 'Service Publique Wallonie' (SPW).
+
+Een van pistes die we verkennen zoomt in op gebouwen en adressen. Enkele jaren geleden bouwde Glenn Plas een tool die hielp om gebouwen en adressen in Vlaanderen te importeren. Afgelopen jaar integreerde hij ook Brusselse en Waalse data. Een goed moment om de tool te verhuizen naar https://buildings.osm.be/. Tegelijkertijd brengen we ook alle documentatie bij elkaar op de [wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Building_and_address_import). Daar vind je meer informatie indien je zelf aan de slag wil. 
+
+We gaan in Wallonië gestructureerde feedback geven over de kwaliteit van de brondata voor gebouwen. Als je de instructies volgt, zullen we door OSM te bevragen in staat zijn om ontbrekende of verdwenen gebouwen in de Waalse dataset te rapporteren. Een van onze leden, Julien Minet, [schreef een blog ](https://www.openstreetmap.org/user/juminet/diary/399460) (FR) over zijn ervaringen in Neufchateau.
+
+Iets gelijkaardigs gebeurt in het [Road Completion project](https://openstreetmap.be/nl/projects/road-completion.html). Terwijl we zoeken naar ontbrekende wegen in OpenStreetMap, ontdekken we ook vaak fouten in de officiële data. In Vlaanderen gebruiken we al lang het Wegenregister. We verzamelen daarbij feedback over de officiële data met de MapRoulette tool die we gebruiken om te mappen. We gaan nu op dezelfde manier ook feedback voor Wallonië verzamelen.
