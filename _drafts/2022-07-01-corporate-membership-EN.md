@@ -20,7 +20,7 @@ For large organizations, this costs 2500 euro per year, for SME's 1000 euro. We 
 
 * [Geo-6](https://geo6.be/): a geodata consultancy company
 * [Anyways.eu](https://www.anyways.eu/): an open source routing company
-* [ChampsLibres`](https://www.champs-libres.coop/): a cooperative specialised in open source geo tools
+* [ChampsLibres](https://www.champs-libres.coop/): a cooperative specialised in open source geo tools
 * [Visit Flanders](https://www.visitflanders.com/) (Toerisme Vlaanderen): a Flemish government department that contributes to OSM data with their [Pin je Punt](https://toerismevlaanderen.be/nl/pinjepunt) project 
 * [RouteYou](https://www.routeyou.com/): mapping company focused on recreational navigation
 * [TomTom](https://www.tomtom.com/): GPS manufacturer and mapmaker that makes heavy use of OpenStreetMap
