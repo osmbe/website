@@ -1,0 +1,14 @@
+---
+title: "Ça bouge en Wallonie"
+layout: post
+author: OpenStreetMap Belgium
+lang: fr
+---
+
+Il se passe beaucoup de choses en Wallonie ! Bien sûr, la communauté autour d'Arlon est toujours aussi active, mais maintenant nous établissons des contacts avec la division géomatique du Service Public de Wallonie (SPW).
+
+L'une des pistes est liée aux bâtiments et aux adresses. Il y a quelques années, Glenn Plas, un contributeur OSM, a créé un outil pour faciliter l'import des bâtiments et des adresses en Flandre. L'année dernière, il a également intégré les données bruxelloises et wallonnes. Pour l'occasion, nous avons migré l'outil vers https://buildings.osm.be/ et commencé à centraliser la documentation sur le wiki. Lisez le wiki si vous êtes intéressés par ce nouvel outil.
+
+En Wallonie, nous allons donner un feedback structuré sur l'état des données officielles de bâtiments, grâce à cet import. Si vous suivez les instructions, nous serons en mesure d'interroger OSM pour signaler les bâtiments manquants ou récemment démolis dans le jeu de données officielles du SPW. Un premier [exemple d'import et de feedback a été fait par un Julien Minet](https://www.openstreetmap.org/user/juminet/diary/399460), un contributeur dans la commune de Neufchâteau.
+
+Une chose similaire se fait avec le projet [Road Completion](https://openstreetmap.be/fr/projects/road-completion.html). Pendant que nous recherchons les voiries manquantes dans OpenStreetMap, nous repérons souvent des erreurs dans les données officielles également. Nous utilisons Wegenregister en Flandre depuis longtemps. Ici, le retour d'information sur les données officielles est généré dans l'outil MapRoulette que nous utilisons pour la cartographie. Depuis peu, nous fournissons également ce feedback pour la Wallonie.
