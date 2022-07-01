@@ -5,8 +5,6 @@ author: OpenStreetMap Belgium
 lang: nl
 ---
 
-
-
 Jarenlang heeft OpenStreetMap België gedraaid op bijna geen financiële middelen. We hadden ook niet veel kosten, waardoor dat ook geen groot probleem was. Als onderdeel van OpenKnowledge Belgium hadden we toegang tot een professionele organisatie wanneer dat nodig was.
 
 Maar naar mate OpenStreetMap in België groeit, is dat niet langer een goede manier van werken. Tegelijkertijd zien we dat meer en meer bedrijven hun activiteiten bouwen rond de OpenStreetMap data. Zij hebben er dus ook belang bij deel te zijn van de community. We beslisten om die twee problemen gezamenlijk aan te pakken, door een Corporate Membership programma in te voeren. Voor deze Corporate Members, bieden we volgende voordelen aan:
@@ -28,4 +26,8 @@ Voor grote organisaties kost dit 2500 EUR per jaar, voor KMO's 1000 euro. Op hed
 * [TomTom](https://www.tomtom.com/):  GPS fabrikant en kaart-producent die intensief gebruikt maakt van de OpenStreetMap data.
 * [Mapbox](https://www.mapbox.com/): aanbieder van een globale basiskaart en diverse kaart-diensten
 
-Niet alleen is het geweldig de banden met deze datagebruikers (en bijdragers uit de bedrijfswereld), het betekent ook dat we nu wat meer werkingsmiddelen hebben. Het eerste wat we gedaan hebben, is het opstarten van het [Open StreetLevel Imagery project](projects/streetlevelimagery.html). We werken aan manieren om de community nog meer en beter te ondersteunen met deze inkomsten. De voornaamste discussies daaromtrent gebeuren tussen [de officiële leden](https://members.osm.be/view/members) en het bestuur. **Wil je graag deelnemen aan die gesprekken??** Stuur gewoon een korte e-mail naar board@osm.be en vertel ons een zinnetje of twee over jezelf. We vragen wel actieve betrokkenheid van onze leden.
+Niet alleen is het geweldig de banden met deze datagebruikers (en bijdragers uit de bedrijfswereld), het betekent ook dat we nu wat meer werkingsmiddelen hebben. Het eerste wat we gedaan hebben, is het opstarten van het [Open StreetLevel Imagery project]({% link nl/projects/streetlevelimagery.md %}). We werken aan manieren om de community nog meer en beter te ondersteunen met deze inkomsten. De voornaamste discussies daaromtrent gebeuren tussen [de officiële leden](https://members.osm.be/view/members) en het bestuur.
+
+**Wil je graag deelnemen aan die gesprekken??**
+
+Stuur gewoon een korte e-mail naar board@osm.be en vertel ons een zinnetje of twee over jezelf. We vragen wel actieve betrokkenheid van onze leden.

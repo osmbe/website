@@ -21,10 +21,14 @@ For large organizations, this costs 2500 euro per year, for SME's 1000 euro. We 
 * [Geo-6](https://geo6.be/): a geodata consultancy company
 * [Anyways.eu](https://www.anyways.eu/): an open source routing company
 * [ChampsLibres](https://www.champs-libres.coop/): a cooperative specialised in open source geo tools
-* [Visit Flanders](https://www.visitflanders.com/) (Toerisme Vlaanderen): a Flemish government department that contributes to OSM data with their [Pin je Punt](https://toerismevlaanderen.be/nl/pinjepunt) project 
+* [Visit Flanders](https://www.visitflanders.com/) (Toerisme Vlaanderen): a Flemish government department that contributes to OSM data with their [Pin je Punt](https://toerismevlaanderen.be/nl/pinjepunt) project
 * [RouteYou](https://www.routeyou.com/): mapping company focused on recreational navigation
 * [TomTom](https://www.tomtom.com/): GPS manufacturer and mapmaker that makes heavy use of OpenStreetMap
 * [Mapbox](https://www.mapbox.com/): global basemap and map services provider
 
-While it is great we can have a closer relation to these data users (and corporate contributors!), 
-this also means we have a budget now. The first thing we did, is start the [Open StreetLevel Imagery project](projects/streetlevelimagery.html). We're looking into more ways to better support the community with this income. Most of this discussion is happening within [the official membership](https://members.osm.be/view/members) and the Board. **Do you want to be part of that discussion?** Just send a short e-mail to board@osm.be and tell us a sentence or two about yourself. We do ask for active involvement from our members.
+While it is great we can have a closer relation to these data users (and corporate contributors!),
+this also means we have a budget now. The first thing we did, is start the [Open StreetLevel Imagery project]({% link en/projects/streetlevelimagery.md %}). We're looking into more ways to better support the community with this income. Most of this discussion is happening within [the official membership](https://members.osm.be/view/members) and the Board.
+
+ **Do you want to be part of that discussion?**
+
+ Just send a short e-mail to board@osm.be and tell us a sentence or two about yourself. We do ask for active involvement from our members.
