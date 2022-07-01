@@ -7,7 +7,7 @@ lang: en
 
 For years, OpenStreetMap Belgium has worked with  close to no budget at all. We also didn't have much costs, so it wasn't a real issue. Being part of OpenKnowledge Belgium meant we still had access to a professional organisation whenever needed.
 
-But as OpenStreetMap in Belgium grows, this is no longer a good way of working. At the same time, we noticed that more and more companies build their businesses around OpenStreetMap data. They have an interest in being part of the community. We decided to solve both problems by introducing a Corporate Membership program. For our Corporate Members, we offer the following benefits:
+But as OpenStreetMap in Belgium grows, this is no longer a good way of working. At the same time, we noticed that more and more companies build their businesses around OpenStreetMap data. They have an interest in being part of the community. We decided to solve both problems by introducing a Corporate Membership program. For our [Corporate Members]({% link en/support.html %}), we offer the following benefits:
 
 * OpenStreetMap Belgium will promote specific mapping activities that are beneficial to you
 * Limited free consultancy: we will help you analyse business cases that could work with OpenStreetMap (max 8 hours)
