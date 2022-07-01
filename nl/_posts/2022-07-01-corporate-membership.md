@@ -7,7 +7,7 @@ lang: nl
 
 Jarenlang heeft OpenStreetMap België gedraaid op bijna geen financiële middelen. We hadden ook niet veel kosten, waardoor dat ook geen groot probleem was. Als onderdeel van OpenKnowledge Belgium hadden we toegang tot een professionele organisatie wanneer dat nodig was.
 
-Maar naar mate OpenStreetMap in België groeit, is dat niet langer een goede manier van werken. Tegelijkertijd zien we dat meer en meer bedrijven hun activiteiten bouwen rond de OpenStreetMap data. Zij hebben er dus ook belang bij deel te zijn van de community. We beslisten om die twee problemen gezamenlijk aan te pakken, door een For our [Corporate Members]({% link en/support.html %}) programma in te voeren. Voor deze Corporate Members, bieden we volgende voordelen aan:
+Maar naar mate OpenStreetMap in België groeit, is dat niet langer een goede manier van werken. Tegelijkertijd zien we dat meer en meer bedrijven hun activiteiten bouwen rond de OpenStreetMap data. Zij hebben er dus ook belang bij deel te zijn van de community. We beslisten om die twee problemen gezamenlijk aan te pakken, door een For our [Corporate Members]({% link nl/support.html %}) programma in te voeren. Voor deze Corporate Members, bieden we volgende voordelen aan:
 
 * OpenStreetMap Belgium zal specifieke mapping-activiteiten promoten / ondersteunen die bijdragen aan hun behoeften
 * Beperkt gratis advies/ondersteuning: we helpen analyseren welke rol OpenStreetMap kan spelen in hun toepassingen. (max 8u)
