@@ -23,7 +23,7 @@ For large organizations, this costs 2500 euro per year, for SME's 1000 euro. We 
 * [ChampsLibres](https://www.champs-libres.coop/): a cooperative specialised in open source geo tools
 * [Visit Flanders](https://www.visitflanders.com/) (Toerisme Vlaanderen): a Flemish government department that contributes to OSM data with their [Pin je Punt](https://toerismevlaanderen.be/nl/pinjepunt) project
 * [RouteYou](https://www.routeyou.com/): mapping company focused on recreational navigation
-* [TomTom](https://www.tomtom.com/): GPS manufacturer and mapmaker that makes heavy use of OpenStreetMap
+* [TomTom](https://www.tomtom.com/): location services provider
 * [Mapbox](https://www.mapbox.com/): global basemap and map services provider
 
 While it is great we can have a closer relation to these data users (and corporate contributors!),
