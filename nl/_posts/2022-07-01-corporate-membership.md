@@ -23,7 +23,7 @@ Voor grote organisaties kost dit 2500 EUR per jaar, voor KMO's 1000 euro. Op hed
 * [ChampsLibres](https://www.champs-libres.coop/): een coöperatieve, gespecialiseerd in gebruik van open source geo tools
 * [Visit Flanders](https://www.visitflanders.com/) (Toerisme Vlaanderen): een overheidsdienst, die bijdraagt aan OpenStreetMap via het [Pin je Punt](https://toerismevlaanderen.be/nl/pinjepunt) project
 * [RouteYou](https://www.routeyou.com/): kaart-bedrijf, gefocust op recreatieve navigatie
-* [TomTom](https://www.tomtom.com/):  GPS fabrikant en kaart-producent die intensief gebruikt maakt van de OpenStreetMap data.
+* [TomTom](https://www.tomtom.com/):  location services provider
 * [Mapbox](https://www.mapbox.com/): aanbieder van een globale basiskaart en diverse kaart-diensten
 
 Niet alleen is het geweldig de banden met deze datagebruikers (en bijdragers uit de bedrijfswereld), het betekent ook dat we nu wat meer werkingsmiddelen hebben. Het eerste wat we gedaan hebben, is het opstarten van het [Open StreetLevel Imagery project]({% link nl/projects/streetlevelimagery.md %}). We werken aan manieren om de community nog meer en beter te ondersteunen met deze inkomsten. De voornaamste discussies daaromtrent gebeuren tussen [de officiële leden](https://members.osm.be/view/members) en het bestuur.
