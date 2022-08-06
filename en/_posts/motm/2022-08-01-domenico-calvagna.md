@@ -55,7 +55,7 @@ Becoming the world's largest geographic database and being able to innovate in s
 
 ## How to do stay on top of news about OpenStreetMap?
 
-It would be good if comments from contributing users were grouped by topic and also translated into Italian. 
+It would be good if comments from contributing users were grouped by topic and also translated into Italian.
 
 ## To conclude, is there anything else you want to share with the readers?
 
@@ -64,18 +64,3 @@ At the moment, I think that will be enough. I remain at your disposal, greetings
 **Thank you, Domenico, for this interview.**
 
 *Translated from Italian by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

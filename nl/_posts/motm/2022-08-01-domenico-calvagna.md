@@ -55,7 +55,7 @@ De grootste geografische databank ter wereld worden en te kunnen innoveren in ee
 
 ## Hoe blijf je op de hoogte van het OpenStreetMap-nieuws?
 
-Het zou goed zijn als commentaren van bijdragende gebruikers per onderwerp werden gegroepeerd en ook in het Italiaans werden vertaald. 
+Het zou goed zijn als commentaren van bijdragende gebruikers per onderwerp werden gegroepeerd en ook in het Italiaans werden vertaald.
 
 ## Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer?
 

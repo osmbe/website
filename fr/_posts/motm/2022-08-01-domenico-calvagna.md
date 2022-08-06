@@ -39,7 +39,7 @@ Je cartographie parce que j'ai beaucoup de temps libre et pour la satisfaction d
 
 ## As-tu des idées pour élargir la communauté OpenStreetMap, pour motiver plus de gens à contribuer ?
 
-Établir un lien avec des applications de collecte de données telles que Street Complete, utiles par exemple pour les joggeurs, les simples utilisateurs et les associations de loisirs, [Pro Loco] (https://wikipedia.org/wiki/Pro_Loco) et celles qui font généralement la promotion de la zone.
+Établir un lien avec des applications de collecte de données telles que Street Complete, utiles par exemple pour les joggeurs, les simples utilisateurs et les associations de loisirs, [Pro Loco] (<https://wikipedia.org/wiki/Pro_Loco>) et celles qui font généralement la promotion de la zone.
 
 ## As-tu des contacts avec d’autres contributeurs ?
 
@@ -55,7 +55,7 @@ Devenir la plus grande base de données géographiques du monde et être capable
 
 ## Comment restes-tu à jour par rapport à l’actualité d’OpenStreetMap ?
 
-Il serait bon que les commentaires des utilisateurs-contributeurs soient regroupés par thème et traduits en italien également. 
+Il serait bon que les commentaires des utilisateurs-contributeurs soient regroupés par thème et traduits en italien également.
 
 ## Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
@@ -64,18 +64,3 @@ Pour l'instant, je pense que cela suffira. Je reste à votre disposition, saluta
 **Grand merci, Domenico, pour cette interview.**
 
 *Traduit de l'italien par Claire Muyllaert et Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
