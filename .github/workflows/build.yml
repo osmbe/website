@@ -26,7 +26,7 @@ jobs:
       with:
         node-version: latest
     - run: npm ci
-    - run: npm run build:event
+    - run: npm run build:stripe
 
   build-jekyll:
     runs-on: ubuntu-latest
