@@ -27,6 +27,10 @@ jobs:
         node-version: latest
     - run: npm ci
     - run: npm run build:stripe
+      env:
+        STRIPE_API: ${{ secrets.STRIPE_API }}
+        STRIPE_PUBLISHABLE_KEY: ${{ secrets.STRIPE_PUBLISHABLE_KEY }}
+        STRIPE_CONNECT_ACCOUNT: ${{ secrets.STRIPE_CONNECT_ACCOUNT }}
 
   build-jekyll:
     runs-on: ubuntu-latest

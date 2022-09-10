@@ -21,6 +21,10 @@ jobs:
       - run: npm ci
       - run: npm run build:event
       - run: npm run build:stripe
+        env:
+          STRIPE_API: ${{ secrets.STRIPE_API }}
+          STRIPE_PUBLISHABLE_KEY: ${{ secrets.STRIPE_PUBLISHABLE_KEY }}
+          STRIPE_CONNECT_ACCOUNT: ${{ secrets.STRIPE_CONNECT_ACCOUNT }}
       - uses: actions/jekyll-build-pages@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
