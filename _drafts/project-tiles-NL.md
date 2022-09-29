@@ -9,20 +9,18 @@ lead: Jonathan Beliën
 redirect_from: /2017/01/06/en-project-belgium-baselayer.html
 ---
 
-Met dit project bieden we een gratis OpenStreetMap basiskaart aan voor België. Deze laag is beschikbaar voor iedereen in projecten met OpenLayers, Leaflet en dergelijke.
-Most tile servers have a [usage policy](http://wiki.openstreetmap.org/wiki/Tile_usage_policy) meaning you have to use commercial tiles servers (like Mapbox, Stamen, ...) or host your tiles server yourself.
-We want to provide you with a third option, at least for Belgium, that is both open, free and easy to use.
+Met dit project bieden we een gratis OpenStreetMap basiskaart aan voor België. Deze laag is beschikbaar voor iedereen in projecten met OpenLayers, Leaflet en dergelijke. De meeste tile servers hebben een restrictief [gebruiksbeleid](http://wiki.openstreetmap.org/wiki/Tile_usage_policy), wat betekent dat je in de praktijk commerciële dienstverleners moet gebruiken (zoals Mapbox, Stamen, ...) of zelf tiles moet hosten.
+Met OpenStreetMap Belgium willen we een derde optie aanbieden, zodat je voor België een open, gratis en gemakkelijk alternatief hebt.
 
-This project hosts a custom OpenStreetMap tile rendering for Belgium so you can use OpenStreetMap in your application without depending on a commercial services and without having to know anything about hosting.
-We also provide Belgium-specific renderings, like custom icons for train stations and bus stops for example. This helps keep OpenStreetMap in Belgium open and free for everyone.
+Met de project hosten we de standaard OpenStreetMap achtergrondkaart lichtjes aangepast op maat van België. Je hoeft dus geen technische kennis te hebben en je moet niet afhankelijk zijn van commerciële dienstverleners. In de Belgische stijl tonen we aangepaste iconen voor bijvoorbeeld treinstations en bushaltes. Maar het belangrijkste is dat we de kaart aanbieden in drie talen:
 
-This custom OpenStreetMap rendering is available in 3 languages:
+* Met de standaard `name` tag;
+* In het Frans op basis van de `name:fr` tag;
+* In het Nederlands op basis van de `name:nl` tag;
 
-* Default `name` tag;
-* In French, with `name:fr` tag;
-* In Dutch, with `name:nl` tag;
+Met de standaard _name_ of naam toon je plaatsnamen en straten met de naam in de lokale taal. In Brussel en sommige faciliteitengemeenten betekent dit dat de namen tegelijk in het Frans en het Nederlands getoond worden. 
+De Franse en Nederlandse versie geven voorkeur aan die taal, indien beschikbaar. In Brussel maakt dit de kaart veel leesbaarder. In de rest van het land 
 
-The default name means that all names of streets and places will be shown in the local language. In Brussels (and to some degree in the facility municipalities) this means both the Dutch and the French name will be shown.
 The French and Dutch name versions give preference to that language, if available. In Brussels, this will make the map a lot easier to read. In the rest of the country, for example, Grammont will be shown for Geraardsbergen in the French version, and Bergen will be shown for Mons in the Dutch version.
 
 ### Project key events
