@@ -7,22 +7,25 @@ lead: Jonathan Beliën
 redirect_from: /2017/01/06/en-project-belgium-baselayer.html
 ---
 
-The goal for this project is to offer a OpenStreetMap baselayer for Belgium. This baselayer will be available for anyone using OpenLayers, Leaflet, ...
+Through this project we offer a OpenStreetMap baselayer for Belgium. This baselayer is be available for anyone using OpenLayers, Leaflet, ... for free.
 Most tile servers have a [usage policy](http://wiki.openstreetmap.org/wiki/Tile_usage_policy) meaning you have to use commercial tiles servers (like Mapbox, Stamen, ...) or host your tiles server yourself.
 We want to provide you with a third option, at least for Belgium, that is both open, free and easy to use.
 
-This project aims to host for you a custom OpenStreetMap tile rendering for Belgium so you can use OpenStreetMap in your application without depending on a commercial service and without having to know anything about hosting.
+This project hosts a custom OpenStreetMap tile rendering for Belgium so you can use OpenStreetMap in your application without depending on a commercial services and without having to know anything about hosting.
 We also provide Belgium-specific renderings, like custom icons for train stations and bus stops for example. This helps keep OpenStreetMap in Belgium open and free for everyone.
 
-This custom OpenStreetMap rendering will be available in 4 languages:
+This custom OpenStreetMap rendering is available in 3 languages:
 
 * Default `name` tag;
 * In French, with `name:fr` tag;
 * In Dutch, with `name:nl` tag;
 
+The default name means that all names of streets and places will be shown in the local language. In Brussels (and to some degree in the facility municipalities) this means both the Dutch and the French name will be shown.
+The French and Dutch name versions give preference to that language, if available. In Brussels, this will make the map a lot easier to read. In the rest of the country, for example, Grammont will be shown for Geraardsbergen in the French version, and Bergen will be shown for Mons in the Dutch version.
+
 ### Project key events
 
-We first tried using VectorTiles for OSMBE baselayer; it works quite well but I do not think the technology is ready yet.
+We first tried using VectorTiles for OSMBE baselayer; it works quite well but the technology was not quite ready yet.
 
 So we went back to good old raster tiles with <https://switch2osm.org/>:
 
@@ -30,7 +33,7 @@ So we went back to good old raster tiles with <https://switch2osm.org/>:
 - Edit parameters for Belgium languages; if the `name:fr` (or `name:nl`) is not available, the `name` will be displayed;
 - Add custom icons/rendering
 - Host the tile server on <https://tile.osm.be/>
-- Write the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+- Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 
 ### Custom icons/rendering
 
