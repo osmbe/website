@@ -19,38 +19,34 @@ Met de project hosten we de standaard OpenStreetMap achtergrondkaart lichtjes aa
 * In het Nederlands op basis van de `name:nl` tag;
 
 Met de standaard _name_ of naam toon je plaatsnamen en straten met de naam in de lokale taal. In Brussel en sommige faciliteitengemeenten betekent dit dat de namen tegelijk in het Frans en het Nederlands getoond worden. 
-De Franse en Nederlandse versie geven voorkeur aan die taal, indien beschikbaar. In Brussel maakt dit de kaart veel leesbaarder. In de rest van het land 
-
-The French and Dutch name versions give preference to that language, if available. In Brussels, this will make the map a lot easier to read. In the rest of the country, for example, Grammont will be shown for Geraardsbergen in the French version, and Bergen will be shown for Mons in the Dutch version.
+De Franse en Nederlandse versie geven voorkeur aan die taal, indien beschikbaar. In Brussel maakt dit de kaart veel leesbaarder. In de rest van het land krijg je dan bijvoorbeeld Grammont te zien voor Geraardsbergen in de Franstalige versie, of Bergen voor Mons in de Nederlandstalige versie.
 
 ### Project key events
 
-We first tried using VectorTiles for OSMBE baselayer; it works quite well but the technology was not quite ready yet.
+We hebben eerst geprobeerd om de OSMBE basemap te maken als VectorTiles, maar de technologie was daar toen nog niet rijp voor. Dus we gebruiken de klassieke rastertiles op basis van de documentatie op <https://switch2osm.org/>:
 
-So we went back to good old raster tiles with <https://switch2osm.org/>:
+- We maakten een fork van <https://github.com/gravitystorm/openstreetmap-carto>;
+- Parameters om om te gaan met de talen. Toon enkel de `name` indien `name:fr`, respectievelijk `name:nl` niet beschikbaar is
+- Toevoegen lokale iconen
+- Tileset gehost op <https://tile.osm.be/>
+- Documentatie uitgeschreven op <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 
-- Fork of <https://github.com/gravitystorm/openstreetmap-carto>;
-- Edit parameters for Belgium languages; if the `name:fr` (or `name:nl`) is not available, the `name` will be displayed;
-- Add custom icons/rendering
-- Host the tile server on <https://tile.osm.be/>
-- Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+### Specifieke iconen
 
-### Custom icons/rendering
+- Icoon voor `amenity=fast_food` + `cuisine=friture`
+- Icoon voor `craft=brewery` or `industrial=brewery`
 
-- Icon for `amenity=fast_food` + `cuisine=friture`
-- Icon for `craft=brewery` or `industrial=brewery`
+### Hoe de basiskaart gebruiken?
 
-### How to use it?
+Je kan de versies van de basiskaart hier zien: <https://tile.osm.be/>.
 
-You can see the baselayers available here: <https://tile.osm.be/>.
+Iedereen kan en mag de tiles gebruiken in hun eigen toepassingen, bijvoorbeeld via *OpenLayers* of *Leaflet*.
+Gedetailleerde info om ze via *[OpenLayers](https://openlayers.org/)* of *[Leaflet](http://leafletjs.com/)*, te gebruiken, vind je hier: <https://openstreetmap.be/en/projects/howto.html#how-to-use-free-openstreetmap-belgium-baselayer> (EN)
 
-Everyone can use the tiles inside their own applications by using *OpenLayers*, *Leaflet* or any other library.  
-If you want to use it with *[OpenLayers](https://openlayers.org/)* or *[Leaflet](http://leafletjs.com/)*, check this page : <https://openstreetmap.be/en/projects/howto.html#how-to-use-free-openstreetmap-belgium-baselayer>
+**We vragen wel de [gebruiksvoorwaarden](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) te respecteren!**
 
-**Please respect the [usage policy](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy)!**
+### Project documentatie
 
-### Project documentation
-
-- Custom OSMBE style: <https://github.com/jbelien/openstreetmap-carto-be>
-- Documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
-- Usage policy: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
+- Aangepaste OSMBE kaartstijl: <https://github.com/jbelien/openstreetmap-carto-be>
+- Documentatie: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+- Gebruiksvoorwaarden: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
