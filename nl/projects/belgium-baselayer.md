@@ -1,12 +1,10 @@
-IN PROGRESS
-
 ---
 title: Gratis basiskaart van België
 layout: project
 lang: nl
 featured: belgium-basemap1.png
 lead: Jonathan Beliën
-redirect_from: /2017/01/06/en-project-belgium-baselayer.html
+redirect_from: /2017/01/06/nl-project-belgium-baselayer.html
 ---
 
 Met dit project bieden we een gratis OpenStreetMap basiskaart aan voor België. Deze laag is beschikbaar voor iedereen in projecten met OpenLayers, Leaflet en dergelijke. De meeste tile servers hebben een restrictief [gebruiksbeleid](http://wiki.openstreetmap.org/wiki/Tile_usage_policy), wat betekent dat je in de praktijk commerciële dienstverleners moet gebruiken (zoals Mapbox, Stamen, ...) of zelf tiles moet hosten.
