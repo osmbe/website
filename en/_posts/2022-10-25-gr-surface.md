@@ -2,7 +2,6 @@
 title: "Grote Routepaden mapping surface tags using MapComplete"
 featured:
 layout: post
-author: Joost Schouppe
 lang: en
 ---
 
