@@ -24,7 +24,7 @@
 
 - name: TomTom
   url: https://www.tomtom.com/
-  logo: tomtom.png
+  logo: tomtom-white.png
 
 - name: Mapbox
   url: https://www.mapbox.com/
