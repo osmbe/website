@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: en
 ---
 
-His [homepage](https://www.openstreetmap.org/user/Le%20Sharkoïste) and his [contribution page](http://hdyc.neis-one.org/?Le%20Sharkoïste).
+His [homepage](https://www.openstreetmap.org/user/LeSharkoiste) and his [contribution page](http://hdyc.neis-one.org/?LeSharkoiste).
 
 ## Hello Sharko. Would you like to briefly introduce yourself to our readers?
 

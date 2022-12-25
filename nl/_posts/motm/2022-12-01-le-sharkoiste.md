@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: nl
 ---
 
-Zijn [homepage](https://www.openstreetmap.org/user/Le%20Sharkoïste) en zijn [bijdragerpagina](https://hdyc.neis-one.org/?Le%20Sharkoïste).
+Zijn [homepage](https://www.openstreetmap.org/user/LeSharkoiste) en zijn [bijdragerpagina](https://hdyc.neis-one.org/?LeSharkoiste).
 
 ## Hallo Sharko. Wil je jezelf even voorstellen aan onze lezers?
 
