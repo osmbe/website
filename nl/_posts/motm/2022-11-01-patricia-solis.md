@@ -7,7 +7,7 @@ author: Pierre Parmentier
 lang: nl
 ---
 
-Zijn [homepage](https://www.openstreetmap.org/user/Patricia%20Solis) en zijn [bijdragerpagina](https://hdyc.neis-one.org/?Patricia%20Solis).
+Haar [homepage](https://www.openstreetmap.org/user/Patricia%20Solis) en haar [bijdragerpagina](https://hdyc.neis-one.org/?Patricia%20Solis).
 
 ## Hallo Patricia. Wil je jezelf even voorstellen aan onze lezers?
 

@@ -8,7 +8,7 @@ author: Pierre Parmentier
 lang: en
 ---
 
-His [homepage](https://www.openstreetmap.org/user/Patricia%20Solis) and his [contribution page](https://hdyc.neis-one.org/?Patricia%20Solis).
+Her [homepage](https://www.openstreetmap.org/user/Patricia%20Solis) and her [contribution page](https://hdyc.neis-one.org/?Patricia%20Solis).
 
 ## Hello Patricia. Would you like to briefly introduce yourself to our readers?
 
