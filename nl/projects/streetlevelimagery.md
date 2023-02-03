@@ -64,7 +64,11 @@ Bedankt om dit te vragen!
 - Wil je het project zien groeien? Geef ons een geoormerkte donatie en we investeren het in je project.
 - De OpenStreetMap gemeenschap droomt van een platform met open beeldmateriaal waar beelden geplaatst kunnen worden en dienstverleners ze kunnen gebruiken voor toegevoegde waarde. We zoeken organisaties die dit mede mogelijk kunnen maken. We are looking for organisations that can help make this happen. Op dit moment bouwen we aan een eenvoudige backupoplossing voor de beelden die we zelf maken.
 
+Een pagina met meer technische details en praktische info is [beschikbaar op onze wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/open_streetlevel_imagery).
+
 [Aarzel niet om ons te contacteren met vragen of suggesties.](mailto:community@osm.be)
+
+
 
 ## Sleutelmomenten van dit project
 

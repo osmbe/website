@@ -64,6 +64,8 @@ Très bonne question !
 - Vous aimeriez voir le projet grandir? Un don de votre part aura un grand impact - nous investirons votre contribution financière dans ce projet.
 - La communauté OpenStreetMap community rêve d'une plateforme d'imagerie ouverte où toutes nos images pourraient être mises en ligne et où les fournisseurs de services pourraient y accéder pour les mettre en valeur. Nous recherchons actuellement des organisations qui peuvent rendre ce rêve possible. En attendant, nous mettons en place un système de sauvegarde pour simplement conserver une copie des images que nous avons capturées.
 
+Une page contenant plus de détails techniques et d'informations pratiques est [disponible sur notre wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/open_streetlevel_imagery).
+
 [Une question ou une proposition de collaboration? Contactez-nous !](mailto:community@osm.be)
 
 ## Historique
