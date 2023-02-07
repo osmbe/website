@@ -8,7 +8,7 @@ highlight: true
 
 This tutorial is based on [OpenLayers Quick Start Guide](https://openlayers.org/en/latest/doc/quickstart.html) and the [OpenLayers Popup Example](https://openlayers.org/en/latest/examples/popup.html) and uses version `5.3.0` of the library. I suggest you check if there is a more up-to-date version before proceeding.
 
-The OpenLayers library is more powerful than the Leaflet library and offers more built-in functionalities than Leaflet but because of that the simple things tense to be more complicated.
+The OpenLayers library is more powerful than the Leaflet library and offers more built-in functionalities than Leaflet but because of that, the simple things tend to be more complicated.
 
 1. Include the OpenLayers stylesheet in the `<head>` section of your HTML page
 
