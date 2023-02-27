@@ -1,6 +1,6 @@
 ---
 title: "Contributeur du mois : LivingWithDragons (UK)"
-featured: 2021-gregory-mapping-scotland.jpeg, 2022-greg-mapping-action.png, 2022_greg_speaking_osm.jpeg
+featured: 2021-gregory-mapping-scotland.png
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -12,8 +12,6 @@ Sa [homepage](https://www.openstreetmap.org/user/LivingWithDragons) et sa [page 
 ## Bonjour Gregory. Voudrais-tu te présenter brièvement à nos lecteurs ?
 
 Bonjour, je m'appelle Gregory Marler. J'ai fait beaucoup de cartographie, principalement dans le nord-est de l'Angleterre. La communauté est fantastique et j'aime célébrer la façon dont nous partageons les données, les compétences et les connaissances. Cela signifie que vous m'avez peut-être entendu crier "Maps !" pour attirer l'attention de tous lorsqu'il est temps de commencer la conférence.
-
-![Gregory mapping Scotland](/2021-gregory-mapping-scotland.jpeg)
 
 ## Comment et quand as-tu découvert OpenStreetMap ?
 
@@ -27,7 +25,7 @@ Maintenant que les bases sont si bien cartographiées, c'est une habitude nature
 
 La source principale, HDYC[^2], étiquette mon compte comme un "Great Mapper" mais en plus de 15 ans, mes contributions ont certainement connu plusieurs saisons. Le nombre de mes éditions n'est plus aussi important qu'avant, et le comté de Durham compte désormais plusieurs contributeurs passionnés. J'ai l'intention de revenir à la diffusion du message expliquant pourquoi OpenStreetMap est si important et de trouver des moyens d'inviter de nouvelles personnes dans notre communauté. Comme je l'ai mentionné, j'ai contribué un peu en bloguant, mais ces dernières années, cela a été repris par mes vidéos Mapper Diaries[^3]. Je consacre beaucoup de temps à leur contenu, et je suis en train de voir dans quelle mesure je vais continuer.
 
-![Gregory mapping action](/2022-greg-mapping-action.png)
+![Gregory mapping action]({% link /assets/images/motm/2023/03/2022-greg-mapping-action.png %})
 
 ## Que cartographies-tu ? As-tu une spécialisation ?
 
@@ -45,7 +43,7 @@ Au départ, j'étais motivé par l'idée d'imaginer comment les données pourrai
 
 Continuez à parler de ce que vous faites. Racontez à vos amis le truc cool que vous avez découvert, partagez des liens avec des personnes qui ont réalisé des cartes impressionnantes ou des façons dont elles ont utilisé la carte. Continuez, même si vos amis en ont assez parce que vous avez toujours quelque chose à dire sur les cartes. Ignorez lorsqu'ils se moquent de vous parce que vous ne connaissez pas les symboles d'une seule carte qu'ils utilisent, et rappelez-leur qu'il est bon d'utiliser différents styles de cartes car ce sont les données qui comptent vraiment !
 
-![Gregory speaking](/2022_greg_speaking_osm.jpeg)
+![Gregory speaking]({% link /assets/images/motm/2023/03/2022_greg_speaking_osm.jpeg %})
 
 ## As-tu des contacts avec d’autres contributeurs ?
 

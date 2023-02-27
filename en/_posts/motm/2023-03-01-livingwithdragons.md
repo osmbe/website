@@ -1,6 +1,6 @@
 ---
 title: "Mapper of the Month: LivingWithDragons (UK)"
-featured: 2021-gregory-mapping-scotland.jpeg, 2022-greg-mapping-action.png, 2022_greg_speaking_osm.jpeg
+featured: 2021-gregory-mapping-scotland.png
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -12,8 +12,6 @@ His [homepage](https://www.openstreetmap.org/user/LivingWithDragons) and his [co
 ## Hello Gregory! Would you like to briefly introduce yourself to our readers?
 
 Hello, I'm Gregory Marler. I’ve done a lot of mapping, mainly in the North East of England. The community is fantastic so I love to celebrate how we share data, skills, and knowledge. This means you may have heard me shout 'Maps!' to get everyone’s attention when it’s time for the conference to start.
-
-![Gregory mapping Scotland](/2021-gregory-mapping-scotland.jpeg)
 
 ## How and when did you get to know OpenStreetMap?
 
@@ -27,7 +25,7 @@ Now the basics are so well mapped, it’s natural habit to go to the website or 
 
 The top source, HDYC[^2], labels my account as a 'Great Mapper' but in over 15 years there’s definitely been various seasons of my contributions. The number of my edits isn’t as great as it used to be, and County Durham now has several passionate contributors. I’m looking at getting back to sharing the message of why OpenStreetMap is so important and finding ways to invite new people into our community. As mentioned, I contributed a bit by blogging but in recent years that got taken over by my Mapper Diaries[^3] videos. A lot of time goes into the content their, so I’m currently seeing how much I’ll continue it.
 
-![Gregory mapping action](/2022-greg-mapping-action.png)
+![Gregory mapping action]({% link /assets/images/motm/2023/03/2022-greg-mapping-action.png %})
 
 ## What are you mapping? Do you have a specialisation?
 
@@ -45,7 +43,7 @@ Originally I was motivated by imaging how the data could be used if it existed. 
 
 Keep talking about what you do. Tell your friends about the cool thing you discovered, share links of awesome mapping people have done or ways in which they’ve used the map. Keep on with it, even if your friends are fed up because you always have something to say about the maps. Ignore when they mock you because you don’t know the symbols of a single-map they use, and remind them that it’s great to use different map styles because it’s the data that really matters!
 
-![Gregory speaking](/2022_greg_speaking_osm.jpeg)
+![Gregory speaking]({% link /assets/images/motm/2023/03/2022_greg_speaking_osm.jpeg %})
 
 ## Do you have contact with other mappers?
 

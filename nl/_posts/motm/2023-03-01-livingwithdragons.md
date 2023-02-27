@@ -1,6 +1,6 @@
 ---
 title: "Mapper van de maand: LivingWithDragons (UK)"
-featured: 2021-gregory-mapping-scotland.jpeg, 2022-greg-mapping-action.png, 2022_greg_speaking_osm.jpeg
+featured: 2021-gregory-mapping-scotland.png
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -12,8 +12,6 @@ Zijn [homepage](https://www.openstreetmap.org/user/LivingWithDragons) en zijn [b
 ## Hallo Gregory. Wil je jezelf even voorstellen aan onze lezers?
 
 Hallo, ik ben Gregory Marler. Ik heb veel in kaart gebracht, voornamelijk in het noordoosten van Engeland. De gemeenschap is fantastisch, dus ik hou ervan om te vieren hoe we gegevens, vaardigheden en kennis delen. Dat betekent dat je me misschien 'Maps!' hebt horen roepen om ieders aandacht te trekken als de conferentie begint.
-
-![Gregory mapping Scotland](/2021-gregory-mapping-scotland.jpeg)
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
@@ -27,7 +25,7 @@ Nu de basis zo goed in kaart is gebracht, is het een natuurlijke gewoonte om naa
 
 De bovenste referentie, HDYC[^2], bestempelt mijn account als een 'Great Mapper', maar in meer dan 15 jaar zijn er zeker verschillende seizoenen van mijn bijdragen geweest. Het aantal bewerkingen is niet meer zo groot als vroeger, en County Durham heeft nu verschillende gepassioneerde bijdragers. Ik wil weer de boodschap delen waarom OpenStreetMap zo belangrijk is en manieren vinden om nieuwe mensen uit te nodigen voor onze gemeenschap. Zoals gezegd droeg ik een beetje bij door te bloggen, maar de laatste jaren werd dat overgenomen door mijn Mapper Diaries[^3] video's. Er gaat veel tijd zitten in de inhoud daarvan, dus ik ben momenteel aan het kijken in hoeverre ik daarmee doorga.
 
-![Gregory mapping action](/2022-greg-mapping-action.png)
+![Gregory mapping action]({% link /assets/images/motm/2023/03/2022-greg-mapping-action.png %})
 
 ## Wat ben je in kaart aan het brengen? Heb je een specialisatie?
 
@@ -45,7 +43,7 @@ Oorspronkelijk werd ik gemotiveerd door me voor te stellen hoe de gegevens gebru
 
 Blijf praten over wat je doet. Vertel je vrienden over het coole ding dat je hebt ontdekt, deel links van geweldige mapping die mensen hebben gedaan of manieren waarop ze de kaart hebben gebruikt. Blijf ermee doorgaan, zelfs als je vrienden het zat zijn omdat je altijd iets te zeggen hebt over de kaarten. Negeer wanneer ze je bespotten omdat je de symbolen van een enkele kaart die zij gebruiken niet kent, en herinner hen eraan dat het geweldig is om verschillende kaartstijlen te gebruiken omdat het de gegevens zijn die er echt toe doen!
 
-![Gregory speaking](/2022_greg_speaking_osm.jpeg)
+![Gregory speaking]({% link /assets/images/motm/2023/03/2022_greg_speaking_osm.jpeg %})
 
 ## Heb je contact met andere mappers?
 
