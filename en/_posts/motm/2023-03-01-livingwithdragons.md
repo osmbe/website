@@ -21,7 +21,7 @@ Back in 2006, before smartphones existed, I was looking for reasons to justify b
 
 ## How do you use OpenStreetMap?
 
-Now the basics are so well mapped, it’s natural habit to go to the website or open OsmAnd when I want a map to navigate or help visualise where people are talking about. As I recently got a moped my OsmAnd settings have been tweaked to make the route planning more optimal. Of course I still use OpenStreetMap as a muse for exploring, heading to places that look interesting or that would be good to map better, even just going for a walk on well mapped paths but ones that go past a couple of notes. 
+Now the basics are so well mapped, it’s natural habit to go to the website or open OsmAnd when I want a map to navigate or help visualise where people are talking about. As I recently got a moped my OsmAnd settings have been tweaked to make the route planning more optimal. Of course I still use OpenStreetMap as a muse for exploring, heading to places that look interesting or that would be good to map better, even just going for a walk on well mapped paths but ones that go past a couple of notes.
 
 ## What kind of contributor are you and in which area do you map?
 
