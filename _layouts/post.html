@@ -14,11 +14,13 @@ layout: default
 </h1>
 <p class="text-info">
     <strong class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%d.%m.%Y" }}</strong>
+    {% if page.author %}
     -
     <strong class="author">
         <i class="fas fa-user"></i>
         {{ page.author }}
     </strong>
+    {% endif %}
 </p>
 <hr>
 
