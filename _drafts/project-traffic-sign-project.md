@@ -2,7 +2,7 @@
 title: Traffic Sign Project
 layout: project
 lang: en
-featured: [road-completion2.gif](https://wiki.openstreetmap.org/w/images/7/7c/Samenscholingsverbod_Doel.jpeg)
+featured: https://wiki.openstreetmap.org/w/images/7/7c/Samenscholingsverbod_Doel.jpeg
 featured_caption: "A traffic sign that has an OpenStreetMap on it"
 lead: Joost Schouppe, Ivan Diaz
 ---
