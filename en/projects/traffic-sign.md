@@ -35,6 +35,7 @@ The [code is available on Github](https://github.com/osmbe/traffic-sign-project)
 - Activate automatic weekly updates with Github Actions.
 - It might be possible to compare two dumps to find traffic signs that have been improved
 - With our StreetLevel Imagery project, we create images that are uploaded to Mapillary. That platform automatically derives traffic signs. These signs are in turn detected by Osmose. This tool creates microtasks that are filtered for already mapped traffic signs. For example, it will only create a task for a max 30 sign if there is no road in OSM nearby where you can drive 30. The amount of tasks is still daunting. We intend to synchronize these tasks to MapRoulette, to "gamify" the mapping process in hopes of motivating more mappers to contribute.
+- Find other source datasets to use this logic on. It is most interesting when there is an open, continously updated traffic sign database available. We did a first exploration in the Netherlands already, and it looks promising.
 
 ### Project key events
 
