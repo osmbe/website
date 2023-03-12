@@ -15,6 +15,14 @@ We're not quite there just yet, but the edits in the database that do happen are
 
 So we're building on a tool in good [Road Completion](https://openstreetmap.be/en/projects/road-completion.html) tradition to make sure that if the government provides the data, we can guarantee that we'll be up to date. This in turn might be a little incentive for more municipalities to keep their bit of the database online. Just like in Road Completion, we "accidentally review" the government data as well. When we map traffic signs, we spot errors. Often user error, sometimes logical errors. These can then help municipalities to improve their data quality or even local reality. OSM data users will be able to see how well we keep track of new traffic signs - they won't have to trust us on our word that the data is good.
 
+
+![Pillory in Aartselaar](https://i.imgur.com/V9zjUuD.png)
+
+[!Traffic](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
+
+
+ signs in Flanders: highlighted are from 2019 and more recent
+
 ### In practice
 
 [We have a MapRoulette task online](https://maproulette.org/browse/challenges/23548) that is updated periodically. This task simply offers the most recent traffic signs as microtasks: the challenge is to map their effects.
@@ -41,5 +49,5 @@ The [code is available on Github](https://github.com/osmbe/traffic-sign-project)
 
 - 9/2021: [first exploration of the dataset for mapping use](https://lists.openstreetmap.org/pipermail/talk-be/2021-September/011322.html).
 - 11/2021: [first filtering of traffic signs](https://lists.openstreetmap.org/pipermail/talk-be/2021-November/011374.html) published on MapRoulette
-- Since then the task has been updated occassionally and over 6000 new signs have been reviewed!
+- Since then the task has been updated occassionally and over 6000 new signs have been reviewed! We also passed along mistakes we saw to the managing government, who have used it to improve the source data.
 - 10/2022: first contacts with TomTom about automating the analysis flow
