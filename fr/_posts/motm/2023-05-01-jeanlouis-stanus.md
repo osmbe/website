@@ -17,12 +17,8 @@ J'aime beaucoup la collecte de données sur le terrain à pied, à vélo ou en v
 
 J'avais besoin de cartes gratuites pour mon Garmin 60CSx. J'ai alors découvert que les données de ces cartes provenaient d'un projet collaboratif analogue à Wikipédia. J'habitais Frasnes-lez-Anvaing où il n'y avait que quelques routes. Avec un logger GPS en plus et mon VTT, j'ai pu compléter pas mal cette région.
 
-<!--
-![Logger BT747+ Source:gnss-info.blogspot.com](http://4.bp.blogspot.com/-U0UNwmgi_r4/TwnOKQG0uxI/AAAAAAAAAmM/OR-0vEVqrkU/s1600/GPSLogger.jpg)
-![Garmin 60Csx Source: pngwing](https://w7.pngwing.com/pngs/182/600/png-transparent-gps-navigation-systems-garmin-gpsmap-60csx-garmin-ltd-feature-phone-gps-watch-material-science-and-technology-lines-electronics-gadget-mobile-phone.png)
--->
-![Logger BT747+](/GPSLogger.jpg)
-![Garmin 60CSx](/419SJ89+otL_AC_.jpg)
+![Logger BT747+]({% link /assets/images/motm/2023/05/Logger BT747.jpg %})
+![Garmin 60CSx]({% link /assets/images/motm/2023/05/Garmin 60CSx.jpg %})
 
 ## Comment utilises-tu OpenStreetMap ?
 
@@ -74,14 +70,14 @@ Merci pour les contributions ainsi que les échanges qui permettent de monter en
 
 [^2]: [Waymarked Trails](https://waymarkedtrails.org/)
 
-[^3]: https://babykarte.openstreetmap.de/
+[^3]: <https://babykarte.openstreetmap.de/>
 
-[^4]: https://wheelmap.org/
+[^4]: <https://wheelmap.org/>
 
-[^5]: https://buildings.osm.be/
+[^5]: <https://buildings.osm.be/>
 
 [^6]: PICC : Projet Informatique de Cartographie Continue, en Wallonie
 
 [^7]: [Quartier de Bomel](https://www.openstreetmap.org/#map=17/50.47237/4.86082)
 
-[^8]: https://www.hotosm.org/
+[^8]: <https://www.hotosm.org/>
