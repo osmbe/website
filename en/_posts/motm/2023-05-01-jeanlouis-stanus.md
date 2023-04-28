@@ -1,6 +1,6 @@
 ---
 title: "Mapper of the Month: Jean-Louis Stanus (Belgium)"
-featured: GPSLogger.jpg, 419SJ89+otL_AC_.jpg
+featured:
 layout: post
 category: motm
 author: Pierre Parmentier

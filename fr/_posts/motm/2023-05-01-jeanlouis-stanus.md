@@ -1,6 +1,6 @@
 ---
 title: "Contributeur du mois : Jean-Louis Stanus (Belgique)"
-featured: GPSLogger.jpg, 419SJ89+otL_AC_.jpg
+featured:
 layout: post
 category: motm
 author: Pierre Parmentier
