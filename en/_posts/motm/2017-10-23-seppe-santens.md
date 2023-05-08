@@ -11,7 +11,6 @@ __translation by escada__
 I am Seppe Santens, born and raised in Aalter. I work as project lead at the Mobility department of the city of Ghent.
 My user name, "L'imaginaire", is the result of a, perhaps not very successful, search for a dj-name, many years ago. I still create some electronic music from time to time, but most of my free time are spend with my two children...
 
-![Seppe](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Seppe/i-bVkn6gp/0/d5753d8e/L/seppe-L.jpg)
 
 ## How and when did you discover OpenStreetMap? 
 I worked awhile for the Flemish government as liaison between business and IT and during that period I tried to study all "open" projects. My first baby steps in OpenStreetMap five years ago were very modest and perhaps I did not always follow common practice. It took awhile before I started to understand the potential that OpenStreetMap offers and from that moment on I started to map more. I have the feeling that I still need to learn a lot, so it is a pleasure that I was invited to become "mapper of the month".
