@@ -10,7 +10,6 @@ lang: nl
 ## Wie ben je? 
 Ik ben Seppe Santens, geboren en getogen in Aalter en aan het werk als projectleider bij het Mobiliteitsbedrijf van de Stad Gent. Mijn username “L’imaginaire” is het gevolg van een (misschien niet zo succesvolle) zoektocht naar een dj-naam vele jaren geleden. Af en toe maak ik nog wel eens elektronische muziek, maar de meeste tijd gaat tegenwoordig toch naar mijn twee kinderen…
 
-![Seppe](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Seppe/i-bVkn6gp/0/d5753d8e/L/seppe-L.jpg)
 
 ## Wanneer en hoe heb je OpenStreetMap ontdekt? 
 Ik heb een tijdje bij de Vlaamse overheid gewerkt als business-IT bruggenbouwer en tijdens die periode heb ik me proberen verdiepen in alles wat “open” is. Mijn eerste stapjes in OSM zo’n vijf jaar geleden waren erg bescheiden en wellicht niet altijd volgens de regels van de kunst. Het is pas later dat ik het potentieel van OSM beter ben beginnen begrijpen en als gevolg ook meer ben beginnen mappen. Ik heb het gevoel dat ik nog heel veel moet leren, maar wel leuk dat ik nu al deze vragen voor “mapper van de maand” mag beantwoorden.
