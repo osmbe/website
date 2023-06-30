@@ -11,7 +11,7 @@ Zijn [homepage](https://www.openstreetmap.org/user/chimel38) en zijn [bijdragerp
 
 ## Hallo Michel. Wil je jezelf even voorstellen aan onze lezers?
 
-Ik ben een gepensioneerde man - 3/4 van een eeuw oud - en de huidige voorzitter van een vereniging in mijn stad die niets met OpenStreetMap te maken heeft. Ik fiets voor mijn plezier en om in vorm te blijven, en ik ben al enkele jaren lid van de plaatselijke OpenStreetMap-groep in Grenoble. Ik ben geen computerwetenschapper, maar ik besteed bijzondere aandacht aan deze omgeving. 
+Ik ben een gepensioneerde man - 3/4 van een eeuw oud - en de huidige voorzitter van een vereniging in mijn stad die niets met OpenStreetMap te maken heeft. Ik fiets voor mijn plezier en om in vorm te blijven, en ik ben al enkele jaren lid van de plaatselijke OpenStreetMap-groep in Grenoble. Ik ben geen computerwetenschapper, maar ik besteed bijzondere aandacht aan deze omgeving.
 
 ## Hoe en wanneer heb je OpenStreetMap ontdekt?
 
@@ -27,7 +27,7 @@ Mijn bijdragegebieden zijn nogal uiteenlopend, afhankelijk van mijn evoluerende 
 
 ## Wat ben je in kaart aan het brengen? Heb je een specialisatie?
 
-Ik heb geen specialisatie, maar eerder interesses die zich in de loop der jaren hebben ontwikkeld en nieuwe bronnen. Toen ik begon, ontdekte ik een site waarmee ik de geolokaliseerde gegevens van het Frans Ministerie van Onderwijs van alle scholen in het departement Isère kon controleren, een hele klus om de geolokalisatie te verifiëren en referenties toe te voegen. Ik heb deelgenomen aan verschillende cartoparties georganiseerd door onze lokale groep in Grenoble, wat ik belangrijk en motiverend vind voor de vitaliteit van ons team. Momenteel besteed ik veel tijd aan het bijwerken van postadressen in Frankrijk met behulp van databases die deze taak vergemakkelijken, en aan het opvolgen van nieuwe wegen in mijn departement Isère. 
+Ik heb geen specialisatie, maar eerder interesses die zich in de loop der jaren hebben ontwikkeld en nieuwe bronnen. Toen ik begon, ontdekte ik een site waarmee ik de geolokaliseerde gegevens van het Frans Ministerie van Onderwijs van alle scholen in het departement Isère kon controleren, een hele klus om de geolokalisatie te verifiëren en referenties toe te voegen. Ik heb deelgenomen aan verschillende cartoparties georganiseerd door onze lokale groep in Grenoble, wat ik belangrijk en motiverend vind voor de vitaliteit van ons team. Momenteel besteed ik veel tijd aan het bijwerken van postadressen in Frankrijk met behulp van databases die deze taak vergemakkelijken, en aan het opvolgen van nieuwe wegen in mijn departement Isère.
 
 ## Waar ben je het meest trots op als mapper?
 
@@ -39,11 +39,11 @@ Om bij te dragen aan de verrijking van de wereldwijde commons die OpenStreetMap 
 
 ## Heb je ideeën over hoe we de OpenStreetMap-gemeenschap kunnen uitbreiden of meer mappers kunnen motiveren?
 
-Met onze lokale groep in Grenoble hopen we lokale mensen te motiveren door mapping parties te organiseren. Tijdens onze maandelijkse bijeenkomsten die de Grenoble lokale groep organiseert, controleert de leider alle nieuwe bijdragers in de omgeving en nodigt hen uit voor deze bijeenkomsten. En soms worden we verrast door het aantal nieuwsgierigen die met uiteenlopende motivaties binnenkomen. Ik denk dat we hen moeten laten kennismaken met de basis iD en JOSM tools. 
+Met onze lokale groep in Grenoble hopen we lokale mensen te motiveren door mapping parties te organiseren. Tijdens onze maandelijkse bijeenkomsten die de Grenoble lokale groep organiseert, controleert de leider alle nieuwe bijdragers in de omgeving en nodigt hen uit voor deze bijeenkomsten. En soms worden we verrast door het aantal nieuwsgierigen die met uiteenlopende motivaties binnenkomen. Ik denk dat we hen moeten laten kennismaken met de basis iD en JOSM tools.
 
 ## Heb je contact met andere mappers?
 
-Ja, natuurlijk, want ik ben lid van de Grenoble lokale groep sinds het begin, en onze maandelijkse bijeenkomsten zijn heel vaak verrijkend. En soms krijg ik een reactie op de notities die ik op OpenStreetMap heb geplaatst. 
+Ja, natuurlijk, want ik ben lid van de Grenoble lokale groep sinds het begin, en onze maandelijkse bijeenkomsten zijn heel vaak verrijkend. En soms krijg ik een reactie op de notities die ik op OpenStreetMap heb geplaatst.
 
 ## Naar uw mening wat is de grootste kracht van OpenStreetMap?
 
@@ -51,11 +51,11 @@ Het is zeker de grote verscheidenheid aan bijdragers die deze database levend ho
 
 ## Wat is de grootste uitdaging voor OpenStreetMap?
 
-Het is om zijn model te behouden en te beschermen en te waken tegen elke inmenging in zijn autoriteiten. 
+Het is om zijn model te behouden en te beschermen en te waken tegen elke inmenging in zijn autoriteiten.
 
 ## Hoe blijf je op de hoogte van het OpenStreetMap-nieuws?
 
-Er is geen gebrek aan bronnen die ik dagelijks raadpleeg: Talk-fr, Forum OSM France en weeklyOSM. 
+Er is geen gebrek aan bronnen die ik dagelijks raadpleeg: Talk-fr, Forum OSM France en weeklyOSM.
 
 ## Om af te sluiten, is er nog iets dat je zou willen vertellen aan de lezer?
 
@@ -64,4 +64,3 @@ Wat uw niveau van betrokkenheid en techniek ook is, u kunt altijd uw bijdrage le
 **Hartelijk dank, Michel, voor dit interview.**
 
 *Vertaald uit het Frans door Claire Muyllaert en Pierre Parmentier met de hulp van www.DeepL.com/Translator.*
-

@@ -1,6 +1,6 @@
 ﻿---
 title: "Mapper of the Month: Michel Hebert (France)"
-featured: 
+featured:
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -11,7 +11,7 @@ His [homepage](https://www.openstreetmap.org/user/chimel38) and his [contributio
 
 ## Hello Michel. Would you like to briefly introduce yourself to our readers?
 
-I am a retired man - three quarters of a century old - and the current president of an association in my town that has nothing to do with OpenStreetMap. I practice cycling for fun and to stay in shape, and I have been a member of the local OpenStreetMap group in Grenoble for several years. I am not a computer scientist but I pay a particular attention to this environment. 
+I am a retired man - three quarters of a century old - and the current president of an association in my town that has nothing to do with OpenStreetMap. I practice cycling for fun and to stay in shape, and I have been a member of the local OpenStreetMap group in Grenoble for several years. I am not a computer scientist but I pay a particular attention to this environment.
 
 ## How and when did you get to know OpenStreetMap?
 
@@ -27,11 +27,11 @@ My areas of contribution are quite disparate according to my evolving interests.
 
 ## What are you mapping? Do you have a specialisation?
 
-I don't have a specialization, but rather interests that have evolved over the years and new sources. When I started, I discovered a site that allowed me to monitor the geolocalized data of the French Ministry of Education of all the schools in the department of Isère, a whole job of verifying geolocation and adding references. I have participated in several cartoparties organised by our local group in Grenoble, which I consider important and motivating for the vitality of our team. I currently spend a lot of time updating postal addresses in France using databases that facilitate this task, as well as following up on new roads in my department of Isère. 
+I don't have a specialization, but rather interests that have evolved over the years and new sources. When I started, I discovered a site that allowed me to monitor the geolocalized data of the French Ministry of Education of all the schools in the department of Isère, a whole job of verifying geolocation and adding references. I have participated in several cartoparties organised by our local group in Grenoble, which I consider important and motivating for the vitality of our team. I currently spend a lot of time updating postal addresses in France using databases that facilitate this task, as well as following up on new roads in my department of Isère.
 
 ## What is your greatest achievement as mapper?
 
-A few years ago there was a change in the OpenStreetMap license; all the contributors had to agree to this change. Some did not respond and all their tracks were cancelled except the nodes. Thus all the trails in a large protected area south of Grenoble called the <em>Frange Verte</em>em> had to be updated. Equipped with an Garmin Oregon GPS with integrated camera I walked the area for several months confirming the passage of the nodes for the path and track. But also thanks to the geolocalized photos I was able to trace the new trails. It is probably more than 50 km of tracks which were updated; a real satisfaction as an OpenStreetMap mapper.
+A few years ago there was a change in the OpenStreetMap license; all the contributors had to agree to this change. Some did not respond and all their tracks were cancelled except the nodes. Thus all the trails in a large protected area south of Grenoble called the *Frange Verte* had to be updated. Equipped with an Garmin Oregon GPS with integrated camera I walked the area for several months confirming the passage of the nodes for the path and track. But also thanks to the geolocalized photos I was able to trace the new trails. It is probably more than 50 km of tracks which were updated; a real satisfaction as an OpenStreetMap mapper.
 
 ## Why are you mapping? What motivates you?
 
@@ -39,11 +39,11 @@ To contribute to the enrichment of the global commons that OpenStreetMap represe
 
 ## Do you have any ideas to expand the OpenStreetMap community, to motivate more people to contribute?
 
-With our local group in Grenoble, we hope to motivate local people by organising mapping parties. During our monthly meetings that the Grenoble local group organises, the leader checks all the new contributors in the area and invites them to these meetings. And sometimes we are surprised by the number of curious people who arrive with disparate motivations. I think we should introduce them to the basic iD and JOSM tools. 
+With our local group in Grenoble, we hope to motivate local people by organising mapping parties. During our monthly meetings that the Grenoble local group organises, the leader checks all the new contributors in the area and invites them to these meetings. And sometimes we are surprised by the number of curious people who arrive with disparate motivations. I think we should introduce them to the basic iD and JOSM tools.
 
 ## Do you have contact with other mappers?
 
-Yes, of course, since I have been a member of the Grenoble local group since its inception, and our monthly meetings are very often enriching. And sometimes when I receive a response to the notes I have posted on OpenStreetMap. 
+Yes, of course, since I have been a member of the Grenoble local group since its inception, and our monthly meetings are very often enriching. And sometimes when I receive a response to the notes I have posted on OpenStreetMap.
 
 ## What is in your view the greatest strength of OpenStreetMap?
 
@@ -51,17 +51,16 @@ It is certainly the large variety of contributors who, on the planet, bring this
 
 ## What are the largest challenges for OpenStreetMap?
 
-It is to preserve and protect its model and to guard against any interference in its authorities. 
+It is to preserve and protect its model and to guard against any interference in its authorities.
 
 ## How to do stay on top of news about OpenStreetMap?
 
-There is no lack of sources that I consult every day: Talk-fr, Forum OSM France and weeklyOSM. 
+There is no lack of sources that I consult every day: Talk-fr, Forum OSM France and weeklyOSM.
 
 ## To conclude, is there anything else you want to share with the readers?
 
 Whatever your level of involvement and technique, you can always make your contribution, even if it is minor. It is curiosity that should be your inspiration and the conviction to participate in something useful.
- 
+
 **Thank you, Michel, for this interview.**
 
 *Translated from French by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
-
