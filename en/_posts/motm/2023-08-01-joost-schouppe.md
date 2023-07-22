@@ -1,6 +1,6 @@
 ﻿---
 title: "Mapper of the Month: Joost Schouppe (Belgium)"
-featured: 
+featured:
 layout: post
 category: motm
 author: Pierre Parmentier
@@ -28,13 +28,13 @@ We should always keep looking for people who just enjoy mapping for the sake of 
 
 # How can we make OpenStreetMap indispensable?
 
-It already is, in so many ways! 
+It already is, in so many ways!
 
 # The amount of data in OpenStreetMap is constantly increasing. How do you understand the maintenance of all this information?
 
 We're mature enough to start noticing how super detailed mapping can start crumbling if it's done by just one person. Think of bus lines, micromapping sidewalks or adding all the shop details. As mappers, I think we should make sure that our work helps the next generation of mappers. It is more important to train two new building importers, than to import yet another village. And it's more important to get full address coverage in a wider region, than to keep adding finer and finer detail closer to home.
 
-As we mature, we retain a small number of crazy power mappers that can do miracles for general data quality. That work can be complimented by corporate mappers. But for the finer details, we need apps for less technical people, we need apps that put the data to use and make it inviting to report and fix issues. We need millions of data users, and turn them into thousands of helping hands, and maybe retain a few dozen power mappers. 
+As we mature, we retain a small number of crazy power mappers that can do miracles for general data quality. That work can be complimented by corporate mappers. But for the finer details, we need apps for less technical people, we need apps that put the data to use and make it inviting to report and fix issues. We need millions of data users, and turn them into thousands of helping hands, and maybe retain a few dozen power mappers.
 
 # A lot of OpenStreetMap data has a relatively short lifespan or is very specific. Shouldn't contributors focus on the essentials first? How do we reconcile these two aspects and what should they be?
 
@@ -59,7 +59,7 @@ My ambition for OpenStreetMap has always been for it to be *the* map, not just *
 # OpenStreetMap has become a partner of many institutions. How is this managed in practice?
 
 It seems this still depends very much on people. We need people who understand corporations to talk to them. Mikel Maron's recent efforts to get more life in the Advisory Board is a nice example of trying to turn those personal contacts into something more structural. At a small scale, we try to do the same in Belgium. Institutions need a face to the organization. Providing easy to use contact points that interface with the project is very important for that. Actively reaching out is also important, especially when it comes to helping institutions to be responsible data users and contributors.
- 
+
 # Big players in digital mapping are using OpenStreetMap data. Should we remain a simple supplier or should we join forces?
 
 I often say: if you dance with the devil, the devil changes you — but we are the devil. I think engaging with the big players can force them to work in the benefit of everyone. We have a smart and loud community to keep us in check if we would slip towards thinking too much like corporations. Our steadfastness means that corporations have to adapt as well. I think when things like Overture happen, we have to be very careful — but we also have to see the opportunities for us in that.
@@ -67,7 +67,7 @@ I often say: if you dance with the devil, the devil changes you — but we are t
 # If OpenStreetMap becomes a commercial player, isn't there a risk that contributors will turn away and stop contributing?
 
 It is impossible for OpenStreetMap to become truly commercial because of its license, which is kind of impossible to change. OpenStreetMap has always been a project that wants to see its data used — you don't get to pick who uses your data or not. Except when they break the rules of course.
- 
+
 # Would you like to tell us more about the Overture Maps Foundation?
 
 The thread about that on the community forum is required reading: <https://community.openstreetmap.org/t/overturemaps-org-big-businesses-osmf-alternative/6760>. I share a lot of the concerns raised, but I still see this as potentially beneficial to the project — if we keep open lines of communication and make sure red lines are respected. This could increase the user base of OpenStreetMap in a very significant way.
@@ -75,11 +75,11 @@ The thread about that on the community forum is required reading: <https://commu
 # What are the big changes you have seen in Belgium in the last few years?
 
 In the map: when I first started using OpenStreetMap, I could not hike in a forest without needing to add or remap most of the paths. Now, almost everywhere you go, it is mostly details that are missing. The level of detail of basically everything has risen so much. Still a huge amount of work left, especially when it comes to points of interest — POI — and buildings and addresses. In data users: you don't need to explain what OpenStreetMap is anymore. Now, you can go straight into the nuances of how exactly it works. Data owners used to think it was just this weird thing, then that it might be a decent enough basemap, then that it would be best that their data lives in OpenStreetMap. Well, some are still one or two steps behind [smile]. In the community: it's a little bigger, probably. We're better organized, for sure. We still have a long ways to go, especially when it comes to onboarding new people in general, and from a more diverse background especially.
- 
+
 # Things are progressing in Belgium. But this progress seems unevenly distributed. What are the weak points where mappers should focus their efforts?
 
 It is becoming easier and easier for a new mapper to help turn OpenStreetMap from decent into awesome, using tools like StreetComplete or MapComplete. But that requires that the map is already *decent*. The road network should be clean and up to date, and we need all the buildings. All of them! The import effort seems to be accelerating somewhat, but at the current rate we will still need a few more years to get full coverage. The sooner that happens, the more we empower new mappers to excel. Our general strategy of talking to niche users is also really working. Work by people like s8evq and yourself to engage people at the Grands Randonnees organizations are awesome! A power mapper that can help two more mappers get involved will get a lot more done than a power mapper that just maps.
- 
+
 # Would you like to say a few words to the contributors from all countries?
 
 Don't stop being awesome [smile]. Don't let anyone tell you what to map, especially not me. Keep the joy of mapping for the sake of mapping. But try and help out projects that bring data to the users, and get those users on board.

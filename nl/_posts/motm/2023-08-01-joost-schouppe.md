@@ -28,13 +28,13 @@ We moeten altijd blijven zoeken naar mensen die het gewoon leuk vinden om te map
 
 # Hoe kunnen we OpenStreetMap onmisbaar maken?
 
-Dat is het al, op zoveel manieren! 
+Dat is het al, op zoveel manieren!
 
 # De hoeveelheid gegevens in OpenStreetMap neemt voortdurend toe. Hoe begrijpen jullie het onderhoud van al deze informatie?
 
 We zijn volwassen genoeg om op te merken hoe super gedetailleerde mapping kan afbrokkelen als het door slechts één persoon wordt gedaan. Denk aan buslijnen, het micromappen van trottoirs of het toevoegen van alle winkeldetails. Als mappers denk ik dat we ervoor moeten zorgen dat ons werk de volgende generatie mappers helpt. Het is belangrijker om twee nieuwe gebouwenimporteurs op te leiden, dan het zoveelste dorp te importeren. En het is belangrijker om volledige adresdekking te krijgen in een grotere regio, dan om steeds fijnere details dichter bij huis toe te voegen.
 
-Naarmate we als project volwassener worden, houden we een klein aantal waanzinnige power mappers over die wonderen kunnen verrichten voor de algemene gegevenskwaliteit. Dat werk kan worden aangevuld door corporate mappers. Maar voor de fijnere details hebben we apps nodig voor minder technische mensen, we hebben apps nodig die de gegevens gebruiken en het uitnodigend maken om problemen te melden en op te lossen. We hebben miljoenen gebruikers van de gegevens nodig, en veranderen die in duizenden helpende handen, en behouden misschien enkele tientallen power mappers. 
+Naarmate we als project volwassener worden, houden we een klein aantal waanzinnige power mappers over die wonderen kunnen verrichten voor de algemene gegevenskwaliteit. Dat werk kan worden aangevuld door corporate mappers. Maar voor de fijnere details hebben we apps nodig voor minder technische mensen, we hebben apps nodig die de gegevens gebruiken en het uitnodigend maken om problemen te melden en op te lossen. We hebben miljoenen gebruikers van de gegevens nodig, en veranderen die in duizenden helpende handen, en behouden misschien enkele tientallen power mappers.
 
 # Veel OpenStreetMap gegevens hebben een relatief korte levensduur of zijn zeer specifiek. Moeten medewerkers zich niet eerst richten op de essentie? Hoe verzoenen we deze twee aspecten en wat zouden ze moeten zijn?
 
@@ -59,7 +59,7 @@ Mijn ambitie voor OpenStreetMap is altijd geweest dat het *de* kaart zou zijn, n
 # OpenStreetMap is een partner geworden van vele instellingen. Hoe wordt dit in de praktijk beheerd?
 
 Het lijkt erop dat dit nog steeds erg afhankelijk is van mensen. We hebben mensen nodig die verstand hebben van bedrijven om met hen te praten. De recente pogingen van Mikel Maron om meer leven in de Advisory Board te krijgen is een mooi voorbeeld van een poging om die persoonlijke contacten om te zetten in iets meer structureels. Op kleine schaal proberen we in België hetzelfde te doen. Instellingen hebben een gezicht nodig bij de organisatie. Het bieden van laagdrempelige contactpunten die aansluiten bij het project is daarvoor heel belangrijk. Actief naar buiten treden is ook belangrijk, vooral als het erom gaat instellingen te helpen verantwoordelijke gebruikers en bijdragers van gegevens te zijn.
- 
+
 # Grote spelers in digitale cartografie gebruiken OpenStreetMap gegevens. Moeten we een eenvoudige leverancier blijven of moeten we onze krachten bundelen?
 
 Ik zeg vaak: wie met de duivel danst, wordt veranderd door de duivel - maar *wij* zijn dat duiveltje. Ik denk dat het samenwerken met de grote spelers hen kan forceren om bij te dragen aan he algemeen belang. We hebben een slimme en luide gemeenschap om ons in toom te houden als we te veel als bedrijven gaan denken. Onze standvastigheid betekent dat bedrijven zich ook moeten aanpassen. Ik denk dat wanneer dingen zoals Overture gebeuren, we heel voorzichtig moeten zijn - maar we moeten ook de kansen voor ons daarin zien.
@@ -67,20 +67,20 @@ Ik zeg vaak: wie met de duivel danst, wordt veranderd door de duivel - maar *wij
 # Als OpenStreetMap een commerciële speler wordt, bestaat dan niet het risico dat bijdragers zich afkeren en niet langer bijdragen?
 
 Het is onmogelijk voor OpenStreetMap om echt commercieel te worden vanwege de licentie, die niet realistisch te veranderen is. OpenStreetMap is altijd een project geweest dat wil dat zijn gegevens worden gebruikt - je kunt niet kiezen wie je gegevens gebruikt of niet. Behalve als ze de regels overtreden natuurlijk.
- 
+
 # Wilt u ons meer vertellen over de Overture Maps Foundation?
 
 De thread daarover op het community forum is verplichte lectuur: <https://community.openstreetmap.org/t/overturemaps-org-big-businesses-osmf-alternative/6760>. Ik deel veel van de geuite zorgen, maar ik zie dit nog steeds als potentieel gunstig voor het project - als we de communicatielijnen open houden en ervoor zorgen dat rode lijnen worden gerespecteerd. Dit zou de gebruikersbasis van OpenStreetMap aanzienlijk kunnen vergroten.
 
 # Wat zijn de grote veranderingen die je de laatste jaren in België hebt gezien?
 
-In de kaart: toen ik voor het eerst OpenStreetMap begon te gebruiken, kon ik niet in een bos wandelen zonder de meeste paden te moeten toevoegen of te hermappen. Nu ontbreken in de bossen bijna overal enkel nog details. Het niveau van detail van eigenlijk alles is zo gestegen. Er is nog enorm veel werk, vooral wat betreft points of interest - POI - en gebouwen en adressen. Gebruikers van gegevens: je hoeft niet meer uit te leggen wat OpenStreetMap is. Nu kun je meteen ingaan op de nuances van hoe het precies werkt. Vroeger dachten eigenaars van gegevens dat het maar een raar ding was, toen dat het misschien een fatsoenlijke basiskaart was, toen dat het best was dat hun gegevens in OpenStreetMap leefden. Nou, sommigen lopen nog steeds één of twee stappen achter [glimlach]. 
+In de kaart: toen ik voor het eerst OpenStreetMap begon te gebruiken, kon ik niet in een bos wandelen zonder de meeste paden te moeten toevoegen of te hermappen. Nu ontbreken in de bossen bijna overal enkel nog details. Het niveau van detail van eigenlijk alles is zo gestegen. Er is nog enorm veel werk, vooral wat betreft points of interest - POI - en gebouwen en adressen. Gebruikers van gegevens: je hoeft niet meer uit te leggen wat OpenStreetMap is. Nu kun je meteen ingaan op de nuances van hoe het precies werkt. Vroeger dachten eigenaars van gegevens dat het maar een raar ding was, toen dat het misschien een fatsoenlijke basiskaart was, toen dat het best was dat hun gegevens in OpenStreetMap leefden. Nou, sommigen lopen nog steeds één of twee stappen achter [glimlach].
 In de gemeenschap: het is een beetje groter, waarschijnlijk. We zijn beter georganiseerd, zeker. We hebben nog een lange weg te gaan, vooral als het gaat om het inwerken van nieuwe mensen in het algemeen, en met een meer diverse achtergrond in het bijzonder.
- 
+
 # In België gaat het vooruit. Maar die vooruitgang lijkt ongelijk verdeeld. Wat zijn de zwakke punten waarop mappers hun inspanningen moeten richten?
 
 Het wordt steeds eenvoudiger voor een nieuwe mapper om OpenStreetMap te helpen veranderen van fatsoenlijk in geweldig, met behulp van tools als StreetComplete of MapComplete. Maar dat vereist dat de kaart al *degelijk* is. Het wegennet moet schoon en up-to-date zijn, en we hebben alle gebouwen nodig. Allemaal! De import lijkt enigszins te versnellen, maar in het huidige tempo hebben we nog een paar jaar nodig om een volledige dekking te krijgen. Hoe eerder dat gebeurt, hoe meer we nieuwe mappers in staat stellen om uit te blinken. Onze algemene strategie van praten met nichegebruikers werkt ook echt. Het werk van mensen als s8evq en jezelf om mensen te betrekken bij de Grands Randonnees organisaties zijn geweldig! Een power mapper die twee andere mappers kan helpen betrokken te raken, krijgt veel meer voor elkaar dan een power mapper die alleen maar mapt.
- 
+
 # Wil je een paar woorden zeggen tegen de bijdragers uit alle landen?
 
 Stop niet met geweldig te zijn. Laat niemand je vertellen wat je moet mappen, zeker mij niet. Houd het plezier van het in kaart brengen omwille van het in kaart brengen. Maar probeer projecten te helpen die gegevens naar de gebruikers brengen, en die gebruikers aan boord te krijgen.
@@ -88,4 +88,3 @@ Stop niet met geweldig te zijn. Laat niemand je vertellen wat je moet mappen, ze
 **Bedankt, Joost, voor dit interview.**
 
 *Vertaald uit het Engels door <em>Joost himself</em>.*
-

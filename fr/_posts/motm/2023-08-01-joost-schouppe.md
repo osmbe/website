@@ -28,13 +28,13 @@ Nous devrions toujours continuer à chercher des gens qui aiment cartographier p
 
 # Comment rendre OpenStreetMap indispensable ?
 
-Elle l'est déjà, à bien des égards ! 
+Elle l'est déjà, à bien des égards !
 
 # La quantité de données dans OpenStreetMap augmente constamment. Comment comprend-tu la maintenance de toutes ces informations ?
 
 Nous sommes suffisamment mûrs pour commencer à remarquer que la cartographie super détaillée peut commencer à s'effriter si elle est réalisée par une seule personne. Pensez aux lignes de bus, à la micro-cartographie des trottoirs ou à l'ajout de tous les détails des magasins. En tant que cartographes, je pense que nous devrions nous assurer que notre travail aide la prochaine génération de cartographes. Il est plus important de former deux nouveaux importateurs de bâtiments que d'importer encore un autre village. Et il est plus important d'obtenir une couverture complète des adresses dans une région plus vaste que de continuer à ajouter des détails de plus en plus fins près de chez soi.
 
-Au fur et à mesure que nous prenons de l'âge, nous conservons un petit nombre de cartographes en puissance qui peuvent faire des miracles pour la qualité générale des données. Ce travail peut être complété par des cartographes d'entreprise. Mais pour les détails les plus fins, nous avons besoin d'applications pour les personnes moins techniques, nous avons besoin d'applications qui utilisent les données et qui invitent à signaler et à résoudre les problèmes. Nous avons besoin de millions d'utilisateurs de données, et de les transformer en milliers d'aides, et peut-être de retenir quelques douzaines de cartographes en puissance. 
+Au fur et à mesure que nous prenons de l'âge, nous conservons un petit nombre de cartographes en puissance qui peuvent faire des miracles pour la qualité générale des données. Ce travail peut être complété par des cartographes d'entreprise. Mais pour les détails les plus fins, nous avons besoin d'applications pour les personnes moins techniques, nous avons besoin d'applications qui utilisent les données et qui invitent à signaler et à résoudre les problèmes. Nous avons besoin de millions d'utilisateurs de données, et de les transformer en milliers d'aides, et peut-être de retenir quelques douzaines de cartographes en puissance.
 
 # Beaucoup de données OpenStreetMap ont une durée de vie relativement courte ou sont très spécifiques. Les contributeurs ne devraient-ils pas se concentrer d'abord sur l'essentiel ? Comment concilier ces deux aspects et que devraient-ils être ?
 
@@ -59,7 +59,7 @@ Mon ambition pour OpenStreetMap a toujours été qu'elle soit *la* carte, et pas
 # OpenStreetMap est devenu un partenaire de nombreuses institutions. Comment cela est-il géré dans la pratique ?
 
 Il semble que cela dépende encore beaucoup des gens. Nous avons besoin de personnes qui comprennent les entreprises pour leur parler. Les efforts récents de Mikel Maron pour donner plus de vie au Advisor Board sont un bon exemple de la transformation de ces contacts personnels en quelque chose de plus structurel. À petite échelle, nous essayons de faire la même chose en Belgique. Les institutions ont besoin d'un visage pour l'organisation. Pour ce faire, il est très important de mettre en place des points de contact faciles à utiliser qui assurent l'interface avec le projet. Il est également important de tendre activement la main, en particulier lorsqu'il s'agit d'aider les institutions à être des utilisateurs et des contributeurs de données responsables.
- 
+
 # Les grands acteurs de la cartographie numérique utilisent les données d'OpenStreetMap. Devons-nous rester un simple fournisseur ou devons-nous unir nos forces ?
 
 Je dis souvent : si vous dansez avec le diable, le diable vous change - mais nous sommes le diable. Je pense que s'engager avec les grands acteurs peut les forcer à travailler dans l'intérêt de tous. Nous disposons d'une communauté intelligente et bruyante qui nous permet de garder le contrôle si nous nous laissons aller à penser trop comme des entreprises. Notre fermeté signifie que les entreprises doivent également s'adapter. Je pense que lorsque des choses comme Overture se produisent, nous devons être très prudents, mais nous devons aussi voir les opportunités qui s'offrent à nous.
@@ -67,7 +67,7 @@ Je dis souvent : si vous dansez avec le diable, le diable vous change - mais nou
 # Si OpenStreetMap devient un acteur commercial, n'y a-t-il pas un risque que les contributeurs se détournent et cessent de contribuer ?
 
 Il est impossible pour OpenStreetMap de devenir un véritable acteur commercial en raison de sa licence, qui est en quelque sorte impossible à modifier. OpenStreetMap a toujours été un projet qui souhaite que ses données soient utilisées - vous ne pouvez pas choisir qui utilise vos données ou non. Sauf lorsqu'ils enfreignent les règles, bien sûr.
- 
+
 # Veux-tu nous en dire plus sur l'Overture Maps Foundation ?
 
 Le fil de discussion à ce sujet sur le forum de la communauté est une lecture obligatoire : <https://community.openstreetmap.org/t/overturemaps-org-big-businesses-osmf-alternative/6760>. Je partage beaucoup des inquiétudes soulevées, mais je considère toujours que cela peut être bénéfique pour le projet - si nous gardons des lignes de communication ouvertes et que nous nous assurons que les lignes rouges sont respectées. Cela pourrait augmenter la base d'utilisateurs d'OpenStreetMap de manière très significative.
@@ -79,7 +79,7 @@ Au niveau de la carte : lorsque j'ai commencé à utiliser OpenStreetMap, je ne 
 # Les choses progressent en Belgique. Mais ces progrès semblent inégalement répartis. Quels sont les points faibles sur lesquels les cartographes devraient concentrer leurs efforts ?
 
 Il est de plus en plus facile pour un nouveau cartographe d'aider à transformer OpenStreetMap de décent en génial, en utilisant des outils comme StreetComplete ou MapComplete. Mais pour cela, il faut que la carte soit déjà *décente*. Le réseau routier doit être propre et à jour, et nous avons besoin de tous les bâtiments. Tous ! L'effort d'importation semble s'accélérer quelque peu, mais au rythme actuel, il nous faudra encore quelques années pour obtenir une couverture complète. Plus tôt cela se produira, plus nous donnerons aux nouveaux cartographes les moyens d'exceller. Notre stratégie générale consistant à s'adresser à des utilisateurs de niche fonctionne également très bien. Le travail de personnes comme s8evq et toi-même pour impliquer les gens dans les organisations de <em>Grande Randonnée</em> est génial ! Un <em>power mapper</em> qui peut aider deux autres mappers à s'impliquer fera beaucoup plus de choses qu'un <em>power mapper<em> qui ne fait que cartographier.
- 
+
 # Voudrais-tu dire quelques mots aux contributeurs de tous les pays ?
 
 N'arrêtez pas d'être géniaux [sourire]. Ne laissez personne vous dire quoi cartographier, surtout pas moi. Gardez le plaisir de cartographier pour le plaisir de cartographier. Mais essayez d'aider les projets qui apportent des données aux utilisateurs, et faites en sorte que ces utilisateurs participent.
