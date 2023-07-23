@@ -1,13 +1,9 @@
 ---
 title: "Completing a 360° Cycling Journey Through Every Brussels Street"
-featured:
+featured: stephane-interview-2023.jpg
 layout: post
 lang: en
 ---
-
-![](https://hackmd.io/_uploads/r1_SBBKq3.png)
-
-*[Photo from Stéphane](https://twitter.com/stefdegreef/status/1681310373683798017/)*
 
 Back when OpenStreetMap Belgium was discussing starting a camera grant project, Stéphane De Greef already bought his own 360° camera, a GoPro Max, which is the same camera we use, and started collecting street level imagery of the Forest des Soignes. For the first time, there would be a "streetview" of the forest!
 
