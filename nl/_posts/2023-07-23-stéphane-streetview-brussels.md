@@ -2,7 +2,7 @@
 title: "Een fietsreis door elke straat van Brussel om ze in 360° in beeld te krijgen"
 featured: stephane-interview-2023.jpg
 layout: post
-lang: en
+lang: nl
 ---
 Een tijd terug, toen OpenStreetMap Belgium nog maar aan het overwegen was hoe een programma voor het uitlenen van camera's er uit zou kunnen gaan zien, was Stéphane De Greef al bezig met de aankoop van zijn 360° GoPro Max. Uiteindelijk kozen wij voor dezelfde camera. Met zijn toestel ging hij aan de slag in het Zoniënwoud. Voor de eerste keer zou er een "streetview" zijn in het bos.
 
