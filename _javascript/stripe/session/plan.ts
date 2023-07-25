@@ -12,5 +12,5 @@ export async function createSessionPlan(plan: StripePlanData): Promise<Stripe.Ch
     plan: plan.plan
   };
 
-  return await fetchStripe("POST", `${process.env.STRIPE_API}/checkout/session/plan`, data);
+  return await fetchStripe("POST", `${process.env.STRIPE_API}/checkout/session/payment`, data);
 }

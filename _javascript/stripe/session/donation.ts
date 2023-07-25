@@ -17,5 +17,5 @@ export async function createSessionDonation(donation: StripeDonationData): Promi
     data.message = donation.message;
   }
 
-  return await fetchStripe("POST", `${process.env.STRIPE_API}/checkout/session/donation`, data);
+  return await fetchStripe("POST", `${process.env.STRIPE_API}/checkout/session/subscription`, data);
 }
