@@ -13,8 +13,9 @@ Alle foto's werden opgeladen naar [Mapillary](https://www.mapillary.com/app/user
 
 Mapillary integreert mooit in de OpenStreetMap editeer omgeving, maar we zijn niet gebonden aan het platform. We onderzoeken het opzet van een eigen server met het open source platform [Panoramax](https://panoramax.fr/), om dezelfde data nog opener aan te bieden.
 
-Toen we tweetten en tooten (op Mastodon) over Stéphane's succesverhaal, werd dit goed opgepikt, uiteindelijk zelfs door enkele journalisten. We zijn blij deze artikels met jullie te kunnen delen:
+Toen we [tweetten]((https://twitter.com/osm_be/status/1680584420648968192) en [tooten](https://en.osm.town/@osm_be/110724230718520196) (op Mastodon) over Stéphane's succesverhaal, werd dit goed opgepikt, uiteindelijk zelfs door enkele journalisten. We zijn blij deze artikels met jullie te kunnen delen:
 * [Bruzz (Nederlandstalig, met een video met ondertitels in NL, FR, EN)](https://www.bruzz.be/videoreeks/woensdag-19-juli-2023/video-stephane-de-greef-brengt-al-fietsend-alle-straten-van)
 * [BX1 (Franstalig)](https://bx1.be/categories/culture/un-google-street-view-pour-les-cyclistes/)
+* [L'Avenir (Franstalig)](https://www.lavenir.net/regions/bruxelles/2023/07/27/le-projet-dingue-de-stephane-de-greef-il-pedale-dans-toutes-les-rues-de-bruxelles-pour-creer-lalternative-cycliste-a-google-street-view-QHSBZDBPVRB23FDB5C4NINYPPU/)
 
 Geïnspireerd? Lees hier meer over ons [project om camera's te delen](https://openstreetmap.be/nl/projects/streetlevelimagery.html) en vraag er eentje aan.
