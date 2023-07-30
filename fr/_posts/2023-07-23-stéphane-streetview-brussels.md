@@ -17,5 +17,6 @@ Nous avons [tweeté](https://twitter.com/osm_be/status/1680584420648968192) (et 
 * [Bruzz (en néerlandais avec sous-titres néerlandais, français ou anglais)](https://www.bruzz.be/videoreeks/woensdag-19-juli-2023/video-stephane-de-greef-brengt-al-fietsend-alle-straten-van)
 * [BX1 (French)](https://bx1.be/categories/culture/un-google-street-view-pour-les-cyclistes/)
 * [L'Avenir (French)](https://www.lavenir.net/regions/bruxelles/2023/07/27/le-projet-dingue-de-stephane-de-greef-il-pedale-dans-toutes-les-rues-de-bruxelles-pour-creer-lalternative-cycliste-a-google-street-view-QHSBZDBPVRB23FDB5C4NINYPPU/)
+* [Mapillary Blog](https://blog.mapillary.com/update/2023/07/28/Mapping-Brussels-By-Bike.html)
 
-Feel inspired? Read more about our [camera grant project](https://openstreetmap.be/en/projects/streetlevelimagery.html) and apply for a camera.
+Vous vous sentez inspiré ? Lisez-en plus sur notre [projet de subvention pour appareil photo](https://openstreetmap.be/fr/projects/streetlevelimagery.html) et postulez pour un appareil photo.
