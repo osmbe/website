@@ -9,7 +9,7 @@ lang: fr
 
 ## Qui êtes-vous ?
 
-Je m’appelle Lionel Giard, je suis un géographe du Brabant Wallon (du côté de Louvain-la-Neuve) - diplômé d'un Master en sciences géographiques de l'Université Catholique de Louvain (UCL) en 2016. Je travaille donc avec tous ce qui est SIG, cartes et données spatiales au quotidien. En plus de ma passion pour la cartographie, je suis également un grand amateur de l'Histoire en général - deux passions qui se marient bien !
+Je m'appelle Lionel Giard, je suis un géographe du Brabant Wallon (du côté de Louvain-la-Neuve) - diplômé d'un Master en sciences géographiques de l'Université Catholique de Louvain (UCL) en 2016. Je travaille donc avec tous ce qui est SIG, cartes et données spatiales au quotidien. En plus de ma passion pour la cartographie, je suis également un grand amateur de l'Histoire en général - deux passions qui se marient bien !
 
 Ah et avant que j'oublie, mon pseudo sur OpenStreetMap est "Anakil".
 
@@ -23,7 +23,7 @@ Je cartographie un peu de tout, mais surtout l'est du Brabant Wallon. Actuelleme
 
 ## Comment cartographiez-vous ?
 
-Je cartographie beaucoup avec les images satellites (notamment pour placer les bases comme les routes, batiments, certains landuse...). Je récupère aussi des traces GPS et photos chaque fois que je peux lors de mes promenade (surtout pour vérifier ce que je cartographie à la maison et obtenir plus de détails). Plus récemment, j'ai commencé à contribuer à Mapillary pour aider à identifier des éléments auxquels je ne ferais pas attention directement.  Sans oublier l’ajout de mes photos sur wikimedia quand cela a un intérêt.
+Je cartographie beaucoup avec les images satellites (notamment pour placer les bases comme les routes, batiments, certains landuse...). Je récupère aussi des traces GPS et photos chaque fois que je peux lors de mes promenade (surtout pour vérifier ce que je cartographie à la maison et obtenir plus de détails). Plus récemment, j'ai commencé à contribuer à Mapillary pour aider à identifier des éléments auxquels je ne ferais pas attention directement.  Sans oublier l'ajout de mes photos sur wikimedia quand cela a un intérêt.
 
 
 ![Un menhir découvert près de chez moi lors de mes relevés !](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png)
@@ -46,7 +46,7 @@ La cartographie de la quasi-totalité de ma commune (Chaumont-Gistoux) avec un d
 
 
 
-## Pourquoi cartographiez-vous ? Qu’est-ce qui vous motive ?
+## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
 
 C'est une passion (ce qui explique probablement mon choix de métier) et je crois en ce projet qui fait collaborer des personnes de tout horizon ! J'adore découvrir des nouveaux lieux et leur histoire lorsque je me mets à les cartographier, en allant notamment sur le terrain mais aussi en faisant des recherches pour trouver plus d'informations sur les monuments...
 
@@ -58,7 +58,7 @@ Je dirais que le plus difficile est de rester focaliser sur un objectif. Il est 
 
 Compléter les corrections de la ville de Louvain-la-Neuve, cartographier plus en détail une autre commune voisine (Walhain), et ajouter tous les sites historiques que je peux visiter durant mes week-ends ! Plus particulièrement, je me concentre sur les grands monuments et sites historiques wallons.
 
-## Avez-vous des contacts avec d’autres cartographes ?
+## Avez-vous des contacts avec d'autres cartographes ?
 
 Oui, j'ai très vite eu des contacts avec les autres membres d'OSM Belgique lors du renouveau des meetups à Bruxelles (avec la rencontre de quelques illustres membres ! ;-) ). J'ai aussi eu pas mal de contacts avec les (trop peu nombreux) cartographes wallons (notamment Julien Minet). J'essaye de participer à autant de meetups et réunions que possible car c'est toujours agréable de discuter de nos façons de travailler.
 
@@ -66,7 +66,7 @@ Oui, j'ai très vite eu des contacts avec les autres membres d'OSM Belgique lors
 
 J'utilise régulièrement OpenStreetMap pour mes loisirs (planifier des excursions ou mes vacances, trouver un restaurant, ...), mais aussi à mon travail où j'utilise assez souvent des données issues d'OSM (notamment le réseau routier) pour faire mes cartes et autres analyses spatiales.
 
-## Faites-vous d’autres choses que la cartographie qui soit liées à OpenStreetMap ?
+## Faites-vous d'autres choses que la cartographie qui soit liées à OpenStreetMap ?
 
 Je participe autant que possible en tant que bénévole aux mapathons en Belgique (chez Médecins sans frontières ou dans les universités), mais aussi à différents évenements ou conférences pour faire la promotion du projet d'OpenStreetMap.
 

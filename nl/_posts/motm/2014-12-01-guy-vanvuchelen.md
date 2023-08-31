@@ -15,7 +15,7 @@ In mijn speurtocht naar gratis wandelkaarten voor mijn Garmin kwam ik bij OpenSt
 
 **Wat voor soort mapper ben je en op welke plaatsen map je?**
 
-Meestal noteer ik tijdens het wandelen (meestal bewegwijzerde wandelingen van wandelclubs) de 'nogal chaotisch zaken'. Daarvoor gebruik ik de ‘ingesproken notities’ van OsmAnd. Tegenwoordig noteer ik vooral de breedte van de wegen, de snelheid, het oppervlak, de soort track, het begin van agglomeraties en natuurlijk alle kapelletjes! Regelmatig kom ik ook nieuwe wandelwegen en/of trage wegen tegen.  Na een wandeling van ongeveer 10 kilometer heb ik dan tussen de 30 en 50 minuten ingesproken notities. Af en toe krijg ik hulp van mijn wandelclubgenoten. Zo laten ze mij tijdens een wandeling al van ver weten dat we een kapelletje zullen tegenkomen. Ze weten wel niet echt waar ik mee bezig ben en denken dat ik enkel geïnteresseerd ben in een foto.
+Meestal noteer ik tijdens het wandelen (meestal bewegwijzerde wandelingen van wandelclubs) de 'nogal chaotisch zaken'. Daarvoor gebruik ik de 'ingesproken notities' van OsmAnd. Tegenwoordig noteer ik vooral de breedte van de wegen, de snelheid, het oppervlak, de soort track, het begin van agglomeraties en natuurlijk alle kapelletjes! Regelmatig kom ik ook nieuwe wandelwegen en/of trage wegen tegen.  Na een wandeling van ongeveer 10 kilometer heb ik dan tussen de 30 en 50 minuten ingesproken notities. Af en toe krijg ik hulp van mijn wandelclubgenoten. Zo laten ze mij tijdens een wandeling al van ver weten dat we een kapelletje zullen tegenkomen. Ze weten wel niet echt waar ik mee bezig ben en denken dat ik enkel geïnteresseerd ben in een foto.
 
 <img src="{{ site.baseurl }}/assets/images/motm/2014/12/Kapelletje_GuyVV.png"/>
 

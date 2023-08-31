@@ -11,11 +11,11 @@ _Brecht Bonne is mapping on OpenStreetMap under the name <a href="http://www.ope
 
 **How did you get to know OpenStreetMap?**
 
-The first time I heard about OpenStreetMap was already ‘long time ago’ in 2007. When I searched for my hometown Bruges by then, there was not yet that much on OpenStreetMap so I forgot about the project for a while. In 2011 I bought a walking GPS, a ‘Garmin eTrex Legend Hcx’. Because I didn’t bought maps with it, I started searching for information… and I came across OpenStreetMap again! So I installed the maps, but with a first test in my neighbourhood, I noticed a walking path, next to the place where I was living, which was not on the map. The step to really add something to OpenStreetMap took several months, but in April 2011 I finally added my first nodes to the OpenStreetMap server.
+The first time I heard about OpenStreetMap was already 'long time ago' in 2007. When I searched for my hometown Bruges by then, there was not yet that much on OpenStreetMap so I forgot about the project for a while. In 2011 I bought a walking GPS, a 'Garmin eTrex Legend Hcx'. Because I didn't bought maps with it, I started searching for information… and I came across OpenStreetMap again! So I installed the maps, but with a first test in my neighbourhood, I noticed a walking path, next to the place where I was living, which was not on the map. The step to really add something to OpenStreetMap took several months, but in April 2011 I finally added my first nodes to the OpenStreetMap server.
 
 **Do you use OpenStreetMap?**
 
-I use OpenStreetMap almost every day. My navigation devices are all using OpenStreetMap-maps and if I don’t know where a place exactly is, I always use OpenStreetMap next to others. The level of detail is just better than in other maps. If I go walking, cycling, driving by car or if I’m going somewhere by plane, I’ll always have an OpenStreetMap-map in my pocket!
+I use OpenStreetMap almost every day. My navigation devices are all using OpenStreetMap-maps and if I don't know where a place exactly is, I always use OpenStreetMap next to others. The level of detail is just better than in other maps. If I go walking, cycling, driving by car or if I'm going somewhere by plane, I'll always have an OpenStreetMap-map in my pocket!
 
 **How do you map?**
 
@@ -61,4 +61,4 @@ In the past I tried to contact some mappers in my neighborhood, without luck. I 
 
 **To conclude, is there something else you want to share with the readers?**
 
-I think that all participants of the Missing Maps Meeting in Antwerp deserve respect. The majority had never heard of OpenStreetMap before and even then, the task was completed after a few hours. That was a job well done! 
+I think that all participants of the Missing Maps Meeting in Antwerp deserve respect. The majority had never heard of OpenStreetMap before and even then, the task was completed after a few hours. That was a job well done!
