@@ -9,7 +9,7 @@ lang: en
 
 ## Who are you ?
 
-I am Aylin Kızılaslan from Istanbul, Turkey. I am a medical student  in Ataturk University. My nickname and also OpenStreetMap name is ‘deniz yıldızı' which I only use for charity projects or civil society initiatives. It means starfish in Turkish. It comes from the famous starfish story, one little step towards changing the world.
+I am Aylin Kızılaslan from Istanbul, Turkey. I am a medical student  in Ataturk University. My nickname and also OpenStreetMap name is 'deniz yıldızı' which I only use for charity projects or civil society initiatives. It means starfish in Turkish. It comes from the famous starfish story, one little step towards changing the world.
 
 ![Aylin Kizilaslan](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Aylin-Kizilaslan/i-58D7VZR/0/fa278d9b/XL/1-XL.jpg)
 

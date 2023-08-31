@@ -32,7 +32,7 @@ Usually I take pictures while I survey. 360 pictures are my favourite. If the to
 Mainly local mapping.
 
 ## What is your biggest achievement as mapper ?
-I personally think my biggest achievement is the (almost) completed mapping of Aogashima island. Aogashima island is one of the hardest places to visit in Japan. A U.S. NGO selected the island as ‘[You Should See Before You Die](http://www.onegreenplanet.org/animalsandnature/amazing-natural-wonders-photos/)'.
+I personally think my biggest achievement is the (almost) completed mapping of Aogashima island. Aogashima island is one of the hardest places to visit in Japan. A U.S. NGO selected the island as '[You Should See Before You Die](http://www.onegreenplanet.org/animalsandnature/amazing-natural-wonders-photos/)'.
 
 
 The island consisting of a double-caldera volcano is not welcoming and glorious, but I felt warmth and sanctity inside it. You can enjoy its scenery via Mapillary but I recommend you actually get there.

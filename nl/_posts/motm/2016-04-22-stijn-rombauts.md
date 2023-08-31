@@ -54,7 +54,7 @@ Eigenlijk alleen via de talk-be mailinglist. Wat natuurlijk maakt dat mijn venst
 
 **Heb je contact met andere mappers?**
 
-Ik ben al ‘ns keertje naar een meetup in [Leuven](http://www.openstreetmap.org/#map=14/50.8813/4.6994) en [Antwerpen](http://www.openstreetmap.org/#map=11/51.2284/4.3348) geweest, maar tja, vanuit het verre [Limburg](http://www.openstreetmap.org/relation/53142)...
+Ik ben al 'ns keertje naar een meetup in [Leuven](http://www.openstreetmap.org/#map=14/50.8813/4.6994) en [Antwerpen](http://www.openstreetmap.org/#map=11/51.2284/4.3348) geweest, maar tja, vanuit het verre [Limburg](http://www.openstreetmap.org/relation/53142)...
 
 **Om af te sluiten, is er iets dat je de lezer nog zou willen meedelen?**
 
