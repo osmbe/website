@@ -6,7 +6,7 @@ author: escada
 lang: nl
 ---
 
-_[Stijn Rombauts](http://www.openstreetmap.org/user/StijnRR) is 37 jaar, bio-ingenieur van opleiding en werkt bij de [Vlaamse Milieumaatschappij](https://en.vmm.be/), waar hij computermodellen van waterlopen bouwt en onderhoudt, die gebruikt worden in overstromingsvoorspellers of bij het ontwerp van wachtbekkens of vistrappen e.d. Omdat hij voor z’n werk meestal achter de computer zit, probeert hij in z’n vrije tijd zoveel mogelijk actief buiten in de natuur te zijn: te voet, met de mountainbike of in de kano._
+_[Stijn Rombauts](http://www.openstreetmap.org/user/StijnRR) is 37 jaar, bio-ingenieur van opleiding en werkt bij de [Vlaamse Milieumaatschappij](https://en.vmm.be/), waar hij computermodellen van waterlopen bouwt en onderhoudt, die gebruikt worden in overstromingsvoorspellers of bij het ontwerp van wachtbekkens of vistrappen e.d. Omdat hij voor z'n werk meestal achter de computer zit, probeert hij in z'n vrije tijd zoveel mogelijk actief buiten in de natuur te zijn: te voet, met de mountainbike of in de kano._
 
 Stijn Rombauts
 
@@ -16,11 +16,11 @@ Vooral als mountainbiker ben ik altijd op zoek naar de interessantere onverharde
 
 **Gebruik je OpenStreetMap ook zelf?**
 
-Eigenlijk gebruik ik OpenStreetMap weinig. Ik heb wel een OpenStreetMap-kaart op m’n GPS staan, maar da’s dan eerder om tijdens mijn tochten te controleren of dat paadje hier links al in OSM zit. En ik moet toegeven dat ik meestal nog eerder naar Google Maps en Streetview grijp.
+Eigenlijk gebruik ik OpenStreetMap weinig. Ik heb wel een OpenStreetMap-kaart op m'n GPS staan, maar da's dan eerder om tijdens mijn tochten te controleren of dat paadje hier links al in OSM zit. En ik moet toegeven dat ik meestal nog eerder naar Google Maps en Streetview grijp.
 
 **Hoe map je?**
 
-In den beginne lag mijn focus dus op de veldwegen en bospaden. Na een tijdje ben ik ook wandel- en mountainbikeroutes beginnen toevoegen. Maar gaandeweg werd het me duidelijk dat andere aspecten wel wat verfijning konden gebruiken. Zo zijn de meeste wegen gemapt toen de eerste luchtfoto’s beschikbaar zijn geworden (vermoed ik). Maar veel van die wegen liggen niet helemaal op de juiste plaats. En er zijn wegen bijgekomen, kruispunten heraangelegd, fietspaden aangelegd e.d. Daarom heb ik me al vele avonden geamuseerd met het controleren van elk wegsegmentje, niet alleen qua ligging maar ook qua tags. Het noorden van Limburg heb ik zo al eens doorploegd; momenteel ben ik even overgeschakeld naar Vlaams-Brabant. En en passant bekijk ik dan ook de foutmeldingen in [Osmose](http://osmose.openstreetmap.fr/en/map/) en [Keepright](http://wiki.openstreetmap.org/wiki/Keep_Right). En soms word ik afgeleid door spoorwegen of dan weer door een stukje landgebruik of nog iets anders. M’n actieradius is eigenlijk nog behoorlijk klein: [Limburg](http://www.openstreetmap.org/relation/53142), [Vlaams-Brabant](http://www.openstreetmap.org/relation/58004), [Luik](http://www.openstreetmap.org/relation/1407192) en [Luxemburg](http://www.openstreetmap.org/relation/1412581), op een uitzonderlijke zijsprong naar [Frankrijk](http://www.openstreetmap.org/relation/2202162) of [Noorwegen](http://www.openstreetmap.org/relation/2978650) na.
+In den beginne lag mijn focus dus op de veldwegen en bospaden. Na een tijdje ben ik ook wandel- en mountainbikeroutes beginnen toevoegen. Maar gaandeweg werd het me duidelijk dat andere aspecten wel wat verfijning konden gebruiken. Zo zijn de meeste wegen gemapt toen de eerste luchtfoto's beschikbaar zijn geworden (vermoed ik). Maar veel van die wegen liggen niet helemaal op de juiste plaats. En er zijn wegen bijgekomen, kruispunten heraangelegd, fietspaden aangelegd e.d. Daarom heb ik me al vele avonden geamuseerd met het controleren van elk wegsegmentje, niet alleen qua ligging maar ook qua tags. Het noorden van Limburg heb ik zo al eens doorploegd; momenteel ben ik even overgeschakeld naar Vlaams-Brabant. En en passant bekijk ik dan ook de foutmeldingen in [Osmose](http://osmose.openstreetmap.fr/en/map/) en [Keepright](http://wiki.openstreetmap.org/wiki/Keep_Right). En soms word ik afgeleid door spoorwegen of dan weer door een stukje landgebruik of nog iets anders. M'n actieradius is eigenlijk nog behoorlijk klein: [Limburg](http://www.openstreetmap.org/relation/53142), [Vlaams-Brabant](http://www.openstreetmap.org/relation/58004), [Luik](http://www.openstreetmap.org/relation/1407192) en [Luxemburg](http://www.openstreetmap.org/relation/1412581), op een uitzonderlijke zijsprong naar [Frankrijk](http://www.openstreetmap.org/relation/2202162) of [Noorwegen](http://www.openstreetmap.org/relation/2978650) na.
 
 **Waar ben jij als mapper het meest trots op?**
 
@@ -42,7 +42,7 @@ De moeilijkste vraag, zeker? Ik volg het niet allemaal op de voet, maar misschie
 
 **Wat is de grootste sterkte van OpenStreetMap volgens jou?**
 
-Dat mappers van over de hele wereld kunnen meewerken aan het maken van kaarten aan de andere kant van de wereld en dan vooral voor landen of regio’s waar er geen degelijke kaarten bestaat, lijkt mij de grootste sterkte. Vele kleintjes maken een groot.
+Dat mappers van over de hele wereld kunnen meewerken aan het maken van kaarten aan de andere kant van de wereld en dan vooral voor landen of regio's waar er geen degelijke kaarten bestaat, lijkt mij de grootste sterkte. Vele kleintjes maken een groot.
 
 **Wat is de grootste uitdaging/moeilijkheid voor OpenStreetMap?**
 
@@ -58,4 +58,4 @@ Ik ben al ‘ns keertje naar een meetup in [Leuven](http://www.openstreetmap.org
 
 **Om af te sluiten, is er iets dat je de lezer nog zou willen meedelen?**
 
-Verdorie, zo’n lange vragenlijst. Weer een avond dat ik niet heb kunnen mappen… ;-)
+Verdorie, zo'n lange vragenlijst. Weer een avond dat ik niet heb kunnen mappen… ;-)
