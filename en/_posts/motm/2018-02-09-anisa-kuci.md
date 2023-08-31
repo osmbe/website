@@ -40,7 +40,7 @@ There are so many ways to contribute.
 ## Where do you map?
 As for mapping, I use the ID editor and/or JOSM. Since I have a full personal agenda, I am in constant movement all day long, so I map a lot using my phone. So far I have used Maps.me and lately trying CityzenApp. I use them mostly to map areas that I know quite good so the edits I do are based on my ground knowledge (as being a local). I try to add information whenever it's missing from points-of-interest, in order to complete the information. Sometimes to make it more diverse, I map unknown places, and try to focus on rural areas around Albania since they are poorly mapped.
 
-Haven't mapped for HOT yet but in Albania there are needs to use HOT, for example in the north, every winter hundreds of families are stuck between the mountains running out of essential things to survive (such as food or warm clothes) because of the snow, and there are no ways to enter these areas, it’s hard even for emergency help to reach them.
+Haven't mapped for HOT yet but in Albania there are needs to use HOT, for example in the north, every winter hundreds of families are stuck between the mountains running out of essential things to survive (such as food or warm clothes) because of the snow, and there are no ways to enter these areas, it's hard even for emergency help to reach them.
 We need a Humanitarian OSM Team to map these areas.
 
 
@@ -58,7 +58,7 @@ I would definitely enjoy doing this again.
 
 As I mentioned I'm a FLOSS enthusiast, so contributing in such projects is something I enjoy, I have contributed to many projects but so far OSM is the one I enjoy the most, not only because mapping can be really fun, but also because of the horizontal structure that the project itself has and the way it works.
 
-OSM is the real example of collaboration, people do not only edit on their own, but also correct other people’s edits that need improvement. And the biggest motivation so far has been getting to know a small part of the community in person,  when I participated in SOTM 2017 last august (the annual gathering of OSM enthusiasts). It was my first introduction to so many people from the community and I was thrilled to find such a kind and welcoming community and environment, and also find out how many subprojects OSM includes. There are around 4 billion users and hopefully contributors as well around the globe, isn't that amazing, how huge this project is?!
+OSM is the real example of collaboration, people do not only edit on their own, but also correct other people's edits that need improvement. And the biggest motivation so far has been getting to know a small part of the community in person,  when I participated in SOTM 2017 last august (the annual gathering of OSM enthusiasts). It was my first introduction to so many people from the community and I was thrilled to find such a kind and welcoming community and environment, and also find out how many subprojects OSM includes. There are around 4 billion users and hopefully contributors as well around the globe, isn't that amazing, how huge this project is?!
 
 
 

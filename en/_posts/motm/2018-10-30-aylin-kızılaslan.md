@@ -9,7 +9,7 @@ lang: en
 
 ## Who are you ?
 
-I am Aylin Kızılaslan from Istanbul, Turkey. I am a medical student  in Ataturk University. My nickname and also OpenStreetMap name is ‘deniz yıldızı’ which I only use for charity projects or civil society initiatives. It means starfish in Turkish. It comes from the famous starfish story, one little step towards changing the world.
+I am Aylin Kızılaslan from Istanbul, Turkey. I am a medical student  in Ataturk University. My nickname and also OpenStreetMap name is ‘deniz yıldızı' which I only use for charity projects or civil society initiatives. It means starfish in Turkish. It comes from the famous starfish story, one little step towards changing the world.
 
 ![Aylin Kizilaslan](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Aylin-Kizilaslan/i-58D7VZR/0/fa278d9b/XL/1-XL.jpg)
 
@@ -34,7 +34,7 @@ Generally,  I map locally, but from time to time I map for HOT.
 
 ## What is your biggest achievement as mapper ?
 
-I am a member of Turkish Medical Students’ International Committee (TURKMSIC). Me and my local TURKMSIC team invited MSF Turkey Team and Yer Çizenler Team (local mapping association which is supported by HOT)  to my university in order  to organise a Missing Maps Mapathon.  In this mapping event, we mapped a residential area where a humanitarian crisis had been happening.
+I am a member of Turkish Medical Students' International Committee (TURKMSIC). Me and my local TURKMSIC team invited MSF Turkey Team and Yer Çizenler Team (local mapping association which is supported by HOT)  to my university in order  to organise a Missing Maps Mapathon.  In this mapping event, we mapped a residential area where a humanitarian crisis had been happening.
 
 ## Why do you map ?
 
@@ -42,7 +42,7 @@ I believe a small step can change the world, so I want to leave my mark on world
 
 ## What is the most difficult part of mapping ?
 
-I think the beginning of something is always difficult. So it wasn’t easy to learn editors, tags earlier.
+I think the beginning of something is always difficult. So it wasn't easy to learn editors, tags earlier.
 
 ## What are your mapping plans for the near future ?
 
@@ -57,7 +57,7 @@ Yes, of course. I am in contact with OSM Turkey mappers and we have had mapathon
 
 ## Do you use OpenStreetMap yourself ?
 
-I usually use OpenStreetMap  to locate a restaurant when I’m in Istanbul.  It is really useful. But  maps of other cities of Turkey are not sufficient enough yet.
+I usually use OpenStreetMap  to locate a restaurant when I'm in Istanbul.  It is really useful. But  maps of other cities of Turkey are not sufficient enough yet.
 
 
 

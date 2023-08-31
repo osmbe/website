@@ -6,12 +6,12 @@ author: escada
 lang: en
 ---
 
-## Please introduce yourself 
+## Please introduce yourself
 My name is Gaurav Thapa and I am currently employed as a Geographer/Project Manager at Kathmandu Living Labs in Nepal.  I currently live in Pokhara, Nepal but also spend a considerable amount of time in my hometown of Kathmandu, Nepal. Travelling and seeing new places continues to be one of my great passions and mapping has allowed me to travel to places where I will never be able to go physically. Beyond this my hobbies include playing football, cycling and attempting to be away from my computer as much as possible.
 
 ![Gaurav Thapa](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Gaurav-Thapa/i-2CcNB8c/0/9e4d2b22/X3/IMG_20170105_092817-X3.jpg)
-## When and how did you discover OpenStreetMap? 
-I discovered OSM when I was studying for my Master’s degree in 2013. At this point I was looking for a free source of geographic data of Kathmandu Valley in order to create my thesis proposal. However, I only truly began using it once I joined Kathmandu Living Labs in 2016. My current account has this as the start date of my OSM journey.
+## When and how did you discover OpenStreetMap?
+I discovered OSM when I was studying for my Master's degree in 2013. At this point I was looking for a free source of geographic data of Kathmandu Valley in order to create my thesis proposal. However, I only truly began using it once I joined Kathmandu Living Labs in 2016. My current account has this as the start date of my OSM journey.
 
 ## What do you map? Is there any difference with your early days?
 In my early days I primarily mapped houses, roads and waterways. Recently I have been focused on mapping the secondary attributes of locations that have already been mapped for example phone numbers, websites, opening hours etc.
@@ -19,7 +19,7 @@ Mapping is also part of my work. As manager of the Secondary Cities Pokhara proj
 My mapping has evolved from earlier days as today I spend a lot more time editing the work of other people, verifying the geometry traced with the latest satellite imagery and ground truthing data of Kathmandu and Pokhara that has already been uploaded to OSM.
 
 ## How do you map?
-I map both on the ground and remotely. I use various tools to map on OSM but majority of the time I use JOSM (55% according to hdyc). As OSM is central to my work and as an OSM trainer it is important for me to use a variety of tools to map so that I can teach people the most effective tool to use as well as be able to recommend them the correct tool depending on their constraints. There is no point recommending OSMTracker for Android to an iPhone user or any of the mobile apps for someone who doesn’t use a smartphone. Similarly, drawback of using online editors is huge in countries with poor internet connections like Nepal.
+I map both on the ground and remotely. I use various tools to map on OSM but majority of the time I use JOSM (55% according to hdyc). As OSM is central to my work and as an OSM trainer it is important for me to use a variety of tools to map so that I can teach people the most effective tool to use as well as be able to recommend them the correct tool depending on their constraints. There is no point recommending OSMTracker for Android to an iPhone user or any of the mobile apps for someone who doesn't use a smartphone. Similarly, drawback of using online editors is huge in countries with poor internet connections like Nepal.
 
 
 ## Which tools do you use?
@@ -31,11 +31,11 @@ The majority of surveys we have conducted using field papers to divide the area 
 We have also conducted small surveys using Maps.me. However, due to the infrequent nature of updates we have not relied on this application for large surveys. Finally, to collect secondary attributes, we use localized versions of ODK Collect.
 
 ## Where do you map?
-I primarily map locally focusing on specific areas of Nepal. When I feel like traveling, I map around the world using websites such as OSM Tasking Manager (HOT), using the jump shortcut key in JOSM and through ID Editor when I’m just browsing the world map.
+I primarily map locally focusing on specific areas of Nepal. When I feel like traveling, I map around the world using websites such as OSM Tasking Manager (HOT), using the jump shortcut key in JOSM and through ID Editor when I'm just browsing the world map.
 This year we also put together south-south mapping events where we mapped flood prone areas of Mexico and Peru. Events like these also encourage and help me map internationally (read more about this here https://goo.gl/TuUhyc).
 
 ## What is your biggest achievement as mapper?
-My biggest achievement as mapper is not my achievement alone but my teams and that has been the privilege of training and sensitizing people about the OSM Movement worldwide and in Nepal. Earlier this month through the Youth Mappers project I was able to train 20 students from 11 different countries about OSM and the importance of mapping one’s country and continent. Similar, training events has allowed me to reach upwards of 500 people and introduce them to the world of open mapping.
+My biggest achievement as mapper is not my achievement alone but my teams and that has been the privilege of training and sensitizing people about the OSM Movement worldwide and in Nepal. Earlier this month through the Youth Mappers project I was able to train 20 students from 11 different countries about OSM and the importance of mapping one's country and continent. Similar, training events has allowed me to reach upwards of 500 people and introduce them to the world of open mapping.
 
 ## What motivates you?
 There are several ways I motivate myself to map. The major one involves trying to make OSM part of my daily work, creating friendly competitions/social media trends amongst my peers such as Saturday mapping. It is also great that I can map whenever I go on a hike, trek or bike ride. This ability to map new places is always a good motivating factor.
@@ -50,7 +50,7 @@ For the near future I plan to complete the geo-spatial data collection process o
 
 ![Pokhara on cyclemap by Andy Allen](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Gaurav-Thapa/i-ZBTjdFj/0/1bf8e253/X3/Screen%20Shot%202017-08-18%20at%2021.10.35-X3.png)
 ## Do you have contact with other mappers?
-Yes, over the past one year I have had a chance to meet several mappers in person and also connect digitally with mapping stars! One person I haven’t met is Pascal Neis, as everyone uses the tool he/she created I would like to thank her/him in person.
+Yes, over the past one year I have had a chance to meet several mappers in person and also connect digitally with mapping stars! One person I haven't met is Pascal Neis, as everyone uses the tool he/she created I would like to thank her/him in person.
 I am also on the planning team for 2017 State of the Map Asia conference (http://stateofthemap.asia/) being held this year from 23-24 of September in Kathmandu, Nepal and hope to meet a lot of mappers from around the world in person.
 
 ## Do you use OpenStreetMap yourself? How?

@@ -6,11 +6,11 @@ author: escada
 lang: en
 ---
 
-First of all, we are proud to announce that the "Mapper of the Month" series exists 3 years now! 
+First of all, we are proud to announce that the "Mapper of the Month" series exists 3 years now!
 This time we have a duo-interview: Horea Meleg and Florin Badita. They both work for Telenav in Romenia. I hope you enjoy reading how paid mappers collaborate in our community.
 
-## Can you present yourselves? 
-Horea: My name is Horea Meleg, I live in Cluj Napoca. I’m a map analyst at Telenav, and I work here since August 2016. I love playing and watching soccer. I also like to sing, to travel and go hiking. Obvious, I got my nickname (hoream_telenav) from my name and from the company I work for.
+## Can you present yourselves?
+Horea: My name is Horea Meleg, I live in Cluj Napoca. I'm a map analyst at Telenav, and I work here since August 2016. I love playing and watching soccer. I also like to sing, to travel and go hiking. Obvious, I got my nickname (hoream_telenav) from my name and from the company I work for.
 
 ![Horea](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-ZLx99zH/0/793f118a/L/1451311_878771192165725_6572949533461042750_n-L.jpg)
 
@@ -39,16 +39,16 @@ Florin: Now I mostly map for Telenav, so focused on improving the road navigatio
 I don't have a drivers license, so in the early days I was focused on this, but also on other attributes for pedestrian / walking, as this was what I was able to benefit the most from.
 
 ## How do you map?
-Horea: I don’t make surveys on my own, but sometimes need data to be collected and then I’ll ask one of my colleagues to do that. In the company, we use JOSM with lots of plugins. Also, I use different mapcss styles, depending on what I’m editing.
+Horea: I don't make surveys on my own, but sometimes need data to be collected and then I'll ask one of my colleagues to do that. In the company, we use JOSM with lots of plugins. Also, I use different mapcss styles, depending on what I'm editing.
 
 Florin: Except for when we organize Mapping Parties, I also do mainly armchair mapping.
 
 ## How do you conduct your surveys?
-Horea: I never surveyed a zone, but I’m planning to map my hometown. And for this I’ll try to record OpenStreetCam images all over my home town (it’s a small one). Probably I’ll try to organize a Mapping Party.
+Horea: I never surveyed a zone, but I'm planning to map my hometown. And for this I'll try to record OpenStreetCam images all over my home town (it's a small one). Probably I'll try to organize a Mapping Party.
 
 Florin: I use Field Papers, print them, write the information on them and scan them back with the JOSM plugin
 
-##  Which tools do you use ? 
+##  Which tools do you use ?
 
 Florin: JOSM for the win!
 For QA: Keep Right, Osmose, Improve OSM (made by Telenav), and our internal Integrity Checker suite.
@@ -76,28 +76,28 @@ Horea: From my first course about GIS and digital mapping, I knew that this is w
 Florin: The data that you leave behind. The fact that I can create my own map, I can improve it, and I don't have to depend on a company, so I would not loose all the data in case it  closes down.
 
 ## What is the most difficult part of mapping?
-Horea: The most difficult part is the lack of data/information. It’s nice to edit where you live, but you always need a change, so if you want to edit in a totally new area for you, lack of data is a real problem.
+Horea: The most difficult part is the lack of data/information. It's nice to edit where you live, but you always need a change, so if you want to edit in a totally new area for you, lack of data is a real problem.
 
 Florin: Indeed, missing data, such as the lack of street level images, if you want to map more in-depth.
 If you do survey, for me, it`s the lack of good editors on the go, for doing on the fly editing.
 
 ## What are your mapping plans for the near future?
-Horea: As I already said before, I’m planning to fully map my home town.
+Horea: As I already said before, I'm planning to fully map my home town.
 
 Florin: To do some more mapping parties.
 I'm more interested in playing with the data, I want to import all the planet history and try to get a better understanding of how OSM is evolving in different parts of the world.
 
 ## Do you have contact with other mappers?
-Horea: In our mapping team, I’m responsible to engage with the OSM community. That means I always try to inform and update the community with our editing plans and our projects. I send private messages if it’s needed, but more likely I inform community via talk-us or OSMUS slack channel.
+Horea: In our mapping team, I'm responsible to engage with the OSM community. That means I always try to inform and update the community with our editing plans and our projects. I send private messages if it's needed, but more likely I inform community via talk-us or OSMUS slack channel.
 
 Florin: For me, that is mostly via SOTM and mapping parties.
 
-## Do you use OpenStreetMap yourself? 
+## Do you use OpenStreetMap yourself?
 
 Florin: Via Maps.me when I travel abroad
 
 ## Do you do anything else than mapping that is related to OpenStreetMap?
-Horea: I sometimes do research, and I really like it. I search for local data or any kind of data which can help me to build a better map. Right now, we are planning to develop lane connectivity feature, so for this I did a lot of research, and we’ll come up with a plan about this. Stay tuned and check our blog frequently.
+Horea: I sometimes do research, and I really like it. I search for local data or any kind of data which can help me to build a better map. Right now, we are planning to develop lane connectivity feature, so for this I did a lot of research, and we'll come up with a plan about this. Stay tuned and check our blog frequently.
 
 Florin: Creating visualizations based on OSM, trying to promote to programmers  the dataset, so that they start using OSM, start creating apps using OSM.
 
@@ -110,7 +110,7 @@ Some of my work
 ![another map](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-JSs3dDb/0/4b8f681f/XL/coperta-harta-1024x688-XL.png)
 
 ## To conclude, is there anything else you want to mention?
-Horea: I’m happy to be part of this big community. I think it’s nice, that people around the world work together to build a better map, and all together have same goal. I want to thank to these dedicated editors, to all the resources providers, and last but not least to those which build software and plugins to make our mapping life easier.
+Horea: I'm happy to be part of this big community. I think it's nice, that people around the world work together to build a better map, and all together have same goal. I want to thank to these dedicated editors, to all the resources providers, and last but not least to those which build software and plugins to make our mapping life easier.
 
 Florin: Keep mapping.
 Form a community in your area, if there is none.

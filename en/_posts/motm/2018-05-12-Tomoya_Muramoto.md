@@ -32,7 +32,7 @@ Usually I take pictures while I survey. 360 pictures are my favourite. If the to
 Mainly local mapping.
 
 ## What is your biggest achievement as mapper ?
-I personally think my biggest achievement is the (almost) completed mapping of Aogashima island. Aogashima island is one of the hardest places to visit in Japan. A U.S. NGO selected the island as ‘[You Should See Before You Die](http://www.onegreenplanet.org/animalsandnature/amazing-natural-wonders-photos/)’.
+I personally think my biggest achievement is the (almost) completed mapping of Aogashima island. Aogashima island is one of the hardest places to visit in Japan. A U.S. NGO selected the island as ‘[You Should See Before You Die](http://www.onegreenplanet.org/animalsandnature/amazing-natural-wonders-photos/)'.
 
 
 The island consisting of a double-caldera volcano is not welcoming and glorious, but I felt warmth and sanctity inside it. You can enjoy its scenery via Mapillary but I recommend you actually get there.
@@ -54,7 +54,7 @@ I described the process of generating the map in a [blog](http://d.hatena.ne.jp/
 ## What is the most difficult part of mapping ?
 
 Maintenance.
- It’s easy to add a POI, but it’s very difficult to remove a POI. It needs much time to confirm there is NOT a certain object.
+ It's easy to add a POI, but it's very difficult to remove a POI. It needs much time to confirm there is NOT a certain object.
 Also very detail mapping of geometies is hard to modify.
 I think we need to consider balance.
 
@@ -76,7 +76,7 @@ Off-line? No.
 I go hiking with OSM, especially Maps.me. Maps.me is also a good choice when I go abroad. However I use Google map mostly for daily use. I need better train/bus route navigation.
 
 ## Do you do anything else than mapping that is related to OpenStreetMap ?
-I’m an editor/translator of WeeklyOSM. Many Japanese (including me) are poor at English, we need more information written in Japanese.
+I'm an editor/translator of WeeklyOSM. Many Japanese (including me) are poor at English, we need more information written in Japanese.
 
 
 ## To conclude, is there anything else you want to mention ?

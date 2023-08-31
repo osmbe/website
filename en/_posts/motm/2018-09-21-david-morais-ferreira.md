@@ -1,6 +1,6 @@
 ---
 title: 'Mapper of the Month: David Morais Ferreira (Luxembourg)'
-featured: 
+featured:
 layout: post
 category: motm
 author: escada
@@ -9,7 +9,7 @@ lang: en
 
 ## Who are you?
 
-My name is David Morais Ferreira, I was born and raised in Luxembourg and I am currently finishing my master’s in Germany.
+My name is David Morais Ferreira, I was born and raised in Luxembourg and I am currently finishing my master's in Germany.
 
 ## When and how did you discover OpenStreetMap?
 
@@ -17,13 +17,13 @@ As many people do, I stumbled upon OpenStreetMap while looking for a map I could
 
 ## What do you map?
 
-After familiarizing myself with the concepts by mapping buildings and roads for Humanitarian OpenStreetMap Team, I moved on to mapping features closer to my area. I then realized that I am mainly interested in data that is relevant to the “every day” use of OSM, i.e. addresses, building outlines, highways and POI’s.
+After familiarizing myself with the concepts by mapping buildings and roads for Humanitarian OpenStreetMap Team, I moved on to mapping features closer to my area. I then realized that I am mainly interested in data that is relevant to the “every day” use of OSM, i.e. addresses, building outlines, highways and POI's.
 
 In my current mapping effort, I am focusing on improving the map in Luxembourg. In preparation for the import of an open data address dataset that covers all of Luxembourg, I have been updating building outlines, undoing concatenated addresses and updating road names.
 
-## How do you map? 
+## How do you map?
 
-I must admit that I am somewhat of an armchair mapper. If I happen to see a POI that is not on OSM, I’ll write it down and add it when I’m back home. However, I spend most of my time working with open data that can be imported into OSM. I use JOSM when mapping.
+I must admit that I am somewhat of an armchair mapper. If I happen to see a POI that is not on OSM, I'll write it down and add it when I'm back home. However, I spend most of my time working with open data that can be imported into OSM. I use JOSM when mapping.
 
 ## Where do you map?
 
@@ -31,7 +31,7 @@ As previously stated, I am currently mapping in Luxembourg, as I believe that th
 
 ## What is your biggest achievement as mapper?
 
-I’d have to say the “Chargy Luxembourg” charging stations import that increased the mapped charging stations from 24 to approximatively 160! In the future, this number is supposed to increase significantly, as there is a big push in Luxembourg to promote electric vehicles.
+I'd have to say the “Chargy Luxembourg” charging stations import that increased the mapped charging stations from 24 to approximatively 160! In the future, this number is supposed to increase significantly, as there is a big push in Luxembourg to promote electric vehicles.
 
 After noticing that Luxembourg is covered in stale notes and fixme tags, I have decided to attempt to improve the situation. As of this interview, I have closed about 140 notes.
 
@@ -54,12 +54,12 @@ In the distant future, I would love to import the village names and boundaries i
 
 ## Do you have contact with other mappers?
 
-I haven’t attended OpenStreetMap events yet, but I hope to change that in the near future! I communicate with other mappers on IRC, where I can be found in the following channels: #osm, #osm-pt, #osm-de and #osm-fr.
+I haven't attended OpenStreetMap events yet, but I hope to change that in the near future! I communicate with other mappers on IRC, where I can be found in the following channels: #osm, #osm-pt, #osm-de and #osm-fr.
 
 ## Do you use OpenStreetMap yourself?
 
-I do! I use OsmAnd quite often when travelling to new places or when I’m outside searching for Geocaches.
+I do! I use OsmAnd quite often when travelling to new places or when I'm outside searching for Geocaches.
 
 ## To conclude, is there anything else you want to mention?
 
-Don’t be afraid to ask questions if you are unsure about something. Happy mapping!
+Don't be afraid to ask questions if you are unsure about something. Happy mapping!
