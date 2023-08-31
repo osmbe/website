@@ -13,7 +13,7 @@ Toutes les images ont été mises en ligne sur [Mapillary](https://www.mapillary
 
 Et bien que Mapillary s’intègre facilement dans l’environnement d’édition d’OpenStreetMap, nous sommes en train d’explorer d’autres plateformes pour héberger des images. Nous sommes en train de mettre en place une banque d’images sur [Panoramax](https://panoramax.fr/) où toutes ces images seront disponibles.
 
-Nous avons [tweeté](https://twitter.com/osm_be/status/1680584420648968192) (et [tooté](https://en.osm.town/@osm_be/110724230718520196) et poueté sur l’incroyable aventure de Stéphane. Cette histoire a pris de l’ampleur jusqu’à arriver aux oreilles de quelques journalistes, que nous pouvons partager avec vous ici: 
+Nous avons [tweeté](https://twitter.com/osm_be/status/1680584420648968192) (et [tooté](https://en.osm.town/@osm_be/110724230718520196)) et poueté sur l’incroyable aventure de Stéphane. Cette histoire a pris de l’ampleur jusqu’à arriver aux oreilles de quelques journalistes, que nous pouvons partager avec vous ici: 
 * [Bruzz (en néerlandais avec sous-titres néerlandais, français ou anglais)](https://www.bruzz.be/videoreeks/woensdag-19-juli-2023/video-stephane-de-greef-brengt-al-fietsend-alle-straten-van)
 * [BX1 (French)](https://bx1.be/categories/culture/un-google-street-view-pour-les-cyclistes/)
 * [L'Avenir (French)](https://www.lavenir.net/regions/bruxelles/2023/07/27/le-projet-dingue-de-stephane-de-greef-il-pedale-dans-toutes-les-rues-de-bruxelles-pour-creer-lalternative-cycliste-a-google-street-view-QHSBZDBPVRB23FDB5C4NINYPPU/)
