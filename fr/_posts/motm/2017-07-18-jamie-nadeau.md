@@ -41,7 +41,7 @@ Les deux. Quand je fesait les cartes d'intérieur des centres d'achats, j'y alla
 
  ![image](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png)
 
-## Pourquoi cartographiez-vous ? Qu’est-ce qui vous motive ?
+## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
  Ne pas se fier sur Google pour des données géographique et ne pas avoir une carte vide.
 
 ## Quelle est la partie la plus difficile en cartographie ?
@@ -52,13 +52,13 @@ Les deux. Quand je fesait les cartes d'intérieur des centres d'achats, j'y alla
 
  ![3D](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png)
 
-## Avez-vous des contacts avec d’autres cartographes ?
+## Avez-vous des contacts avec d'autres cartographes ?
  Oui plusieurs à Ottawa, on se rencontre à peu près à chanque mois pour discuter de futur projets (Je pense ce mois-ci c'est les piste de bicycles dans la région Capitale)
 
 ## Utilisez-vous vous-même OpenStreetMap ? Comment ?
  Pas mal pour la navigation via OSMAnd.
 
-## Faites-vous d’autres choses que la cartographie qui soit liées à OpenStreetMap ?
+## Faites-vous d'autres choses que la cartographie qui soit liées à OpenStreetMap ?
  Je collectionne beaucoup de photos OSC/Mapillary pour que d'autres personnes puissent contribuer. J'ai aussi créer un outil GUI pour téléverser à OSC: https://github.com/osmottawa/OSVUploadr/releases
 
 ## Pour conclure, y a-t-il autre chose que vous voulez mentionner ?
