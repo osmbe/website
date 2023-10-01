@@ -11,7 +11,7 @@ jobs:
   build-js-event:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/setup-node@v3
       with:
         node-version: latest
@@ -21,7 +21,7 @@ jobs:
   build-js-stripe:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/setup-node@v3
       with:
         node-version: latest
@@ -35,5 +35,5 @@ jobs:
   build-jekyll:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/jekyll-build-pages@v1
