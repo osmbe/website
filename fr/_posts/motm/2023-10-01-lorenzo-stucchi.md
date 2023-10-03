@@ -29,7 +29,7 @@ Quelle est ta plus grande prouesse en tant que contributeur ?
 : Il est très encourageant de constater que la méthodologie que j'ai définie pour la cartographie de l'accessibilité dans les villes a été utilisée dans d'autres villes du monde. De nouveaux outils ont été développés pour faciliter ce type de cartographie et l'utilisation de ces données.
 : La même cartographie a été poursuivie à Milan grâce aux agences municipales AMAT, qui intègrent directement leurs relevés dans OpenStreetMap. En outre, ils vont également créer des outils pour identifier les zones les plus critiques pour procéder à la réparation des bordures et des trottoirs.
 
-Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
+Pourquoi cartographies-tu? Qu'est-ce qui te motive ?
 : Depuis le début de mon voyage dans OpenStreetMap, toutes les activités de cartographie ont été un moment communautaire. J'ai toujours aimé l'idée que le projet est plus qu'une simple base de données, c'est une communauté avec un objectif commun. Ainsi, l'organisation de carto-parties a toujours été une grande motivation pour l'activité de cartographie.
 : L'appréciation des autres cartographes et contributeurs est également une grande motivation. Par exemple, en 2015, une collaboration entre l'équipe Humanitarian OpenStreetMap et des professeurs et doctorants du Politecnico a permis à 200 enfants de dix ans d'apprendre à cartographier des bâtiments. Au cours de cet événement, plus de 5 000 bâtiments ont été cartographiés en eSwatini[^5]. Quatre ans plus tard, lors d'une conférence donnée dans le cadre de State Of The Map 2019, le présentateur a remercié cette contribution[^6]. Elle a été importante pour ses recherches. Je crois que c'est là le grand pouvoir d'OpenStreetMap, la création de données pour des projets futurs.
 
@@ -37,12 +37,12 @@ As-tu des idées pour élargir la communauté OpenStreetMap, pour motiver plus d
 : Je crois qu'il est toujours important de motiver la communauté. Les événements mondiaux sont toujours une excellente occasion de rencontrer d'autres cartographes du monde entier. Cependant, ils peuvent s'avérer trop coûteux ou trop complexes à organiser, étant donné que presque tous les cartographes sont des bénévoles.
 : Je pense donc que les réunions nationales ou locales et les soirées de cartographie sont essentielles pour créer et rassembler la communauté. Wikimedia Italia organise chaque année l'OSMIt, un événement d'une journée pour la communauté. En général, il a lieu le samedi, après le FOSS4G-IT. En juin 2023, il s'est tenu à Bari. En outre, nous promouvons et soutenons financièrement la réunion des communautés locales.
 
-As-tu des contacts avec d’autres contributeurs ?
+As-tu des contacts avec d'autres contributeurs ?
 : Oui. Depuis mes activités en tant que coordinateur de volontaires, j'ai toujours essayé d'être en contact avec d'autres cartographes. Ils peuvent me contacter par Telegram ou sur OpenStreetMap. Ils peuvent également m'écrire à lorenzo dot stucchi at wikimedia dot it.
 : S'ils ont un projet en tête, nous essayons toujours de créer des liens pour lancer ces projets.
 : Par ailleurs, je suis souvent contacté pour des erreurs d'attribution. Il y a quelques années, j'ai lancé ce dépôt sur GitHub pour signaler rapidement les attributions manquantes[^7]. En deux ans, plus de 90 problèmes ont été ouverts et plus de 90 % ont été résolus.
 
-Quelle est, selon toi, la plus grande force d’OpenStreetMap ?
+Quelle est, selon toi, la plus grande force d'OpenStreetMap ?
 : Comme je l'ai déjà dit, OpenStreetMap n'est pas seulement une base de données mais une communauté de personnes qui décident d'utiliser leur temps libre pour créer des données et des outils pour les utiliser. La communauté est la valeur la plus vitale d'OpenStreetMap, et j'ai constaté que nous sommes souvent incapables de la valoriser.
 
 Quel est le plus grand défi pour OpenStreetMap ?
@@ -50,7 +50,7 @@ Quel est le plus grand défi pour OpenStreetMap ?
 : De plus, les nouveaux cartographes sont une nouvelle énergie pour le projet. Si nous ne sommes pas en mesure de les inclure, nous allons perdre cette nouvelle énergie, et nous allons perdre l'âme originelle d'OpenStreetMap.
 : De plus, il y aura certainement d'autres défis technologiques que nous devrons relever dans les années à venir. De plus, avec de nouveaux OSMers — pas seulement des cartographes —, je suis sûr que nous serons préparés et prêts à relever ces défis.
 
-Comment restes-tu à jour par rapport à l’actualité d’OpenStreetMap ?
+Comment restes-tu à jour par rapport à l'actualité d'OpenStreetMap ?
 : J'essaie de suivre les canaux communautaires italiens — Telegram, forum et liste de diffusion — et locaux. Je suis également la liste de diffusion internationale de la Fondation OpenStreetMap. En outre, la principale source que j'essaie de suivre est le WeeklyOSM, que, dans quelques années, nous pourrons renvoyer pour qu'il soit traduit en italien.
 
 Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
