@@ -68,7 +68,7 @@ Une page contenant plus de détails techniques et d'informations pratiques est [
 
 [Une question ou une proposition de collaboration? Contactez-nous !](mailto:community@osm.be)
 
-Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@osm.be) pour demander un appareil photo. Si vous habitez ailleurs en Europe, [demandez un appareil photo ici](https://openstreetmap.be/en/2023/10/07/european-camera-grant.html).
+Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@osm.be) pour demander un appareil photo. Si vous habitez ailleurs en Europe, [demandez un appareil photo ici](https://openstreetmap.be/fr/2023/10/07/european-camera-grant.html).
 
 ## Historique
 
@@ -83,4 +83,4 @@ Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@
 - Avril 2022. En raison du succès continu et de la demande des volontaires, nous achetons une troisième GoPro.
 - Septembre 2023. Stéphane de Greef termine la couverture complète de la région bruxelloise et de la Forêt de Soignes. [Cela ne passe pas inaperçu, avec plusieurs articles de presse !](https://openstreetmap.be/fr/2023/07/23/st%C3%A9phane-streetview-brussels.html)
 - Octobre 2023. Nous achetons une quatrième GoPro Max
-- Octobre 2023. Avec Mapillary, nous lançons le [projet European Camera Grant](https://openstreetmap.be/en/2023/10/07/european-camera-grant.html).
+- Octobre 2023. Avec Mapillary, nous lançons le [projet European Camera Grant](https://openstreetmap.be/fr/2023/10/07/european-camera-grant.html).

@@ -2,7 +2,7 @@
 title: "Europees project voor ter beschikking stellen van camera's"
 featured:
 layout: post
-author: Joost Schouppe
+author: Joost Schouppe (vertaald door M!dgard)
 lang: nl
 ---
 
