@@ -2,7 +2,7 @@
 title: "Projet a niveau européenne pour distribuir des cameras 360°"
 featured:
 layout: post
-author: Joost Schouppe (ver)
+author: Joost Schouppe (traduit par mapper1170)
 lang: fr
 ---
 
