@@ -68,6 +68,7 @@ Een pagina met meer technische details en praktische info is [beschikbaar op onz
 
 [Aarzel niet om ons te contacteren met vragen of suggesties.](mailto:community@osm.be)
 
+Woon je in België, [stuur ons gewoon een mailtje](mailto:community@osm.be) om een camera aan te vragen. Woon je elders in Europe, [vraag er dan hier een aan](https://openstreetmap.be/nl/2023/10/07/european-camera-grant.html).
 
 
 ## Sleutelmomenten van dit project
@@ -81,3 +82,6 @@ Een pagina met meer technische details en praktische info is [beschikbaar op onz
 - Maart 2022. De camera gaat naar Saint-Georges-Sur-Meuse, waar Pierre Serpe hem gaat gebruiken voor een project met de [Gracq](https://www.gracq.org/groupes/saint-georges).
 - Maart 2022. Omdat de eerste camera zo intensief gebruikt wordt, ontvangen we een geoormerkte donatie voor een tweede camera. Deze camera gaat naar [Westtoer](https://www.westtoer.be), voor experimenteel gebruik bij het uitwerken van nieuwe fietsroutes.
 - April 2022. Omdat de zaken goed lopen en er voldoende vraag is vanuit de vrijwilligers, kopen we een derde GoPro.
+- September 2023. Stéphane de Greef werkt heel het Brussels gewest en het Zoniënwoud af. [Dit gaat niet onopgemerkt voorbij, met verschillende artikels in de pers!](https://openstreetmap.be/nl/2023/07/23/st%C3%A9phane-streetview-brussels.html)
+- Oktober 2023. We buy a fourth GoPro Max
+- Oktober 2023. Together with Mapillary, we launch the [European Camera Grant project](https://openstreetmap.be/nl/2023/10/07/european-camera-grant.html).

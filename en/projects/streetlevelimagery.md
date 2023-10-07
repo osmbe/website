@@ -68,6 +68,8 @@ A page with more technical details and practical info is [available on our wiki]
 
 [Get in touch with any question or proposal](mailto:community@osm.be).
 
+If you live in Belgium, just [send us a mail](mailto:community@osm.be) to request a camera. If you live elsewhere in Europe, [apply for a camera here](https://openstreetmap.be/en/2023/10/07/european-camera-grant.html).
+
 ## Key events
 
 - Early 2019. Work starts with a GoPro Hero 7 donated by Mapillary. Intensive use by contributor polyglot (many proposed cycle highways in Flanders get mapped) and Joost Schouppe
@@ -79,3 +81,6 @@ A page with more technical details and practical info is [available on our wiki]
 - March 2022. The camera goes to Saint-Georges-Sur-Meuse, where Pierre Serpe will use it for a project with the [Gracq](https://www.gracq.org/groupes/saint-georges).
 - March 2022. As the first camera is in heavy use, we receive an earmarked donation for a second camera. This camera goes to [Westtoer](https://www.westtoer.be), for experimental use in preparation of new cycle routes.
 - April 2022. Because of continued succes and demand from volunteers, we buy a 3rd GoPro.
+- September 2023. Stéphane de Greef finishes full coverage of the Brussels region and the Forest de Soignes. [This does not pass unnoticed, with several press reports!](https://openstreetmap.be/en/2023/07/23/st%C3%A9phane-streetview-brussels.html)
+- October 2023. We buy a fourth GoPro Max
+- October 2023. Together with Mapillary, we launch the [European Camera Grant project](https://openstreetmap.be/en/2023/10/07/european-camera-grant.html).
