@@ -10,7 +10,7 @@
     "@types/node": "^18.19.0",
     "leaflet": "^1.9.4",
     "parcel": "^2.10.3",
-    "stripe": "^12.16.0"
+    "stripe": "^14.10.0"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
