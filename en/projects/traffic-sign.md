@@ -21,7 +21,7 @@ So we're building on a tool in good [Road Completion](https://openstreetmap.be/e
 
 ### In practice
 
-[We have a MapRoulette task online](https://maproulette.org/browse/challenges/23548) that is updated periodically. This task simply offers the most recent traffic signs as microtasks: the challenge is to map their effects.
+[We have a MapRoulette task online](https://maproulette.org/browse/challenges/23550) that is updated periodically. This task simply offers the most recent traffic signs as microtasks: the challenge is to map their effects.
 
 How do we do that:
 
@@ -30,7 +30,7 @@ How do we do that:
 - we keep only traffic signs that are "interesting" to us. For example, the traffic sign to say "you are on a priority road" has no effect on an OSM road. The sign "give way" does.
 - we keep only traffic signs that are new since the previously processing date. N
 - at the end of the process, a GeoJSON with relevant signs is put online. This is then harvested by MapRoulette
-- The task is available at <https://maproulette.org/browse/challenges/23548> . Please read the instructions carefully, and give it a shot. Make sure to select "nearby" not "random" when going to the next task; because you might end up mapping the effects of several nearby signs. Mapillary imagery might often be outdated with this hyper recent stuff. Please leave a comment if there is something wrong with the traffic sign data or if you have other remarks. Please [refer to the wiki](https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium) to learn which tags are associated with which traffic sign.
+- The task is available at <https://maproulette.org/browse/challenges/23550> . Please read the instructions carefully, and give it a shot. Make sure to select "nearby" not "random" when going to the next task; because you might end up mapping the effects of several nearby signs. Mapillary imagery might often be outdated with this hyper recent stuff. Please leave a comment if there is something wrong with the traffic sign data or if you have other remarks. Please [refer to the wiki](https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium) to learn which tags are associated with which traffic sign.
 
 The [code is available on Github](https://github.com/osmbe/traffic-sign-project). You can post issues there. A first proof of concept was built by Joost Schouppe. Ivan Diaz from TomTom rebuilt the entire workflow in Python and prepared a weekflow to ultimately run weekly updates completely automatically.
 
@@ -47,3 +47,4 @@ The [code is available on Github](https://github.com/osmbe/traffic-sign-project)
 - 11/2021: [first filtering of traffic signs](https://lists.openstreetmap.org/pipermail/talk-be/2021-November/011374.html) published on MapRoulette
 - Since then the task has been updated occassionally and over 6000 new signs have been reviewed! We also passed along mistakes we saw to the managing government, who have used it to improve the source data.
 - 10/2022: first contacts with TomTom about automating the analysis flow
+- 6/2023: Github Actions based flow created
