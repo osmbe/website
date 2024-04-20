@@ -68,7 +68,7 @@ A page with more technical details and practical info is [available on our wiki]
 
 [Get in touch with any question or proposal](mailto:community@osm.be).
 
-If you live in Belgium, just [send us a mail](mailto:community@osm.be) to request a camera. If you live elsewhere in Europe, [apply for a camera here](https://openstreetmap.be/en/2023/10/07/european-camera-grant.html).
+If you live in Belgium, just [send us a mail](mailto:community@osm.be) to request a camera.
 
 ## Key events
 

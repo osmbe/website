@@ -39,16 +39,11 @@ Er zullen meer kandidaten zijn dan we camera's hebben, dus we zullen kandidaten 
 
 
 
-De vragen in het inschrijfformulier kunnen veranderen naarmate we meer ervaring opdoen.
-
-**[Vraag nu een camera aan!](https://docs.google.com/forms/d/1jFYd4ppsCCoqEELX3_Aii5gnXsMAoNTzVr1yLwKOy5Y/edit)**
-
-
 ## Selectieprocedure
 
-Aanvragen worden doorlopend beoordeeld en geaccepteerd totdat alle twintig camera's zijn uitgedeeld. Selectiecriteria en toekenningsbesluiten worden gemaakt door OpenStreetMap België met inbreng van Mapillary en een aantal gemeenschapsleden en worden gemaakt met het oog op zo veel mogelijk gegevens verzamelen en gebruiken.
-
+De 20 cameras zijn toegekend en worden verdeeld. Je zal de resultaten kunnen opvolgen via https://www.mapillary.com/app/org/eucameragrant1 tot 20
+ 
 
 Vragen of suggesties: stuur ze naar [cameras@osm.be](mailto:cameras@osm.be)
 
-**[Vraag nu een camera aan!](https://docs.google.com/forms/d/1jFYd4ppsCCoqEELX3_Aii5gnXsMAoNTzVr1yLwKOy5Y/edit)**
+

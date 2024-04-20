@@ -68,7 +68,7 @@ Een pagina met meer technische details en praktische info is [beschikbaar op onz
 
 [Aarzel niet om ons te contacteren met vragen of suggesties.](mailto:community@osm.be)
 
-Woon je in België, [stuur ons gewoon een mailtje](mailto:community@osm.be) om een camera aan te vragen. Woon je elders in Europe, [vraag er dan hier een aan](https://openstreetmap.be/nl/2023/10/07/european-camera-grant.html).
+Woon je in België, [stuur ons gewoon een mailtje](mailto:community@osm.be) om een camera aan te vragen.
 
 
 ## Sleutelmomenten van dit project
@@ -84,4 +84,4 @@ Woon je in België, [stuur ons gewoon een mailtje](mailto:community@osm.be) om e
 - April 2022. Omdat de zaken goed lopen en er voldoende vraag is vanuit de vrijwilligers, kopen we een derde GoPro.
 - September 2023. Stéphane de Greef werkt heel het Brussels gewest en het Zoniënwoud af. [Dit gaat niet onopgemerkt voorbij, met verschillende artikels in de pers!](https://openstreetmap.be/nl/2023/07/23/st%C3%A9phane-streetview-brussels.html)
 - Oktober 2023. We buy a fourth GoPro Max
-- Oktober 2023. Together with Mapillary, we launch the [European Camera Grant project](https://openstreetmap.be/nl/2023/10/07/european-camera-grant.html).
+- Oktober 2023. We lanceren het [European Camera Grant project](https://openstreetmap.be/nl/2023/10/07/european-camera-grant.html) samen met Mapillary.

@@ -68,7 +68,7 @@ Une page contenant plus de détails techniques et d'informations pratiques est [
 
 [Une question ou une proposition de collaboration? Contactez-nous !](mailto:community@osm.be)
 
-Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@osm.be) pour demander un appareil photo. Si vous habitez ailleurs en Europe, [demandez un appareil photo ici](https://openstreetmap.be/fr/2023/10/07/european-camera-grant.html).
+Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@osm.be) pour demander un appareil photo. 
 
 ## Historique
 

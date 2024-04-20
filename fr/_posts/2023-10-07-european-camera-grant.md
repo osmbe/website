@@ -39,15 +39,12 @@ Les candidats seront plus nombreux que le nombre de caméras à distribuer.  Nou
 * Vous devez avoir accès à une connexion internet suffisamment puissante et à un quota de données suffisant pour pouvoir télécharger des images.
 * Nous avons une forte préférence pour les personnes qui contribuent déjà à OpenStreetMap et/ou qui ont déjà des projets d'utilisation spécifique de l'imagerie ou de ses données dérivées.
 
-Les questions du formulaire d'inscription peuvent changer au fur et à mesure que nous acquérons de l'expérience.
-
-**[Postulez dès maintenant!](https://docs.google.com/forms/d/1jFYd4ppsCCoqEELX3_Aii5gnXsMAoNTzVr1yLwKOy5Y/edit)**
 
 
 ## Processus de sélection
 
-Les candidatures seront examinées et acceptées au fur et à mesure jusqu'à ce que les vingt candidats aient été acceptés. Les critères de sélection et les décisions d'attribution seront prises par OpenStreetMap Belgique avec l'aide de Mapillary et des membres de la communauté sélectionnés, afin de maximiser la collecte et l'utilisation probables des données.
+Les 20 caméras ont été attribuées et sont en cours de distribution. Vous pourrez suivre les résultats via https://www.mapillary.com/app/org/eucameragrant1 à 20
 
 Si vous avez des questions ou des suggestions, vous pouvez les envoyer à [cameras@osm.be](mailto:cameras@osm.be).
 
-**[Postulez dès maintenant!](https://docs.google.com/forms/d/1jFYd4ppsCCoqEELX3_Aii5gnXsMAoNTzVr1yLwKOy5Y/edit)**
+

@@ -39,16 +39,12 @@ There will be more candidates than we have cameras, so we will be evaluating can
 
 
 
-The questions in the registration form may change as we gain experience.
-
-**[Apply now!](https://docs.google.com/forms/d/1jFYd4ppsCCoqEELX3_Aii5gnXsMAoNTzVr1yLwKOy5Y/edit)**
 
 
 ## Selection process
 
-Applications will be reviewed and accepted on a rolling basis until all twenty applicants have been accepted. Selection criteria and granting decisions will be made by OpenStreetMap Belgium with input from Mapillary and selected community members and will be made to maximize probable data collection and data use.
+The 20 cameras have been allocated and are being distributed. You will be able to follow the results via https://www.mapillary.com/app/org/eucameragrant1 to 20
 
 
 Any questions or suggestions: send them to [cameras@osm.be](mailto:cameras@osm.be)
 
-**[Apply now!](https://docs.google.com/forms/d/1jFYd4ppsCCoqEELX3_Aii5gnXsMAoNTzVr1yLwKOy5Y/edit)**
