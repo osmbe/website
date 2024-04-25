@@ -23,17 +23,7 @@ This custom OpenStreetMap rendering is available in 3 languages:
 The default name means that all names of streets and places will be shown in the local language. In Brussels (and to some degree in the facility municipalities) this means both the Dutch and the French name will be shown.
 The French and Dutch name versions give preference to that language, if available. In Brussels, this will make the map a lot easier to read. In the rest of the country, for example, Grammont will be shown for Geraardsbergen in the French version, and Bergen will be shown for Mons in the Dutch version.
 
-### Project key events
 
-We first tried using VectorTiles for OSMBE baselayer; it works quite well but the technology was not quite ready yet.
-
-So we went back to good old raster tiles with <https://switch2osm.org/>:
-
-- Fork of <https://github.com/gravitystorm/openstreetmap-carto>;
-- Edit parameters for Belgium languages; if the `name:fr` (or `name:nl`) is not available, the `name` will be displayed;
-- Add custom icons/rendering
-- Host the tile server on <https://tile.osm.be/>
-- Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 
 ### Custom icons/rendering
 
@@ -54,3 +44,19 @@ If you want to use it with *[OpenLayers](https://openlayers.org/)* or *[Leaflet]
 - Custom OSMBE style: <https://github.com/jbelien/openstreetmap-carto-be>
 - Documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 - Usage policy: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
+
+
+### Project key events
+
+We first tried using VectorTiles for OSMBE baselayer; it works quite well but the technology was not quite ready yet.
+
+So we went back to good old raster tiles with <https://switch2osm.org/>:
+
+- Fork of <https://github.com/gravitystorm/openstreetmap-carto>;
+- Edit parameters for Belgium languages; if the `name:fr` (or `name:nl`) is not available, the `name` will be displayed;
+- Add custom icons/rendering
+- Host the tile server on <https://tile.osm.be/>
+- Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+- 2017: first publication of the tiles
+- 2019, 2020 and 2022: updates by Geo-6
+- 2024: maintenance of the tiles taken over by our partner [Champs-Libres](https://champs-libres.coop) ([news post](https://openstreetmap.be/nl/2024/04/25/tiles-updated.html)). Addition of historical layers to [our historical map](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).

@@ -19,15 +19,6 @@ Met de project hosten we de standaard OpenStreetMap achtergrondkaart lichtjes aa
 Met de standaard _name_ of naam toon je plaatsnamen en straten met de naam in de lokale taal. In Brussel en sommige faciliteitengemeenten betekent dit dat de namen tegelijk in het Frans en het Nederlands getoond worden. 
 De Franse en Nederlandse versie geven voorkeur aan die taal, indien beschikbaar. In Brussel maakt dit de kaart veel leesbaarder. In de rest van het land krijg je dan bijvoorbeeld Grammont te zien voor Geraardsbergen in de Franstalige versie, of Bergen voor Mons in de Nederlandstalige versie.
 
-### Project key events
-
-We hebben eerst geprobeerd om de OSMBE basemap te maken als VectorTiles, maar de technologie was daar toen nog niet rijp voor. Dus we gebruiken de klassieke rastertiles op basis van de documentatie op <https://switch2osm.org/>:
-
-- We maakten een fork van <https://github.com/gravitystorm/openstreetmap-carto>;
-- Parameters om om te gaan met de talen. Toon enkel de `name` indien `name:fr`, respectievelijk `name:nl` niet beschikbaar is
-- Toevoegen lokale iconen
-- Tileset gehost op <https://tile.osm.be/>
-- Documentatie uitgeschreven op <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 
 ### Specifieke iconen
 
@@ -48,3 +39,16 @@ Gedetailleerde info om ze via *[OpenLayers](https://openlayers.org/)* of *[Leafl
 - Aangepaste OSMBE kaartstijl: <https://github.com/jbelien/openstreetmap-carto-be>
 - Documentatie: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 - Gebruiksvoorwaarden: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
+
+### Project key events
+
+We hebben eerst geprobeerd om de OSMBE basemap te maken als VectorTiles, maar de technologie was daar toen nog niet rijp voor. Dus we gebruiken de klassieke rastertiles op basis van de documentatie op <https://switch2osm.org/>:
+
+- We maakten een fork van <https://github.com/gravitystorm/openstreetmap-carto>;
+- Parameters om om te gaan met de talen. Toon enkel de `name` indien `name:fr`, respectievelijk `name:nl` niet beschikbaar is
+- Toevoegen lokale iconen
+- Tileset gehost op <https://tile.osm.be/>
+- Documentatie uitgeschreven op <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+- 2017: eerste publicatie van de tegels
+- 2019, 2020 en 2022: updates door Geo-6
+- 2024: onderhoud van de tegels wordt overgenomen door onze partner [Champs-Libres](https://champs-libres.coop) ([nieuwspost](https://openstreetmap.be/nl/2024/04/25/tiles-updated.html)). Aanvulling historische lagen op [onze historische kaart](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).
