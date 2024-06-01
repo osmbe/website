@@ -1,9 +1,3 @@
-- name: GEO-6
-  url: https://geo6.be/
-  logo:
-    light: geo6-light.png
-    dark: geo6-dark.png
-
 - name: ANYWAYS
   url: https://www.anyways.eu/
   logo:
@@ -18,14 +12,6 @@
   url: https://www.visitflanders.com/
   logo: visit-flanders.jpg
 
-- name: RouteYou
-  url: https://www.routeyou.com/
-  logo: routeyou.jpg
-
 - name: TomTom
   url: https://www.tomtom.com/
   logo: tomtom-white.png
-
-- name: Mapbox
-  url: https://www.mapbox.com/
-  logo: mapbox-logo-white.png
