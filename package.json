@@ -7,7 +7,7 @@
   "devDependencies": {
     "@stripe/stripe-js": "^1.54.2",
     "@types/leaflet": "^1.9.8",
-    "@types/node": "^18.19.0",
+    "@types/node": "^22.5.1",
     "leaflet": "^1.9.4",
     "parcel": "^2.10.3",
     "stripe": "^12.16.0"
