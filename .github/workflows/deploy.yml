@@ -27,7 +27,7 @@ jobs:
           STRIPE_CONNECT_ACCOUNT: ${{ secrets.STRIPE_CONNECT_ACCOUNT }}
       - uses: actions/jekyll-build-pages@v1
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
 
   deploy:
     runs-on: ubuntu-latest
