@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 use GuzzleHttp\Client;
 use MailchimpMarketing\Api\ListsApi;
-use MailchimpMarketing\Api\PingApi;
+// use MailchimpMarketing\Api\PingApi;
 use MailchimpMarketing\Configuration;
 
 chdir(__DIR__.'/../');
@@ -13,7 +13,7 @@ require 'vendor/autoload.php';
 
 $config = new Configuration();
 $config->setConfig([
-    'apiKey' => '4caf9112db021c97ba155c5f12ec57e5-us13',
+    'apiKey' => getenv('MAILCHIMP_API_KEY'),
     'server' => 'us13',
 ]);
 
