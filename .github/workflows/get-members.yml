@@ -3,9 +3,6 @@ name: Update list of members
 on:
   schedule:
     - cron: '0 0 * * *'
-  pull_request:
-    branches:
-      - master
 
 jobs:
   get-members:
