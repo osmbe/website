@@ -1,0 +1,26 @@
+name: Update list of members
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  get-members:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+      - run: composer install
+        working-directory: ./.github/workflows/get-members
+      - run: composer run get-members
+        working-directory: ./.github/workflows/get-members
+        env:
+          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add _data/members.json
+          git diff-index --quiet HEAD -- || (git add . && git commit -m "Update list of members" && git push origin main)

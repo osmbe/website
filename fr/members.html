@@ -1,0 +1,42 @@
+---
+title: Members
+layout: default
+lang: fr
+order: -1
+---
+
+<div>
+    <h1>
+        <i class="fas fa-users"></i>
+        Membres
+    </h1>
+    <hr>
+
+    <table style="width: 100%;">
+        <thead>
+            <tr style="border-bottom: double #808080;">
+                <th>Nom</th>
+                <th colspan="2">OpenStreetMap</th>
+                <th>Lieu</th>
+                <th>Membre depuis</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign members = site.data.members | sort: 'last_name' %}
+            {% for member in members %}
+            <tr style="border-bottom: 1px solid #808080;">
+                <td style="vertical-align: top;">{{ member.name }}</td>
+                <td style="vertical-align: top;"><a target="_blank" href="https://www.openstreetmap.org/user/{{ member.username }}">{{ member.username }}</a></td>
+                <td>
+                    {% if member.stats %}
+                    Depuis {{ member.stats.since }}<br>
+                    Changements: <a target="_blank" href="https://hdyc.neis-one.org/?{{ member.username }}">Monde: {{ member.stats.changesets.total }} - Belgique: {{ member.stats.changesets.belgium }}</a>
+                    {% endif %}
+                </td>
+                <td style="vertical-align: top;">{{ member.location }}</td>
+                <td style="vertical-align: top;">{{ member.timestamp | date: "%-d %B %Y" }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,16 @@
+{
+    "name": "osmbe/get-members",
+    "autoload": {
+        "psr-4": {
+            "OSMBE\\GetMembers\\": "src/"
+        }
+    },
+    "require-dev": {
+        "mailchimp/marketing": "^3.0",
+        "friendsofphp/php-cs-fixer": "^3.64"
+    },
+    "scripts": {
+        "get-members": "php ./src/get-members.php",
+        "fix-cs": "php-cs-fixer fix --rules=@PhpCsFixer src/"
+    }
+}
