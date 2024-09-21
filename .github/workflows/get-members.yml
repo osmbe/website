@@ -3,6 +3,7 @@ name: Update list of members
 on:
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   get-members:
@@ -10,6 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: 2.x
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
       - run: composer install
