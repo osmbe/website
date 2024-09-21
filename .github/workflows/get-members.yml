@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: master
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
       - run: composer install
@@ -26,4 +24,4 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add _data/members.json
-          git diff-index --quiet HEAD -- || (git add . && git commit -m "Update list of members" && git push origin main)
+          git diff-index --quiet HEAD -- || (git add . && git commit -m "Update list of members" && git push origin master)
