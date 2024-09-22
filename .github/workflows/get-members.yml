@@ -28,7 +28,7 @@ jobs:
           MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
       - name: Commit and push changes
         run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config user.name "osmbe-commit-bot[bot]"
+          git config user.email "182402131+osmbe-commit-bot[bot]@users.noreply.github.com"
           git add _data/members.json
           git diff-index --quiet HEAD -- || (git add . && git commit -m "Update list of members" && git push origin master)
