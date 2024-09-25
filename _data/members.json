@@ -4,7 +4,7 @@
         "first_name": "Ben",
         "last_name": "Abelshausen",
         "username": "Ben Abelshausen",
-        "location": "2275 Wechelderzande",
+        "location": "Wechelderzande",
         "timestamp": "2016-04-22T19:09:34+00:00",
         "stats": {
             "since": "June 21st, 2009",
@@ -19,7 +19,7 @@
         "first_name": "Jorieke",
         "last_name": "Vyncke",
         "username": "Jorieke V",
-        "location": "2275 Wechelderzande",
+        "location": "Wechelderzande",
         "timestamp": "2016-04-22T19:09:35+00:00",
         "stats": {
             "since": "December 02nd, 2010",
@@ -34,13 +34,13 @@
         "first_name": "Seppe",
         "last_name": "Santens",
         "username": "L'imaginaire",
-        "location": "9880 Aalter",
+        "location": "Aalter",
         "timestamp": "2019-09-30T13:16:41+00:00",
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1081340,
-                "belgium": 972038
+                "total": 1081773,
+                "belgium": 972471
             }
         }
     },
@@ -49,13 +49,13 @@
         "first_name": "Marc",
         "last_name": "Gemis",
         "username": "escada",
-        "location": "2840 Reet",
+        "location": "Reet",
         "timestamp": "2016-04-22T19:09:36+00:00",
         "stats": {
             "since": "April 12th, 2011",
             "changesets": {
-                "total": 1916312,
-                "belgium": 1752543
+                "total": 1916313,
+                "belgium": 1752544
             }
         }
     },
@@ -64,13 +64,13 @@
         "first_name": "Erik",
         "last_name": "Beerten",
         "username": "Eebie",
-        "location": "3500 Hasselt",
+        "location": "Hasselt",
         "timestamp": "2023-01-02T10:45:36+00:00",
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 2979382,
-                "belgium": 2863403
+                "total": 2979383,
+                "belgium": 2863404
             }
         }
     },
@@ -79,13 +79,13 @@
         "first_name": "Joost",
         "last_name": "Schouppe",
         "username": "joost schouppe",
-        "location": "1501 Halle",
+        "location": "Halle",
         "timestamp": "2017-03-09T10:20:39+00:00",
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1087110,
-                "belgium": 500330
+                "total": 1087185,
+                "belgium": 500405
             }
         }
     },
@@ -94,7 +94,7 @@
         "first_name": "Pierre",
         "last_name": "Parmentier",
         "username": "foxandpotatoes",
-        "location": "6700 Arlon",
+        "location": "Arlon",
         "timestamp": "2017-04-24T18:13:42+00:00",
         "stats": {
             "since": "April 16th, 2009",
@@ -109,7 +109,7 @@
         "first_name": "Lionel",
         "last_name": "Giard",
         "username": "Anakil",
-        "location": "1325 Chaumont-Gistoux",
+        "location": "Chaumont-Gistoux",
         "timestamp": "2017-03-21T01:29:38+00:00",
         "stats": {
             "since": "November 20th, 2015",
@@ -124,7 +124,7 @@
         "first_name": "Glenn",
         "last_name": "Plas",
         "username": "Glenn Plas",
-        "location": "1982 Weerde",
+        "location": "Weerde",
         "timestamp": "2019-09-30T17:22:01+00:00",
         "stats": {
             "since": "July 29th, 2011",
@@ -139,7 +139,7 @@
         "first_name": "Steven",
         "last_name": "Clays",
         "username": "wegspotter",
-        "location": "9000 Gent",
+        "location": "Gent",
         "timestamp": "2020-08-24T15:51:59+00:00",
         "stats": {
             "since": "March 27th, 2011",
@@ -154,13 +154,13 @@
         "first_name": "Julien",
         "last_name": "Minet",
         "username": "juminet",
-        "location": "6724 Marbehan",
+        "location": "Marbehan",
         "timestamp": "2016-04-22T19:09:37+00:00",
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 615120,
-                "belgium": 597871
+                "total": 615144,
+                "belgium": 597895
             }
         }
     },
@@ -169,7 +169,7 @@
         "first_name": "Maarten",
         "last_name": "Deneckere",
         "username": "",
-        "location": "9230 Wetteren",
+        "location": "Wetteren",
         "timestamp": "2017-02-09T17:09:39+00:00",
         "stats": null
     },
@@ -178,7 +178,7 @@
         "first_name": "Jean Marie",
         "last_name": "Falisse",
         "username": "Eleuthere",
-        "location": "1170 Watermael-Boitsfort",
+        "location": "Watermael-Boitsfort",
         "timestamp": "2019-12-14T11:56:13+00:00",
         "stats": {
             "since": "May 01st, 2010",
@@ -193,7 +193,7 @@
         "first_name": "J\u00e9r\u00f4me",
         "last_name": "Le Tourneur",
         "username": "Ieronimus",
-        "location": "1030 Schaerbeek",
+        "location": "Schaerbeek",
         "timestamp": "2017-08-04T09:14:51+00:00",
         "stats": {
             "since": "October 06th, 2016",
@@ -208,7 +208,7 @@
         "first_name": "Pierre",
         "last_name": "Willot",
         "username": "Piwi",
-        "location": "5070 Fosses-La-Ville",
+        "location": "Fosses-La-Ville",
         "timestamp": "2017-12-17T23:13:02+00:00",
         "stats": {
             "since": "October 12th, 2010",
@@ -223,7 +223,7 @@
         "first_name": "Marc",
         "last_name": "Notredame",
         "username": "",
-        "location": "9000 Gent",
+        "location": "Gent",
         "timestamp": "2018-03-24T11:21:32+00:00",
         "stats": null
     },
@@ -231,23 +231,17 @@
         "name": "Pieter Vandecasteele",
         "first_name": "Pieter",
         "last_name": "Vandecasteele",
-        "username": "s8evq",
-        "location": "9880 Aalter",
+        "username": "",
+        "location": "Aalter",
         "timestamp": "2018-07-18T21:46:39+00:00",
-        "stats": {
-            "since": "March 13th, 2016",
-            "changesets": {
-                "total": 260812,
-                "belgium": 256044
-            }
-        }
+        "stats": null
     },
     {
         "name": "Tim Couwelier",
         "first_name": "Tim",
         "last_name": "Couwelier",
         "username": "Tim Couwelier",
-        "location": "8800 Roeselare",
+        "location": "Roeselare",
         "timestamp": "2018-10-28T11:39:36+00:00",
         "stats": {
             "since": "December 15th, 2017",
@@ -262,7 +256,7 @@
         "first_name": "Kurt",
         "last_name": "Roeckx",
         "username": "Kurt Roeckx",
-        "location": "3150 Tildonk",
+        "location": "Tildonk",
         "timestamp": "2018-11-01T23:21:50+00:00",
         "stats": {
             "since": "March 02nd, 2008",
@@ -277,13 +271,13 @@
         "first_name": "Pieter",
         "last_name": "Vander Vennet",
         "username": "Pieter Vander Vennet",
-        "location": "9000 Gent",
+        "location": "Gent",
         "timestamp": "2017-10-17T18:44:52+00:00",
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 880365,
-                "belgium": 839340
+                "total": 880376,
+                "belgium": 839350
             }
         }
     },
@@ -292,7 +286,7 @@
         "first_name": "Pieter",
         "last_name": "Fiers",
         "username": "pfiers",
-        "location": "3191 Schiplaken",
+        "location": "Schiplaken",
         "timestamp": "2017-11-28T15:23:48+00:00",
         "stats": {
             "since": "April 08th, 2016",
@@ -307,12 +301,12 @@
         "first_name": "Guillaume",
         "last_name": "Rischard",
         "username": "Stereo",
-        "location": "1000 Brussels",
+        "location": "Brussels",
         "timestamp": "2020-01-19T23:03:32+00:00",
         "stats": {
             "since": "May 27th, 2008",
             "changesets": {
-                "total": 1098424,
+                "total": 1098442,
                 "belgium": 16739
             }
         }
@@ -322,7 +316,7 @@
         "first_name": "Kevin",
         "last_name": "Baker",
         "username": "Kevin@RouteYou",
-        "location": "9000 Gent",
+        "location": "Gent",
         "timestamp": "2021-04-12T12:53:28+00:00",
         "stats": {
             "since": "May 10th, 2012",
@@ -337,7 +331,7 @@
         "first_name": "Micha\u00ebl",
         "last_name": "Dierick",
         "username": "MikiDi",
-        "location": "1090 Jette",
+        "location": "Jette",
         "timestamp": "2022-01-09T14:05:29+00:00",
         "stats": {
             "since": "September 23rd, 2015",
@@ -352,13 +346,13 @@
         "first_name": "Thierry",
         "last_name": "Jim\u00e9nez",
         "username": "Thierry1030",
-        "location": "1030 Brussels",
+        "location": "Brussels",
         "timestamp": "2020-10-19T06:00:56+00:00",
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 111106,
-                "belgium": 106919
+                "total": 111137,
+                "belgium": 106950
             }
         }
     },
@@ -367,13 +361,13 @@
         "first_name": "Thibault",
         "last_name": "Molleman",
         "username": "Thibaultmol",
-        "location": "8755 Ruiselede",
+        "location": "Ruiselede",
         "timestamp": "2020-08-10T06:45:55+00:00",
         "stats": {
             "since": "May 15th, 2015",
             "changesets": {
-                "total": 100687,
-                "belgium": 95133
+                "total": 100689,
+                "belgium": 95135
             }
         }
     },
@@ -382,7 +376,7 @@
         "first_name": "Johan",
         "last_name": "Joubert",
         "username": "JohanWJoubert",
-        "location": "3001 Leuven",
+        "location": "Leuven",
         "timestamp": "2023-02-14T20:23:56+00:00",
         "stats": {
             "since": "April 28th, 2009",
@@ -406,7 +400,7 @@
         "first_name": "Jason",
         "last_name": "Bertiaux",
         "username": "",
-        "location": "7134 Ressaix",
+        "location": "Ressaix",
         "timestamp": "2024-01-10T13:22:40+00:00",
         "stats": null
     },
@@ -415,7 +409,7 @@
         "first_name": "Jonathan",
         "last_name": "Beli\u00ebn",
         "username": "jbelien",
-        "location": "1090 Bruxelles",
+        "location": "Bruxelles",
         "timestamp": "2017-12-17T14:32:21+00:00",
         "stats": {
             "since": "October 11th, 2012",
@@ -430,13 +424,13 @@
         "first_name": "Marjan",
         "last_name": "Van de Kauter",
         "username": "Mappers_Delight",
-        "location": "9040 Gent",
+        "location": "Gent",
         "timestamp": "2024-03-20T14:12:41+00:00",
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 607,
-                "belgium": 588
+                "total": 614,
+                "belgium": 595
             }
         }
     },
@@ -445,7 +439,7 @@
         "first_name": "Matis",
         "last_name": "Gillet",
         "username": "",
-        "location": "6500 Barben\u00e7on",
+        "location": "Barben\u00e7on",
         "timestamp": "2024-08-07T18:58:26+00:00",
         "stats": null
     }
