@@ -70,7 +70,7 @@ foreach ($response->members as $member) {
         'first_name' => $member->merge_fields->FNAME,
         'last_name' => $member->merge_fields->LNAME,
         'username' => $username,
-        'location' => trim($member->merge_fields->POSTCODE.' '.$member->merge_fields->PLACE),
+        'location' => $member->merge_fields->PLACE,
         'timestamp' => $member->timestamp_opt,
         'stats' => $stats,
     ];
