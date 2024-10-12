@@ -1,7 +1,7 @@
 ---
 title: Traffic Sign Project
 layout: project
-lang: en
+lang: nl
 featured: Samenscholingsverbod_Doel.jpeg
 featured_caption: "Een verkeersbord dat een OpenStreetMap kaart weergeeft"
 lead: Joost Schouppe, Ivan Diaz
