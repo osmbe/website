@@ -24,7 +24,7 @@
         "stats": {
             "since": "December 02nd, 2010",
             "changesets": {
-                "total": 2978421,
+                "total": 2986707,
                 "belgium": 67171
             }
         }
@@ -39,8 +39,8 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1085960,
-                "belgium": 976555
+                "total": 1087496,
+                "belgium": 977938
             }
         }
     },
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 2989423,
-                "belgium": 2873428
+                "total": 2991379,
+                "belgium": 2875384
             }
         }
     },
@@ -84,8 +84,8 @@
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1089663,
-                "belgium": 502879
+                "total": 1090191,
+                "belgium": 503406
             }
         }
     },
@@ -99,8 +99,8 @@
         "stats": {
             "since": "April 16th, 2009",
             "changesets": {
-                "total": 1866334,
-                "belgium": 945430
+                "total": 1868127,
+                "belgium": 947223
             }
         }
     },
@@ -159,8 +159,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 616711,
-                "belgium": 599462
+                "total": 617303,
+                "belgium": 600054
             }
         }
     },
@@ -183,8 +183,8 @@
         "stats": {
             "since": "May 01st, 2010",
             "changesets": {
-                "total": 153823,
-                "belgium": 417
+                "total": 153835,
+                "belgium": 429
             }
         }
     },
@@ -276,8 +276,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 880592,
-                "belgium": 839562
+                "total": 880767,
+                "belgium": 839666
             }
         }
     },
@@ -306,7 +306,7 @@
         "stats": {
             "since": "May 27th, 2008",
             "changesets": {
-                "total": 1099389,
+                "total": 1100070,
                 "belgium": 16739
             }
         }
@@ -321,8 +321,8 @@
         "stats": {
             "since": "May 10th, 2012",
             "changesets": {
-                "total": 6327,
-                "belgium": 5498
+                "total": 6333,
+                "belgium": 5504
             }
         }
     },
@@ -336,8 +336,8 @@
         "stats": {
             "since": "September 23rd, 2015",
             "changesets": {
-                "total": 130521,
-                "belgium": 64509
+                "total": 130644,
+                "belgium": 64632
             }
         }
     },
@@ -351,8 +351,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 112118,
-                "belgium": 107926
+                "total": 112744,
+                "belgium": 108528
             }
         }
     },
@@ -366,8 +366,8 @@
         "stats": {
             "since": "May 15th, 2015",
             "changesets": {
-                "total": 100771,
-                "belgium": 95217
+                "total": 100868,
+                "belgium": 95295
             }
         }
     },
@@ -429,8 +429,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 664,
-                "belgium": 645
+                "total": 680,
+                "belgium": 661
             }
         }
     },
@@ -441,6 +441,15 @@
         "username": "",
         "location": "Barben\u00e7on",
         "timestamp": "2024-08-07T18:58:26+00:00",
+        "stats": null
+    },
+    {
+        "name": "Luna Isebaert",
+        "first_name": "Luna",
+        "last_name": "Isebaert",
+        "username": "",
+        "location": "Tervuren",
+        "timestamp": "2024-10-12T09:02:34+00:00",
         "stats": null
     }
 ]
