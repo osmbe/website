@@ -12,12 +12,9 @@ plugins:
 
 twitter:
   username: osm_be
-social:
-  name: OpenStreetMap Belgium
-  links:
-    - https://twitter.com/osm_be
-    - https://www.facebook.com/groups/1419016881706058/
-    - https://github.com/osmbe
+newsletter:
+  archive: https://us13.campaign-archive.com/home/?u=cc6632a49e784f67574e50269&id=5c2416bba6
+  subscribe: https://osm.us13.list-manage.com/subscribe?u=cc6632a49e784f67574e50269&id=5c2416bba6
 
 url: https://openstreetmap.be
 baseurl: ""
