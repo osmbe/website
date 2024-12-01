@@ -9,7 +9,7 @@
     "@types/leaflet": "^1.9.12",
     "@types/node": "^18.19.0",
     "leaflet": "^1.9.4",
-    "parcel": "^2.12.0",
+    "parcel": "^2.13.2",
     "stripe": "^12.16.0"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
