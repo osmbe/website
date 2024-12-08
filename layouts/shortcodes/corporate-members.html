@@ -1,0 +1,17 @@
+<div class="bg-gray-900 py-6 sm:py-8 rounded-2xl">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-2xl lg:max-w-none">
+            <h3 id="{{ (i18n "support.corporate_members") | anchorize }}" class="text-lg/8 font-semibold text-white">{{ (i18n "support.corporate_members") | markdownify }}</h3>
+            <div class="mx-auto mt-10 grid grid-cols-2 items-center gap-x-8 gap-y-10 sm:grid-cols-4 sm:gap-x-10 lg:mx-0 lg:grid-cols-5">
+                {{- range sort .Site.Data.corporatemembers }}
+                <a target="_blank" href="{{ .url }}" class="text-sm/6 text-gray-400 hover:text-white">
+                    {{- $logo := .logo }}
+                    {{- $path := printf "%s/%s/%s" "images" "logos" $logo }}
+                    {{- $resource := resources.Get $path }}
+                    <img class="col-span-2 max-h-fit w-full object-contain object-left lg:col-span-1" src="{{ $resource.Permalink }}" alt="{{ .name }}">
+                </a>
+                {{- end }}
+            </div>
+        </div>
+    </div>
+</div>

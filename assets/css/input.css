@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@layer base {
+  main h1 {
+    @apply my-8 text-4xl font-semibold sm:text-5xl;
+  }
+  main h2 {
+    @apply my-4 text-3xl font-semibold;
+  }
+  main a {
+    @apply text-base/7 font-semibold text-indigo-600
+  }
+  main ul {
+    @apply list-disc ml-8;
+  }
+}

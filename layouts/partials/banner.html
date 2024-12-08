@@ -1,0 +1,19 @@
+<div class="text-center bg-gray-900 px-6 py-2.5 sm:px-3.5">
+    <div class="inline-flex items-center gap-x-2 text-sm/6 text-white">
+        <strong class="font-semibold">{{ i18n "banner.next" }} :</strong>
+        <div id="banner-next-event"></div>
+    </div>
+</div>
+
+{{ define "javascript" }}
+
+<script
+    src="https://unpkg.com/@jbelien/openstreetmap-calendar-widget@0.4.1/dist/osmcal.js"
+    integrity="sha512-5BkMcVKZ6nX+ddTRrnbd3cwVwp5bNvc/7aikO4iEmqydJcoyf8sUA+qx7Y9vb/nnoNXGOvPTcfUzriOA559W/Q=="
+    crossorigin=""
+></script>
+
+{{- $jsBanner := (resources.Get "js/banner.js") | resources.Minify | fingerprint }}
+<script src="{{ $jsBanner.RelPermalink }}" integrity="{{ $jsBanner.Data.Integrity }}"></script>
+
+{{ end }}

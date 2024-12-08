@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ .Language }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{- $style := (resources.Get "css/output.css") | resources.Minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" />
+    <title>{{ site.Title }}</title>
+</head>
+
+<body>
+
+    {{ partial "header.html" . }}
+    {{ partial "banner.html" . }}
+
+    {{ block "main" . }}
+    {{ end }}
+
+    {{ partial "footer.html" . }}
+
+    {{ block "javascript" . }}
+    {{ end }}
+
+</body>
+
+</html>

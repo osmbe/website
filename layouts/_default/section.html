@@ -1,0 +1,68 @@
+{{ define "main" }}
+
+<main class="bg-white px-6 py-16 lg:px-8">
+    <div class="mx-auto max-w-6xl text-base/7 text-gray-700">
+        <h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">{{ .Title }}</h2>
+        <p class="mt-2 text-lg/8 text-gray-600">{{ .Content }}</p>
+        <div class="mt-10 space-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16">
+
+            {{- $pages := union .RegularPages .Sections }}
+            {{- $paginator := .Paginate $pages }}
+            {{- range $index, $page := $paginator.Pages }}
+
+            <article class="relative isolate flex flex-col gap-8 lg:flex-row">
+                {{- if .Params.cover }}
+                <div class="relative aspect-video sm:aspect-[2/1] lg:aspect-square lg:w-64 lg:shrink-0">
+                    {{- $cover := printf "%s/%s/%s" "images" .Section .Params.cover }}
+                    {{- with resources.Get $cover }}
+                    <img src="{{ .Permalink }}" alt="" class="absolute inset-0 size-full rounded-2xl bg-gray-50 object-cover">
+                    {{- end }}
+                    <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
+                </div>
+                {{- end}}
+                <div>
+                    <div class="flex items-center gap-x-4 text-xs">
+                        {{- if .Date }}
+                        <time datetime="{{ .Date }}" class="text-gray-500">{{ .Date | time.Format ":date_medium" }}</time>
+                        {{- end }}
+                        {{- with .Params.categories }}
+                            {{- range . }}
+                            <a href="{{ "/categories" | relLangURL }}/{{ . | urlize }}" class="inline-flex items-center rounded-full bg-indigo-50 px-2 py-1 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-500/10 hover:bg-indigo-100">{{ . }}</a>
+                            {{- end }}
+                        {{- end }}
+                        {{- with .Params.tags }}
+                            {{- range . }}
+                            <a href="{{ "/tags" | relLangURL }}/{{ . | urlize }}" class="inline-flex items-center rounded-full bg-gray-50 px-2 py-1 text-xs font-medium text-gray-600 ring-1 ring-inset ring-gray-500/10 hover:bg-gray-100">{{ . }}</a>
+                            {{- end }}
+                        {{- end }}
+                    </div>
+                    <div class="group relative">
+                        <h3 class="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                            <a href="{{ .Permalink }}">
+                                <span class="absolute inset-0"></span>
+                                {{- .Title }}
+                            </a>
+                        </h3>
+                        <p class="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                            {{- .Summary }}
+                        </p>
+                    </div>
+                    <div class="relative mt-8 flex items-center gap-x-4">
+                        <svg class="size-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--!Font Awesome Pro 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path class="fa-secondary" opacity=".4" d="M248 8C111 8 0 119 0 256S111 504 248 504 496 393 496 256 385 8 248 8zm0 96a88 88 0 1 1 -88 88A88 88 0 0 1 248 104zm0 344a191.6 191.6 0 0 1 -146.5-68.2C120.3 344.4 157.1 320 200 320a24.8 24.8 0 0 1 7.1 1.1 124.7 124.7 0 0 0 81.8 0A24.8 24.8 0 0 1 296 320c42.9 0 79.7 24.4 98.5 59.8A191.6 191.6 0 0 1 248 448z"/><path class="fa-primary" d="M248 280a88 88 0 1 0 -88-88A88 88 0 0 0 248 280zm48 40a24.8 24.8 0 0 0 -7.1 1.1 124.7 124.7 0 0 1 -81.8 0A24.8 24.8 0 0 0 200 320c-42.9 0-79.7 24.4-98.5 59.8 68.1 80.9 188.8 91.3 269.8 23.3A192 192 0 0 0 394.5 379.8C375.7 344.4 338.9 320 296 320z"/></svg>
+                        <div class="text-sm/6">
+                            <p class="font-semibold text-gray-900">
+                                <span class="absolute inset-0"></span>
+                                {{ or .Params.author .Params.lead }}
+                            </p>
+                            <!-- <p class="text-gray-600">Co-Founder / CTO</p> -->
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            {{- end }}
+        </div>
+    </div>
+</main>
+
+{{ end }}

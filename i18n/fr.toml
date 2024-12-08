@@ -1,0 +1,17 @@
+[banner]
+    next = "Prochain événement"
+
+[footer]
+    local_chapter = "Chapitre local de l'[OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Local_Chapters)"
+
+    [footer.newsletter]
+        title = "Bulletin d'information"
+        subscribe = "Souscrire"
+        archive = "Archive"
+
+    [footer.corporate_members]
+        title = "Membres corporate"
+        text = "Ces organisations soutiennent OpenStreetMap Belgique."
+
+[support]
+    corporate_members = "Nos membres *corporate* actuels"

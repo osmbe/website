@@ -1,0 +1,14 @@
+[en]
+    languageName = 'English'
+    title = 'OpenStreetMap Belgium'
+[fr]
+    languageName = 'Français'
+    title = 'OpenStreetMap Belgique'
+[nl]
+    languageName = 'Nederlands'
+    title = 'OpenStreetMap België'
+    disabled = true
+[de]
+    languageName = 'Deutsch'
+    title = 'OpenStreetMap Belgien'
+    disabled = true

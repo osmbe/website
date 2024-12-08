@@ -1,0 +1,19 @@
+- name: ANYWAYS
+  url: https://www.anyways.eu/
+  logo: anyways-dark.png
+
+- name: Champs-Libres
+  url: https://www.champs-libres.coop/
+  logo: champslibres-white.jpg
+
+- name: Visit Flanders
+  url: https://www.visitflanders.com/
+  logo: visit-flanders.jpg
+
+- name: TomTom
+  url: https://www.tomtom.com/
+  logo: tomtom-white.png
+
+- name: National Crisis Center (NCCN)
+  url: https://crisiscenter.be/
+  logo: nccn-white.jpg
