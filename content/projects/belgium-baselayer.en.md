@@ -1,7 +1,8 @@
 ---
 title: Free Belgium Baselayers
-cover: belgium-basemap1.png
 lead: Jonathan Beliën
+cover: belgium-basemap1.png
+weight: 50
 aliases: ["/2017/01/06/en-project-belgium-baselayer.html"]
 ---
 
