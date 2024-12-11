@@ -17,6 +17,10 @@
                             {{ .Page.LinkTitle }}
                         </a>
                     </p>
+                    <p class="mt-1 flex text-xs/5 text-gray-500 gap-x-2">
+                        {{ i18n "lastupdate" }}:
+                        <time datetime="{{ .Page.Lastmod }}">{{ .Page.Lastmod | time.Format ":date_medium" }}</time>
+                    </p>
                 </div>
             </div>
             <div class="flex shrink-0 items-center gap-x-4">
