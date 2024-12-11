@@ -1,6 +1,9 @@
 ---
-menus: main
 title: Nous soutenir
+menu:
+  main:
+    weight: 40
+    name: Soutien
 ---
 
 ## Nous rencontrer

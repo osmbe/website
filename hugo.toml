@@ -1,7 +1,6 @@
 baseURL = 'https://openstreetmap.be/'
 defaultContentLanguage = 'en'
 enableEmoji = true
-sectionPagesMenu = 'main'
 summaryLength = 50
 
 [frontmatter]

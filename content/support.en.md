@@ -1,6 +1,9 @@
 ---
-menus: main
 title: Support us
+menu:
+  main:
+    weight: 40
+    name: Support
 aliases: ["/signup.html"]
 ---
 

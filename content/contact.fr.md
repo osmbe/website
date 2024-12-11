@@ -1,6 +1,9 @@
 ---
-menus: main
 title: Nous contacter
+menu:
+  main:
+    weight: 50
+    name: Contact
 ---
 
 > OpenStreetMap Belgium ASBL  

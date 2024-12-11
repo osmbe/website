@@ -1,6 +1,9 @@
 ---
-menus: main
 title: Contact us
+menu:
+  main:
+    weight: 50
+    name: Contact
 aliases: ["/signup.html"]
 ---
 
