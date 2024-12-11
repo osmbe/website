@@ -3,6 +3,7 @@ title: Mapathons
 lead: OpenStreetMap Belgium
 cover: missingmaps.jpg
 weight: 50
+aliases: ["/en/projects/mapathons.html"]
 ---
 
 **At OpenStreetMap Belgium, we support the Missing Maps project by doing regular Mapathons.**

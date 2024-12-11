@@ -4,7 +4,7 @@ lead: Joost Schouppe, Ben Abelshausen & Jonathan Beliën
 cover: road-completion2.gif
 cover_caption: "Red is government data, the less red, the more complete OSM becomes."
 weight: 50
-aliases: ["/2017/01/06/fr-project-road-completion.html"]
+aliases: ["/2017/01/06/fr-project-road-completion.html","/fr/projects/road-completion.html"]
 ---
 
 Nous nous appelons Open**STREET**Map pour une raison: nous avons un excellent réseau routier. Il y a les "turn restrictions" et la navigation entre les différentes voies de la route, les sentiers de randonnée et les pistes cyclables. Mais il y a encore quelques petites erreurs qui traînent par ci par là. Notre objectif est de corriger ces erreurs en utilisant les données libres d'accès ("open-data") officielles pour vérifier et détecter les données manquantes. Nous en profitons également pour améliorer les données officielles et vous offrir une qualité minimale garantie.

@@ -3,7 +3,7 @@ title: Heritage in Flanders and Crowd-Sourced Projects
 lead: escada
 cover: heritage.png
 weight: 90
-aliases: ["/2017/04/01/fr-project-heritage-crowd-sourced.html"]
+aliases: ["/2017/04/01/fr-project-heritage-crowd-sourced.html","/fr/projects/heritage-crowd-sourced.html"]
 ---
 
 # Les projets de crowdsourcing appliqué au patrimoine en Belgique

@@ -3,6 +3,7 @@ title: MapComplete
 lead: Pieter Vander Vennet
 cover: mapcomplete.png
 weight: 60
+aliases: ["/en/projects/mapcomplete.html"]
 ---
 
 

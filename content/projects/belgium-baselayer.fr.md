@@ -3,7 +3,7 @@ title: Free Belgium Baselayers
 lead: Jonathan Beliën
 cover: belgium-basemap1.png
 weight: 50
-aliases: ["/2017/01/06/fr-project-belgium-baselayer.html"]
+aliases: ["/2017/01/06/fr-project-belgium-baselayer.html","/fr/projects/belgium-baselayer.html"]
 ---
 
 Le but de ce projet est d'offrir un fond de carte OpenStreetMap pour la Belgique. Ce fond de carte est disponible pour tout utilisateur de OpenLayers, Leaflet, QGIS, ...

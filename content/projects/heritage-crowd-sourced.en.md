@@ -3,7 +3,7 @@ title: Heritage in Flanders and Crowd-Sourced Projects
 lead: escada
 cover: heritage.png
 weight: 90
-aliases: ["/2017/04/01/en-project-heritage-crowd-sourced.html"]
+aliases: ["/2017/04/01/en-project-heritage-crowd-sourced.html","/en/projects/heritage-crowd-sourced.html"]
 ---
 
 ## Introduction
