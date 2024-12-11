@@ -8,7 +8,7 @@
 
             {{- $pages := union .RegularPages .Sections }}
             {{- $paginator := .Paginate $pages }}
-            {{- range $index, $page := $paginator.Pages.ByWeight }}
+            {{- range $index, $page := $paginator.Pages }}
 
             <article class="relative isolate flex flex-col gap-8 lg:flex-row">
                 {{- if .Params.cover }}
