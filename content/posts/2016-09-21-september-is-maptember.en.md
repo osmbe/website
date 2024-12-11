@@ -1,7 +1,7 @@
 ---
 title: September is maptember
-cover: pic02.jpg
 author: Joost Schouppe
+cover: pic02.jpg
 ---
 
 What happens when you allow everyone to map the world, as they see fit, no questions asked?

@@ -1,7 +1,7 @@
 ---
 title: September is maptember
-cover: pic02.jpg
 author: Joost Schouppe
+cover: pic02.jpg
 ---
 
 Imaginez un projet qui permette à tout un chacun de cartographier le monde, en toute liberté.
