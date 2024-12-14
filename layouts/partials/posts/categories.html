@@ -1,0 +1,25 @@
+<h2>Categories</h2>
+
+<nav class="flex flex-1 flex-col" aria-label="Sidebar">
+    <ul role="list" class="-mx-2 space-y-1">
+        {{- range .Site.Taxonomies.categories }}
+        <li>
+            {{- if eq .Page.RelPermalink $.Permalink }}
+            <a href="{{ .Page.RelPermalink }}" class="group flex gap-x-3 rounded-md bg-gray-50 p-2 pl-3 text-sm/6 font-semibold text-indigo-600">
+                {{ .Page.LinkTitle }}
+                <span class="ml-auto w-9 min-w-max whitespace-nowrap rounded-full bg-white px-2.5 py-0.5 text-center text-xs/5 font-medium text-gray-600 ring-1 ring-inset ring-gray-200" aria-hidden="true">
+                    {{ .Count }}
+                </span>
+            </a>
+            {{- else }}
+            <a href="{{ .Page.RelPermalink }}" class="group flex gap-x-3 rounded-md p-2 pl-3 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600">
+                {{ .Page.LinkTitle }}
+                <span class="ml-auto w-9 min-w-max whitespace-nowrap rounded-full bg-white px-2.5 py-0.5 text-center text-xs/5 font-medium text-gray-600 ring-1 ring-inset ring-gray-200" aria-hidden="true">
+                    {{ .Count }}
+                </span>
+            </a>
+            {{- end }}
+        </li>
+        {{- end }}
+    </ul>
+</nav>
