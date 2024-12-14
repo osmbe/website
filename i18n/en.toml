@@ -1,4 +1,6 @@
 lastupdate = "Last update"
+previous = "Previous"
+next = "Next"
 
 [banner]
     next = "Next event"
