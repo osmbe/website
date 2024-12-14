@@ -13,7 +13,7 @@
   main a {
     @apply text-base/7 font-semibold text-indigo-600
   }
-  main ul {
+  main #content ul {
     @apply list-disc ml-8;
   }
 }
