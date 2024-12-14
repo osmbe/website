@@ -1,6 +1,6 @@
 ---
 title: "Collaborative infrastructure for the smart city"
-author: joost schouppe - OpenStreetMap Belgium
+author: Joost Schouppe - OpenStreetMap Belgium
 ---
 *At OpenStreetMap Belgium, we want to be the first to map new things. That’s not just because we like doing that, but also to offer the best service to our data users. And it has an implication for local government too.*
 

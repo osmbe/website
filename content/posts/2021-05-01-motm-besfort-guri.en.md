@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Besfort Guri (Kosovo)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

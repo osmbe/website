@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Dasrakel (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

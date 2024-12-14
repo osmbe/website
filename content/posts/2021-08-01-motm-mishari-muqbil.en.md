@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Mishari Muqbil (Thailand)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

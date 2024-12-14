@@ -1,9 +1,8 @@
 ---
 title: 'Mapper of the Month:  Guirec Halflants (Belgium)'
-cover: 
 categories: ["motm"]
 author: escada
-redirect_from: /2019/02/01/en-motm-Guirec_Halflants.html
+aliases: ["/2019/02/01/en-motm-Guirec_Halflants.html"]
 ---
 _translation by Escada and Koninklijke_
 

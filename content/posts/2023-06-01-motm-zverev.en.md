@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Zverik (Russia)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

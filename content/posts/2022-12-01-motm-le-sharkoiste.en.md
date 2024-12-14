@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Le Sharkoïste (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

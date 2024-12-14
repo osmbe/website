@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Andrew Harvey (Australia)'
-cover:
 categories: ["motm"]
 author: escada
 ---

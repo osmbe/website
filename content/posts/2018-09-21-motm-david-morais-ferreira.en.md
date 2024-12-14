@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: David Morais Ferreira (Luxembourg)'
-cover:
 categories: ["motm"]
 author: escada
 ---

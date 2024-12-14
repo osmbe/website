@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the month: Donat Robaux (France)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

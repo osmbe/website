@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Constantine Tumwine (Tanzania)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

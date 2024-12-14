@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Søren Johannessen (Denmark)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

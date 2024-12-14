@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Pieter Vander Vennet"
-cover:
 categories: ["motm"]
 author: escada
 ---

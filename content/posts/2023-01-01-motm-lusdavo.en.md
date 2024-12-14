@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: lusdavo (Uganda)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

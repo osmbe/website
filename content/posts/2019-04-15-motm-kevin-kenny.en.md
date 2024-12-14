@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Kevin Kenny (USA)'
-cover:
 categories: ["motm"]
 author: escada
 ---

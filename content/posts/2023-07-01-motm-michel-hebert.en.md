@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Michel Hebert (France)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

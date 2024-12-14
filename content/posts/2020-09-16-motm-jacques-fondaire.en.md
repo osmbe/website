@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Jacques Fondaire (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

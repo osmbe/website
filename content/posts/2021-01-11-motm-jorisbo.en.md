@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Jorisbo (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

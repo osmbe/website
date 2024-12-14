@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Anisa Kuci (Albania)'
-cover:
 categories: ["motm"]
 author: escada
 ---

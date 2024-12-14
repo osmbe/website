@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Tomoya Muramoto (Japan)'
-cover:
 categories: ["motm"]
 author: escada
 ---

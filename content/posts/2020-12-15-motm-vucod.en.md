@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Vucod (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

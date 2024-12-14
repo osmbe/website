@@ -1,11 +1,10 @@
 ﻿---
 title: "Mapper of the Month: Joost Schouppe (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---
 
-His [homepage](https://www.openstreetmap.org/user/joost schouppe) and his [contribution page](http://hdyc.neis-one.org/?joost schouppe).
+His [homepage](https://www.openstreetmap.org/user/joost%20schouppe) and his [contribution page](http://hdyc.neis-one.org/?joost%20schouppe).
 
 Hello Joost! Eight years ago, your interview appeared in our *Mapper of the Month* column. But perhaps it is necessary for you to introduce yourself once again to our new readers.
 : Hi Pierre, thanks for having me again :)

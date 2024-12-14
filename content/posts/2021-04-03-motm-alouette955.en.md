@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Alouette955 (Canada)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

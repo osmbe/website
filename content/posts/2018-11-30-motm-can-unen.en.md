@@ -1,9 +1,8 @@
 ---
 title: 'Mapper of the Month: Can Ünen (Turkey)'
-cover:
 categories: ["motm"]
 author: Marc Gemis
-redirect_from: /2018/11/30/en-motm-Can_Unen.html
+aliases: ["/2018/11/30/en-motm-Can_Unen.html"]
 ---
 
 Can Ünen username: [`unen`](https://www.openstreetmap.org/user/unen)

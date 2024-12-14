@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Thierry Hancart (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

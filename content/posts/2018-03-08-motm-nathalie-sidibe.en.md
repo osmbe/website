@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Nathalie Sidibe (Mali)'
-cover:
 categories: ["motm"]
 author: escada
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Lionel Giard (Belgium)'
-cover:
 categories: ["motm"]
 author: escada
 ---

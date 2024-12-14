@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Yasunari Yamashita (Japan)'
-cover:
 categories: ["motm"]
 author: escada
 ---

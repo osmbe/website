@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Ivan Lievens (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

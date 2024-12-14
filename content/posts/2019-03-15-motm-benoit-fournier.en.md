@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Benoît Fournier (France)"
-cover:
 categories: ["motm"]
 author: pietervdvn
 ---

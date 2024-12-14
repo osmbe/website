@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Nicxon Piaso (Papua New Guinea)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

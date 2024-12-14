@@ -1,6 +1,5 @@
 ---
 title: 'Mapper of the Month: Aylin Kızılaslan (Turkey)'
-cover:
 categories: ["motm"]
 author: Marc Gemis
 ---

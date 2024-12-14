@@ -1,9 +1,8 @@
 ---
 title: 'Mapper of the Month: Wille Marcel (Brazil)'
-cover:
 categories: ["motm"]
 author: escada
-redirect_from: /2018/12/29/en-motm-marcel-wille.html
+aliases: ["/2018/12/29/en-motm-marcel-wille.html"]
 ---
 
 ## Who are you ?

@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Lorenzo Stucchi (Italy)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

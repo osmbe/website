@@ -1,6 +1,5 @@
 ---
 title: "Mapper of the Month: Jean-Louis Stanus (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

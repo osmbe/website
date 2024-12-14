@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Domenico Calvagna (Italy)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

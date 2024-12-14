@@ -1,6 +1,6 @@
 ---
 title: "Hackday GRB"
-author: joost schouppe
+author: Joost Schouppe
 cover: hackday.jpg
 ---
 

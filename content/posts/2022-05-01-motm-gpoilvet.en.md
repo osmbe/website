@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Gpoilvet (Belgium)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---

@@ -1,6 +1,5 @@
 ﻿---
 title: "Mapper of the Month: Mustafa Kamil (Sudan)"
-cover:
 categories: ["motm"]
 author: Pierre Parmentier
 ---
