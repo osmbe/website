@@ -19,3 +19,11 @@ next = "Suivant"
 
 [support]
     corporate_members = "Nos membres *corporate* actuels"
+
+[members]
+    name = "Nom"
+    osm = "OpenStreetMap"
+    location = "Lieu"
+    since = "Membre depuis"
+    world = "Monde"
+    belgium = "Belgique"

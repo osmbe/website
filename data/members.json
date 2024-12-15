@@ -1,0 +1,455 @@
+[
+    {
+        "name": "Ben Abelshausen",
+        "first_name": "Ben",
+        "last_name": "Abelshausen",
+        "username": "Ben Abelshausen",
+        "location": "Wechelderzande",
+        "timestamp": "2016-04-22T19:09:34+00:00",
+        "stats": {
+            "since": "June 21st, 2009",
+            "changesets": {
+                "total": 96566,
+                "belgium": 58444
+            }
+        }
+    },
+    {
+        "name": "Jorieke Vyncke",
+        "first_name": "Jorieke",
+        "last_name": "Vyncke",
+        "username": "Jorieke V",
+        "location": "Wechelderzande",
+        "timestamp": "2016-04-22T19:09:35+00:00",
+        "stats": {
+            "since": "December 02nd, 2010",
+            "changesets": {
+                "total": 3065833,
+                "belgium": 67171
+            }
+        }
+    },
+    {
+        "name": "Seppe Santens",
+        "first_name": "Seppe",
+        "last_name": "Santens",
+        "username": "L'imaginaire",
+        "location": "Aalter",
+        "timestamp": "2019-09-30T13:16:41+00:00",
+        "stats": {
+            "since": "April 09th, 2012",
+            "changesets": {
+                "total": 1108297,
+                "belgium": 998630
+            }
+        }
+    },
+    {
+        "name": "Marc Gemis",
+        "first_name": "Marc",
+        "last_name": "Gemis",
+        "username": "escada",
+        "location": "Reet",
+        "timestamp": "2016-04-22T19:09:36+00:00",
+        "stats": {
+            "since": "April 12th, 2011",
+            "changesets": {
+                "total": 1916546,
+                "belgium": 1752776
+            }
+        }
+    },
+    {
+        "name": "Erik Beerten",
+        "first_name": "Erik",
+        "last_name": "Beerten",
+        "username": "Eebie",
+        "location": "Hasselt",
+        "timestamp": "2023-01-02T10:45:36+00:00",
+        "stats": {
+            "since": "June 30th, 2012",
+            "changesets": {
+                "total": 3034268,
+                "belgium": 2917609
+            }
+        }
+    },
+    {
+        "name": "Joost Schouppe",
+        "first_name": "Joost",
+        "last_name": "Schouppe",
+        "username": "joost schouppe",
+        "location": "Halle",
+        "timestamp": "2017-03-09T10:20:39+00:00",
+        "stats": {
+            "since": "September 14th, 2008",
+            "changesets": {
+                "total": 1137341,
+                "belgium": 509913
+            }
+        }
+    },
+    {
+        "name": "Pierre Parmentier",
+        "first_name": "Pierre",
+        "last_name": "Parmentier",
+        "username": "foxandpotatoes",
+        "location": "Arlon",
+        "timestamp": "2017-04-24T18:13:42+00:00",
+        "stats": {
+            "since": "April 16th, 2009",
+            "changesets": {
+                "total": 1874710,
+                "belgium": 953255
+            }
+        }
+    },
+    {
+        "name": "Lionel Giard",
+        "first_name": "Lionel",
+        "last_name": "Giard",
+        "username": "Anakil",
+        "location": "Chaumont-Gistoux",
+        "timestamp": "2017-03-21T01:29:38+00:00",
+        "stats": {
+            "since": "November 20th, 2015",
+            "changesets": {
+                "total": 546456,
+                "belgium": 509649
+            }
+        }
+    },
+    {
+        "name": "Glenn Plas",
+        "first_name": "Glenn",
+        "last_name": "Plas",
+        "username": "Glenn Plas",
+        "location": "Weerde",
+        "timestamp": "2019-09-30T17:22:01+00:00",
+        "stats": {
+            "since": "July 29th, 2011",
+            "changesets": {
+                "total": 970901,
+                "belgium": 958560
+            }
+        }
+    },
+    {
+        "name": "Steven Clays",
+        "first_name": "Steven",
+        "last_name": "Clays",
+        "username": "wegspotter",
+        "location": "Gent",
+        "timestamp": "2020-08-24T15:51:59+00:00",
+        "stats": {
+            "since": "March 27th, 2011",
+            "changesets": {
+                "total": 1658692,
+                "belgium": 1612600
+            }
+        }
+    },
+    {
+        "name": "Julien Minet",
+        "first_name": "Julien",
+        "last_name": "Minet",
+        "username": "juminet",
+        "location": "Marbehan",
+        "timestamp": "2016-04-22T19:09:37+00:00",
+        "stats": {
+            "since": "August 17th, 2012",
+            "changesets": {
+                "total": 623116,
+                "belgium": 605867
+            }
+        }
+    },
+    {
+        "name": "Maarten Deneckere",
+        "first_name": "Maarten",
+        "last_name": "Deneckere",
+        "username": "",
+        "location": "Wetteren",
+        "timestamp": "2017-02-09T17:09:39+00:00",
+        "stats": null
+    },
+    {
+        "name": "Jean Marie Falisse",
+        "first_name": "Jean Marie",
+        "last_name": "Falisse",
+        "username": "Eleuthere",
+        "location": "Watermael-Boitsfort",
+        "timestamp": "2019-12-14T11:56:13+00:00",
+        "stats": {
+            "since": "May 01st, 2010",
+            "changesets": {
+                "total": 153839,
+                "belgium": 433
+            }
+        }
+    },
+    {
+        "name": "J\u00e9r\u00f4me Le Tourneur",
+        "first_name": "J\u00e9r\u00f4me",
+        "last_name": "Le Tourneur",
+        "username": "Ieronimus",
+        "location": "Schaerbeek",
+        "timestamp": "2017-08-04T09:14:51+00:00",
+        "stats": {
+            "since": "October 06th, 2016",
+            "changesets": {
+                "total": 34100,
+                "belgium": 2558
+            }
+        }
+    },
+    {
+        "name": "Pierre Willot",
+        "first_name": "Pierre",
+        "last_name": "Willot",
+        "username": "Piwi",
+        "location": "Fosses-La-Ville",
+        "timestamp": "2017-12-17T23:13:02+00:00",
+        "stats": {
+            "since": "October 12th, 2010",
+            "changesets": {
+                "total": 70742,
+                "belgium": 17492
+            }
+        }
+    },
+    {
+        "name": "Marc Notredame",
+        "first_name": "Marc",
+        "last_name": "Notredame",
+        "username": "",
+        "location": "Gent",
+        "timestamp": "2018-03-24T11:21:32+00:00",
+        "stats": null
+    },
+    {
+        "name": "Pieter Vandecasteele",
+        "first_name": "Pieter",
+        "last_name": "Vandecasteele",
+        "username": "",
+        "location": "Aalter",
+        "timestamp": "2018-07-18T21:46:39+00:00",
+        "stats": null
+    },
+    {
+        "name": "Tim Couwelier",
+        "first_name": "Tim",
+        "last_name": "Couwelier",
+        "username": "Tim Couwelier",
+        "location": "Roeselare",
+        "timestamp": "2018-10-28T11:39:36+00:00",
+        "stats": {
+            "since": "December 15th, 2017",
+            "changesets": {
+                "total": 452159,
+                "belgium": 446873
+            }
+        }
+    },
+    {
+        "name": "Kurt Roeckx",
+        "first_name": "Kurt",
+        "last_name": "Roeckx",
+        "username": "Kurt Roeckx",
+        "location": "Tildonk",
+        "timestamp": "2018-11-01T23:21:50+00:00",
+        "stats": {
+            "since": "March 02nd, 2008",
+            "changesets": {
+                "total": 51132,
+                "belgium": 30372
+            }
+        }
+    },
+    {
+        "name": "Pieter Vander Vennet",
+        "first_name": "Pieter",
+        "last_name": "Vander Vennet",
+        "username": "Pieter Vander Vennet",
+        "location": "Gent",
+        "timestamp": "2017-10-17T18:44:52+00:00",
+        "stats": {
+            "since": "April 13th, 2016",
+            "changesets": {
+                "total": 935763,
+                "belgium": 874379
+            }
+        }
+    },
+    {
+        "name": "Pieter Fiers",
+        "first_name": "Pieter",
+        "last_name": "Fiers",
+        "username": "pfiers",
+        "location": "Schiplaken",
+        "timestamp": "2017-11-28T15:23:48+00:00",
+        "stats": {
+            "since": "April 08th, 2016",
+            "changesets": {
+                "total": 140049,
+                "belgium": 122935
+            }
+        }
+    },
+    {
+        "name": "Guillaume Rischard",
+        "first_name": "Guillaume",
+        "last_name": "Rischard",
+        "username": "Stereo",
+        "location": "Brussels",
+        "timestamp": "2020-01-19T23:03:32+00:00",
+        "stats": {
+            "since": "May 27th, 2008",
+            "changesets": {
+                "total": 1102906,
+                "belgium": 16757
+            }
+        }
+    },
+    {
+        "name": "Kevin Baker",
+        "first_name": "Kevin",
+        "last_name": "Baker",
+        "username": "Kevin@RouteYou",
+        "location": "Gent",
+        "timestamp": "2021-04-12T12:53:28+00:00",
+        "stats": {
+            "since": "May 10th, 2012",
+            "changesets": {
+                "total": 6394,
+                "belgium": 5563
+            }
+        }
+    },
+    {
+        "name": "Micha\u00ebl Dierick",
+        "first_name": "Micha\u00ebl",
+        "last_name": "Dierick",
+        "username": "MikiDi",
+        "location": "Jette",
+        "timestamp": "2022-01-09T14:05:29+00:00",
+        "stats": {
+            "since": "September 23rd, 2015",
+            "changesets": {
+                "total": 131136,
+                "belgium": 65124
+            }
+        }
+    },
+    {
+        "name": "Thierry Jim\u00e9nez",
+        "first_name": "Thierry",
+        "last_name": "Jim\u00e9nez",
+        "username": "Thierry1030",
+        "location": "Brussels",
+        "timestamp": "2020-10-19T06:00:56+00:00",
+        "stats": {
+            "since": "May 11th, 2010",
+            "changesets": {
+                "total": 116265,
+                "belgium": 112042
+            }
+        }
+    },
+    {
+        "name": "Thibault Molleman",
+        "first_name": "Thibault",
+        "last_name": "Molleman",
+        "username": "Thibaultmol",
+        "location": "Ruiselede",
+        "timestamp": "2020-08-10T06:45:55+00:00",
+        "stats": {
+            "since": "May 15th, 2015",
+            "changesets": {
+                "total": 101385,
+                "belgium": 95812
+            }
+        }
+    },
+    {
+        "name": "Johan Joubert",
+        "first_name": "Johan",
+        "last_name": "Joubert",
+        "username": "JohanWJoubert",
+        "location": "Leuven",
+        "timestamp": "2023-02-14T20:23:56+00:00",
+        "stats": {
+            "since": "April 28th, 2009",
+            "changesets": {
+                "total": 16495,
+                "belgium": 0
+            }
+        }
+    },
+    {
+        "name": "Balder Bongaerts",
+        "first_name": "Balder",
+        "last_name": "Bongaerts",
+        "username": "",
+        "location": "",
+        "timestamp": "2023-09-13T17:40:42+00:00",
+        "stats": null
+    },
+    {
+        "name": "Jason Bertiaux",
+        "first_name": "Jason",
+        "last_name": "Bertiaux",
+        "username": "",
+        "location": "Ressaix",
+        "timestamp": "2024-01-10T13:22:40+00:00",
+        "stats": null
+    },
+    {
+        "name": "Jonathan Beli\u00ebn",
+        "first_name": "Jonathan",
+        "last_name": "Beli\u00ebn",
+        "username": "jbelien",
+        "location": "Bruxelles",
+        "timestamp": "2017-12-17T14:32:21+00:00",
+        "stats": {
+            "since": "October 11th, 2012",
+            "changesets": {
+                "total": 129597,
+                "belgium": 92316
+            }
+        }
+    },
+    {
+        "name": "Marjan Van de Kauter",
+        "first_name": "Marjan",
+        "last_name": "Van de Kauter",
+        "username": "Mappers_Delight",
+        "location": "Gent",
+        "timestamp": "2024-03-20T14:12:41+00:00",
+        "stats": {
+            "since": "March 08th, 2022",
+            "changesets": {
+                "total": 968,
+                "belgium": 949
+            }
+        }
+    },
+    {
+        "name": "Matis Gillet",
+        "first_name": "Matis",
+        "last_name": "Gillet",
+        "username": "",
+        "location": "Barben\u00e7on",
+        "timestamp": "2024-08-07T18:58:26+00:00",
+        "stats": null
+    },
+    {
+        "name": "Luna Isebaert",
+        "first_name": "Luna",
+        "last_name": "Isebaert",
+        "username": "",
+        "location": "Tervuren",
+        "timestamp": "2024-10-12T09:02:34+00:00",
+        "stats": null
+    }
+]

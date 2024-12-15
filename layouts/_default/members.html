@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">{{ .Title }}</h2>
+<div class="flex gap-x-2">
+    {{- partial "translations.html" . }}
+</div>
+<div id="content" class="mt-10 space-y-4 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16">
+
+    {{ .Content }}
+
+    <table class="min-w-full divide-y divide-gray-300">
+        <thead>
+            <tr class="divide-x divide-gray-200">
+                <th scope="col" class="py-3.5 pl-2 pr-2 text-left text-sm font-semibold text-gray-900 sm:pl-0">{{ i18n "members.name" }}</th>
+                <th scope="col" class="px-2 py-3.5 text-left text-sm font-semibold text-gray-900" colspan="2">{{ i18n "members.osm" }}</th>
+                <th scope="col" class="px-2 py-3.5 text-left text-sm font-semibold text-gray-900">{{ i18n "members.location" }}</th>
+                <th scope="col" class="py-3.5 pl-2 pr-2 text-left text-sm font-semibold text-gray-900 sm:pr-0">{{ i18n "members.since" }}</th>
+            </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-200 bg-white">
+            {{- range sort .Site.Data.members "last_name" }}
+            <tr class="divide-x divide-gray-200">
+                <td class="whitespace-nowrap py-2 pl-2 pr-2 text-sm font-medium text-gray-900 sm:pl-0">{{ .name }}</td>
+                <td class="whitespace-nowrap p-2 text-sm text-gray-500">
+                    <a href="https://www.openstreetmap.org/user/{{ .username }}" target="_blank" rel="noopener noreferrer">
+                        {{ .username }}
+                    </a>
+                </td>
+                <td class="whitespace-nowrap p-2 text-sm text-gray-500">{{ .location }}</td>
+                <td class="whitespace-nowrap p-2 text-sm text-gray-500">
+                    {{- $username := .username }}
+                    {{- with .stats }}
+                        {{ .since }}<br>
+                        {{- with .changesets }}
+                            <a target="_blank" href="https://hdyc.neis-one.org/?{{ $username }}" rel="noopener noreferrer">{{ i18n "members.world" }}: {{ .total }} - {{ i18n "members.belgium" }}: {{ .belgium }}</a>
+                        {{- end }}
+                    {{- end }}
+                </td>
+                <td class="whitespace-nowrap py-2 pl-2 pr-2 text-sm text-gray-500 sm:pr-0">{{ .timestamp | time.Format ":date_medium" }}</td>
+            </tr>
+            {{- end }}
+        </tbody>
+    </table>
+</div>
+
+{{ end }}
