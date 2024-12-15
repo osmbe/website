@@ -9,8 +9,8 @@ aliases: ["/signup.html"]
 
 ## Meet us
 
-We regularly organize mapathons and meetups.  
-You can subscribe to our events on [Meetup.com](https://www.meetup.com/OpenStreetMap-Belgium/) or check our Calendar.
+We regularly organize [mapathons]({{< ref "projects/mapathons.md" >}}) and [meetups]({{< ref "categories/event" >}}).  
+You can subscribe to our events on [Meetup.com](https://www.meetup.com/OpenStreetMap-Belgium/) or check our [calendar](https://osmcal.org/?in=Belgium).
 
 ## Join us
 

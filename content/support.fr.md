@@ -8,8 +8,8 @@ menu:
 
 ## Nous rencontrer
 
-Nous organisons régulièrement des mapathons et des rencontres.  
-Vous pouvez retrouver nos événements sur notre page [Meetup](https://www.meetup.com/OpenStreetMap-Belgium/), ou dans notre calendrier d'activités.
+Nous organisons régulièrement des [mapathons]({{< ref "projects/mapathons.md" >}}) et des [rencontres]({{< ref "categories/event" >}}).  
+Vous pouvez retrouver nos événements sur notre page [Meetup](https://www.meetup.com/OpenStreetMap-Belgium/), ou dans notre [calendrier d'activités](https://osmcal.org/?in=Belgium).
 
 ## Nous rejoindre
 
