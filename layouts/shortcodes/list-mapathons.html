@@ -1,0 +1,7 @@
+<ul>
+    {{ range where .Site.RegularPages "Params.tags" "intersect" (slice "mapathon") }}
+    <li>
+        {{ .Date | time.Format ":date_medium" }} - <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>

@@ -15,6 +15,6 @@ Anyone can help! All it takes is a laptop and a computer mouse. We will teach yo
 Do you want a Mapathon near you? [Contact us]({% link fr/contact.html %}) !  
 We have had several Mapathons in Brussels, Antwerp, and Ghent, and there have been events in Leuven, Namur, Liege, Louvain-La-Neuve.
 
-## Précédents mapathons :
+## Précédents mapathons
 
-{% include list-mapathons.html %}
+{{< list-mapathons >}}
