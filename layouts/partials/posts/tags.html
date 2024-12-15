@@ -1,9 +1,7 @@
 <h2>Tags</h2>
 
-<ul>
-    {{- range .Site.Taxonomies.tags }}
-    <li>
-        <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
-    </li>
-    {{- end }}
-</ul>
+{{- range .Site.Taxonomies.tags }}
+
+<a href="{{ .Page.RelPermalink }}" class="inline-flex items-center rounded-full bg-gray-50 px-2 py-1 text-xs font-medium text-gray-600 ring-1 ring-inset ring-gray-500/10 hover:bg-gray-100">{{ .Page.LinkTitle }}</a>
+
+{{- end }}
