@@ -15,7 +15,7 @@ You can subscribe to our events on [Meetup.com](https://www.meetup.com/OpenStree
 ## Join us
 
 Are you ready to step up your commitment to OpenStreetMap in Belgium ?  
-Then become one of the **members** of our organization, by contacting us at <board@osm.be>.  
+Then become one of the [**members**]({{< ref "members.md" >}}) of our organization, by contacting us at <board@osm.be>.  
 Membership is free for individuals. Just a paragraph to introduce yourself is enough.  
 Members can choose the Board and can vote during [official meetings](https://github.com/osmbe/working-group-bylaws/tree/master/minutes).
 

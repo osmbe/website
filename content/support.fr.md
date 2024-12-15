@@ -14,7 +14,7 @@ Vous pouvez retrouver nos événements sur notre page [Meetup](https://www.meetu
 ## Nous rejoindre
 
 Êtes-vous prêt à renforcer votre engagement envers OpenStreetMap en Belgique?  
-Devenez un **membre officiel** de notre organisation en nous contactant à l'adresse <board@osm.be>.  
+Devenez un [**membre officiel**]({{< ref "members.md" >}}) de notre organisation en nous contactant à l'adresse <board@osm.be>.  
 Devenir membre est totalement gratuit pour les particuliers, il suffit juste de nous contacter en nous expliquant brièvement qui vous êtes.  
 Les membres peuvent élire le Conseil d'Administration et voter durant les [réunions officielles](https://github.com/osmbe/working-group-bylaws/tree/master/minutes).
 
