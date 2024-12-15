@@ -11,6 +11,8 @@ Jacques Fondaire username: [`jfonda`](https://www.openstreetmap.org/user/jfonda)
 Jacques, would you like to briefly introduce yourself to our readers?
 : At the age of 12, I learned to read and use IGN maps with a Recta compass, which allowed me to move almost anywhere. Today I am retired and I am interested in tourism projects. I live in Athus, a small Belgian town 500 m from Luxembourg and 2 km from France.
 
+<!--more-->
+
 How and when did you discover OpenStreetMap?
 : Five years ago, I discovered OpenStreetMap through the OsmAnd application installed on my smartphone. Two years ago, I participated in a training course on encoding organised at the Espace Public Numérique in Arlon. From a consumer, I became a producer.
 

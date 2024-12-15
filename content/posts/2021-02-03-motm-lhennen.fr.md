@@ -9,6 +9,8 @@ Sa [page personnelle](https://www.openstreetmap.org/user/lhennen) et sa [page de
 Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Bonjour ! Je m'appelle Luka, j'ai 22 ans et je vis en Communauté germanophone de Belgique, aussi connue sous le nom de *Ostbelgien*.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai découvert OpenStreetMap il y a deux ans alors que je cherchais des alternatives à Google Maps pour l'intégration de cartes sur les sites web. J'ai été ravi par l'historique d'OpenStreetMap en matière de logiciels libres et par la grande communauté qui le soutient.
 

@@ -10,6 +10,8 @@ Sa [page personnelle](https://www.openstreetmap.org/user/PlayzinhoAgro) et sa [p
 Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je m'appelle Gustavo Soares (PlayzinhoAgro). Avec la quarantaine, j'ai fini par devenir un cartographe bénévole à plein temps. Je suis également un fan d'[ElementaryOS](https://elementary.io/) et un activiste du logiciel libre. Mon éditeur préféré a été IDv3 et j'ai essayé d'utiliser JOSM. J'ai utilisé une instance du projet DAMN, [Divide and map. Now.](https://www.damn-project.org/) comme gestionnaire de tâches. C'est une excellente alternative au gestionnaire de tâches HOT auto-hébergé, principalement parce qu'il est léger. Au début, je l'ai utilisé avec un serveur de 500 Mo et 1vCPU facile à installer. J'avais l'habitude de cartographier les villes de l'État du Maranhão au Brésil. Actuellement je travaille à Timon (Maranhão) où je vis mais je poste toujours de nouvelles zones dans le [Mapeia.space](https://tarefas.mapeia.space/).
 
+<!--more-->
+
 ![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
 
 Comment et quand as-tu découvert OpenStreetMap ?

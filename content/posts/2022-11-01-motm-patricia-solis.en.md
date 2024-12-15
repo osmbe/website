@@ -10,6 +10,8 @@ Her [homepage](https://www.openstreetmap.org/user/Patricia%20Solis) and her [con
 Hello Patricia. Would you like to briefly introduce yourself to our readers?
 : I live in Tempe, Arizona, USA. I am 51 years old, married to a Panamanian and the mother of two. Both boys are in college now. I have a twin sister.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I was invited to start mapping on OSM during the Haiti Earthquake in 2010 by a friend working in the humanitarian sector. I created an account, contributed, but lost track. I returned to map again in about 2014.
 

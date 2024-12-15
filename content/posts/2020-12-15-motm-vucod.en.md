@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Vucod) and his [contribution p
 Hello Vucod! Would you like to briefly introduce yourself to our readers?
 : My username is Vucod. I have been fascinated by maps since I was a child. Whether it's to orientate myself in nature or to memorize them, they fascinate me. I am a regular hiker and the Ardennes is the destination where I practice the most.
 
+<!--more-->
+
 How and when did you discover OpenStreetMap?
 : I discovered OpenStreetMap in 2018 during a Mapathon organised with MSF (Médecins Sans Frontières - Doctors without Borders). It was on this occasion that I made my first contributions.
 

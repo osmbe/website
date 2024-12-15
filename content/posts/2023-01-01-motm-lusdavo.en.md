@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/lusdavo) and his [contribution
 Hello David. Would you like to briefly introduce yourself to our readers?
 : I am 35 years old, married and a father of four children. I live in Kampala, Uganda's capital.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : In 2014 while working with *Uganda Bureau of Statistics* (UBOS), a group of contributors came to speak about OpenStreetMap to UBOS's Division of GIS, and to ask for some datasets that the institution maintained for addition to OpenStreetMap.
 

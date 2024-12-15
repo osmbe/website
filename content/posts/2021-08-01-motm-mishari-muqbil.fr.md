@@ -11,6 +11,8 @@ Bonjour Misrahi ! Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je co-organise l'Open Tech Summit Thailand, une conférence internationale sur les logiciels libres, j'ai co-fondé CoderDojo Thailand, une communauté de programmation gratuite pour les enfants de 7 à 17 ans, je co-organise Bangkok Scientifique, un meetup pour améliorer la culture scientifique, et je fais partie de la communauté Homeschooling parce que j'ai toujours pensé que l'apprentissage dans les communautés (comme OpenStreetMap) avait plus d'impact que l'apprentissage à l'école.
 : Je suis également un investisseur providentiel, avec des intérêts mineurs dans l'immobilier, l'agriculture, le commerce social, etc.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai un compte depuis 2012, mais je suis probablement actif depuis environ six ans. J'ai été introduit à OpenStreetMap par _jandetlefsen_.
 

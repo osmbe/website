@@ -10,6 +10,8 @@ Bonjour Gpoilvet. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je m'appelle Gpoilvet, j'ai 23 ans et j'habite à Lokeren. Mes hobbies sont le dessin, le vélo, l'histoire, l'interprétation des paysages et OpenStreetMap.
 : Je suis maintenant à la fin de mon Master en Géographie-Géomatique à l'UGent (Université de Gand) en Belgique.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai fait connaissance avec OpenStreetMap en 2019 à l'université de Gand. Un Mapathon a été organisé au cours duquel nous avons cartographié les routes de l'est du Congo pour l'aide humanitaire.
 

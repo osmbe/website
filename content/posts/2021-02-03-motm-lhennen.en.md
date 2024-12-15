@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/lhennen) and his [contributor 
 Would you like to briefly introduce yourself to our readers?
 : Hi! I'm Luka, 22 years old and living in the German speaking community of Belgium, also known as *Ostbelgien*.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I came across OpenStreetMap two years ago when I was looking for alternatives to Google Maps for map embedding on websites. I was pleased by OpenStreetMap's open source background and the large community behind it.
 

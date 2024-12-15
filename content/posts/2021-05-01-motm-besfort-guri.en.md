@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/BesfortGuri) and his [contribu
 Hello Besfort! Would you like to briefly introduce yourself to our readers?
 : I am Besfort Guri from Prizren, Kosovo, the youngest country in Europe. I am a board member at [FLOSSK (Free Libre Open Source Software Kosova)][1] an NGO that promotes FLOSS in Kosovo. I also run a small company called [OpS-IN][2] where we develop software based on GIS.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : FLOSSK in 2009 organized for the first time a conference called [Software Freedom Kosova][3], during this conference I was introduced to OpenStreetMap. Then I started to contribute to <https://wiki.openstreetmap.org> translating into Albanian different materials and also mapping.
 

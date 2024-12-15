@@ -9,6 +9,8 @@ Sa [homepage](https://www.openstreetmap.org/user/Nicxon%20Piaso) et sa [page de 
 Bonjour Nicxon. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je suis géomètre de profession et j'ai obtenu un diplôme de géomètre à la Papua New Guinea University of Technology (l'Université de technologie de Papouasie-Nouvelle-Guinée). Je travaille comme géomètre des mines et une partie de mon rôle consiste à établir des cartes à l'aide de logiciels 3D. Je m'intéresse également à la cartographie à code source ouvert, qui permet à tous d'accéder facilement aux cartes.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai découvert OpenStreetMap en 2006 mais je n'étais pas vraiment intéressé car je n'en avais pas connaissance. De plus, en Papouasie-Nouvelle-Guinée, peu de cartographes connaissent OpenStreetMap et ses nombreux avantages pour la société. Après avoir consulté OpenStreetMap et constaté que la majeure partie de la Papouasie-Nouvelle-Guinée n'était pas cartographiée, en particulier dans ma province, j'ai commencé à remplir des cartes dans ma ville, puis dans d'autres villes du pays.
 

@@ -10,6 +10,8 @@ His [homepage](https://www.openstreetmap.org/user/PlayzinhoAgro) and his [contri
 Would you like to briefly introduce yourself to our readers?
 : My name is Gustavo Soares (PlayzinhoAgro). With the quarantine I ended up becoming a full-time volunteer mapper. I am also an [ElementaryOS](https://elementary.io/) fanboy and free software activist. My favourite editor has been IDv3 and I have tried to use JOSM. I have used an instance of DAMN Project, [Divide and map. Now.](https://www.damn-project.org/) as a task manager. It is a great alternative to the self-hosted HOT task manager mainly for being light. In the beginning I used it with a server with 500mb and 1vCPU being easy to install. I used to map cities in the state of Maranhão in Brazil. Currently I have been working in Timon, Maranhão where I now I live but I'm always posting new areas in the [Mapeia.space](https://tarefas.mapeia.space/).
 
+<!--more-->
+
 ![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
 
 How and when did you get to know OpenStreetMap?

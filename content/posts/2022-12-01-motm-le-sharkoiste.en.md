@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/LeSharkoiste) and his [contrib
 Hello Sharko. Would you like to briefly introduce yourself to our readers?
 : Why not? I am an 18 year old Belgian (almost 19 at the time of writing) living in Binche, a small town between Mons and Charleroi in Belgium. My mother tongue is French, although my English is very good. I use it every day on the Internet.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I don't remember exactly *when* I discovered OpenStreetMap, but it seems to me to have discovered it while looking for alternatives to Google Maps, some of which were far less up-to-date with places of interest no longer existing, roads with old names, routes not possible. And above all they were generally designed for driving. My first contribution, in October 2020, was the addition of a nursery school that was not represented on the map.
 

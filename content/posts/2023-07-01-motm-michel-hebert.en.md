@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/chimel38) and his [contributio
 Hello Michel. Would you like to briefly introduce yourself to our readers?
 : I am a retired man - three quarters of a century old - and the current president of an association in my town that has nothing to do with OpenStreetMap. I practice cycling for fun and to stay in shape, and I have been a member of the local OpenStreetMap group in Grenoble for several years. I am not a computer scientist but I pay a particular attention to this environment.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : Several years ago and practicing cycling I wanted to put a track on my GPS, track created from a routing application which then presented problems of blocking at a particular point on OpenStreetMap. Curious I wanted to know more about OpenStreetMap to solve these problems, and this was my first step in the OpenStreetMap universe and to make my first contributions. And as I was relatively active I was contacted by a local member from the Grenoble area. A map party in the municipality of Vif was the starting point for meeting enthusiasts and contributing in all practical and material aspects at a time when smartphone applications did not exist.
 

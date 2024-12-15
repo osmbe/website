@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/domikdomik) and his [contribut
 Hello Domenico ! Would you like to briefly introduce yourself to our readers?
 : I am 60 years old, married and the father of a girl. I live in Ravenna (Italy).
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I met OpenStreetMap in 2011 during a Linux party.
 

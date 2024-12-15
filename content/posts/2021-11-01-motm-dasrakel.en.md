@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Dasrakel) and [contributor pag
 Hello. Would you like to introduce yourself to our readers?
 : My name is Karel, online is Dasrakel. I live and map in Roeselare, Belgium. My first experience with cartography was using GIS and the Google Maps API on the internship of my education MCT. I work as a programmer / IT professional. OpenStreetMap is completely separate for me, it's one of my hobbies.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I am pretty well versed in free software, I use it and have helped with translations. I came across OpenStreetMap through that, how or where I don't remember exactly. I do remember that it was quite popular with people trying to avoid Google. I also cultivated an appreciation for accessible licences and allowing people to contribute anonymously.
 : In the beginning, I mapped buildings based on Bing satellite photos. That also worked, but with JOSM and the GRB &mdash; the Large-scale Reference File or Base map of Flanders &mdash; it is now much easier to make good contributions. I have also gone back to those first places to improve my own contributions. They were not wrong, but I can do better now.

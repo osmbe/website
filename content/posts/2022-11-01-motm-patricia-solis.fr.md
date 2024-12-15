@@ -10,6 +10,8 @@ Sa [homepage](https://www.openstreetmap.org/user/Patricia%20Solis) et sa [page d
 Bonjour Patricia. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je vis à Tempe, en Arizona, aux États-Unis. J'ai 51 ans, je suis mariée à un Panaméen et mère de deux enfants. Les deux garçons sont maintenant à l'université. J'ai une sœur jumelle.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai été invitée à commencer à cartographier sur OpenStreetMap lors du tremblement de terre d'Haïti en 2010 par un ami travaillant dans le secteur humanitaire. J'ai créé un compte, j'ai contribué, mais j'ai perdu le fil. Je suis revenue pour cartographier à nouveau vers 2014.
 

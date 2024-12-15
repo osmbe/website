@@ -10,6 +10,8 @@ Bonjour Joost ! Il y a huit ans, ton interview a été publiée dans notre rubri
 : Bonjour P, merci de m'inviter de nouveau!
 : Je suis un cartographe et un organisateur communautaire. J'ai participé à la création du chapitre belge et de la communauté. Je fais partie du conseil d'administration d'OpenStreetMap Belgique depuis le début. Je suis toujours un peu impliqué dans la Fondation OpenStreetMap (OSMF) et j'ai fait partie du conseil d'administration de l'OSMF pendant deux ans.
 
+<!--more-->
+
 Es-tu toujours actif en sociologie, ta formation de base ?
 : Oui, un peu. Je travaille avec des données qui ont généralement trait aux personnes et à leur mode de vie. Ma formation m'aide à faire parler ces données de manière significative.
 

@@ -9,6 +9,8 @@ Sa [page personnelle](https://www.openstreetmap.org/user/Alouette955) et sa [pag
 Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Mon prénom est Claude. Étant assez discret, je cache mon identité sous le nom d'utilisateur alouette955. Ce nom d'utilisateur me suis depuis l'époque des BBS ce qui vous indique mon âge. Je suis retraité et habite la grande région de Montréal. J'aime les activités solitaires comme la cartographie, la généalogie et le vélo.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : En 2010 j'avais premier GPS de randonnée et je privilégiais les cartes gratuites. J'ai cherché une carte navigable pour cycliste et ai trouvé la page du wiki OpenStreetMap concernant la fabrication de carte cyclable pour Garmin à partir d'OpenStreetMap. J'ai appris à fabriquer mes propres cartes. Je me suis vite aperçu que des données manquaient et j'ai compris qu'il ne tenait qu'à moi de les ajouter, qu'il suffisait d'apprendre.
 

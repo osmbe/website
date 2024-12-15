@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/ThierryHancart) and his [contr
 Hello Thierry! Would you like to briefly introduce yourself to our readers?
 : My name is Thierry Hancart and I live in the municipality of Gedinne, south of the province of Namur. When I was young, with the scouts, I became familiar with maps reading. Geography and history are areas that interest me. Passionate about hiking and photography, and interested in computers, I directed myself to OpenStreetMap at the time of the retreat.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : In 2015, attracted by the spirit of free software, I looked for alternatives to the usual Windows, Google, Google Maps, … I discovered OpenStreetMap in the course of this research and the idea of participating in this project came to me to be obvious. After exploring the documentation – the wiki mainly – and taking notes, I started in July 2015.
 

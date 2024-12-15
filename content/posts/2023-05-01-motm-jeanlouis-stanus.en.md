@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Jean-Louis%20Stanus) and his [
 Hello Jean-Louis ! Would you like to briefly introduce yourself to our readers?
 : I really enjoy collecting data in the field on foot, by bike or by car. I also enjoy hiking and caving. I like to travel and visit my family and friends all over Wallonia. This gives me many opportunities to contribute to the project. I live in Namur. On the other hand, my profession is GIS analyst for the city of Brussels at I-City.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I needed some free maps for my Garmin 60CSx. I then discovered that the data for these maps came from a collaborative project similar to Wikipedia. I lived in Frasnes-lez-Anvaing where there were only a few roads. With an extra GPS logger and my mountain bike, I was able to complete this region quite a bit.
 

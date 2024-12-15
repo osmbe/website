@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Zverik) and his [contribution 
 Hello Ilya. Would you like to briefly introduce yourself to our readers?
 : Hi, I'm Ilya, and I love everything around open maps. I have done a lot of things with OpenStreetMap, including mapping, software, conferences, OpenStreetMap Foundation work, and writing. When I move places, it's always exciting, because - yay, new area to map! This project is like one unending source of excitement for me, which I really like.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : Twelve years ago I was looking for a good free cycling map of Finland, and among the options, the OpenStreetMap-based one was the best. After the ride, I was looking into contributing some fixes to the road network, and it went downhill from there. I had read about OpenStreetMap before that in some tech magazines, but I promptly forgot about it. Nothing beats having a problem and seeing a global map getting better because of your actions.
 

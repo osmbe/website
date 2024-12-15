@@ -10,6 +10,8 @@ Hello Joost! Eight years ago, your interview appeared in our *Mapper of the Mont
 : Hi Pierre, thanks for having me again :)
 : I'm a mapper and community organizer. I helped start the Belgian chapter and community. I've been on the Board of OpenStreetMap Belgium from the start. I'm still a little involved in the OpenStreetMap Foundation (OSMF)and I was on the OSMF Board for two years.
 
+<!--more-->
+
 Are you still active in sociology, your basic training?
 : Somewhat. I work with data that generally relates to people and how they live. My background helps to let that data speak in a meaningful way.
 

@@ -9,6 +9,8 @@ Sa [page personnelle](https://www.openstreetmap.org/user/Vucod) et sa [page de c
 Bonjour Vucod ! Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Mon pseudo est Vucod. Depuis petit déjà, je suis fasciné par les cartes. Que ce soit pour m'orienter dans la nature ou pour les mémoriser, elles me passionnent. Je suis un randonneur régulier et l'Ardenne est la destination où je pratique le plus.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai découvert OpenStreetMap en 2018 à l'occasion d'un Mapathon organiser avec MSF (Médecins Sans Frontières). C'est à cette occasion que j'ai fait mes premières contributions.
 

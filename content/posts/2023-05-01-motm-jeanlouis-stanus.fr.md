@@ -9,6 +9,8 @@ Sa [homepage](https://www.openstreetmap.org/user/Jean-Louis%20Stanus) et sa [pag
 Bonjour Jean-Louis. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : J'aime beaucoup la collecte de données sur le terrain à pied, à vélo ou en voiture. J'aime aussi la randonnée et je fais de la spéléologie. J'aime voyager et aller voir ma famille et mes amis un peu partout en Wallonie. Ce qui me donne de nombreuses occasions pour contribuer au projet. J'habite Namur. D'autre part, ma profession est analyste SIG pour la ville de Bruxelles chez I-City.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'avais besoin de cartes gratuites pour mon Garmin 60CSx. J'ai alors découvert que les données de ces cartes provenaient d'un projet collaboratif analogue à Wikipédia. J'habitais Frasnes-lez-Anvaing où il n'y avait que quelques routes. Avec un logger GPS en plus et mon VTT, j'ai pu compléter pas mal cette région.
 

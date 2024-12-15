@@ -8,7 +8,9 @@ His [homepage](https://www.openstreetmap.org/user/Jorisbo) and his [contributor 
 
 Hello Jorisbo. Would you like to briefly introduce yourself to our readers?
 : Hello everyone, my name is Joris Bo from Antwerp, about half a century on this planet and avid OpenStreetMap user.
-A job in ICT, no children and a partner who also does a lot of work. As a compensation we are away for many weekends and holidays. Especially long bike rides and mountain hiking are our great hobbies.
+: A job in ICT, no children and a partner who also does a lot of work. As a compensation we are away for many weekends and holidays. Especially long bike rides and mountain hiking are our great hobbies.
+
+<!--more-->
 
 How and when did you get to know OpenStreetMap?
 : I once took my father's Garmin GPS with me on a holiday to Italy to give it a try. Before that I walked with official maps. On holiday it turned out that the official Garmin map was quite expensive for a week's holiday. After some googling and a lot of research I ended up at the mkgmap community to make my own maps for the GPS based on OpenStreetMap.

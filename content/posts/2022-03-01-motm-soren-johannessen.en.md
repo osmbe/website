@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/AE35) and his [contribution pa
 Hello Søren. Would you like to briefly introduce yourself to our readers?
 : I am living about 50 km outside Copenhagen in Denmark. My educational background is in Library and Information Science. For living I am working as an GIS consultant, which sometimes also including OpenStreetMap data as solutions for my clients. As an good example ― for Ballerup Municipality ―, I have done some import OpenStreetMap data regarding bicycle network, max-speed-zones, artworks, E-charging-stations, etc. into their PostgreSQL/PostGIS database.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I really can't remember where and when I heard about OpenStreetMap for the first time ― but my OpenStreetMap account was made in 2007.
 

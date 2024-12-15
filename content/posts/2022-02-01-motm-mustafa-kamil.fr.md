@@ -8,7 +8,9 @@ Sa [homepage](https://www.openstreetmap.org/user/mustafakamil) et sa [page de co
 
 Bonjour Mustafa. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Mon nom est Mustafa Kamil. Je contribue à OpenStreetMap sous le nom d'utilisateur mustafakamil. Je vis et travaille en Arabie saoudite. Mais je suis originaire du Soudan.
-Je suis un grand fan et un utilisateur avide de l'open-source.
+: Je suis un grand fan et un utilisateur avide de l'open-source.
+
+<!--more-->
 
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai découvert OpenStreetMap le 1er mai 2014. Lorsque j'ai installé une distribution de Linux dans mon ordinateur portable (Ubuntu). J'ai trouvé Merkaartor dans le répertoire d'applications, qui est un éditeur OpenStreetMap pour Linux. Et c'est ici que le voyage a commencé avec OpenStreetMap.

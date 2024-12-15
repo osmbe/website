@@ -9,6 +9,8 @@ Sa [homepage](https://www.openstreetmap.org/user/gendy54) et sa [page de contrib
 Bonjour Donat. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je suis un homme de 37 ans. Je suis originaire de Nancy en Lorraine, en France. J'habite à côté de Paris depuis 10 ans. Je travaille dans les ressources humaines en milieu hospitalier.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : Je ne m'en rappelle plus du tout. Ce que je peux dire c'est que j'ai toujours été un amoureux des cartes. J'aimais m'endormir en feuilletant les pages d'un guide Michelin ou d'une carte de l'Institut Géographique National (IGN). Plus jeune, j'ai gagné un concours où le prix était une carte IGN des itinéraires VTT. J'étais très fier.
 

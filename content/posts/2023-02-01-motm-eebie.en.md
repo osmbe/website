@@ -10,6 +10,8 @@ His [homepage](https://www.openstreetmap.org/user/Eebie) and his [contribution p
 Hello Erik! Would you like to briefly introduce yourself to our readers?
 : My name is Erik and I live in Hasselt in Belgian Limburg. I map under my initials Eebie. I am 65 years old and recently retired.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I started using OpenStreetMap in 2012 after buying a Garmin GPS for cycling. I had always been fascinated by maps and a few years before, I had come across OpenStreetmap on the internet when searching for online maps. Back then, OpenStreetMap was not interesting at all. Belgium was still almost completely blank. In 2012, however, OpenStreetMap was already usable. It contained enough larger roads not to get lost. The land consolidation roads in South Limburg, which are now popular cycling routes, were not yet on it. By figuring out how to get those missing roads on the map too, I became *contributor*.
 

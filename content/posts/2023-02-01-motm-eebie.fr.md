@@ -10,6 +10,8 @@ Sa [homepage](https://www.openstreetmap.org/user/Eebie) et sa [page de contribut
 Bonjour Erik. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Je m'appelle Erik et j'habite à Hasselt dans le Limbourg belge. Je cartographie sous mes initiales Eebie. J'ai 65 ans et j'ai récemment pris ma retraite.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai commencé à utiliser OpenStreetMap en 2012 après avoir acheté un GPS Garmin pour le cyclisme. J'ai toujours été fasciné par les cartes et, quelques années auparavant, j'étais tombé sur OpenStreetmap sur internet en cherchant des cartes en ligne. À l'époque, OpenStreetMap n'était pas du tout intéressant. La Belgique était encore presque complètement vide. En 2012, cependant, OpenStreetMap était déjà utilisable. Il contenait suffisamment de grandes routes pour ne pas se perdre. Les routes de remembrement du sud du Limbourg, qui sont aujourd'hui des itinéraires cyclables populaires, n'y figuraient pas encore. En trouvant le moyen de faire figurer ces routes manquantes sur la carte, je suis devenu un *contributeur*.
 

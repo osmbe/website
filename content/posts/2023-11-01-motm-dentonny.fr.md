@@ -9,6 +9,8 @@ Sa [homepage](https://www.openstreetmap.org/user/dentonny) et sa [page de contri
 Bonjour Bob. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Tout d'abord, je vous remercie de m'avoir fait l'honneur de me contacter en tant que contributeur du mois. Mon vrai nom est Bob, mais je cartographie sous le pseudonyme de "dentonny". J'ai 41 ans et j'habite à Geel, en Belgique. Bien que je ne me considère pas comme un athlète, j'essaie d'être sportif autant que possible.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : Quand je regarde mon tout premier changeset, cela doit être en 2017. Mais là, je ne me souviens en fait que de très peu de choses. Ce n'est que depuis que j'ai acheté un ordinateur de vélo Garmin en 2019 que j'ai commencé à chercher comment obtenir des cartes meilleures et plus récentes sur ce point.
 

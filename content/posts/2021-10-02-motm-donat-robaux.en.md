@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/gendy54) and his [contribution
 Hello Donat. Would you like to briefly introduce yourself to our readers?
 : I am a 37 year old man. I am originally from Nancy in Lorraine, France. I have been living near Paris for 10 years. I work in human resources in a hospital environment.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I don't remember at all. What I can say is that I have always been a map lover. I used to fall asleep flipping through the pages of a Michelin guide or a map from the Institut Géographique National (IGN). When I was younger, I won a competition where the prize was an IGN map of mountain bike routes. I was very proud.
 

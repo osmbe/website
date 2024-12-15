@@ -9,6 +9,8 @@ Sa [homepage](https://www.openstreetmap.org/user/LeSharkoiste) et sa [page de co
 Bonjour Sharko. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Pourquoi pas ? Je suis un jeune Belge de 18 ans (presque 19 à l'heure d'écrire ces lignes) vivant à Binche, une petite ville située entre Mons et Charleroi en Belgique. Ma langue maternelle est le français, bien que mon niveau d'anglais soit très bon. Je l'utilise tous les jours sur Internet.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : Je ne sais plus exactement quand j'ai découvert OpenStreetMap, mais il me semble l'avoir découvert en cherchant des alternatives à Google Maps, certaines étant bien moins à jour avec des lieux d'intérêt n'existant plus, des routes avec un ancien nom, des itinéraires pas possibles. Et surtout qu'elles étaient généralement conçues pour la conduite en voiture. Ma première contribution, en octobre 2020, fut l'ajout d'une école maternelle qui n'était pas représentée sur la carte.
 

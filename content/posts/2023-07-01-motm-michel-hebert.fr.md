@@ -9,6 +9,8 @@ Sa [homepage](https://www.openstreetmap.org/user/chimel38) et sa [page de contri
 Bonjour Michel. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Homme  en retraite - 3/4 de siècle - actuel président d'une association sur ma ville sans rapport avec OpenStreetMap. Je pratique le cyclisme pour me distraire et rester en forme, et depuis plusieurs années membre du groupe local OpenStreetMap de Grenoble. Je ne suis pas informaticien mais je porte une attention particulière à ce milieu.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : Il y a plusieurs années et pratiquant le cyclisme je souhaitais mettre un parcours sur mon GPS, trace créée à partir d'une appli de routage qui présentait alors des problèmes de blocage à un point particulier sur la carte OpenStreetMap. Curieux j'ai voulu en savoir plus sur OpenStreetMap pour solutionner ces problèmes, et ce furent mes premiers pas dans l'univers OpenStreetMap et de faire mes premières contributions. Et comme j'étais relativement actif j'ai été contacté par un membre local de la région grenobloise. Une cartopartie sur la commune de Vif fut le point de départ pour rencontrer des passionnés et apporter ma contribution dans tous les aspects pratiques et matériels à une époque où les applis sur smartphone n'existaient pas.
 

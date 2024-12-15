@@ -10,6 +10,8 @@ His [homepage](https://www.openstreetmap.org/user/LivingWithDragons) and his [co
 Hello Gregory! Would you like to briefly introduce yourself to our readers?
 : Hello, I'm Gregory Marler. I've done a lot of mapping, mainly in the North East of England. The community is fantastic so I love to celebrate how we share data, skills, and knowledge. This means you may have heard me shout 'Maps!' to get everyone's attention when it's time for the conference to start.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : Back in 2006, before smartphones existed, I was looking for reasons to justify buying a GPS besides geocaching. A bit later OpenStreetMap got nominated for an award hosted by my employer so I wrote a short blog post about it. Then in 2007 I moved to a new city from Durham, this is when I created my Living With Dragons blog[^1] to document using no maps but the one I contributed to. There was a lot of exploring and a lot of learning, geocaching became a former hobby of mine.
 

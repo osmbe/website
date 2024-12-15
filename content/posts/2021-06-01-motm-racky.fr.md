@@ -10,6 +10,8 @@ Sa [homepage](https://www.openstreetmap.org/user/racky) et sa [page de contribut
 Bonjour, Racky. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Bonjour, moi c'est Ly Racky de la communauté OpenStreetMap de Côte d'Ivoire. Je réside à Abidjan en Côte d'Ivoire. Ingénieur Télécom de formation et passionnée de cartographie numérique.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai découvert OpenStreetMap en 2013 par le biais de quelques amis de classe, avec lesquels nous avons ensuite fondé la communauté OpenStreetMap de Côte d'Ivoire. Dès lors, débute mes premières contributions et maintes actions sociales dans le cadre de l'amélioration des conditions de vie des populations avec pour panacée la cartographie numérique libre.
 

@@ -10,6 +10,8 @@ Hello! Would you like to briefly introduce yourself to our readers?
 : Hi, I am Lorenzo Stucchi, on OpenStreetMap as LorenzoStucchi.
 : I am a PhD student in Environmental Engineering at Politecnico di Milano in Italy. I am also, since 2021, the national coordinator of volunteers for OpenStreetMap for Wikimedia Italia[^1], the Italian local chapter of the OpenStreetMap Foundation. I am also part of the officiers of PoliMappers[^2].
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I first got in touch with OpenStreetMap during a Geographic Information System course in my bachelor's degree, but I was using it as a client. OpenStreetMap was just one of the available backgrounds in the created maps. However, I was curious to discover more about that. In the same year, a presentation of OpenStreetMap and YouthMappers was organised at the university. During that event, in November 2016, PoliMappers was founded, and I decided to enter the board. In the following events of PoliMappers, I discovered more about OpenStreetMap, remote mapping and the Humanitarian OpenStreetMap Team. In 2018, as PoliMappers, we presented our works at an Italian conference, MERGE-IT. It was the first offline contact with the Italian community and Wikimedia Italia. Also, in 2018, I got in touch with the global community during the State Of The Map 2018 held in Milano, where I volunteered.
 

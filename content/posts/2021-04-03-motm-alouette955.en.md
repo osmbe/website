@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Alouette955) and his [contribu
 Would you like to briefly introduce yourself to our readers?
 : My first name is Claude. Being quite discreet, I hide my identity under the user name alouette955. This user name have been following me since the time of the BBS, which tells you my age. I am retired and live in the greater Montreal area. I like solitary activities such as cartography, genealogy and cycling.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : In 2010 I had my first hiking GPS and I preferred free maps. I searched for a navigable map for cyclists and found the page from the OpenStreetMap wiki concerning the production of bicycle maps for Garmin from OpenStreetMap. I learned how to make my own maps and I quickly realised that data was missing and I realised that it was up to me to add it, it was just a matter of learning.
 

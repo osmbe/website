@@ -7,6 +7,8 @@ author: Pierre Parmentier
 Jacques, voudrais-tu te présenter brièvement à nos lecteurs ?
 : Dès l'âge de 12 ans, j'ai appris à lire et utiliser les cartes IGN avec une boussole Recta, ce qui me permettait de me déplacer pratiquement n'importe où. Aujourd'hui, je suis retraité et je m'intéresse aux projets touristiques. J'habite à Athus, petite ville belge à 500 m du Luxembourg et 2 km de la France.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : Il y a cinq ans, j'ai découvert Openstreetmap au travers de l'application Osmand installée sur mon smartphone. Il y a deux ans, j'ai participé à une formation à l'encodage organisée à l'Espace Public Numérique à Arlon. De consommateur, je suis devenu producteur.
 

@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Ivan%20Lievens) and his [contr
 Hello Ivan. Would you like to briefly introduce yourself to our readers?
 : I am 57 years old, married and the father of two children. I live in Hofstade, part of Aalst.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : To my great surprise, I have had an account on openstreetmap.org since 29 August 2008. I have been using GPS for years on my motorbike (Garmin Zümo 550, 590, XT), in the car (Garmin Nüvi 2699) and on my bicycle (Garmin Edge 705). This is mainly to make nice round trips instead of going from A to B as fast as possible. It is mainly because of the bicycle GPS that I started looking for an alternative for the expensive and also outdated official topographic maps. I have found it on <https://www.openfietsmap.nl>.
 

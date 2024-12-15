@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Nicxon%20Piaso) and his [contr
 Hello Nicxon. Would you like to briefly introduce yourself to our readers?
 : I am a Land Surveyor by profession with a Degree in Surveying from Papua New Guinea University of Technology. I work as a Mine Surveyor and part of my role includes mapping  using 3D software. I also have interest in open-source mapping whereby maps can be readily accessible by all.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I came to know OpenStreetMap in 2006 but was not really interested as I have no knowledge of it and also in Papua New Guinea, not many Mappers know about OpenStreetMap and its many benefits to the wider society. After going to OpenStreetMap and seeing that most of Papua New Guinea was unmapped especially in my Province, I started populating maps in my town eventually going out to other towns in the country.
 

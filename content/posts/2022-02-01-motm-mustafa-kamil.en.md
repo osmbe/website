@@ -10,6 +10,8 @@ Hello Mustafa. Would you like to briefly introduce yourself to our readers?
 : My name is Mustafa Kamil. I am contributor to OpenStreetMap under the username mustafakamil. I live and work in the Saudi Arabia. But I am original from Sudan.
 : I am a big fan of open-source and and an avid user of open source.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I discovered OpenStreetMap on 1 May 2014. When I installed a distribution of Linux in my laptop, Ubuntu. I found in the application store an application named Merkaartor, that is an OpenStreetMap editor for Linux. And here the journey began with OpenStreetMap.
 

@@ -11,6 +11,8 @@ Hello Mishari! Would you like to briefly introduce yourself to our readers?
 : I co-organise Open Tech Summit Thailand, an international open source conference, co-founded CoderDojo Thailand, a free programming community for kids age 7-17, co-organise Bangkok Scientifique, a meetup to improve science literacy, and am a part of the Homeschooling community because I always felt learning in communities (such as OpenStreetMap) was more impactful than learning in school.
 : I'm also an Angel Investor, having minor interests in real estate, agriculture, social commerce, etc.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I've had an account since 2012 but have probably been active since about six years ago. I was introduced to OpenStreetMap by _jandetlefsen_.
 

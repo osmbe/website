@@ -10,6 +10,8 @@ Sa [homepage](https://www.openstreetmap.org/user/LivingWithDragons) et sa [page 
 Bonjour Gregory. Voudrais-tu te présenter brièvement à nos lecteurs ?
 : Bonjour, je m'appelle Gregory Marler. J'ai fait beaucoup de cartographie, principalement dans le nord-est de l'Angleterre. La communauté est fantastique et j'aime célébrer la façon dont nous partageons les données, les compétences et les connaissances. Cela signifie que vous m'avez peut-être entendu crier "Maps !" pour attirer l'attention de tous lorsqu'il est temps de commencer la conférence.
 
+<!--more-->
+
 Comment et quand as-tu découvert OpenStreetMap ?
 : En 2006, avant l'existence des smartphones, je cherchais des raisons de justifier l'achat d'un GPS en dehors du géocaching. Un peu plus tard, OpenStreetMap a été nominé pour un prix organisé par mon employeur et j'ai donc écrit un court article de blog à ce sujet. Puis, en 2007, j'ai déménagé de Durham pour m'installer dans une nouvelle ville. C'est à ce moment-là que j'ai créé mon blog Living With Dragons [^1] pour documenter l'utilisation de cartes autres que celles à laquelle j'ai contribué. Il y a eu beaucoup d'exploration et beaucoup d'apprentissage, le géocaching est devenu un de mes anciens passe-temps.
 

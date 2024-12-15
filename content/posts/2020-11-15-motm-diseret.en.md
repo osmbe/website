@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/Diseret) and his [contribution
 Hello Louis. Would you like to briefly introduce yourself to our readers?
 : My name is Louis and I contribute to OpenStreetMap under the username Diseret. I study at UCLouvain (Université catholique de Louvain) but I mainly map my region, the Gaume, in the south of Belgium.
 
+<!--more-->
+
 How and when did you discover OpenStreetMap?
 : I don't remember the details but it must be in 2015-2016. I started consulting OpenStreetMap because I noticed some information that was not included in the other maps. After a while, having understood the participatory side by analogy with Wikipedia, I decided to create an account and to contribute.
 

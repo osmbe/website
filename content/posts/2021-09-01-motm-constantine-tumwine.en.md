@@ -12,6 +12,8 @@ Hello Constantine. Would you like to briefly introduce yourself to our readers?
 : One of my key accomplishments in my current role has been helping Tanzania Development Trust achieve their target within a short period of time.
 : I have so far managed to map over 3&nbsp;193 buildings and over 87 kilometres of roads in the short time I have been mapping.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : I got to know OpenStreetMap though Tanzania Development Trust where I started volunteering in May 2021 using [Crowd2Map Tanzania](https://crowd2map.org/) to map rural Tanzania into OpenStreetMap. The Tanzania Development Trust is a registered UK charity (charity number 270462) that has funded development projects within Tanzania since 1975. They empower the poorest communities in Tanzania on a village-level. They are all volunteers and pair local Tanzanian representatives with UK-based project officers to support rural development and transform lives through various projects. Tanzania Development Trust has been working with grassroots organizations in the poorest areas of Tanzania for 40 years. TDT was founded as a Charitable Trust by the Britain Tanzania Society (BTS). BTS remains their parent body and pays the small administrative costs of TDT. The people who run TDT and BTS are all volunteers who know the country well. No salaries are paid. Project requests come from Tanzania via their website, from visits, by word of mouth, through the BTS branch in Dar-es-Salaam or from NGOs in the United Kingdom. They have built a safe house for girls refusing FGM and supported over 100 projects including bore holes for villages without water, school resources and solar panels for dispensaries.
 

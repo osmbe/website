@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/dentonny) and his [contributio
 Hello Bob. Would you like to briefly introduce yourself to our readers?
 : First of all, thank you for the honour of contacting me as Mapper of the Month. My real name is Bob but I map under the pseudonym 'dentonny'. I am 41 years old and live in Geel, in Belgium. Although I don't consider myself an athlete, I try to be sporty as much as possible.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : When I look up my very first changeset, it must have been in 2017. But here I actually remember very little about it. It is only since I bought a Garmin cycling computer in 2019 that I started looking into how to get better and more recent maps on this.
 

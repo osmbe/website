@@ -9,6 +9,8 @@ His [homepage](https://www.openstreetmap.org/user/John7021) and his [contributio
 Hello Jonathan. Would you like to briefly introduce yourself to our readers?
 : I am 39 years old, I am from the Mons region, in Belgium, and I am a computer scientist. I develop websites.
 
+<!--more-->
+
 How and when did you get to know OpenStreetMap?
 : In 2012 when I started geocaching with my Garmin eTrex 20, I was looking for free maps for my GPS.
 
