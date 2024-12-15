@@ -18,4 +18,4 @@ Pour lire les interviews, voir [le Wiki sur Mapper of the Month](https://wiki.op
 
 ---
 
-{% include list-motm.html %}
+{{< list-motm >}}

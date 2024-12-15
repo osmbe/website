@@ -16,4 +16,4 @@ For an overview of the interviews, see [the Mapper of the month wiki](https://wi
 
 ---
 
-{% include list-motm.html %}
+{{< list-motm >}}
