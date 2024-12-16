@@ -9,13 +9,12 @@
             </a>
         </div>
         <div class="flex lg:hidden">
-            <label for="nav_toggle" class="cursor-pointer -m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700">
+            <label for="nav_toggle" class="cursor-pointer -m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-white">
                 <span class="sr-only">Open main menu</span>
                 <svg class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
                 </svg>
             </label>
-            <input id="nav_toggle" type="checkbox" class="hidden">
         </div>
         <div class="hidden lg:flex lg:gap-x-12">
             {{- range site.Menus.main }}
@@ -33,3 +32,18 @@
         </div>
     </nav>
 </header>
+
+{{- partial "banner.html" . }}
+
+<input id="nav_toggle" type="checkbox" class="hidden" autocomplete="off">
+<nav id="nav_overlay" class="flex flex-1 flex-col hidden">
+    <ul role="list" class="m-2 space-y-1">
+        {{- range site.Menus.main }}
+        <li>
+            <a class="group flex gap-x-3 rounded-md p-2 pl-3 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600" href="{{ .URL }}">
+                {{ .Name }}
+            </a>
+        <li>
+        {{- end }}
+    </ul>
+</nav>
