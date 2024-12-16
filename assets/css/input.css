@@ -24,3 +24,7 @@
     @apply mt-2 text-base/7 text-gray-600;
   }
 }
+
+#nav_toggle:checked + #nav_overlay {
+  @apply block;
+}
