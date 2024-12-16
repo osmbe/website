@@ -14,4 +14,6 @@ La communauté belge a une adresse email officielle pour toutes vos questions: c
 
 ---
 
-Vous voulez en savoir plus sur la cartographie? Choisissez le canal que vous préférez ci-dessous! 
+Vous voulez en savoir plus sur la cartographie? Choisissez le canal que vous préférez ci-dessous!
+
+{{< contact >}}

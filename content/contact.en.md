@@ -18,4 +18,4 @@ The Belgian community has an official e-mail address for all your questions: com
 Want to learn about mapping, choose the channel you prefer below!  
 In all our channels, the default language is English, but feel free to use your own language!  
 
-...
+{{< ref contact >}}
