@@ -8,6 +8,9 @@ next = "Next"
 [footer]
     local_chapter = "Local chapter of the [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Local_Chapters)"
 
+    [footer.categories]
+        title = "Categories"
+
     [footer.newsletter]
         title = "Newsletter"
         subscribe = "Subscribe"

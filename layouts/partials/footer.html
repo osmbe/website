@@ -36,9 +36,18 @@
                         {{ end }}
                     </ul>
                 </div>
-                <div class="mt-10 md:mt-0">
+                <div class="mt-10 md:mt-0 space-y-4">
+                    <h3 class="text-sm/6 font-semibold text-white">{{ i18n "footer.categories.title" }}</h3>
+                    <ul role="list" class="mt-6 space-y-2">
+                        {{- range .Site.Taxonomies.categories }}
+                        <li>
+                            <a href="{{ .Page.RelPermalink }}" class="text-sm/6 text-gray-400 hover:text-white">{{ .Page.LinkTitle }}</a>
+                        </li>
+                        {{- end }}
+                    </ul>
+
                     <h3 class="text-sm/6 font-semibold text-white">{{ i18n "footer.newsletter.title" }}</h3>
-                    <ul role="list" class="mt-6 space-y-4">
+                    <ul role="list" class="mt-6 space-y-2">
                         <li>
                             <a target="_blank" href="https://osm.us13.list-manage.com/subscribe?u=cc6632a49e784f67574e50269&id=5c2416bba6" class="text-sm/6 text-gray-400 hover:text-white">{{ i18n "footer.newsletter.subscribe" }}</a>
                         </li>
