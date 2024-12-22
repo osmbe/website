@@ -55,4 +55,4 @@ With your donation, we aim to:
 - Larger donations will help us fund one or more of our [projects]({{< ref "projects" >}}) and help us professionalize our organization, for example to apply for subsidies and get more administrative and communication support.
 
 You can use the form below or make a wired transfer to the OpenStreetMap Belgium bank account : **BE42 5230 8154 5854**.  
-Please add a note to the wire transfer stating that you are making a donation. 
+Please add a note to the wire transfer stating that you are making a donation.
