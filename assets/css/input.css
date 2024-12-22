@@ -23,6 +23,18 @@
   main #content dd {
     @apply mt-2 text-base/7 text-gray-600;
   }
+  main #content blockquote {
+    @apply border-l-4 p-4 border-gray-400 bg-gray-50;
+  }
+  main #content blockquote.blue {
+    @apply border-blue-400 bg-blue-50;
+  }
+  main #content blockquote.indigo {
+    @apply border-indigo-400 bg-indigo-50;
+  }
+  main #content blockquote.yellow {
+    @apply border-yellow-400 bg-yellow-50;
+  }
 }
 
 #nav_toggle:checked + #nav_overlay {

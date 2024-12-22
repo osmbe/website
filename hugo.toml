@@ -5,3 +5,6 @@ summaryLength = 50
 
 [frontmatter]
   date = [':filename', ':default']
+
+[markup.goldmark.parser.attribute]
+  block = true
