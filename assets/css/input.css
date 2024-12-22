@@ -10,6 +10,12 @@
   main h2 {
     @apply my-4 text-3xl font-semibold;
   }
+  main h3 {
+    @apply my-2 text-xl font-semibold;
+  }
+  main h4 {
+    @apply my-2 font-semibold;
+  }
   main a {
     @apply text-base/7 font-semibold text-indigo-600
   }
