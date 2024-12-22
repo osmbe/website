@@ -17,15 +17,13 @@ Governments around the world are embracing open data, so more and more open road
 
 As a community, we want to build the tools to make sure that any correction in the official open data road sets is made visible to the mapping community as quickly and as accurately as possible. We started with the Flemish road dataset, but there are similar datasets in the other regions and around the world. So we've built something that is easily scalable to any dataset of road centerlines worldwide.
 
-![]({{ site.baseurl }}/assets/images/post/road-completion.gif)
-*The evolution of mapping roads in Brussels. Green: slow roads. Grey: mapped roads. Black: roads being worked on that month*
+{{< figure src="images/posts/road-completion.gif" caption="The evolution of mapping roads in Brussels. Green: slow roads. Grey: mapped roads. Black: roads being worked on that month" >}}
 
 ### Trust
 
 OpenStreetMap grows in a chaotic way. In some places, data quality is amazing. In others, the map is still very basic. More importantly: the map comes without any guarantees. We want to build trust in the data by offering a simple guarantee: OSM is just as complete as the government dataset. With the tool we built, you can check at any time how many road segments the government has and OpenStreetMap does not. Hopefully, that will make OSM in Belgium usable in even more cases because there is a metric of completeness.
 
-![]({{ site.baseurl }}/assets/images/post/road-completion1.jpg)
-*A sample of missing 'slow' roads*
+{{< figure src="images/posts/road-completion1.jpg" caption="A sample of missing \"slow\" roads" >}}
 
 You can [follow up on the number of missing roads here](https://osmbe.github.io/road-completion/).
 
