@@ -20,5 +20,5 @@ Nous gardons les versions historiques de ces tuiles. Vous pouvez consulter les v
 
 -  Dépôt GitHub du project : <https://github.com/osmbe/openstreetmap-carto-be>
 -  Documentation : <https://github.com/osmbe/openstreetmap-carto-be/wiki>
--  Conditions d’utilisation : <https://github.com/osmbe/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
+-  Conditions d'utilisation : <https://github.com/osmbe/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
 -  Preview: <https://tile.osm.be>

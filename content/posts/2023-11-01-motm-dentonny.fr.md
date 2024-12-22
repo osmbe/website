@@ -29,22 +29,22 @@ Que cartographies-tu ? As-tu une spécialisation ?
 Quelle est ta plus grande prouesse en tant que contributeur ?
 : L'été dernier, la communauté OpenStreetMap m'a permis d'emprunter une GoPro 360. Bien que cette caméra soit principalement utilisée pour enregistrer des images à 360° et les poster sur Mapillary, c'est grâce à elle que je me suis déjà retrouvé dans presque toutes les petites rues et chemins de Geel afin de pouvoir également poster ces routes aussi détaillées que possible sur OpenStreetMap. Bien sûr, je ne voudrais pas m'arrêter à Geel, mais je dois d'abord voir ce qui est faisable.
 
-Pourquoi cartographies-tu? Qu’est-ce qui te motive ?
+Pourquoi cartographies-tu? Qu'est-ce qui te motive ?
 : Parce qu'OpenStreetMap est utilisé pour de nombreuses choses comme Strava, Komoot ou Garmin, vous atteignez indirectement un grand nombre de personnes et de services qui en bénéficient. Je ne devrais pas recevoir de reconnaissance personnelle pour cela, d'où l'utilisation d'un pseudonyme. Mais le fait de savoir cela m'apporte tout de même beaucoup de satisfaction.
 
 As-tu des idées pour élargir la communauté OpenStreetMap, pour motiver plus de gens à contribuer ?
 : Il serait bon que les mappeurs soient bien répartis sur la carte. Nous aurions alors moins de problèmes avec les zones qui n'ont pas été mises à jour depuis des années, comme c'est parfois le cas aujourd'hui.
 
-As-tu des contacts avec d’autres contributeurs ?
+As-tu des contacts avec d'autres contributeurs ?
 : Je suis assez actif sur le canal belge Matrix d'OpenStreetMap. Ne manquez pas de le visiter ! Récemment, j'ai également rencontré quelques cartographes dans la vie réelle.
 
-Quelle est, selon toi, la plus grande force d’OpenStreetMap ?
+Quelle est, selon toi, la plus grande force d'OpenStreetMap ?
 : À mon avis, la plus grande force d'OpenStreetMap est aussi sa plus grande faiblesse. Tout le monde peut modifier la carte, quelle que soit sa connaissance du sujet. Le seuil est donc très bas et permet de se développer tranquillement. Mais si des erreurs se produisent, il peut parfois s'écouler beaucoup de temps avant qu'elles ne soient remarquées. Surtout si personne n'est actif dans cette région.
 
 Quel est le plus grand défi pour OpenStreetMap ?
 : Il ne s'agit pas seulement de rechercher de nouveaux mappeurs, mais aussi de maintenir les mappeurs actuels motivés dans ce qu'ils font. Après tout, ils y consacrent beaucoup de temps libre.
 
-Comment restes-tu à jour par rapport à l’actualité d’OpenStreetMap ?
+Comment restes-tu à jour par rapport à l'actualité d'OpenStreetMap ?
 : La plupart des nouvelles que je lis sont partagées sur le chat.
 
 Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?

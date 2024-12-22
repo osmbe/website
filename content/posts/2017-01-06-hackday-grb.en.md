@@ -18,7 +18,7 @@ concepts to [global OSM definitions](https://wiki.openstreetmap.org/wiki/Tags).
 Then we will check if an OSM building already exists. Those existing buildings have a whole history 
 behind them: someone drew them, later an address was added, maybe their protection status, number of floors, 
 shops, etc. Our goal is to keep that object and its history, and only change its outline. That means that a lot of 
-manual checking will be necessary. One example is that we don’t want our buildings to overlap roads, or we don’t 
+manual checking will be necessary. One example is that we don't want our buildings to overlap roads, or we don't 
 want industrial buildings mapped as houses.
  
 During the hackaton, we thought along with the work prepared over many months by Glenn, building on previous 
@@ -31,7 +31,7 @@ Even though the GRB was our main focus, we worked on several other projects too.
 both French and Dutch speakers were there, eager to work together. So most of the talking was in English :)
 The very website you are visiting now was much improved on during the day. We didn't just make a new website, 
 we also made it more inviting to contribute! Now that we have migrated to GitHub, everyone has access to the 
-source code. We’ve already added [some help to get you started](https://github.com/osmbe/website).
+source code. We've already added [some help to get you started](https://github.com/osmbe/website).
  
 The co-working space that [Transforma BXL](https://www.transformabxl.be) allowed us to use, was excellent for 
 the event: brainstorming in the Innovation Garden, then off to the office space for the hard work. In a co-creative 

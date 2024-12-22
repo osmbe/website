@@ -23,4 +23,4 @@ There are several ways to approach the inequality of street names and leverage a
 
 Although the data exist, we still need to link both data sources. During this event, we will add Wikidata tags (a tag containing all the information from a Wikipedia page) to the streets on OpenStreetMap. Linking this data will allow many possibilities such as using existing Wikipedia profiles as suggestions for cities or analysing what types of profiles are used for street names.
 
-To be very clear: you don’t need to have a technical profile to join but rather the ambition to make a change. We’ll start the evening with a brief introduction about what needs to be done. By participating, you will contribute to OpenStreetMap, Wikipedia and to a project that could easily be replicated in many cities across the world.
+To be very clear: you don't need to have a technical profile to join but rather the ambition to make a change. We'll start the evening with a brief introduction about what needs to be done. By participating, you will contribute to OpenStreetMap, Wikipedia and to a project that could easily be replicated in many cities across the world.

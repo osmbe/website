@@ -13,11 +13,11 @@ OpenStreetMap Belgium & Mapillary are teaming up to improve the availability of 
 Meta has financed twenty GoPro Max 360° and accessories to capture on foot, by bicycle or by car. The kit includes suction cups, an SD card, a selfie stick and gear to mount on a bicycle helmet.
 
 The GoPro Max was chosen for four reasons:
-1. Ease of use: The GoPro Max is 	incredibly simple to use. Just hit record and drop the images into 	Mapillary’s Desktop 	Uploader. 	
+1. Ease of use: The GoPro Max is 	incredibly simple to use. Just hit record and drop the images into 	Mapillary's Desktop 	Uploader. 	
  	
 2. Form factor: The camera is 	lightweight and designed for action, which makes it suitable for a 	variety of capture scenarios you might have in mind. A lighter 	camera means lighter mounting equipment. 	
  	
-3. Cost: It’s affordable, allowing 	us to scale up the program and get more cameras to more people. 	
+3. Cost: It's affordable, allowing 	us to scale up the program and get more cameras to more people. 	
  	
 4. Image quality: While there are cameras capable of capturing a 	higher quality 360º image, the GoPro does a lot considering its 	price and form factor. Mapillary is able to derive a lot of map data 	from GoPro Max images including the location of sidewalks. 	
 

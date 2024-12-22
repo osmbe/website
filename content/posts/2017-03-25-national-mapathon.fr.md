@@ -5,7 +5,7 @@ title: 'National Mapathon'
 cover: nationalmapathon.jpg
 ---
 
-## Aidez-nous à améliorer l’aide humanitaire de Médecins Sans Frontières et de la Croix-Rouge
+## Aidez-nous à améliorer l'aide humanitaire de Médecins Sans Frontières et de la Croix-Rouge
 
 Après le grand succès de l'événement l'année dernière, un nouveau Mapathon national se déroulera le samedi 25 mars 2017. Il est organisé par le Comité national de géographie en collaboration avec OpenStreetMap Belgium. Plusieurs universités à Bruxelles, en Flandre et en Wallonie ouvrent leurs portes pour une journée entière de cartographie collaborative. Tout le monde est le bienvenu pour aider Médecins Sans Frontières et la Croix-Rouge à cartographier des régions en crise.
 
