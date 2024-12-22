@@ -6,8 +6,6 @@ weight: 90
 aliases: ["/2017/04/01/fr-project-heritage-crowd-sourced.html","/fr/projects/heritage-crowd-sourced.html"]
 ---
 
-# Les projets de crowdsourcing appliqué au patrimoine en Belgique
-
 *N.B.: Cet article, intitulé à l'origine “Heritage in Flanders and Crowd-Sourced Projects”, a été écrit en anglais par Marc Gemis et traduit en français.*
 
 ## Introduction
@@ -28,10 +26,7 @@ inclut de petits éléments tels que des bornes frontières et piloris.
 Occasionelllement, le catalogue contient aussi des arbres remarquables sur des
 places en milieu urbain.
 
-
-![Pillory in Aartselaar](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
-
-*Pilori à Aartselaar*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg" title="Pilori à Aartselaar" >}}
 
 Qu’est-ce qu’un projet de crowdsourcing? C’est un projet dans lequel
 chacun peut ajouter des données, a contrario des projets privés
@@ -55,7 +50,6 @@ Erfgoed" est limité à une région géographique spécifique, les projets de
 crowdsourcing présentés ci-dessous ont tous une portée globale.
 
 Voyons voir maintenant quelques-uns de ces projets de crowdsourcing.
-
 
 ### [OpenStreetMap](http://www.openstreetmap.org)
 
@@ -109,18 +103,11 @@ qui convertit une page de Wikipedia de ce type en un fichier avec des
 utilisé dans un GPS ou dans des applications de navigation sur
 smartphone comme [OSMAnd](http://osmand.net/).
 
-![Garmin Dakota 10 with waypoints](https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-8ntJtzd/0/O/70.jpg)
-![Details on Garmin](https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-63Fvk2T/0/O/92%20copy.jpg)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-8ntJtzd/0/O/70.jpg" alt="Garmin Dakota 10 with waypoints" >}}
 
-*Garmin Dakota 10 avec des éléments du patrimoine mis en évidence en rouge et bleu**
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-63Fvk2T/0/O/92%20copy.jpg" caption="Garmin Dakota 10 avec des éléments du patrimoine mis en évidence en rouge et bleu" >}}
 
-![OsmAnd](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-4LK2Lp4/0/O/Screenshot_2017-03-27-14-38-59.png)
-
-*Dans OSMAnd, les waypoints sont affichés avec des étoiles
-blanches entourés par un cercle rouge. Cliquer sur une étoile montre des
-informations additionelles en bas de l’écran. Dans le cas où il y a
-plusieurs éléments proches les uns des autres, les détails sont listés
-pour chaque élément.*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-4LK2Lp4/0/O/Screenshot_2017-03-27-14-38-59.png" caption="Dans OSMAnd, les waypoints sont affichés avec des étoiles blanches entourés par un cercle rouge. Cliquer sur une étoile montre des informations additionelles en bas de l’écran. Dans le cas où il y a plusieurs éléments proches les uns des autres, les détails sont listés pour chaque élément." >}}
 
 Cela me permet de faire de petits détours durant mes promenades en vue
 de visiter des éléments du patrimoine. Lorsque j’arrive à l’endroit, je
@@ -131,6 +118,7 @@ leur base de données également. Je pense qu’ils apprécient ce genre de
 feedbacks.
 
 ## Comment je traite les données collectées ?
+
 De retour à la maison, je m’assure que les photos sont
 [géoréférencées](https://en.wikipedia.org/wiki/Georeferencing) en
 utilisant les traces GPS de ma promenade et le moment de prise de la
@@ -154,8 +142,7 @@ ajoutés dans OpenStreetMap.
 Ajouter ces tags est facile dans [JOSM](https://josm.openstreetmap.de/), particulièrement
 lorsque vous utilisez le preset pour les éléments historiques du [preset BENELUX](https://josm.openstreetmap.de/wiki/Presets/BENELUX).
 
-![BENELUX Preset for monuments protected by Onroerend Erfgoed](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-pW9ptVd/0/X3/Screen%20Shot%202017-03-27%20at%2015.20.47-X3.png)
-*BENELUX Preset pour les monuments protégés par**Onroerend Erfgoed*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-pW9ptVd/0/X3/Screen%20Shot%202017-03-27%20at%2015.20.47-X3.png" caption="BENELUX Preset pour les monuments protégés par Onroerend Erfgoed" >}}
 
 Vous pouvez également démarrer l’écriture des articles Wikipedia et
 créer un élément Wikidata avec quelques propriétés. J’ai récemment
@@ -166,26 +153,27 @@ l’information trouvée dans "Onroerend Erfgoed" et les bases de données
 ## Comment utilisez les données ?
 
 ### Wikipedia
+
 Les articles Wikipedia peuvent être lus par n’importe qui et plus
 d’informations peuvent être trouvées à travers les articles référencés,
 comme cet [article](https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_%28Antwerp%29) sur la cathédrale d’Anvers.
 
 ### OpenStreetMap
+
 Il y a un grand nombre de cartes basées sur OpenStreetMap qui montrent ces éléments du patrimoine:
 
 #### HistOsm
+
 C’est une [carte](http://histosm.org/) créée par l’Université de Heidelberg, GIScience (Geoinformatics) Research Group. Plus
 d’[information](https://wiki.openstreetmap.org/wiki/HistOSM)
 
-![HistOsm Map](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-ChHBNKX/0/X3/Screen%20Shot%202017-03-27%20at%2013.54.30-X3.png)
-*HistOSM, all data (c) OpenStreetMap Contributors*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-ChHBNKX/0/X3/Screen%20Shot%202017-03-27%20at%2013.54.30-X3.png" caption="HistOSM, all data (c) OpenStreetMap Contributors" >}}
 
 #### Historic Places
 
 C’est une [carte](http://gk.historic.place/) développée par des contributeurs allemands passionnés durant leur temps libre. Elle est disponible en plusieurs langues et possède des [fonctionnalités intéressantes](https://wiki.openstreetmap.org/wiki/Historical_Objects) comme la possibilité d’afficher des cartes anciennes à la place des cartes contemporaines basées sur OpenStreetMap.
 
-![Historic Places Map](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-NkHdJQ7/0/X3/Screen%20Shot%202017-03-27%20at%2021.07.04-X3.png)
-*Historic Places, all data (c) OpenStreetMap Contributors. Topographical Map Vandermaelen.*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-NkHdJQ7/0/X3/Screen%20Shot%202017-03-27%20at%2021.07.04-X3.png" caption="Historic Places, all data (c) OpenStreetMap Contributors. Topographical Map Vandermaelen." >}}
 
 Chaque élément historique a une fenêtre popup qui contient des
 informations issues de celles contenus dans la base de données
@@ -203,9 +191,7 @@ wikidata.org, mais aussi dans des sites web améliorées comme
 [Sqid](https://tools.wmflabs.org/sqid), quand vous cliquez sur les
 icônes à côté du numéro Wikidata.
 
-![Reasonator for Q28464643](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-DxtJ6nf/0/X3/Screen%20Shot%202017-03-27%20at%2013.53.21-X3.png)
-*L’église Saint-Pierre de**Rumst**vue sur le site web**Reasonator**avec
-des données de**Wikidata*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-DxtJ6nf/0/X3/Screen%20Shot%202017-03-27%20at%2013.53.21-X3.png" title="Reasonator for Q28464643" caption="L’église Saint-Pierre de Rumst vue sur le site web Reasonator avec des données de Wikidata" >}}
 
 Si vous regardez à une page Reasonator telle que celle pour la
 [Parochiekerk Sint-Pieter (Q28464643)](https://tools.wmflabs.org/reasonator/?q=Q28464643), vous
@@ -218,8 +204,7 @@ de cette page Reasonator montre la page suivante dans laquelle l’église
 Saint-Pierre (Sint-Pieterskerk) est mise en évidence et positionnée au
 centre de la carte.
 
-![Overpass showing item with Wikidata tag](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-v2vQxHG/0/X3/Screen%20Shot%202017-03-27%20at%2014.00.42-X3.png)
-*Interface utilisateur *Overpass**montrant l’élément avec l’identifiant**Wikidata Q28464643*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-v2vQxHG/0/X3/Screen%20Shot%202017-03-27%20at%2014.00.42-X3.png" caption="Interface utilisateur *Overpass* montrant l’élément avec l’identifiant Wikidata Q28464643" >}}
 
 ### Wikidata
 
@@ -232,11 +217,9 @@ paragraphe, vous serez amenés au site d’interrogation de Wikidata où
 vous pourrez lancer des interrogations et explorer les données
 vous-mêmes.
 
-![timeline of Belgian Churches](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-MGNPLd8/0/X3/Screen%20Shot%202017-03-27%20at%2013.51.04-X3.png)
-*Ligne du temps de la construction des églises en Belgique*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-MGNPLd8/0/X3/Screen%20Shot%202017-03-27%20at%2013.51.04-X3.png" caption="Ligne du temps de la construction des églises en Belgique" >}}
 
-![bubble chart of architecture of Belgian Churches](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-s544Ndb/0/X2/Screen%20Shot%202017-03-27%20at%2020.45.47-X2.png)
-*Les styles architecturaux utilisés dans les églises en Belgique*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-s544Ndb/0/X2/Screen%20Shot%202017-03-27%20at%2020.45.47-X2.png" caption="Les styles architecturaux utilisés dans les églises en Belgique" >}}
 
 Vous pouvez également créer des cartes combinant Wikidata avec
 OpenStreetMap. La carte suivante affiche toutes les églises de Belgique
@@ -244,8 +227,7 @@ depuis Wikidata lorsque celles-ci ont une date de conception. Elles ont
 une couleur différente en fonction de cette date de conception. La forme
 de l’église est prise d’OpenStreetMap.
 
-![Wikidata and OpenStreetMap](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-gKKpzrr/0/X2/Screen%20Shot%202017-04-01%20at%2021.33.00-X2.png)
-*Combining Wikidata and OpenStreetMap*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-gKKpzrr/0/X2/Screen%20Shot%202017-04-01%20at%2021.33.00-X2.png" caption="Combining Wikidata and OpenStreetMap" >}}
 
 Vous pouvez regarder cette carte sur ma page d’[utilisateur](https://www.mediawiki.org/wiki/User:Funkyxian) Wikimedia
 et explorer les données vous-mêmes, ou bien regarder au code utilisé

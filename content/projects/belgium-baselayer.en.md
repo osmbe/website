@@ -24,8 +24,8 @@ The French and Dutch name versions give preference to that language, if availabl
 
 ### Custom icons/rendering
 
-- Icon for `amenity=fast_food` + `cuisine=friture`
-- Icon for `craft=brewery` or `industrial=brewery`
+* Icon for `amenity=fast_food` + `cuisine=friture`
+* Icon for `craft=brewery` or `industrial=brewery`
 
 ### How to use it?
 
@@ -38,10 +38,9 @@ If you want to use it with *[OpenLayers](https://openlayers.org/)* or *[Leaflet]
 
 ### Project documentation
 
-- Custom OSMBE style: <https://github.com/jbelien/openstreetmap-carto-be>
-- Documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
-- Usage policy: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
-
+* Custom OSMBE style: <https://github.com/jbelien/openstreetmap-carto-be>
+* Documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+* Usage policy: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
 
 ### Project key events
 
@@ -49,11 +48,11 @@ We first tried using VectorTiles for OSMBE baselayer; it works quite well but th
 
 So we went back to good old raster tiles with <https://switch2osm.org/>:
 
-- Fork of <https://github.com/gravitystorm/openstreetmap-carto>;
-- Edit parameters for Belgium languages; if the `name:fr` (or `name:nl`) is not available, the `name` will be displayed;
-- Add custom icons/rendering
-- Host the tile server on <https://tile.osm.be/>
-- Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
-- 2017: first publication of the tiles
-- 2019, 2020 and 2022: updates by Geo-6
-- 2024: maintenance of the tiles taken over by our partner [Champs-Libres](https://champs-libres.coop) ([news post](https://openstreetmap.be/nl/2024/04/25/tiles-updated.html)). Addition of historical layers to [our historical map](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).
+* Fork of <https://github.com/gravitystorm/openstreetmap-carto>;
+* Edit parameters for Belgium languages; if the `name:fr` (or `name:nl`) is not available, the `name` will be displayed;
+* Add custom icons/rendering
+* Host the tile server on <https://tile.osm.be/>
+* Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
+* 2017: first publication of the tiles
+* 2019, 2020 and 2022: updates by Geo-6
+* 2024: maintenance of the tiles taken over by our partner [Champs-Libres](https://champs-libres.coop) ([news post](https://openstreetmap.be/nl/2024/04/25/tiles-updated.html)). Addition of historical layers to [our historical map](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).

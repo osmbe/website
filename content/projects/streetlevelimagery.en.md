@@ -28,20 +28,9 @@ Our members have been contributing millions of openly licensed street level imag
 
 The images aren't just useful to local mappers. As we publish them on the [Mapillary](https://www.mapillary.com) platform, they can be used by anyone in the business of producing open data. More than that, the platform automatically generates derived data about traffic signs and infrastructure, which is in turn available as open data. As we retain full ownership of the images, we can also share them under other licenses and on other platforms.
 
-<div style="display: flex; max-width: 100%;">
-  <div style="margin: 0.5rem;">
-    <a href="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" target="_blank">
-      <img src="{% link /assets/images/post/mapillary-members.png %}" alt="OSMbe members" title="OSMbe members">
-      <em>OSMbe members</em>
-    </a>
-  </div>
-  <div style="margin: 0.5rem;">
-    <a href="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" target="_blank">
-      <img src="{% link /assets/images/post/mapillary-official.png %}" alt="OSMbe official" title="OSMbe official">
-      <em>OSMbe official</em>
-    </a>
-  </div>
-</div>
+{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}
+
+{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}
 
 ## Crowdsourcing for the win
 

@@ -27,7 +27,7 @@ Une fois que ces outils sont opérationnels et que nous avons effectué une prem
 ![]({{ site.baseurl }}/assets/images/post/road-completion1.jpg)
 *Un exemple de routes "lentes" manquantes*
 
-Vous pouvez aider: [voici les instructions](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions) 
+Vous pouvez aider: [voici les instructions](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
 
 ### Événements clés
 

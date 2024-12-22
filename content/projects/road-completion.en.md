@@ -27,26 +27,25 @@ OpenStreetMap grows in a chaotic way. In some places, data quality is amazing. I
 ![]({{ site.baseurl }}/assets/images/post/road-completion1.jpg)
 *A sample of missing 'slow' roads*
 
-You can [follow up on the number of missing roads here](https://osmbe.github.io/road-completion/). 
-
+You can [follow up on the number of missing roads here](https://osmbe.github.io/road-completion/).
 
 ### Current status
 
 - Comparison process is running every week for [Flanders](https://github.com/osmbe/road-completion/tree/master/data/belgium/flanders/difference) and [Brussels](https://github.com/osmbe/road-completion/tree/master/data/belgium/brussels/difference)
 - Comparison process is run manually for [Wallonia](https://github.com/osmbe/road-completion/tree/master/data/belgium/wallonia/difference)
 - We are mapping in MapRoulette, to get started go to this [instructions page](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
-- You can [follow up on the number of missing roads here](https://osmbe.github.io/road-completion/). 
+- You can [follow up on the number of missing roads here](https://osmbe.github.io/road-completion/).
 - Digitaal Vlaanderen has processed our feedback for Flanders. While our mappers used the government data, they spotted 561 cases where the official data was probably wrong. This resulted in corrections on their end in 90% of the cases.
 
 ### Project key events
 
-* Exploration of Wegenregister as a source, with mapping layers and downloadable GPX files ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
-* The other way around: validating Wegenregister with OSM in Antwerp ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
-* Set up a Task in the Belgian tasking manager; in the town of Halle as an example.
-* Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
-* [Presented the project at FOSS4G](http://slides.com/benabelshausen-1/deck-1).
-* Started a first Maproulette task to map missing roads
-* Presented at [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) ([video](https://www.youtube.com/watch?v=K0PClU5yZTQ&feature=youtu.be) and [slides](https://github.com/osmbe/website/)) and AIV Trefdag 2017
-* Created a prototype at [Open Summer of Code 2018](https://2018.summerofcode.be/roadcompletion.html)
-* The [production version](https://github.com/osmbe/road-completion/) is maintained at the OSMBE github page. This was made possible by an [OpenStreetMap Foundation microgrant 2020](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project), which allowed our Board member Jonathan Beliën to invest the necessary time to build the tool. During set-up, we added Flanders, Brussels and Wallonia. Since then, Luxemburg, Kosovo and the Netherlands were added.
-* During 2021 we worked with Digitaal Vlaanderen to help them use our feedback. We sent them 561 cases where the official data was probably wrong. This resulted in corrections on their end in 90% of the cases.
+- Exploration of Wegenregister as a source, with mapping layers and downloadable GPX files ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
+- The other way around: validating Wegenregister with OSM in Antwerp ([diary entry](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))
+- Set up a Task in the Belgian tasking manager; in the town of Halle as an example.
+- Added a [wiki page with a project overview](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project)
+- [Presented the project at FOSS4G](http://slides.com/benabelshausen-1/deck-1).
+- Started a first Maproulette task to map missing roads
+- Presented at [State of the Map 2018](https://2018.stateofthemap.org/2018/T097-Road_Completion_in_Belgium_-_Mapping___verifying__all__the_roads_/) ([video](https://www.youtube.com/watch?v=K0PClU5yZTQ&feature=youtu.be) and [slides](https://github.com/osmbe/website/)) and AIV Trefdag 2017
+- Created a prototype at [Open Summer of Code 2018](https://2018.summerofcode.be/roadcompletion.html)
+- The [production version](https://github.com/osmbe/road-completion/) is maintained at the OSMBE github page. This was made possible by an [OpenStreetMap Foundation microgrant 2020](https://wiki.openstreetmap.org/wiki/Microgrants/Microgrants_2020/Proposal/Road_Completion_project), which allowed our Board member Jonathan Beliën to invest the necessary time to build the tool. During set-up, we added Flanders, Brussels and Wallonia. Since then, Luxemburg, Kosovo and the Netherlands were added.
+- During 2021 we worked with Digitaal Vlaanderen to help them use our feedback. We sent them 561 cases where the official data was probably wrong. This resulted in corrections on their end in 90% of the cases.

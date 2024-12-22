@@ -28,20 +28,9 @@ Les contributions de nos membres comprennent déjà des millions d'images ouvert
 
 Ces images sont utiles pour les cartographes locaux mais, de plus, après avoir été publiées sur la plateforme Mapillary, elles sont accessibles et peuvent être utilisées par toute autre personne désireuse de générer d'autres données ouvertes. Cette plateforme produit automatiquement des données dérivées sur les panneaux de signalisation et les infrastructures, données qui sont elles aussi disponibles en données ouvertes. Comme nous gardons le droit de propriété sur toutes ces images, nous pouvons toujours les partager sous d'autres licenses et sur d'autres plateformes.
 
-<div style="display: flex; max-width: 100%;">
-  <div style="margin: 0.5rem;">
-    <a href="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" target="_blank">
-      <img src="{% link /assets/images/post/mapillary-members.png %}" alt="OSMbe members" title="OSMbe members">
-      <em>OSMbe members</em>
-    </a>
-  </div>
-  <div style="margin: 0.5rem;">
-    <a href="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" target="_blank">
-      <img src="{% link /assets/images/post/mapillary-official.png %}" alt="OSMbe official" title="OSMbe official">
-      <em>OSMbe official</em>
-    </a>
-  </div>
-</div>
+{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}
+
+{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}
 
 ## La production participative, un pari gagnant
 
@@ -64,11 +53,11 @@ Très bonne question !
 - Vous aimeriez voir le projet grandir? Un don de votre part aura un grand impact - nous investirons votre contribution financière dans ce projet.
 - La communauté OpenStreetMap community rêve d'une plateforme d'imagerie ouverte où toutes nos images pourraient être mises en ligne et où les fournisseurs de services pourraient y accéder pour les mettre en valeur. Nous recherchons actuellement des organisations qui peuvent rendre ce rêve possible. En attendant, nous mettons en place un système de sauvegarde pour simplement conserver une copie des images que nous avons capturées.
 
-Une page contenant plus de détails techniques et d'informations pratiques est [disponible sur notre wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/open_streetlevel_imagery).
+Une page contenant plus de détails techniques et d'informations pratiques est [disponible sur notre wiki] (<https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/open_streetlevel_imagery>).
 
 [Une question ou une proposition de collaboration? Contactez-nous !](mailto:community@osm.be)
 
-Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@osm.be) pour demander un appareil photo. 
+Si vous habitez en Belgique, [envoyez-nous simplement un mail](mailto:community@osm.be) pour demander un appareil photo.
 
 ## Historique
 

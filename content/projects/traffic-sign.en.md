@@ -15,7 +15,6 @@ We're not quite there just yet, but the edits in the database that do happen are
 
 So we're building on a tool in good [Road Completion](https://openstreetmap.be/en/projects/road-completion.html) tradition to make sure that if the government provides the data, we can guarantee that we'll be up to date. This in turn might be a little incentive for more municipalities to keep their bit of the database online. Just like in Road Completion, we "accidentally review" the government data as well. When we map traffic signs, we spot errors. Often user error, sometimes logical errors. These can then help municipalities to improve their data quality or even local reality. OSM data users will be able to see how well we keep track of new traffic signs - they won't have to trust us on our word that the data is good.
 
-
 ![Brighter means updated after 2019](https://i.imgur.com/V9zjUuD.png)
 *Traffic signs in Flanders: highlighted are from 2019 and more recent*
 
