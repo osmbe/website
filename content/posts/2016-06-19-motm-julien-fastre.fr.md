@@ -8,9 +8,10 @@ author: escada
 **Qui es-tu ?**
 
 J'ai plusieurs activités, et j'apprécie beaucoup qu'elle soient dans des domaines très variés (même si, parfois, ça me fatigue un peu) :
-* Je suis développeur à <a href="http://www.champs-libres.coop/" rel="nofollow">Champs-Libres</a>, où une partie de nos travaux sont en lien avec la géographique. On ré-utilise fréquemment les données de OpenStreetMap (OSM). On met également en place des serveurs carto, nominatim, etc. Ça me prend officiellement un mi-temps, mais en réalité, c'est beaucoup plus.
+
+* Je suis développeur à [Champs-Libres](http://www.champs-libres.coop/), où une partie de nos travaux sont en lien avec la géographique. On ré-utilise fréquemment les données de OpenStreetMap (OSM). On met également en place des serveurs carto, nominatim, etc. Ça me prend officiellement un mi-temps, mais en réalité, c'est beaucoup plus.
 * J'ai fait des études de journalisme, mais depuis que j'ai quitté l'école, j'ai été travailleur social. Je suis employé également à mi-temps comme formateur avec des demandeuses d'emploi, dans une association féministe.
-* J'ai également été (et parfois je le suis encore) engagé dans beaucoup d'associations ou de mouvements : le <a href="http://www.gracq.org" rel="nofollow">GRACQ</a> (Groupe de Recherche et d'Action des Cyclistes Quotidiens, syndicat des cyclistes), les <a href="http://lesscouts.be" rel="nofollow">de scouts</a>, des syndicats, ...
+* J'ai également été (et parfois je le suis encore) engagé dans beaucoup d'associations ou de mouvements : le [GRACQ](http://www.gracq.org) (Groupe de Recherche et d'Action des Cyclistes Quotidiens, syndicat des cyclistes), les [de scouts](http://lesscouts.be), des syndicats, ...
 
 Je suis également papa et ça me prend une autre belle partie de mon temps !
 

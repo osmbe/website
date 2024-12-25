@@ -6,7 +6,6 @@ categories: ["motm"]
 
 _Brice (eMerzh) lives in Jette. He is 30 and programmer in a small start-up in Brussels that is active in social analytics. He is passionate about open source and everything around it. For his job he works on Archlinux + KDE and his preferred OpenStreetMap editor is of course JOSM!_
 
-
 **When and where did you discover OpenStreetMap?**
 
 I discovered OpenStreetMap by accident in 2007, when it was mentioned on a website with Linux information, (http://linuxfr.org). I was attracted by the collaboration and open aspects of the project. I soon discovered that my street was not mapped yet and see... I was bitten by the bug.

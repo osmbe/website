@@ -101,7 +101,7 @@ La grande variété de données qui peuvent être combinés de façon intéressa
 
 **Quel est le plus grand défi, la plus grande difficulté pour OpenStreetMap ?**
 
-Encore trop de cartographes sont obsédés par ce qui est sur [www.openstreetmap.org](www.openstreetmap.org). Mais il y a une grande richesse en [sites Web](http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services) et en [applications](http://wiki.openstreetmap.org/wiki/Software#Mobile_Devices). 
+Encore trop de cartographes sont obsédés par ce qui est sur [www.openstreetmap.org](www.openstreetmap.org). Mais il y a une grande richesse en [sites Web](http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services) et en [applications](http://wiki.openstreetmap.org/wiki/Software#Mobile_Devices).
 Nous pourrions mettre l'accent sur beaucoup plus de sujets. Peut-être l'approche des communautés [allemande](http://www.openstreetmap.de/), [française](http://www.openstreetmap.fr/) ou [belge](http://www.openstreetmap.be/) est meilleure. Que les gens sachent que c'est d'abord une grande base de données qui est utilisable avec plein de sites Web et d'applications alors qu'on ne montre par exemple qu'une simple grande carte. Cette grande carte est de toute façon toujours comparée à Google Maps et pointé parce que telle ou telle fonctionnalité n'est pas présente sur elle.
 
 **Comment restes-tu à jour avec les nouvelles liées à OpenStreetMap ?**

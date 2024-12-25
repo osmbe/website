@@ -69,6 +69,6 @@ The Next Adventure
 
 There's nothing like mapping to get to know the land: you become conscious of every hamlet, every house, every name.
 
-## I would like to thank Fredy for the interview and Manfred Reiter for passing his name to us.
+**I would like to thank Fredy for the interview and Manfred Reiter for passing his name to us.**
 
 Locatie: Medio Baudó, Chocó, Colombia

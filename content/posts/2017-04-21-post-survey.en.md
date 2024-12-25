@@ -11,21 +11,15 @@ I have been conducting surveys for the past 6 years. Every weekend I take the do
 
 One of the benefits of having the dogs with me, is that I was never stopped and questioned about my activities, unlike some other mappers.
 
-
-![Our dogs](https://photos.smugmug.com/Our-Dogs/Fun-2017/Vanalles/i-bZz8R54/0/L/20170407_192229-L.jpg)
-
-*Our Dogs, the one in the middle is still an apprentice, the two on the outside already accompany me for 6 years of surveying.*
+{{< figure src="https://photos.smugmug.com/Our-Dogs/Fun-2017/Vanalles/i-bZz8R54/0/L/20170407_192229-L.jpg" title="Our Dogs, the one in the middle is still an apprentice, the two on the outside already accompany me for 6 years of surveying." >}}
 
 ## Equipment
 
 Lets start by listing the gadgets  I use to collect data. My choice is largely influenced by the fact that it needs to work while I handle the dogs. In other words, it should be easy to operate the device with 1 hand; I do not want to carry it in my hand all the time and I do not want to stop for long periods.
 
-
 Now the actual equipment:
 
-![The Equipment](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-mNsG5c2/0/M/IMG_0225-M.jpg)
-
-*Garmin Dakota 10, Nikon D7100, LG G3s*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-mNsG5c2/0/M/IMG_0225-M.jpg" title="Garmin Dakota 10, Nikon D7100, LG G3s" >}}
 
 ### Garmin Dakota 10
 
@@ -51,7 +45,7 @@ I run the navigation app [OsmAnd](http://osmand.net/) on my smartphone, an LG G3
 
 ![SmartPhone in holder](https://photos.smugmug.com/OSM/OSM-2016/2016-06-18-Drongengoedbos/i-4nRLcjc/0/L/DSC_3896-L.jpg)
 
- OsmAnd is used as the main navigation aid and to track my walks. So at the end I have 2 tracks, one from the Garmin and one from OsmAnd.
+OsmAnd is used as the main navigation aid and to track my walks. So at the end I have 2 tracks, one from the Garmin and one from OsmAnd.
 
 Drawback with this setup is that I cannot take pictures with the smartphone, but I find it undoable to switch from OsmAnd navigation to picture taking anyhow. You have to confirm several dialogs and the switch between the apps is terribly slow. I think it can easily take up to 30 seconds to make a single picture.
 
@@ -63,17 +57,18 @@ I do not use them during my walks. I cannot operate the smartphone all the time 
 
 For those that are interested in using this method to capture photos, take a look at Levente Juhász' [blog post on Mapillary.com](http://blog.mapillary.com/community/2017/04/07/mapping-hiking-routes-openstreetmap-mapillary.html).
 
- ## Preparing a Walk
+## Preparing a Walk
 
 ### The Route
+
  I typically make walks between 10 and 14 kilometers, which I plan at home. There are a number of ways to do this, but you can always download a GPX-trace from sites such as
 
- * [GPSies](http://www.gpsies.com/)
- * [Wikiloc](https://www.wikiloc.com/)
- * [Dogsfriendly](http://www.dogsfriendly.be/wandelingen.html) -- Belgium only
- * [wandelroutes.org](http://www.wandelroutes.org/) - Flanders only
- * or you could plan your own walk along one of the many networks on [Wandelknooppunt.be](http://wandelknooppunt.be)
- * Of course you could also use the walks found on [Waymarked Trails](https://hiking.waymarkedtrails.org) which shows all hiking routes mapped in OpenStreetMap
+* [GPSies](http://www.gpsies.com/)
+* [Wikiloc](https://www.wikiloc.com/)
+* [Dogsfriendly](http://www.dogsfriendly.be/wandelingen.html) -- Belgium only
+* [wandelroutes.org](http://www.wandelroutes.org/) - Flanders only
+* or you could plan your own walk along one of the many networks on [Wandelknooppunt.be](http://wandelknooppunt.be)
+* Of course you could also use the walks found on [Waymarked Trails](https://hiking.waymarkedtrails.org) which shows all hiking routes mapped in OpenStreetMap
 
 Since I want to contribute to the walking networks mapped in OpenStreetMap, I typically chose Wandelknooppunt.be and look for missing routes on Waymarked trails. The walk should be fun for the dogs as well, so I try to find a mix between little villages (a lot to map) and forests and fields (more fun for the dogs and hopefully more beautiful scenery, but less to map).
 
@@ -90,6 +85,7 @@ As mentioned in [Heritage in Flanders and Crowd-Sourced Projects](http://www.osm
 Let's take a detailed look at each of those steps.
 
 #### Wikipedia pages with lists of immovable heritage
+
 The Dutch Wikipedia lists all immovable heritage in Flanders, grouped per village. For large towns, there might be multiple pages.
 
 ![List of unmovable heritage in Rumst on Wikipedia](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-DHjHCwZ/0/M/Screen%20Shot%202017-04-08%20at%2021.05.00-M.png)
@@ -98,13 +94,13 @@ The Dutch Wikipedia lists all immovable heritage in Flanders, grouped per villag
 
 Each line typically contains the name or description of the item, an address, the (part) village the coordinates and an image. Lines without coordinates are useless for our purpose.
 
-As said, I download this type of pages and save them as <village>.html (e.g Rumst.html) on my local disk.
+As said, I download this type of pages and save them as \<village\>.html (e.g Rumst.html) on my local disk.
 
 ### Running the Python script
 
 The Python script can be run from the command line.
 
-```
+```bash
 python ../Python/wikipedia2osmandgpx.py -f Rumst.html
 ```
 
@@ -116,16 +112,17 @@ for those two lines of the Wikipedia page:
 ![2 heritage items in Rumst](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-ZBKqnDX/0/M/Screen%20Shot%202017-04-08%20at%2021.30.10-M.png)
 
 the generated waypoints are
-```
+
+```xml
 <wpt lat="51.0775" lon="4.425">
-		<name>OK-Dorpswoning Markt 13</name>
-		<desc>14005 Dorpswoning - Markt 13</desc>
-		<type>heritage</type>
+  <name>OK-Dorpswoning Markt 13</name>
+  <desc>14005 Dorpswoning - Markt 13</desc>
+  <type>heritage</type>
 </wpt>
 <wpt lat="51.0786111111" lon="4.45277777778">
-		<name>NOK-B-XIX-Arbeidershuizen Mechelsesteenweg 71</name>
-		<desc>14007 XIX-Arbeidershuizen - Mechelsesteenweg 71</desc>
-		<type>heritage</type>
+  <name>NOK-B-XIX-Arbeidershuizen Mechelsesteenweg 71</name>
+  <desc>14007 XIX-Arbeidershuizen - Mechelsesteenweg 71</desc>
+  <type>heritage</type>
 </wpt>
 ```
 
@@ -136,10 +133,10 @@ This osmand_Rumst.gpx file is ready to be placed on your smartphone.
 
 The Python script has a few limitations which makes it unsuitable for a fully automated setup on a server where waypoint files can be generated on demand.
 
-- It cannot handle Wikipedia pages with multiple tables for different villages such as the page for [Kaprijke and Lembeke](https://nl.wikipedia.org/wiki/Lijst_van_onroerend_erfgoed_in_Kaprijke).
-- It has problems with some strangely encoded characters
-- It cannot download the html page itself, because Wikipedia disallows this.
-- At this moment it does not look at OpenStreetMap data, which means that you might end up surveying items that are already fully mapped. Since I am one of the few mappers working on this type of features, this is not really a problem.
+* It cannot handle Wikipedia pages with multiple tables for different villages such as the page for [Kaprijke and Lembeke](https://nl.wikipedia.org/wiki/Lijst_van_onroerend_erfgoed_in_Kaprijke).
+* It has problems with some strangely encoded characters
+* It cannot download the html page itself, because Wikipedia disallows this.
+* At this moment it does not look at OpenStreetMap data, which means that you might end up surveying items that are already fully mapped. Since I am one of the few mappers working on this type of features, this is not really a problem.
 
 ### Placing the files on the smartphones
 
@@ -153,16 +150,16 @@ Now I can toggle the display of those files via the OsmAnd UI. This is done as f
 
 ![Configure Map](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-FG8C3LK/1/L/Screenshot_2017-04-09-10-37-14-L.jpg)
 
-2) Then "GPX Track..."
+1) Then "GPX Track..."
 
 ![GPX Track](
 https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-tFcQNdL/1/L/Screenshot_2017-04-09-10-37-38-L.jpg)
 
-3) Then enable your GPX-trace and one or more files with waypoints
+1) Then enable your GPX-trace and one or more files with waypoints
 
  ![Waypoint files](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-836xGkV/0/L/Screenshot_2017-04-09-10-37-52-L.png)
 
-4) Press ok
+1) Press ok
 
 return back to your map, et voilà, the trace of the route and all immovable heritage in the are are visible.
 
@@ -180,13 +177,13 @@ When I start the walk, I create a waypoint on the Garmin at the same time I make
 
 The Waypoint file on the Garmin will then contain a text similar to
 
-```
+```xml
 823772</ele><time>2017-04-16T11:25:03Z</time><name>SYNC</name><sym>City (Medium)</sym></wpt>
 ```
 
 During the walk I just make a lot of photos. Each time I see something I want to map later on I take a picture. Sometimes multiple pictures, e.g. an overview and a close up to read a label.
 
-## Processing the photos.
+## Processing the photos
 
 ### Assigning locations to photos
 

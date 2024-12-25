@@ -15,4 +15,4 @@ We'll be coming to get together again in the city of Antwerp and talk about Open
 
 Everybody is welcome, whether you've been mapping for ten years, or you just encountered OpenStreetMap somewhere and you want to know more.
 
-We're an international community and we speak Dutch, French and English, so come join us! 
+We're an international community and we speak Dutch, French and English, so come join us!

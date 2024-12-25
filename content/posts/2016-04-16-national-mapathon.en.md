@@ -5,7 +5,7 @@ title: National Missing Maps Mapathon 2016
 rsvp: https://www.eventbrite.com/e/national-missing-maps-mapathon-tickets-23149918028
 ---
 
-**Help Doctors Without Borders and the Red Cross to facilitate their rescue**
+## Help Doctors Without Borders and the Red Cross to facilitate their rescue
 
 In the context of the International Map Year 2015-2016, a national Mapathon will take place on Saturday, April 16th, which is organized by the National Committee for Geography, in collaboration with OpenStreetMap Belgium. Seven universities in Brussels, Flanders and Wallonia open their doors a whole day for a large collective mapping event. Would you like to contribute an hour or longer, do not miss this opportunity and help Doctors Without Borders and the Red Cross to facilitate their work in crisis areas.
 

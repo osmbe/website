@@ -15,7 +15,7 @@ Un jour en cherchant des cartes gratuites pour mon Garmin, j'ai découvert OSM. 
 
 Quand je vais me balader, bien souvent sur des chemins balisés avec un club, je prends des notes des choses qui ne sont pas réellement structurées. J'utilise OsmAnd et j'enregistre ma voix. Pour le moment j'essaie de noter la largeur des routes, la vitesse autorisée, la surface ou le type du chemin, le début et la fin des villages. De plus, j'aime beaucoup les chapelles, les sanctuaires, ...  et donc je les note tous. De temps en temps, je découvre des petits chemins ("Trage Wegen") non cartographiés. Pour une marche de 10 kilomètres, j'ai entre 30 et 50 minutes de notes enregistrées. De temps en temps je reçois de l'aide de mes compagnons de route : ils me signalement à l'avance que nous approchons d'une chapelle. Ils ne savent pas vraiment ce que je fais et pensent que je suis seulement intéressé par prendre une photo.
 
-<img src="{{ site.baseurl }}/assets/images/motm/2014/12/Kapelletje_GuyVV.png"/>
+{{< figure src="images/posts/Kapelletje_GuyVV.png" >}}
 
 **Que cartographiez vous ? Avez-vous une spécialisation ?**
 

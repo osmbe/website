@@ -5,11 +5,11 @@ cover: eimai.png
 categories: ["motm"]
 ---
 
-_OpenStreetMap n'existerais pas sans ses contributeurs (ou "mappers"). Pour cette raison nous vous présenterons chaque mois un de ces contributeurs. 
+_OpenStreetMap n'existerais pas sans ses contributeurs (ou "mappers"). Pour cette raison nous vous présenterons chaque mois un de ces contributeurs.
 
 **Notre premier contributeur du mois est : Ben Laenen !**_
 
-Ben Laenen, connu dans la communauté OpenStreetMap sous le pseudonyme de <a href="http://www.openstreetmap.org/user/Eimai">Eimai</a> (qui se prononce /ˈimɛ/ comme le mot grec είμαι (je suis)), vit à Anvers et est conducteur de train. Durant ses études, Ben est devenu un membre actif du monde FOSS. Par exemple, il est un des responsables de la police "DejaVu", une police standard se trouvant dans beaucoup de distributions Linux. Cette police est aussi utilisée dans Mapnik, le principal outil de rendu de carte d'OpenStreetMap. Ainsi, il est aussi actif dans la communauté "Libre Graphics", plus spécialement pour les sujets typographiques.
+Ben Laenen, connu dans la communauté OpenStreetMap sous le pseudonyme de [Eimai](http://www.openstreetmap.org/user/Eimai) (qui se prononce /ˈimɛ/ comme le mot grec είμαι (je suis)), vit à Anvers et est conducteur de train. Durant ses études, Ben est devenu un membre actif du monde FOSS. Par exemple, il est un des responsables de la police "DejaVu", une police standard se trouvant dans beaucoup de distributions Linux. Cette police est aussi utilisée dans Mapnik, le principal outil de rendu de carte d'OpenStreetMap. Ainsi, il est aussi actif dans la communauté "Libre Graphics", plus spécialement pour les sujets typographiques.
 
 **Comment avez vous découvert OpenStreetMap ?**
 
@@ -27,7 +27,7 @@ Actuellement je suis plus un contributeur à distance. J'utilise donc principale
 
 Au début, il n'y avait pas le choix, nous devions cartographier les routes. Après un petit temps, quand toutes les routes d'Anvers était cartographiées, j'ai commencé à cartographier les itinéraires cyclables et ensuite les itinéraires pédestres. Pour ces derniers, ça était très intéressant de découvrir des petits chemins que sans cette expérience je n'aurais jamais connus. Récemment, je travaille sur les infrastructures ferroviaires, qui est en rapport avec mon travail. J'ai cartographié beaucoup de choses depuis mes débuts, mais je n'ai jamais passé de temps à renseigner les points d'intérêt.
 
-<a href="http://hdyc.neis-one.org/?Eimai"><img src="{{ site.baseurl }}/assets/images/motm/2014/11/hdyc_eimai.png"/></a>
+{{< figure src="images/posts/hdyc_eimai.png" link="http://hdyc.neis-one.org/?Eimai" >}}
 
 **Qu'est ce qui vous motive pour cartographier ?**
 
@@ -47,7 +47,7 @@ C'est également un de ses points faibles: la liberté permise lors de la contri
 
 **Et quel est notre plus grand défi ?**
 
-Le premier défi est de tenir à jour les données. Avant de mettre à jour une donnée, il faut que le contributeur soit au courant du changement. La possibilité d'ajouter des notes sur www.openstreetmap.org est certainement un bon outil qui permet à des utilisateurs qui ne sont pas intéressés de cartographier d'apporter leur pierre à l'édifice en signalant des changements. Mais il y a certainement de nombreux angles morts sur la carte où les mises à jour nécessaires n'ont pas lieu. Le deuxième défi se trouve déjà dans la réponse de la question précédente: comment cartographier de manière cohérente avec des personnes du monde entier (même d'un seul pays)?
+Le premier défi est de tenir à jour les données. Avant de mettre à jour une donnée, il faut que le contributeur soit au courant du changement. La possibilité d'ajouter des notes sur <www.openstreetmap.org> est certainement un bon outil qui permet à des utilisateurs qui ne sont pas intéressés de cartographier d'apporter leur pierre à l'édifice en signalant des changements. Mais il y a certainement de nombreux angles morts sur la carte où les mises à jour nécessaires n'ont pas lieu. Le deuxième défi se trouve déjà dans la réponse de la question précédente: comment cartographier de manière cohérente avec des personnes du monde entier (même d'un seul pays)?
 
 **Encore une dernière conclusion ?**
 

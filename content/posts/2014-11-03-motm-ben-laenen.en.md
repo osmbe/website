@@ -5,7 +5,7 @@ cover: eimai.png
 categories: ["motm"]
 ---
 
-Ben Laenen, in OpenStreetMap known under the username <a href="http://www.openstreetmap.org/user/Eimai">Eimai</a> (pronounce /ˈimɛ/ like the Greek word είμαι), lives in Antwerp and is in his daily life a train conductor. During his studies he became active in the FOSS-world, now already a time ago. He is for example one of the people responsible for DejaVu Fonts, one of the standard fonts in several Linux distributions. The same font is also used in the main rendering engine of OpenStreetMap, Mapnik. As such, he is also active in the Libre Graphics community, more specifically in the typographic aspects.
+Ben Laenen, in OpenStreetMap known under the username [Eimai](http://www.openstreetmap.org/user/Eimai) (pronounce /ˈimɛ/ like the Greek word είμαι), lives in Antwerp and is in his daily life a train conductor. During his studies he became active in the FOSS-world, now already a time ago. He is for example one of the people responsible for DejaVu Fonts, one of the standard fonts in several Linux distributions. The same font is also used in the main rendering engine of OpenStreetMap, Mapnik. As such, he is also active in the Libre Graphics community, more specifically in the typographic aspects.
 
 **How and when did you discover OpenStreetMap?**
 
@@ -23,7 +23,7 @@ Currently, I belong to the category of armchair-mappers, so mainly using aereal 
 
 In the beginning there was not much choice, we had to start with the roads. After a while, when almost all roads in Antwerp were done, I started mapping bicycle routes and later on walking routes. The latter is especially interesting, you discover new, small paths, which would otherwise remain unknown. More recently, I am working on railway infrastructures, of course influenced by my job. I have been mapping a lot of different things over the years, but never really spend time on mapping points of interest (POIs).
 
-<a href="http://hdyc.neis-one.org/?Eimai"><img src="{{ site.baseurl }}/assets/images/motm/2014/11/hdyc_eimai.png"/></a>
+{{< figure src="images/posts/hdyc_eimai.png" link="http://hdyc.neis-one.org/?Eimai" >}}
 
 **Why do you map? What motivates you?**
 
@@ -43,7 +43,7 @@ The greatest strength is also one of its greatest weaknesses: the freedom you ha
 
 **What are the biggest challenges for OpenStreetMap?**
 
-The first challenge is to keep the data up-to-date. As a mapper you need to notice that something changes in a street before you can update it on OpenStreetMap. The possibility to add notes on www.openstreetmap.org is a nice new tool to allow people, who are not into mapping, to point out changes. However, several blind spots where no one takes care of the necessary updates, they do exist. The second challenge, as already hinted in the previous question, is the issue about how we can come to a world-wide consistent way of mapping.
+The first challenge is to keep the data up-to-date. As a mapper you need to notice that something changes in a street before you can update it on OpenStreetMap. The possibility to add notes on <www.openstreetmap.org> is a nice new tool to allow people, who are not into mapping, to point out changes. However, several blind spots where no one takes care of the necessary updates, they do exist. The second challenge, as already hinted in the previous question, is the issue about how we can come to a world-wide consistent way of mapping.
 
 **To conclude, is there something else you want to share with the readers?**
 

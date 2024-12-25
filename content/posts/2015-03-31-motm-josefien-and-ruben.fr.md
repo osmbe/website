@@ -5,7 +5,7 @@ cover: midgard_badges.jpg
 categories: ["motm"]
 ---
 
-_Josefien et Ruben ont 20 et 19 ans et mappent sous le nom <a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>. En dehors du mapping, ils étudient pour leur études supérieures. Dans l'enseignement secondaire, ils étaient les meilleurs amis, et, depuis peu, avec un badge fait maison, ils parcourent les rues de Blankenberge et des communes environnantes. Ruben se préoccupe plus du côté technique et Josefien consacre son temps libre à créer deux T-shirts OSM à porter durant les surveys. Ensemble, ils se consacrent volontiers aux autres. Par exemple, ils [donnent du plasma toutes les deux semaines à Gand](https://www.openstreetmap.org/way/334861945)._
+_Josefien et Ruben ont 20 et 19 ans et mappent sous le nom [M!dgard](https://openstreetmap.org/user/M!dgard). En dehors du mapping, ils étudient pour leur études supérieures. Dans l'enseignement secondaire, ils étaient les meilleurs amis, et, depuis peu, avec un badge fait maison, ils parcourent les rues de Blankenberge et des communes environnantes. Ruben se préoccupe plus du côté technique et Josefien consacre son temps libre à créer deux T-shirts OSM à porter durant les surveys. Ensemble, ils se consacrent volontiers aux autres. Par exemple, ils [donnent du plasma toutes les deux semaines à Gand](https://www.openstreetmap.org/way/334861945)._
 
 **Comment vous avez appris à connaître OpenStreetMap ?**
 
@@ -48,7 +48,7 @@ Ruben : Établir des références entre OpenStreetMap et Wikidata me semble éga
 Josefien : Que vous fassiez une petite partie d'un ensemble ou tout changement minime, c'est un point mais c'est un pas en avant vers quelque chose que Ruben et moi soutenons vraiment. C'est juste amusant d'essayer de cartographier toute la Belgique et nous sommes d'accord sur le fait de participer autant que possible.
 Ruben : Je trouve motivant que les données peuvent être utilisées presque indéfiniment et que chacun peut aider, des jeunes aux multinationales.
 
-<img src="{{ site.baseurl }}/assets/images/motm/2015/03/midgard_kerkstraat.png"/>
+{{< figure src="images/posts/midgard_kerkstraat.png" >}}
 
 **Avez-vous des idées sur la façon dont nous pouvons élargir la communauté OpenStreetMap ? Ou pour motiver plus de cartographes ?**
 

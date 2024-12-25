@@ -24,4 +24,4 @@ Then we'll have a look at how to make use of all that data by installing OsmAND 
 
 We'll discuss what OpenStreetMap related topics to discuss during the next meetup, as we're planning for this Meetup to be the first in a series organised on a monthly basis.
 
-*Polyglot*
+Polyglot

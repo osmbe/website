@@ -13,10 +13,10 @@ Je m'appelle Jamie Nadeau. Dans OSM certaines personnes me connaissent sous le n
  J'ai commencé en cherchant une alternative à Google Maps, car dans ces jours les place "hors réseau" était impossible d'y naviguer parce qu'il y avait soit aucune données ou le besoin d'avoir des données mobiles(Les donnée mobiles au Canada valent plus cher que de l'or et la couverture est plus au sud le long de la fontière des États-Unis, où la pluspart de la population s'y trouve de toute façon). J'ai découvert OSMAnd et j'ai vraiement aimé le fait d'avoir les données directement sur mon téléphone. Ma première modification était une correction sur l'autoroute 417 (je m'en souviens plus exactement pourquoi je l'avais modifié) et de là je me suis posé la question sur quoi d'autre je pourrais ajouter, et j'ai plongé dedans tête première.
 
 ## Que cartographiez-vous ? Y a-t-il des différences depuis vos débuts ?
+
  Initiallement je corrigeais des erreurs sur la carte. Après j'ai commencé à ajouté des édifices(manuellement via photo satélite), après des addresses. Maintenant j'ajoute n'importe quoi. J'ai fait de l'import CANVEC, d'addresses et d'édifices. Cartographier les villages des première nation dans le nord du Canada et les frontières des villes. Je me restreint pas à seulement le Canada.
 
 ![image](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png)
-
 
 ## Comment cartographiez-vous ? Sur le terrain ou "arm-chair" ?
 
@@ -29,34 +29,44 @@ Les deux. Quand je fesait les cartes d'intérieur des centres d'achats, j'y alla
  Si c'est papier crayon, j'imprime habituellement sur ce que je fais l'enquête et je prends des notes/dessine dessus. Si c'est par téléphone, j'enregistre un GPX et ajoûte des données. Je collectionned aussi des donnée passivement via des photos(OSC/Mapillary)
 
 ## Où cartographiez-vous ?
+
  N'importe où. Majoritairement au Canada en ce moment. Ceci m'arrête pas de collectionner des données sur mon téléphone quand je suis en voyage hors du pays, une chose que ma femme s'est habitué de subir.
 
 ![image](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png
 )
+
 ## Quel est votre plus grande réussite en tant que cartographe ?
+
  Finalement importer les édifices et les addresses dans OSM pour la région d'Ottawa/Gatineau et nettoyant les données. Aussi cartographier Fort McMurray pendant le feu de forêt.
 
  ![image](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png)
 
 ## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
+
  Ne pas se fier sur Google pour des données géographique et ne pas avoir une carte vide.
 
 ## Quelle est la partie la plus difficile en cartographie ?
+
  Je ne serais peut-être pas très populaire en disant ceci mais: intéragir avec la communauté. Des fois c'est difficile se faire comprendre quand tu parles à l'internationale/d'autre culture via courriel/text à la place de face à face. Des fois le monde peuvent être un peu raide, sourtout pour des nouveaux.
 
 ## Quels sont vos plans de cartographie dans un futur proche ?
+
  Qualifier tous les édifices à Gatineau/Ottawa (résidentielle/détachée/commerciale, etc) et finir de cartographié les villages des premières nations au Canada.
 
  ![3D](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png)
 
 ## Avez-vous des contacts avec d'autres cartographes ?
+
  Oui plusieurs à Ottawa, on se rencontre à peu près à chanque mois pour discuter de futur projets (Je pense ce mois-ci c'est les piste de bicycles dans la région Capitale)
 
 ## Utilisez-vous vous-même OpenStreetMap ? Comment ?
+
  Pas mal pour la navigation via OSMAnd.
 
 ## Faites-vous d'autres choses que la cartographie qui soit liées à OpenStreetMap ?
- Je collectionne beaucoup de photos OSC/Mapillary pour que d'autres personnes puissent contribuer. J'ai aussi créer un outil GUI pour téléverser à OSC: https://github.com/osmottawa/OSVUploadr/releases
+
+ Je collectionne beaucoup de photos OSC/Mapillary pour que d'autres personnes puissent contribuer. J'ai aussi créer un outil GUI pour téléverser à OSC: <https://github.com/osmottawa/OSVUploadr/releases>
 
 ## Pour conclure, y a-t-il autre chose que vous voulez mentionner ?
+
  OSM est étonnant comme projet! Surtout dans des cas de crise (Fort McMurray, Nepal, Haiti, etc). La communauté est très fort et veulent contribuer autant de temps à ce projet. C'est triste qu'on peu seulement récolter ce que le monde mettent de dans, donc il faut se motiver pour améliorer la carte, qui pourrait inspirer des nouveaux cartohgraphieur(euse) pour joindre un projet en pleine croissance.

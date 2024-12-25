@@ -14,7 +14,7 @@ this great city. You can find me on just about all
 social networks under the pseudonym "jbelien" (very original, I agree).
 I am also a photographer (very) amateur and (huge) fan of LEGO.
 
-## When and how did you discover OpenStreetMap? 
+## When and how did you discover OpenStreetMap?
 
 Based on my account creation, I discovered OpenStreetMap in 2012; I do not
 remember very well what I did at that time but I think I discovered
@@ -29,7 +29,7 @@ to have a drink, I met Joost and Yannick ...
 Then I went to the following mapathon, and to the next, then volunteered at the State of the Map,
 and never left the OpenStreetMap Belgium community.
 
-## What do you map? Is there any difference with your early days? 
+## What do you map? Is there any difference with your early days?
 
 I try to vary the pleasures, to map locally in Brussels, to
 participate in the HOT mapathons but also to map corners of Belgium or
@@ -43,7 +43,7 @@ area; and finally, I realized that some parts of Wallonia
 are as deserted as in Africa and so I decided to start mapping the small
 villages that are missing ...
 
-## How do you map? 
+## How do you map?
 
 Most of the time from my office chair (or from a chair at a
 mapathon) with this beautiful tool that is JOSM. But I realized that it was
@@ -52,7 +52,7 @@ I printed "field papers" and went for a walk in a
 Brussels to see what is missing (or what would be
 incorrect).
 
-## How do you conduct your surveys? 
+## How do you conduct your surveys?
 
 As explained above, for Brussels, I define a zone to cover,
 I print some "field papers", I take my blue and red pens and I
@@ -62,7 +62,7 @@ things that could be missing by taking some pictures and mapping
 after the walk the area in which I was walking around trying to remember
 and based on the few photos made.
 
-## Where do you map? 
+## Where do you map?
 
 ![Doische](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jonathan-Beliën/i-7Nrtm86/0/2f01d5e9/L/Screen%20Shot%202017-09-13%20at%2012.29.10-L.png)
 
@@ -77,7 +77,7 @@ As I said before, I also manage to map in Wallonia
 and in France. The fact that I map everywhere and different things,
 that's what makes it fun, I think.
 
-## What is your biggest achievement as mapper? 
+## What is your biggest achievement as mapper?
 
 My biggest achievement (as far as success is concerned) is
 probably [project 2741](http://tasks.hotosm.org/project/2741) in
@@ -100,7 +100,7 @@ living; so I began to map all the buildings of the commune.
 The work is not yet finished, far from it, but I am
 regularly mapping there when I have a little time.
 
-## What motivates you? 
+## What motivates you?
 
 As I work in digital mapping, since I've been using
 OpenStreetMap, my first motivation is obviously to improve
@@ -112,7 +112,7 @@ not yet, but with each mapathon, with each contribution, we approache a little
 more the goal! Simply compare OpenStreetMap with any other
 owner map to see how openStreetMap is unbeatable!
 
-## What is the most difficult part of mapping? 
+## What is the most difficult part of mapping?
 
 A few months ago I would have said the relations in OpenStreetMap! But since I
 worked on the relations of the network cyclist brussels during
@@ -125,19 +125,19 @@ mapping. There are regular debates more than animated on the mailing-list
 on how to map this or that thing ... but in the end everything
 always (?) finishes well and without bloodshed.
 
-## What are your mapping plans for the near future? 
+## What are your mapping plans for the near future?
 
 Finish the buildings of the municipality of Doische! But also to continue
 circulating in Brussels with my sheet and my pen to improve the surroundings
 of my home and then why not extend to the center or other municipalities!
 Also, even if it is more development than cartography, I am
 working on a tool that makes it easy to compare a dataset with what is already in OpenStreetMap:
-https://github.com/jbelien/osm-compare
+<https://github.com/jbelien/osm-compare>
 And there is always the Belgian baselayer which I take care of: <https://tile.osm.be/>
 
 ![tile.osm.be en Français](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jonathan-Beliën/i-zH6vq5G/1/e9e1b81f/XL/Screen%20Shot%202017-09-13%20at%2012.28.08-XL.png)
 
-## Do you have contact with other mappers? 
+## Do you have contact with other mappers?
 
 Since the National Mapathon 2016, I see almost every month the hard core
 of OpenStreetMap Belgium (hey Joost, Ben, Jorieke, ...). My goal by going to
@@ -148,7 +148,7 @@ So, for the second mapathon, I became a volunteer; and 1 year later
 a member of OpenStreetMap Belgium's board alongside
 Ben and Joost!
 
-## Do you use OpenStreetMap yourself? How? 
+## Do you use OpenStreetMap yourself? How?
 
 I use OpenStreetMap for a few years now on a daily basis;
 essentially, as a background map with <https://tile.osm.be/> but
@@ -156,7 +156,7 @@ increasingly as a geographical database. Every new
 theme for which OpenStreetMap could be a source, I am amazed
 of the quality of these data!
 
-## Do you do anything else than mapping that is related to OpenStreetMap? 
+## Do you do anything else than mapping that is related to OpenStreetMap?
 
 Since I joined the community in early 2016, I have volunteered
 mapathons throughout Belgium (as support and validator);
@@ -173,7 +173,7 @@ I also developed some tools for the community:
 And since early 2017, I am also a member of the Board of OpenStreetMap
 Belgium and helps organize meetups in Brussels.
 
-## To conclude is there anything else you want to mention? 
+## To conclude is there anything else you want to mention?
 
 It's been one and a half years since I really joined the "ranks" of
 OpenStreetMap (both as a contributor and as a member of the

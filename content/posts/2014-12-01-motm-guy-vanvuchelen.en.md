@@ -15,7 +15,7 @@ While I was looking for free maps for my Garmin, I discovered OpenStreetMap. Alm
 
 Wherever I go for my walks, typically signposted walks with a club, I make notes. I do not really make structured notes. For this purpose, I use OsmAnd with voice recording. At the moment I try to "write down" the width of roads, the maximum allowed speed, the surface or type of track, the start and end of villages. Furthermore I am interested in all chapels and wayside shrines, so I mark them as well. From time to time I also encounter footpaths ("Trage Wegen") that are missing. After a walk of 10 kilometers, I have 30-50 minutes of voice recorded notes. From time to time I get some unexpected help from my walking buddies when they let me know beforehand when we are approaching a wayside chapel. They do not really know what I am doing and they think I am only interested in taking a picture.
 
-<img src="{{ site.baseurl }}/assets/images/motm/2014/12/Kapelletje_GuyVV.png"/>
+{{< figure src="images/posts/Kapelletje_GuyVV.png" >}}
 
 **What do you map and do you have any specialization?**
 

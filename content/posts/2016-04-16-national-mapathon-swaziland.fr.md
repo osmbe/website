@@ -30,7 +30,7 @@ Contacts per university:
 - **VUB**: [Frank Canters](mailto:fcanters@vub.ac.be)
 - **UCL**: [Sophie Vanwambeke](mailto:sophie.vanwambeke@uclouvain.be)
 - **KUL**: [Anton Van Rompaey](mailto:anton.vanrompaey@kuleuven.be)
-- **UGent**: [Kristien Ooms](mailto:Kristien Ooms &lt;Kristien.Ooms@ugent.be&gt;)
+- **UGent**: [Kristien Ooms](mailto:Kristien Ooms <Kristien.Ooms@ugent.be>)
 - **UNamur**: [Catherine Linard](mailto:catherine.linard@unamur.be)
 - **ULG**: [Cécile Deprez](mailto:cecile.deprez@ulg.ac.be)
 

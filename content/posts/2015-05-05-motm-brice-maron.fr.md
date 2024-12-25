@@ -34,7 +34,7 @@ Prouesse? Je pense avoir fait une bonne partie de l'import Urbis. Disons que c'e
 
 **Pourquoi cartographies tu ?**
 
-Une si grande base de donnée ouverte, libre, utile pour des hommes comme pour des machines... 
+Une si grande base de donnée ouverte, libre, utile pour des hommes comme pour des machines...
 
 **Faites tu d'autres choses liées à OpenStreetMap ?**
 

@@ -78,5 +78,5 @@ OSM data processing, building a polygons of populated areas and estimation of po
 
 ## To conclude, is there anything else you want to mention?
 
-Thank you for your time. 
+Thank you for your time.
 Best regards, Dmitry

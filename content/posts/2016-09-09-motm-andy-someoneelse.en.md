@@ -59,4 +59,4 @@ I'm also fairly active on the help site, and was asked to join OSM's Data Workin
 
 Despite the "people" problems mentioned above, and despite the cultural differences, most OSMers get on just fine - just check the comments on http://resultmaps.neis-one.org/osm-discussions any day of the week. New mappers (even if they're phone application users who didn't even know they were adding to OSM) generally get welcoming messages and offers of help. That's not to say that there isn't more that we can all do here, but (as with the low vandalism rate) I'm sometimes surprised that things work as well as they do.
 
-## Andy, thanks a lot for the interview and enjoy your hikes in South-Wales! 
+**Andy, thanks a lot for the interview and enjoy your hikes in South-Wales!**

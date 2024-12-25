@@ -5,7 +5,7 @@ cover: midgard_badges.jpg
 categories: ["motm"]
 ---
 
-_Josefien and Ruben (<a href="https://openstreetmap.org/user/M!dgard">M!dgard</a>) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give [blood plasma every two weeks in Ghent](https://www.openstreetmap.org/way/334861945)._
+_Josefien and Ruben ([M!dgard](https://openstreetmap.org/user/M!dgard)) are 20 and 19 years old. Between their mapping activities, they are going to college. In high school, they were best mates; and now they walk the streets of Blankenberge and neighbouring villages with their self-made OpenStreetMap badge. Ruben is more interested in the technical aspects, while Josefien spends her free time to design and make two OpenStreetMap T-shirts to wear during their surveys. They love to help others, e.g. they give [blood plasma every two weeks in Ghent](https://www.openstreetmap.org/way/334861945)._
 
 **How and when did you Learn about OpenStreetMap?**
 
@@ -35,10 +35,9 @@ Jose: [Mailboxes](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpost_box) are
 
 Ruben: I map a lot of different items. I enjoy mapping [turn lanes](http://wiki.openstreetmap.org/wiki/Key:turn), but I wished there would be more maps that show them.
 
-<img src="{{ site.baseurl }}/assets/images/motm/2015/03/midgard_kerkstraat.png"/>
+{{< figure src="images/posts/midgard_kerkstraat.png" >}}
 
 **Why do you map? What motivates you?**
-
 
 Jose: Like most people, I often pass the time by clicking around on the web. With OpenStreetMap, I now found something to spend that time more useful. Although I have to admit that it is also an excuse not to work for school. It is also very motivating that Ruben likes it when I am mapping stuff and that he encourages me to go out and survey a bit.
 

@@ -6,7 +6,7 @@ rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/235261159/
 ---
 EGEA Brussels and the student organisation are inviting us for their Missing Maps MAPATHON on Tuesday November 15th!
 
-All mappers welcome! There will be a training for new mappers. 
+All mappers welcome! There will be a training for new mappers.
 
 **Location :**
 

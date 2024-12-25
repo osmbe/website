@@ -65,4 +65,4 @@ I'm glad that i'm a part of such an amazing community which is always ready to h
 
 Thank you for reading it :)
 
-##Thanks a lot for the interview, Jinal.
+**Thanks a lot for the interview, Jinal.**

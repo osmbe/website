@@ -5,7 +5,7 @@ cover: Roman_Guy.jpg
 categories: ["motm"]
 ---
 
-_Since five years <a href="http://www.openstreetmap.org/user/Roman%20Guy">Guy Roman</a> is retired. Before that he was technical electrician for a engineering company. He mainly followed up projects for energy distribution and automation. So he was already "drawing" during his career._
+_Since five years [Guy Roman](http://www.openstreetmap.org/user/Roman%20Guy) is retired. Before that he was technical electrician for a engineering company. He mainly followed up projects for energy distribution and automation. So he was already "drawing" during his career._
 
 **How and when did you discover OpenStreetMap?**
 I accidentally discovered OpenStreetMap in 2008.
@@ -19,7 +19,7 @@ I mainly use the aerial images from Bing, but I combine this with the available 
 **Why do you map?**
 It is fun, and it allows me to explore the world without leaving my house!
 
-<a href="http://hdyc.neis-one.org/?Roman%20Guy"><img src="{{ site.baseurl }}/assets/images/motm/2015/01/hdyc_Roman_Guy.png"/></a>
+{{< figure src="images/posts/hdyc_Roman_Guy.png" link="http://hdyc.neis-one.org/?Roman%20Guy" >}}
 
 **Do you do other things related to OpenStreetMap?**
 I try to convince possible "passive" users to use OpenStreetMap, such as organisers of hiking trips.

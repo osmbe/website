@@ -37,7 +37,7 @@ Working together on the map. It is often more convenient to maintain your focus 
 
 I have always been fascinated by maps, but until the arrival of OSM, maps could only be consumed passively. What annoyed me the most, was that there were always two types of maps: on one hand detailed topological maps, with a small scale, and on the other streetmaps, that focussed on car drivers and often left out details that I found interesting. OpenStreetMap offered for the first time the possibility to build maps that I needed: a map that could be used as pedestrian and cyclist that can show the whole picture as well as the smallest detail.
 
-## What is the hardest part while mapping? 
+## What is the hardest part while mapping?
 
 For me, the most difficult part is to keep the map up-to-date. As long as one is looking at a blank canvas, it is easy to stay motivated to add new elements. Mainly because one sees the next day what one has done. This is less obvious when one walks through a shopping street and updates all shops. This takes a couple of hours work, while the map seemingly did not change.
 
@@ -63,7 +63,7 @@ Furthermore I am a member of OWG, the Working Group, which is responsible for th
 
 I came to Nominatim in 2012, when they were looking for a new administrator for the official server of the OSMF. From that moment, I take care of the server and have become the lead developer for its software. Unfortunately, there are not a lot of other developers. The last few years, the only development that was done was to allow it to keep up with the enormous grow of data in the OSM database.
 
-## And what about waymarkedtrails? 
+## And what about waymarkedtrails?
 
 I started with waymarkedtrails.org, because I needed a map with the hiking trails in Switserland, so I could verify the data that I added myself. Later on, I extended the map to cover the whole world, to motivate other mappers to start mapping routes. That is one of the things that works amazingly well in OSM. As soon as one visualizes data, one finds plenty of mappers that start mapping that kind of data.
 

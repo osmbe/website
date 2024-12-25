@@ -5,7 +5,7 @@ cover: foxandpotatoes.jpg
 categories: ["motm"]
 ---
 
-_Pierre Parmentier is an engineer in construction. He first worked on construction sites and projects in Africa, the Middle East and South America. Then in Belgium. Currently, as freelancer, he participates in industrial projects in different countries of the world. Everything what has to do with mapping, orienteering and fortifications are his hobbies. And many other subjects! He maps under the name <a href="https://www.openstreetmap.org/user/foxandpotatoes">foxandpotatoes</a>._
+_Pierre Parmentier is an engineer in construction. He first worked on construction sites and projects in Africa, the Middle East and South America. Then in Belgium. Currently, as freelancer, he participates in industrial projects in different countries of the world. Everything what has to do with mapping, orienteering and fortifications are his hobbies. And many other subjects! He maps under the name [foxandpotatoes](https://www.openstreetmap.org/user/foxandpotatoes)._
 
 **How did you get to know OpenStreetMap?**
 
@@ -13,7 +13,7 @@ That was in 2009. I completed the highway network in the Sonian Forest. Then, ev
 
 **Do you use OpenStreetMap?**
 
-OpenStreetMap helps me to prepare travels and to locate points of interest. For editing, I use JOSM and validation tools like Osmosis and OSM Inspector. As GPS, I have a Garmin Etrex 20 and I use OsmAnd+ with my smartphone. I also started to 'play' with <a href="http://umap.openstreetmap.fr/">uMap</a>.
+OpenStreetMap helps me to prepare travels and to locate points of interest. For editing, I use JOSM and validation tools like Osmosis and OSM Inspector. As GPS, I have a Garmin Etrex 20 and I use OsmAnd+ with my smartphone. I also started to 'play' with [uMap](http://umap.openstreetmap.fr/).
 
 **How do you map?**
 
@@ -21,9 +21,9 @@ I am a rather isolated contributor. I never had the opportunity to attend a mapp
 
 **What do you map?**
 
-I work mostly on basic data like highways, buildings, the UrbIS import, addresses and shops. Occasionally, I added roadside trees, hydrants, <a href="http://nl.wikipedia.org/wiki/Automatische_externe_defibrillator">AED</a>, pedestrian crossings, post boxes.
+I work mostly on basic data like highways, buildings, the UrbIS import, addresses and shops. Occasionally, I added roadside trees, hydrants, [AED](http://nl.wikipedia.org/wiki/Automatische_externe_defibrillator), pedestrian crossings, post boxes.
 
-<a href="https://www.openstreetmap.org/user/foxandpotatoes"><img src="{{ site.baseurl }}/assets/images/motm/2015/03/foxandpotatoes_hdyc.png"/></a>
+{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}
 
 **Why do you map?**
 
@@ -39,7 +39,7 @@ I think we should focus on what OpenStreetMap can make a popular tool for the on
 
 **What is in your view the greatest strength of OpenStreetMap?**
 
-The greatest strength of OpenStreetMap is to be free. Opportunities to use and reuse are endless. Look at all those ideas and applications that are popping up everywhere, such as the <a href="http://hot.openstreetmap.org/">Humanitarian OpenStreetMap Team (HOT)</a>, <a href="http://waymarkedtrails.org/">Waymarked Trails</a>, the <a href="http://geschichtskarten.openstreetmap.de/historische_objekte/">Geschichtkarten</a>.. All this is very stimulating!
+The greatest strength of OpenStreetMap is to be free. Opportunities to use and reuse are endless. Look at all those ideas and applications that are popping up everywhere, such as the [Humanitarian OpenStreetMap Team (HOT)](http://hot.openstreetmap.org/), [Waymarked Trails](http://waymarkedtrails.org/), the [Geschichtkarten](http://geschichtskarten.openstreetmap.de/historische_objekte/).. All this is very stimulating!
 
 **What are the largest challenges for OpenStreetMap?**
 

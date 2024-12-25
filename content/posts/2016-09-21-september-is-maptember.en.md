@@ -8,7 +8,7 @@ What happens when you allow everyone to map the world, as they see fit, no quest
 
 You get a map that allows you to navigate any country in the world for free, to plan a vaccination campaign in the Kivu, help you find the nearest bar with wifi.
 
-This is OpenStreetMap. 
+This is OpenStreetMap.
 
 600.000 people mapping away. Every month, we're adding millions of buildings and a couple of thousand places to unleash your dog. Together, we've mapped 44 million kilometers of roads. That's enough to travel around the world a thousand times!
 

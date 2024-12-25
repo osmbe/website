@@ -6,7 +6,7 @@ author: escada
 
 ![Lauri's Heatmap](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lauri-Kytömaa/i-9P9QfLW/0/O/osmheatmapalv.png)
 
-## When and how did you discover OpenStreetMap? 
+## When and how did you discover OpenStreetMap?
 
 I came across the Osm website in 2007, but I didn't yet have a GPS and
 there was only landsat imagery, if I remember correctly. Near the end
@@ -24,7 +24,7 @@ daily maintenance of buildings leave a sticker on the front door). The
 possibilities are endless, and one can always find their own niche in
 Osm.
 
-## What do you map? 
+## What do you map?
 
 I used to map the areas I lived and studied in, on foot and in a car,
 going around taking hundreds of photos each time, and using several
@@ -35,7 +35,7 @@ I still try to spend some effort in taking good-for-mapping photos.
 And a traffic camera on our car has changed my mapping, new journeys
 get archived and I always have some videos I could go through.
 
-# How do you map? 
+## How do you map?
 
 I do almost all of my editing with JOSM. This year I've been fortunate
 to hit the start of the busy years of personal life, so surveys for
@@ -50,7 +50,7 @@ with photos/video, but I wouldn't consider myself and armchair mapper,
 because mostly I don't have the time to work on areas I haven't
 visited in person recently.
 
-## How do you conduct your surveys? 
+## How do you conduct your surveys?
 
 In short: with a dog.
 
@@ -69,7 +69,7 @@ there's no such thing as too much photos. I try to get a photo of all
 the house numbers, staircase letters, roadside amenities, traffic
 signs, building levels, lowered curbs and fences, to name just a few.
 
-# Where do you map? 
+## Where do you map?
 
 Mostly I try to watch for local changes, and to slowly expand the
 somewhat complete areas of my favourite tags when walking the dog, but
@@ -81,7 +81,7 @@ was possible - but after that I've traced maybe three squares from
 different [HOT tasking manager jobs](http://tasks.hotosm.org/). So I'm mostly a local mapper, but
 I've touched the map in various places globally.
 
-## What is your biggest achievement as mapper? 
+## What is your biggest achievement as mapper?
 
 Beside the moments when somebody proposed on the mailing lists, IRC or
 wiki, that we should map some feature others haven't considered
@@ -94,7 +94,7 @@ imagery) from hundreds of photos by calculating distance estimates
 from the sizes of the buildings in the photos, i.e. manual
 photogrammetry.
 
-## Why do you map? What motivates you? 
+## Why do you map? What motivates you?
 
 Mapping in places where locals are just starting out with the details,
 I enjoy pushing their sense of map completeness by doing small areas
@@ -113,13 +113,13 @@ whole area down to the last patch of pavement, and that they have
 entered all the details - and even then the map can be improved when
 the utility company digs up the street to do repairs.
 
-## What is the most difficult part of mapping? 
+## What is the most difficult part of mapping?
 
 It has to be letting go of good source data and moving on to the next
 picture or minute of video, when I have to choose between missing
 basic tags on the next source and detailed tags on the current.
 
-## What are your mapping plans for the near future? 
+## What are your mapping plans for the near future?
 
 I have weeks or months worth of traffic camera videos from our car,
 and just entering paved:date=* tags for this year's freshly repaved
@@ -130,7 +130,7 @@ mapper is almost finished with the house numbers and we have a shared
 svg file for tracking the areas we have claimed as
 traffic-signs-complete.
 
-## Do you have contact with other mappers? 
+## Do you have contact with other mappers?
 
 I have only twice met other mappers in person. There's an irc channel
 local to Finland, with about 40 active idlers - yet we do discuss
@@ -145,7 +145,7 @@ but so far I've thought that in general the time's better spent doing
 actual mapping - especially now that other important real life
 activies require more attention than before.
 
-## Do you use OpenStreetMap yourself? How? 
+## Do you use OpenStreetMap yourself? How?
 
 Virtually always when I have to get routing on my mobile phone, I use
 something based on OSM data. Occasionally, if I need to send map links
@@ -160,7 +160,7 @@ died a long time ago; it did work for routing with converted osm data
 on international travels, in countries for which the device didn't
 have any maps by default.
 
-## Do you do anything else than mapping that is related to OpenStreetMap? 
+## Do you do anything else than mapping that is related to OpenStreetMap?
 
 Years ago I started working on a Josm plugin, even got it working  on a proof of concept stage, but soon after that somebody else
 released the far more advanced routing plugin. I've done a fair share
@@ -171,8 +171,7 @@ day through the recent changes page. Following the wiki started to
 take so much time that it was delaying mapping, so I had to virtually
 stop reading the wiki.
 
-
-## To conclude, is there anything else you want to mention? 
+## To conclude, is there anything else you want to mention?
 
 OSM is about original research and local knowledge. If you can and
 want to keep it up to date, you should enter it. Other maps may have

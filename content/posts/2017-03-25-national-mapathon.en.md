@@ -5,7 +5,7 @@ title: National Missing Maps Mapathon 2017
 rsvp: https://www.eventbrite.com/e/national-missing-maps-mapathon-2017-tickets-32215979863/
 ---
 
-**Help Doctors Without Borders and the Red Cross to facilitate their rescue**
+## Help Doctors Without Borders and the Red Cross to facilitate their rescue
 
 After a succesful event last year, a new national Mapathon will take place on Saturday, March 25th, which is organized by the National Committee for Geography, in collaboration with OpenStreetMap Belgium. Several universities in Brussels, Flanders and Wallonia open their doors a whole day for a large collective mapping event. Come contribute - do not miss this opportunity and help Doctors Without Borders and the Red Cross to facilitate their work in crisis areas.
 

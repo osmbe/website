@@ -13,8 +13,8 @@ OKFN croit encore, et de manière positive! La fondation rassemble de plus en pl
 
 Plus d'information sur l'Open Knowledge Foundation Belgium:
 
-<a href="http://okfn.be/">http://okfn.be/</a>
+<http://okfn.be/>
 
 Le post original sur le blog de l'okfn.be (en anglais):
 
-<a href="http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium">http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium<a/>
+<http://okfn.be/2013/10/23/osm-belgium-joins-okfn-belgium>
