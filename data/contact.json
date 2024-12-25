@@ -1,395 +1,379 @@
 [
-    {
-        "id": "be-matrix",
-        "type": "matrix",
-        "account": "#osmbe",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 6,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "description": "All mappers are welcome!",
-            "extendedDescription": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium Matrix Chat",
-            "url": "https://matrix.to/#/#osmbe:matrix.org",
-            "description": "All mappers are welcome!",
-            "extendedDescription": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!",
-            "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmbe:matrix.org\">OpenStreetMap Belgium Matrix Chat</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmbe:matrix.org\">https://matrix.to/#/#osmbe:matrix.org</a>",
-            "descriptionHTML": "All mappers are welcome!",
-            "extendedDescriptionHTML": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!"
-        }
+  {
+    "id": "be-matrix",
+    "type": "matrix",
+    "account": "#osmbe",
+    "locationSet": {
+      "include": ["be"]
     },
-    {
-        "id": "be-meetup",
-        "type": "meetup",
-        "account": "OpenStreetMap-Belgium",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 5,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "description": "Real life meetups of everyone who is interested in OpenStreetMap",
-            "extendedDescription": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium Meetup",
-            "url": "https://www.meetup.com/OpenStreetMap-Belgium",
-            "description": "Real life meetups of everyone who is interested in OpenStreetMap",
-            "extendedDescription": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!",
-            "nameHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Belgium\">OpenStreetMap Belgium Meetup</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Belgium\">https://www.meetup.com/OpenStreetMap-Belgium</a>",
-            "descriptionHTML": "Real life meetups of everyone who is interested in OpenStreetMap",
-            "extendedDescriptionHTML": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!"
-        }
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 6,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "description": "All mappers are welcome!",
+      "extendedDescription": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!"
     },
-    {
-        "id": "be-mastodon",
-        "type": "mastodon",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 4,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "url": "https://en.osm.town/@osm_be"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium Mastodon Account",
-            "url": "https://en.osm.town/@osm_be",
-            "description": "The official Mastodon account for OpenStreetMap Belgium",
-            "nameHTML": "<a target=\"_blank\" href=\"https://en.osm.town/@osm_be\">OpenStreetMap Belgium Mastodon Account</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://en.osm.town/@osm_be\">https://en.osm.town/@osm_be</a>",
-            "descriptionHTML": "The official Mastodon account for OpenStreetMap Belgium"
-        }
-    },
-    {
-        "id": "be-twitter",
-        "type": "twitter",
-        "account": "osm_be",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 4,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium on Twitter",
-            "url": "https://twitter.com/osm_be",
-            "description": "Follow us on Twitter",
-            "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_be\">OpenStreetMap Belgium on Twitter</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_be\">https://twitter.com/osm_be</a>",
-            "descriptionHTML": "Follow us on Twitter"
-        }
-    },
-    {
-        "id": "be-discourse",
-        "type": "discourse",
-        "account": "be",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 3,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "description": "A Forum to discuss OpenStreetMap in Belgium"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium Community Forum",
-            "url": "https://community.openstreetmap.org/c/communities/be",
-            "description": "A Forum to discuss OpenStreetMap in Belgium",
-            "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/be\">OpenStreetMap Belgium Community Forum</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/be\">https://community.openstreetmap.org/c/communities/be</a>",
-            "descriptionHTML": "A Forum to discuss OpenStreetMap in Belgium"
-        }
-    },
-    {
-        "id": "be-newsletter",
-        "type": "newsletter",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 3,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "description": "Quarterly newsletter of the Belgian community",
-            "url": "https://members.osm.be/subscribe/newsletter"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium Newsletter",
-            "url": "https://members.osm.be/subscribe/newsletter",
-            "description": "Quarterly newsletter of the Belgian community",
-            "nameHTML": "<a target=\"_blank\" href=\"https://members.osm.be/subscribe/newsletter\">OpenStreetMap Belgium Newsletter</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://members.osm.be/subscribe/newsletter\">https://members.osm.be/subscribe/newsletter</a>",
-            "descriptionHTML": "Quarterly newsletter of the Belgian community"
-        }
-    },
-    {
-        "id": "be-irc",
-        "type": "irc",
-        "account": "osmbe",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 2,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium on IRC",
-            "url": "https://webchat.oftc.net/?channels=osmbe",
-            "description": "Join #osmbe on irc.oftc.net (port 6667)",
-            "extendedDescription": "Join #osmbe on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel",
-            "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osmbe\">OpenStreetMap Belgium on IRC</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osmbe\">https://webchat.oftc.net/?channels=osmbe</a>",
-            "descriptionHTML": "Join #osmbe on irc.oftc.net (port 6667)",
-            "extendedDescriptionHTML": "Join #osmbe on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel"
-        }
-    },
-    {
-        "id": "be-chapter",
-        "type": "osm-lc",
-        "locationSet": {
-            "include": [
-                "be"
-            ]
-        },
-        "languageCodes": [
-            {
-                "code": "de",
-                "name": "German"
-            },
-            {
-                "code": "en",
-                "name": "English"
-            },
-            {
-                "code": "fr",
-                "name": "French"
-            },
-            {
-                "code": "nl",
-                "name": "Dutch"
-            }
-        ],
-        "order": 1,
-        "strings": {
-            "community": "OpenStreetMap Belgium",
-            "communityID": "openstreetmapbelgium",
-            "description": "We help grow and improve OpenStreetMap in Belgium.",
-            "extendedDescription": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!",
-            "url": "https://openstreetmap.be/"
-        },
-        "contacts": [
-            {
-                "name": "BE community",
-                "email": "community@osm.be"
-            }
-        ],
-        "resolved": {
-            "name": "OpenStreetMap Belgium",
-            "url": "https://openstreetmap.be/",
-            "description": "We help grow and improve OpenStreetMap in Belgium.",
-            "extendedDescription": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!",
-            "nameHTML": "<a target=\"_blank\" href=\"https://openstreetmap.be/\">OpenStreetMap Belgium</a>",
-            "urlHTML": "<a target=\"_blank\" href=\"https://openstreetmap.be/\">https://openstreetmap.be/</a>",
-            "descriptionHTML": "We help grow and improve OpenStreetMap in Belgium.",
-            "extendedDescriptionHTML": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!"
-        }
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium Matrix Chat",
+      "url": "https://matrix.to/#/#osmbe:matrix.org",
+      "description": "All mappers are welcome!",
+      "extendedDescription": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!",
+      "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmbe:matrix.org\">OpenStreetMap Belgium Matrix Chat</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmbe:matrix.org\">https://matrix.to/#/#osmbe:matrix.org</a>",
+      "descriptionHTML": "All mappers are welcome!",
+      "extendedDescriptionHTML": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!"
     }
+  },
+  {
+    "id": "be-meetup",
+    "type": "meetup",
+    "account": "OpenStreetMap-Belgium",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 5,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "description": "Real life meetups of everyone who is interested in OpenStreetMap",
+      "extendedDescription": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium Meetup",
+      "url": "https://www.meetup.com/OpenStreetMap-Belgium",
+      "description": "Real life meetups of everyone who is interested in OpenStreetMap",
+      "extendedDescription": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!",
+      "nameHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Belgium\">OpenStreetMap Belgium Meetup</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Belgium\">https://www.meetup.com/OpenStreetMap-Belgium</a>",
+      "descriptionHTML": "Real life meetups of everyone who is interested in OpenStreetMap",
+      "extendedDescriptionHTML": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!"
+    }
+  },
+  {
+    "id": "be-mastodon",
+    "type": "mastodon",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 4,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "url": "https://en.osm.town/@osm_be"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium Mastodon Account",
+      "url": "https://en.osm.town/@osm_be",
+      "description": "The official Mastodon account for OpenStreetMap Belgium",
+      "nameHTML": "<a target=\"_blank\" href=\"https://en.osm.town/@osm_be\">OpenStreetMap Belgium Mastodon Account</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://en.osm.town/@osm_be\">https://en.osm.town/@osm_be</a>",
+      "descriptionHTML": "The official Mastodon account for OpenStreetMap Belgium"
+    }
+  },
+  {
+    "id": "be-twitter",
+    "type": "twitter",
+    "account": "osm_be",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 4,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium on Twitter",
+      "url": "https://twitter.com/osm_be",
+      "description": "Follow us on Twitter",
+      "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_be\">OpenStreetMap Belgium on Twitter</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_be\">https://twitter.com/osm_be</a>",
+      "descriptionHTML": "Follow us on Twitter"
+    }
+  },
+  {
+    "id": "be-discourse",
+    "type": "discourse",
+    "account": "be",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 3,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "description": "A Forum to discuss OpenStreetMap in Belgium"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium Community Forum",
+      "url": "https://community.openstreetmap.org/c/communities/be",
+      "description": "A Forum to discuss OpenStreetMap in Belgium",
+      "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/be\">OpenStreetMap Belgium Community Forum</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/be\">https://community.openstreetmap.org/c/communities/be</a>",
+      "descriptionHTML": "A Forum to discuss OpenStreetMap in Belgium"
+    }
+  },
+  {
+    "id": "be-newsletter",
+    "type": "newsletter",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 3,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "description": "Quarterly newsletter of the Belgian community",
+      "url": "https://members.osm.be/subscribe/newsletter"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium Newsletter",
+      "url": "https://members.osm.be/subscribe/newsletter",
+      "description": "Quarterly newsletter of the Belgian community",
+      "nameHTML": "<a target=\"_blank\" href=\"https://members.osm.be/subscribe/newsletter\">OpenStreetMap Belgium Newsletter</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://members.osm.be/subscribe/newsletter\">https://members.osm.be/subscribe/newsletter</a>",
+      "descriptionHTML": "Quarterly newsletter of the Belgian community"
+    }
+  },
+  {
+    "id": "be-irc",
+    "type": "irc",
+    "account": "osmbe",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 2,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium on IRC",
+      "url": "https://webchat.oftc.net/?channels=osmbe",
+      "description": "Join #osmbe on irc.oftc.net (port 6667)",
+      "extendedDescription": "Join #osmbe on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel",
+      "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osmbe\">OpenStreetMap Belgium on IRC</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osmbe\">https://webchat.oftc.net/?channels=osmbe</a>",
+      "descriptionHTML": "Join #osmbe on irc.oftc.net (port 6667)",
+      "extendedDescriptionHTML": "Join #osmbe on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel"
+    }
+  },
+  {
+    "id": "be-chapter",
+    "type": "osm-lc",
+    "locationSet": {
+      "include": ["be"]
+    },
+    "languageCodes": [
+      {
+        "code": "de",
+        "name": "German"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch"
+      }
+    ],
+    "order": 1,
+    "strings": {
+      "community": "OpenStreetMap Belgium",
+      "communityID": "openstreetmapbelgium",
+      "description": "We help grow and improve OpenStreetMap in Belgium.",
+      "extendedDescription": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!",
+      "url": "https://openstreetmap.be/"
+    },
+    "contacts": [
+      {
+        "name": "BE community",
+        "email": "community@osm.be"
+      }
+    ],
+    "resolved": {
+      "name": "OpenStreetMap Belgium",
+      "url": "https://openstreetmap.be/",
+      "description": "We help grow and improve OpenStreetMap in Belgium.",
+      "extendedDescription": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!",
+      "nameHTML": "<a target=\"_blank\" href=\"https://openstreetmap.be/\">OpenStreetMap Belgium</a>",
+      "urlHTML": "<a target=\"_blank\" href=\"https://openstreetmap.be/\">https://openstreetmap.be/</a>",
+      "descriptionHTML": "We help grow and improve OpenStreetMap in Belgium.",
+      "extendedDescriptionHTML": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!"
+    }
+  }
 ]

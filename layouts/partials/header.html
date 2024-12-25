@@ -9,7 +9,7 @@
             </a>
         </div>
         <div class="flex lg:hidden">
-            <label for="nav_toggle" class="cursor-pointer -m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-white">
+            <label for="nav-toggle" class="cursor-pointer -m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-white">
                 <span class="sr-only">Open main menu</span>
                 <svg class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
@@ -35,8 +35,8 @@
 
 {{- partial "banner.html" . }}
 
-<input id="nav_toggle" type="checkbox" class="hidden" autocomplete="off">
-<nav id="nav_overlay" class="flex flex-1 flex-col hidden">
+<input id="nav-toggle" type="checkbox" class="hidden" autocomplete="off">
+<nav id="nav-overlay" class="flex flex-1 flex-col hidden">
     <ul role="list" class="m-2 space-y-1">
         {{- range site.Menus.main }}
         <li>

@@ -599,7 +599,7 @@ main a {
   color: rgb(79 70 229 / var(--tw-text-opacity, 1));
 }
 
-main #content ul, 
+main #content ul,
   main #content ol {
   margin-left: 2rem;
   list-style-type: disc;
@@ -1829,6 +1829,6 @@ main #content blockquote.yellow {
   }
 }
 
-#nav_toggle:checked + #nav_overlay {
+#nav-toggle:checked + #nav-overlay {
   display: block;
 }

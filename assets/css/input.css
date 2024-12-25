@@ -7,42 +7,53 @@
   main h1 {
     @apply my-8 text-4xl font-semibold sm:text-5xl;
   }
+
   main h2 {
     @apply my-4 text-3xl font-semibold;
   }
+
   main h3 {
     @apply my-2 text-xl font-semibold;
   }
+
   main h4 {
     @apply my-2 font-semibold;
   }
+
   main a {
-    @apply text-base/7 font-semibold text-indigo-600
+    @apply text-base/7 font-semibold text-indigo-600;
   }
-  main #content ul, 
+
+  main #content ul,
   main #content ol {
     @apply list-disc ml-8;
   }
+
   main #content dt {
     @apply mt-4 text-base/7 font-semibold text-gray-900;
   }
+
   main #content dd {
     @apply mt-2 text-base/7 text-gray-600;
   }
+
   main #content blockquote {
     @apply border-l-4 p-4 border-gray-400 bg-gray-50;
   }
+
   main #content blockquote.blue {
     @apply border-blue-400 bg-blue-50;
   }
+
   main #content blockquote.indigo {
     @apply border-indigo-400 bg-indigo-50;
   }
+
   main #content blockquote.yellow {
     @apply border-yellow-400 bg-yellow-50;
   }
 }
 
-#nav_toggle:checked + #nav_overlay {
+#nav-toggle:checked + #nav-overlay {
   @apply block;
 }
