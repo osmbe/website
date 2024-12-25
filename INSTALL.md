@@ -18,3 +18,10 @@ npx tailwindcss -i "./assets/css/input.css" -o "./assets/css/output.css" --watch
 ```cmd
 hugo server --disableFastRender
 ```
+
+## Linting
+
+SuperLinter
+
+- Stylelint: `npx stylelint assets/css/input.css`
+- Prettier: `npx prettier . --check`
