@@ -7,7 +7,7 @@ author: Marc Gemis
 
 [Jorieke](http://www.openstreetmap.org/user/Jorieke%20V), a 28 years old Belgian, has spend a lot of time the past few years to support local OpenStreetMap communities all over the world. She worked on several projects in Africa, Europe and Asia to train people and to promote OpenStreetMap by local and international players.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jorieke-Vyncke/i-6b3swBq/0/X2/Mapfugees%20in%20Duinkerke-X2.jpg" title="Jorieke at the Mapfugees in Duinkerke" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jorieke-Vyncke/i-6b3swBq/0/X2/Mapfugees%20in%20Duinkerke-X2.jpg" title="Jorieke at the Mapfugees in Duinkerke" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Where and when did you discover OpenStreetMap?
 
@@ -24,7 +24,7 @@ Besides this personal use, I also often use OpenStreetMap for my work. For examp
 
 I was very gratefull for HOT's [Ebola activation](https://hotosm.org/projects/west_africa_ebola_epidemic)! The western part of the Côte d'Ivoire is about perfect! With a few corrections by people that knew the region very well, we got the logistics running smoothly. Other parts of the country were harder, driving around for 40 kilometers to get in that particular village, was not uncommon.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jorieke-Vyncke/i-CnbCsB7/0/XL/GisDay%202015%20met%20OpenStreetMap%20Mali-XL.jpg" title="GisDay 2015 met OpenStreetMap Mali" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jorieke-Vyncke/i-CnbCsB7/0/XL/GisDay%202015%20met%20OpenStreetMap%20Mali-XL.jpg" title="GisDay 2015 met OpenStreetMap Mali" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## How and where do you map?
 
@@ -40,7 +40,7 @@ At this moment there is a map of Bangui, which includes all health facilities an
 
 I am also very proud of the week I spend in [Lubumbashi](http://www.openstreetmap.org/node/27564973) with [Medecins Sans Frontiers](http://www.msf.org/) (MSF): <https://hotosm.org/updates/2014-04-01_a_week_in_lubumbashi_drc>. Although I did not map a lot myself during that period, I instructed people to map for me :-) At the end of the week, around 15 students were walking around to collect data and we got tremendous help from remote mappers. After 4 days more than 60 people from around the world helped us. This synergy with Ivan Gayton of MSF, myself and the students in the field and the remote mappers, was the first seed from which the [Missing Maps](http://www.missingmaps.org/) projects was born a few months later.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jorieke-Vyncke/i-Q7G9CLW/0/XL/Dataverzameling%20in%20Bangui-XL.jpg" title="Data collection in Bangui" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jorieke-Vyncke/i-Q7G9CLW/0/XL/Dataverzameling%20in%20Bangui-XL.jpg" title="Data collection in Bangui" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## What is your motivation to map?
 

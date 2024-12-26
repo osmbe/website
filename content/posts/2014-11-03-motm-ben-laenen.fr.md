@@ -27,7 +27,7 @@ Actuellement je suis plus un contributeur à distance. J'utilise donc principale
 
 Au début, il n'y avait pas le choix, nous devions cartographier les routes. Après un petit temps, quand toutes les routes d'Anvers était cartographiées, j'ai commencé à cartographier les itinéraires cyclables et ensuite les itinéraires pédestres. Pour ces derniers, ça était très intéressant de découvrir des petits chemins que sans cette expérience je n'aurais jamais connus. Récemment, je travaille sur les infrastructures ferroviaires, qui est en rapport avec mon travail. J'ai cartographié beaucoup de choses depuis mes débuts, mais je n'ai jamais passé de temps à renseigner les points d'intérêt.
 
-{{< figure src="images/posts/hdyc_eimai.png" link="http://hdyc.neis-one.org/?Eimai" >}}
+{{< figure src="images/posts/hdyc_eimai.png" link="http://hdyc.neis-one.org/?Eimai" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 **Qu'est ce qui vous motive pour cartographier ?**
 

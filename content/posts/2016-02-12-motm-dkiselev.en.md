@@ -58,7 +58,7 @@ Improve my own geocoder (Gazetteer) Improve QGIS-OSM interaction Create separate
 
 ## Where can we find more information about your geocoder?
 
-osm.me is a live demo, but coverage is limited to Russia, Ukraine, Belarus and Montenegro. You can find the code on github Geocoder on http://osm.me
+osm.me is a live demo, but coverage is limited to Russia, Ukraine, Belarus and Montenegro. You can find the code on github Geocoder on <http://osm.me>
 
 ## Do you use OpenStreetMap yourself?
 

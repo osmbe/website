@@ -30,7 +30,7 @@ In the beginning I did some surveys but because of my professional and family du
 For mapping: I use [JOSM](josm.openstreetmap.de), [Potlatch2](https://wiki.openstreetmap.org/wiki/Potlatch_2), [OsmAnd](https://wiki.openstreetmap.org/wiki/Potlatch_2), a digital camera and [Field papers](https://wiki.openstreetmap.org/wiki/Potlatch_2).
 For Q&A I use <http://qa.poole.ch>, [keepright.at](https://www.keepright.at/), [OSM Inspector](http://tools.geofabrik.de/osmi/), and [ITO World's map]( http://product.itoworld.com/map/129?lon=85.40441&lat=27.82368&zoom=9&open_sidebar=clickthrough_wrapper&fullscreen=true) showing the last 90 days of edits.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-PrZNxmq/0/58d61e20/L/Screen%20Shot%202017-05-19%20at%2022.37.25-L.png" title="Demo F4 Example in Warsaw" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-PrZNxmq/0/58d61e20/L/Screen%20Shot%202017-05-19%20at%2022.37.25-L.png" title="Demo F4 Example in Warsaw" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 For 3D modeling: [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop), [ArchiCAD](https://en.wikipedia.org/wiki/ArchiCAD), and [f4map](http://demo.f4map.com/#camera.theta=0.9).
 JOSM PlugIns: [Kendzi3D](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Kendzi3D), Kendzi3d_improved_by_Andrei, [Shape Tools](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/ShapeTools), [CAD Tools](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/CADTools), [ContourOverlappingMerge](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/ContourOverlappingMerge), [Tracer](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Tracer), [PicLayer](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/PicLayer), [Alignways](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/AlignWayS), areaselector, [buildings_tools](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/BuildingsTools) – those plugins are the most  important to me. But I use also the following plugins:  [DFX import](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/DXF_import), [FastDraw](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/FastDraw), [junctionchecking](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/JunctionChecking),  [Mapillary](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Mapillary), [measurement](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/measurement), [merge-overlap](https://github.com/openstreetmap/josm-plugins/tree/master/merge-overlap), [pdfimport](https://github.com/openstreetmap/josm-plugins/tree/master/pdfimport), [photoadjust](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/PhotoAdjust),  [reverter](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Reverter), [roadSigns](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/RoadSigns), [splinex](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Splinex), [terracer](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Terracer), [tracer2](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Tracer2), [utilsplugin2](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/utilsplugin2), [walkingpapers](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/WalkingPapers).
@@ -43,15 +43,13 @@ I do mapping around the world. Previously mostly in Poland and Germany, but with
 
 I have three points. First would be the organization of the [Garching Workshop](https://wiki.openstreetmap.org/wiki/2nd_3D_Workshop_Garching/Agenda): I suggested there the mapping schema known now as [Simple 3D Building](https://wiki.openstreetmap.org/wiki/Simple_3D_buildings). My good friend Kendzi, a very smart guy, developed based on this idea his plugin Kendzi3d. Now we have 3D maps.
 
-{{< figure src="https://wiki.openstreetmap.org/w/images/5/58/88915622.png" title="Example 3D Building in Kendzi plugin" >}}
+{{< figure src="https://wiki.openstreetmap.org/w/images/5/58/88915622.png" title="Example 3D Building in Kendzi plugin" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 Secondly the lobbying for OSM in Poland and the foundation of the OSM Poland association. As the result the polish mappers got access to the very accurate government aerial images.
 
 Third: Specification of [area:highway](https://wiki.openstreetmap.org/wiki/Proposed_features/area:highway). Another smart mapper, marimil, has programmed the [visualization]( http://osmapa.pl/w/area/?lat=53.44252&lon=14.54771&zoom=19&ol=PEFGABR). Now, we have over 82000 such areas in the map. Why is it so important in my opinion? First: a better look of the map on highest zoom level, secondly: this content can help to develop apps for automated driving.
 
-![Visualization of area:highway](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-c9TzKQ5/0/e698a28e/L/Screen%20Shot%202017-05-19%20at%2022.25.27-L.png)
-
-*Visualization of area:highway on osmapa.pl*
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-c9TzKQ5/0/e698a28e/L/Screen%20Shot%202017-05-19%20at%2022.25.27-L.png" title="Visualization of area:highway on osmapa.pl" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Why do you map?
 

@@ -27,7 +27,7 @@ Je travaille surtout sur les données basiques (highways, buildings, import UrbI
 
 Aucune prouesse. On est comme des fourmis et chaque contributeur ajoute son petit morceau à l'édifice. Et chaque contribution mérite le respect !
 
-{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}
+{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 **Pourquoi cartographiez-vous? Qu'est ce qui vous motive ?**
 

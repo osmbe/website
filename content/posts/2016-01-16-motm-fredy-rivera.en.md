@@ -11,7 +11,7 @@ Fredy Rivera lives in a small town in the Colombian Andes. He's a software devel
 
 ## When and how did you discover OpenStreetMap?
 
-About eight years ago, I was looking for maps for some of my projects and excursions. Openstreetmap only had a couple of dozens of kilometers of roads mapped in Colombia, but that was still much more than any other available free data from public or private sources alike. The public entity for geography in Colombia is the Instituto geográfico Agustín Codazzi](http://www.igac.gov.co/igac) (IGAC). But though being a public service, they act more like a private company. They only make maps on demand, and have surely not understood the political and economical importance of freeing geographical information about the country.
+About eight years ago, I was looking for maps for some of my projects and excursions. Openstreetmap only had a couple of dozens of kilometers of roads mapped in Colombia, but that was still much more than any other available free data from public or private sources alike. The public entity for geography in Colombia is the [Instituto geográfico Agustín Codazzi](http://www.igac.gov.co/igac) (IGAC). But though being a public service, they act more like a private company. They only make maps on demand, and have surely not understood the political and economical importance of freeing geographical information about the country.
 
 So even though Openstreetmap was pretty empty, I decided to work with it. I managed to get my first GPS, a Nokia N810, and I tracked hundreds of kilometers of roads in Colombia with it. Looking at the enormity of the task ahead, I decided to call on friends and asked to set up the talk-co mailing list. Now there are 275 subscibers, many of which are active contributors to the mapping process.
 
@@ -31,7 +31,7 @@ I map my local area, and where-ever my work takes me.
 
 ## What is your biggest achievement as mapper?
 
-Having the posibility to coordinate the Colombian Openstreetmap community and having generated the first map that was reported to be used after the earthquake in Haiti. https://lists.openstreetmap.org/pipermail/talk/2010-January/046907.html
+Having the posibility to coordinate the Colombian Openstreetmap community and having generated the first map that was reported to be used after the earthquake in Haiti. <https://lists.openstreetmap.org/pipermail/talk/2010-January/046907.html>
 
 ## Why do yo map? What motivates you?
 
@@ -53,7 +53,7 @@ Coordino la comunidad OSM Colombia y me comunico con los maperos todos los días
 
 ## Do you use OpenStreetMap yourself?
 
-On my GPS, and sometimes also in my work as a developer, see for example http://datos.labmde.org/a74
+On my GPS, and sometimes also in my work as a developer, see for example <http://datos.labmde.org/a74>
 
 ## Do you do anything else than mapping that is related to OpenStreetMap?
 

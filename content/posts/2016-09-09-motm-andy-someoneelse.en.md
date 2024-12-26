@@ -21,11 +21,11 @@ It's still mostly footpaths, bridleways and pubs :)
 
 ## How do you map?
 
-It's usually "collect a GPS trace with lots of waypoints" and then fetch combine that with imagery and whatever other information's available back home. I use a small Garmin handheld for collecting waypoints and tracks and (when it's not raining) collect other details on a phone. Various bits of software to glue them together are at https://github.com/SomeoneElseOSM. In terms of OSM editors it's mostly Potlatch 2 (because of better GPX waypoint support)
+It's usually "collect a GPS trace with lots of waypoints" and then fetch combine that with imagery and whatever other information's available back home. I use a small Garmin handheld for collecting waypoints and tracks and (when it's not raining) collect other details on a phone. Various bits of software to glue them together are at <https://github.com/SomeoneElseOSM>. In terms of OSM editors it's mostly Potlatch 2 (because of better GPX waypoint support)
 
 ## Where do you map?
 
-Mostly places that I've been. http://hdyc.neis-one.org is as usual startlingly accurate.
+Mostly places that I've been. <http://hdyc.neis-one.org> is as usual startlingly accurate.
 
 ## What is your biggest achievement as mapper?
 
@@ -57,6 +57,6 @@ I'm also fairly active on the help site, and was asked to join OSM's Data Workin
 
 ## To conclude, is there anything else you want to mention?
 
-Despite the "people" problems mentioned above, and despite the cultural differences, most OSMers get on just fine - just check the comments on http://resultmaps.neis-one.org/osm-discussions any day of the week. New mappers (even if they're phone application users who didn't even know they were adding to OSM) generally get welcoming messages and offers of help. That's not to say that there isn't more that we can all do here, but (as with the low vandalism rate) I'm sometimes surprised that things work as well as they do.
+Despite the "people" problems mentioned above, and despite the cultural differences, most OSMers get on just fine - just check the comments on <http://resultmaps.neis-one.org/osm-discussions> any day of the week. New mappers (even if they're phone application users who didn't even know they were adding to OSM) generally get welcoming messages and offers of help. That's not to say that there isn't more that we can all do here, but (as with the low vandalism rate) I'm sometimes surprised that things work as well as they do.
 
 **Andy, thanks a lot for the interview and enjoy your hikes in South-Wales!**

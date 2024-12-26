@@ -11,7 +11,7 @@ I have been conducting surveys for the past 6 years. Every weekend I take the do
 
 One of the benefits of having the dogs with me, is that I was never stopped and questioned about my activities, unlike some other mappers.
 
-{{< figure src="https://photos.smugmug.com/Our-Dogs/Fun-2017/Vanalles/i-bZz8R54/0/L/20170407_192229-L.jpg" title="Our Dogs, the one in the middle is still an apprentice, the two on the outside already accompany me for 6 years of surveying." >}}
+{{< figure src="https://photos.smugmug.com/Our-Dogs/Fun-2017/Vanalles/i-bZz8R54/0/L/20170407_192229-L.jpg" title="Our Dogs, the one in the middle is still an apprentice, the two on the outside already accompany me for 6 years of surveying." >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Equipment
 
@@ -19,7 +19,7 @@ Lets start by listing the gadgets  I use to collect data. My choice is largely i
 
 Now the actual equipment:
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-mNsG5c2/0/M/IMG_0225-M.jpg" title="Garmin Dakota 10, Nikon D7100, LG G3s" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-mNsG5c2/0/M/IMG_0225-M.jpg" title="Garmin Dakota 10, Nikon D7100, LG G3s" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ### Garmin Dakota 10
 

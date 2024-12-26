@@ -8,7 +8,7 @@ _Brice (eMerzh) lives in Jette. He is 30 and programmer in a small start-up in B
 
 **When and where did you discover OpenStreetMap?**
 
-I discovered OpenStreetMap by accident in 2007, when it was mentioned on a website with Linux information, (http://linuxfr.org). I was attracted by the collaboration and open aspects of the project. I soon discovered that my street was not mapped yet and see... I was bitten by the bug.
+I discovered OpenStreetMap by accident in 2007, when it was mentioned on a website with Linux information, (<http://linuxfr.org>). I was attracted by the collaboration and open aspects of the project. I soon discovered that my street was not mapped yet and see... I was bitten by the bug.
 
 **Do you use OpenStreetMap yourself?**
 

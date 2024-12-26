@@ -97,7 +97,7 @@ Pour les cartographes actuels, nous pourrions peut-être générer plus de proje
 
 **Quelle est la plus grande force d'OpenStreetMap, à ton avis ?**
 
-La grande variété de données qui peuvent être combinés de façon intéressante, comme Polyglot a fait avec son [L'itinéraire de l'Ad] (https://en.wikivoyage.org/wiki/Ad%27s_Path). Ici la randonnée est combinée avec des informations sur les transports publics et le tourisme.
+La grande variété de données qui peuvent être combinés de façon intéressante, comme Polyglot a fait avec son [L'itinéraire de l'Ad](https://en.wikivoyage.org/wiki/Ad%27s_Path). Ici la randonnée est combinée avec des informations sur les transports publics et le tourisme.
 
 **Quel est le plus grand défi, la plus grande difficulté pour OpenStreetMap ?**
 

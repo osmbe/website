@@ -85,7 +85,7 @@ By utilising the HOT tasking Manager and using international mapathons, Irish sc
 
 Giving JOSM training in Lesotho
 
-The progress of #MapLesotho has been mindblowing to say the least and really has been a fantastic team effort. I was lucky enough to go there in Feb 2015 for 2 weeks training local government planners how to use JOSM and other tools. We were lucky to have one of those techy/data guru guys in Colin Broderick (twitter.com/rusty1052) who gave indepth training on QGIS and other tools and Ciaran Staunton (twitter.com/ciaranstaunton) who put the 2 weeks together and has been both the glue holding it all together and the engine driving it on. Soren Johannessen (https://twitter.com/neogeografen) has been great too, posting weekly progress updates on #MapLesotho since June 2014.
+The progress of #MapLesotho has been mindblowing to say the least and really has been a fantastic team effort. I was lucky enough to go there in Feb 2015 for 2 weeks training local government planners how to use JOSM and other tools. We were lucky to have one of those techy/data guru guys in Colin Broderick (twitter.com/rusty1052) who gave indepth training on QGIS and other tools and Ciaran Staunton (twitter.com/ciaranstaunton) who put the 2 weeks together and has been both the glue holding it all together and the engine driving it on. Soren Johannessen (<https://twitter.com/neogeografen>) has been great too, posting weekly progress updates on #MapLesotho since June 2014.
 
 OpenStreetMap Lesotho
 

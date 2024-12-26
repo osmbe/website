@@ -11,14 +11,14 @@ This time we have a duo-interview: Horea Meleg and Florin Badita. They both work
 
 Horea: My name is Horea Meleg, I live in Cluj Napoca. I'm a map analyst at Telenav, and I work here since August 2016. I love playing and watching soccer. I also like to sing, to travel and go hiking. Obvious, I got my nickname (hoream_telenav) from my name and from the company I work for.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-ZLx99zH/0/793f118a/L/1451311_878771192165725_6572949533461042750_n-L.jpg" title="Horea" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-ZLx99zH/0/793f118a/L/1451311_878771192165725_6572949533461042750_n-L.jpg" title="Horea" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 Florin: Hi, my name is Florin Badita.
 I also live in Cluj-Napoca, one of the most beautiful cities in Romania.
 Currently I work full time as a Senior Map Analyst at Telenav.
 As a hobby, I do Data Science, Spray Painting, facilitate the organization of Civic Protests in Romania, Theatre, and many other things.
 
-{{< figure src="https://pbs.twimg.com/profile_images/2734227526/07a1e0ca8249dd5195cd6532882fdef7_400x400.jpeg" title="Florin" >}}
+{{< figure src="https://pbs.twimg.com/profile_images/2734227526/07a1e0ca8249dd5195cd6532882fdef7_400x400.jpeg" title="Florin" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## When and how did you discover OpenStreetMap?
 
@@ -58,7 +58,7 @@ For getting images: i use both Mapillary and OpenStreetCam (made by Telenav)
 
 Horea: I used to edit in Canada at the end of last year. In last 6 months, I focused on Detroit area as part of the Telenav Team.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-KjJ2pPB/0/4bdd8e68/XL/Horea%20Meleg%20heatmap-XL.jpg" title="Horea's Heatmap" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Horea-Florin/i-KjJ2pPB/0/4bdd8e68/XL/Horea%20Meleg%20heatmap-XL.jpg" title="Horea's Heatmap" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 Florin: As Horea, I now also map mostly in USA and Canada, as part of the Telenav strategy. Unfortunately, I don`t have that much time to do some mapping in my free time, but I try to spend some time learning new mappers how to map, so that we have some more mappers mapping remote/HOT.
 

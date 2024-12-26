@@ -8,15 +8,15 @@ IPIS, Missing Maps and OpenStreetMap Belgium organise another Missing Maps MAPAT
 
 IPIS Research and Openstreetmap Belgium invite you to come map for the Missing Maps project with us. By doing so, you will learn how to create the open maps that make the work of NGOs like Doctors Without Borders or IPIS Research easier. After the event, you will be able to continue helping by putting the world's most vulnerable people on the map.
 
-**Should I be a cartographer, mapping or computer expert?**
+## Should I be a cartographer, mapping or computer expert?
 
 No, mapping for OpenStreetMap is for everyone! We will be giving a short introduction for newbies.
 
-**What should I bring?**
+## What should I bring?
 
 A laptop, a computer mouse and cartographic enthusiasm!
 
-**Schedule**
+## Schedule
 
 - 17.00 Start & welcome!
 - 17.15 Introduction on the Missing Maps, OpenStreetMap and IPIS Research.

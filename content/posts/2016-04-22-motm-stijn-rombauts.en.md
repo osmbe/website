@@ -6,7 +6,7 @@ author: escada
 
 [Stijn Rombauts](http://www.openstreetmap.org/user/StijnRR) is a 37 year old bio-engineer who works for the [Flanders Enviroment Agency](https://en.vmm.be/), where he builds and maintains computermodels of streams and rivers. Those models are used to predict floods and to plan of e.g. fish steps and waiting basins. Because he spends a lot of time in front of the computer for his job, he tries to be active, in the nature, during his spare time: be it on foot, with the mountain bike or in a canoe.
 
-{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-wmQ4JKS/0/X2/P7110059-X2.jpg" alt="Stijn Rombauts" >}}
+{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-wmQ4JKS/0/X2/P7110059-X2.jpg" alt="Stijn Rombauts" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## How and when did you discover OpenStreetMap?
 
@@ -26,7 +26,7 @@ When I just started, the focus was on field roads and forest paths. After awhile
 
 I only add small building blocks in several different places to the impressive OpenStreetMap-castle. But in the meantime it seems that I have added or checked almost 300 walking routes.
 
-{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-gBvV7BC/0/X3/StijnRR-X3.png" title="Stijn's Achivements" link="http://www.hdyc.neis-one.org/?StijnRR" >}}
+{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-gBvV7BC/0/X3/StijnRR-X3.png" title="Stijn's Achivements" link="http://www.hdyc.neis-one.org/?StijnRR" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Why do you map? What motivates you?
 

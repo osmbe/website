@@ -16,6 +16,7 @@ Zeus WPI - the student working group of UGent - has invited me to give a small w
 This meetup is geared toward people with some technical background. You've should at least have edited an XML file before and know what a tag-value pair on OSM is.
 
 Bring
+
 - Your computer
 - Your phone with a working version of OsmAnd
 - A micro-USB cable to transfer files to your phone
