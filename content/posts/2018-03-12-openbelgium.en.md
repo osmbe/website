@@ -8,7 +8,7 @@ location:
   osm: https://www.openstreetmap.org/way/24714565
 ---
 
-**Let's make Belgian knowledge open, usable, used, useful**
+## Let's make Belgian knowledge open, usable, used, useful
 
 Open Belgium is an annual event gathering industry, research, government and citizen stakeholders. Experience this one-day community driven conference with talks, discussions, panels, workshops and become part of the open community.
 

@@ -39,6 +39,7 @@ I use JOSM for editing.
 I map locally. I visit the shrines, temples and gardens in Tokyo before I place them on the map.
 
 ![picture](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Yasunari-yamashita/i-stVbcC4/0/6da755c6/X3/IMG_20170520_113556-X3.jpg)
+
 ## What is your biggest achievement as mapper ?
 
 Until last year I lived in Kyoto, where I was part of the local community that mapped all 17 World Heritage sites in that city.
@@ -56,7 +57,7 @@ because it's fun!
 
 It is difficult for beginners to learn all the different aspects.
 
-##  I have heard that the address system is quite different in Japan. Does this give you problems ?
+## I have heard that the address system is quite different in Japan. Does this give you problems ?
 
 I am not geographical expert so I'm not sure.
 
@@ -71,7 +72,6 @@ This can  easily be modelled  OpenStreetMap.
 
 ## I also heard that the road classification is rather different. Can you say something about that ?
 
-
 Yes. It is quite different.
 It is normal that the definition of the road is different if the
 culture is different.
@@ -85,19 +85,17 @@ Yes, on a regular basis, e.g. during the monthly mapping parties.
 
 ## Do you use OpenStreetMap yourself ?
 
-Yes. Of course. I use http://openstreetmap.org to locate places I want to visit.
+Yes. Of course. I use <http://openstreetmap.org> to locate places I want to visit.
 
 ## Do you do anything else than mapping that is related to OpenStreetMap ?
 
 I am managing a bot that tweets the comments of changesets  that modify the relations
 of prefectures in Japan.
 e.g.
-https://twitter.com/osmjp_tokyo for Tokyo,
-https://twitter.com/osmjp_kyoto for Kyoto
-
+<https://twitter.com/osmjp_tokyo> for Tokyo,
+<https://twitter.com/osmjp_kyoto> for Kyoto
 
 I am also contributing to Mapillary.
-
 
 ## To conclude, is there anything else you want to mention ?
 

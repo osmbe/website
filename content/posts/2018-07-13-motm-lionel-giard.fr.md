@@ -22,7 +22,6 @@ Je cartographie un peu de tout, mais surtout l'est du Brabant Wallon. Actuelleme
 
 Je cartographie beaucoup avec les images satellites (notamment pour placer les bases comme les routes, batiments, certains landuse...). Je récupère aussi des traces GPS et photos chaque fois que je peux lors de mes promenade (surtout pour vérifier ce que je cartographie à la maison et obtenir plus de détails). Plus récemment, j'ai commencé à contribuer à Mapillary pour aider à identifier des éléments auxquels je ne ferais pas attention directement.  Sans oublier l'ajout de mes photos sur wikimedia quand cela a un intérêt.
 
-
 ![Un menhir découvert près de chez moi lors de mes relevés !](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png)
 
 *Un menhir découvert près de chez moi lors de mes relevés !*
@@ -40,8 +39,6 @@ Comme précisé précédemment, j'ai commencé par cartographier à l'étranger 
 La cartographie de la quasi-totalité de ma commune (Chaumont-Gistoux) avec un détail assez important (haies, jardins dans pas mal de cas et la majorité des POIs (magasins, services, ...)). Il ne doit pas rester beaucoup de petits monuments ou chapelles à rajouter !
 
 ![Chaumon-Gistoux](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-zRLWsFq/0/35bdd5e7/M/image-M.png)
-
-
 
 ## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
 
@@ -70,7 +67,5 @@ Je participe autant que possible en tant que bénévole aux mapathons en Belgiqu
 ## Pour conclure, y a-t-il autre chose que vous voulez mentionner ?
 
 J'aimerais remercier tous ceux qui font ce qu'OpenStreetMap est aujourd'hui, car c'est un projet ambitieux soutenu par une formidable communauté dont on est fier d'être membre. Depuis que j'ai commencé à participer, j'ai déjà pu voir des évolutions de mentalité envers le projet (par les administrations publiques et sociétés privées) ce qui nous encourage encore plus car on sait que ces données sont utilisées !
-
-
 
 Enfin, je vais réaliser un nouvel appel à tous les Wallon(ne)s de participer à OpenStreetMap. Nous sommes encore trop peu nombreux en Wallonie et pourtant, il y a beaucoup de choses à compléter par chez nous. N'hésitez pas à venir nous voir dans l'un des meetups wallons ou ailleurs, mais aussi sur le chat Riot !

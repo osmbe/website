@@ -11,6 +11,7 @@ enough to work with OSM in my day job. I enjoy the outdoors and keeping active
 so do a fair bit of running, cycling, swimming, bushwalking and kayaking.
 
 ![Syndney OpenTopoMap](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Andrew-Harvey/i-f8XR9tH/0/0a5bfab6/X3/Screen%20Shot%202018-04-14%20at%2019.54.30-X3.png)
+
 ## When and how did you discover OpenStreetMap ?
 
 It was while I was at uni, at a time when I was discovering open source software

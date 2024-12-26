@@ -87,4 +87,4 @@ Any help or support is always welcome. For example, we could use someone to desi
 
 Do not take yourself and your OpenStreetMap hobby too seriously, because actually we're all just farts in the wind.
 
-## Thanks a lot, Lutz for this interview and the history of Historic.Place, I really like some of your ideas that we do not have to take ourselves serious and that we should not map what we do not understand.
+**Thanks a lot, Lutz for this interview and the history of Historic.Place, I really like some of your ideas that we do not have to take ourselves serious and that we should not map what we do not understand.**

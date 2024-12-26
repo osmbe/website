@@ -3,7 +3,8 @@ title: "Mapper of the Month: Pieter Vander Vennet"
 categories: ["motm"]
 author: escada
 ---
-__Translation by escada__
+
+Translation by escada
 
 This time we have a young, new mapper from Belgium. Hopefully this article remembers you about your early days or shows you that an enthusiast new mapper can do a lot of good work. His enthusiasm also shows in the length of the interview, he was unstoppable once he started.
 

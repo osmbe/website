@@ -9,4 +9,4 @@ location:
 ---
 We get together to discuss OpenStreetMap.org and related topics.
 
-There are some computers to work on and a projector available. There are also login codes for the wireless network, if you prefer to bring your own computer. 
+There are some computers to work on and a projector available. There are also login codes for the wireless network, if you prefer to bring your own computer.

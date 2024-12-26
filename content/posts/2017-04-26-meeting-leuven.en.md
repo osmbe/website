@@ -1,6 +1,7 @@
 ---
 categories: ["event"]
 title: First Leuven Monthly OpenStreetMap Meetup
+author: Polyglot
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/239007607/
 location:
   name: KUL, Building C
@@ -23,5 +24,3 @@ We'll also discuss mapping our own local environment and how anybody can contrib
 Then we'll have a look at how to make use of all that data by installing OsmAND or Maps.ME apps on your smartphones.
 
 We'll discuss what OpenStreetMap related topics to discuss during the next meetup, as we're planning for this Meetup to be the first in a series organised on a monthly basis.
-
-Polyglot

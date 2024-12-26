@@ -9,10 +9,13 @@ author: escada
 My name is Tomoya Muramoto. I think many OSM mappers have some IT speciality, but I don't. I'm a chemical engineer. I live in Yokohama, Japan.
 
 ## When and how did you discover OpenStreetMap ?
+
  I was a Geocacher. I discovered OSM when the map of Geocaching was changed to OSM. Many geocacher complained to OSM. But I noticed OSM is "a free map", and it attracted me as "an endless game".
 
 ## What do you map ?
+
 I have several themes to map. Here are some examples.
+
 * Micromapping of Jinja (Shinto shrine)
 * Small and local hiking courses
 * Disaster area mapping, not the actual disaster itself. My interest is in the recovering process.
@@ -20,17 +23,20 @@ I have several themes to map. Here are some examples.
  In general I want to map where commercial maps don't cover.
 
 ## How do you map ?
+
 Survey is my first choice. I like the GoMap!! app because I can edit OSM during my survey.
 
 ## How do you conduct your surveys ?
+
 Usually I take pictures while I survey. 360 pictures are my favourite. If the topology of a way is complex, I edit the map with GoMap!! while I am at the location. In general, I use JOSM.
 
 ## Where do you map ?
+
 Mainly local mapping.
 
 ## What is your biggest achievement as mapper ?
-I personally think my biggest achievement is the (almost) completed mapping of Aogashima island. Aogashima island is one of the hardest places to visit in Japan. A U.S. NGO selected the island as '[You Should See Before You Die](http://www.onegreenplanet.org/animalsandnature/amazing-natural-wonders-photos/)'.
 
+I personally think my biggest achievement is the (almost) completed mapping of Aogashima island. Aogashima island is one of the hardest places to visit in Japan. A U.S. NGO selected the island as '[You Should See Before You Die](http://www.onegreenplanet.org/animalsandnature/amazing-natural-wonders-photos/)'.
 
 The island consisting of a double-caldera volcano is not welcoming and glorious, but I felt warmth and sanctity inside it. You can enjoy its scenery via Mapillary but I recommend you actually get there.
 ![3D Aogashima island](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Tomoya-Muramoto/i-34Rp55v/0/7c0d6f34/XL/Fig1-XL.jpg)
@@ -39,6 +45,7 @@ The island consisting of a double-caldera volcano is not welcoming and glorious,
 However from the point of community view, the translation activities as an editor of WeeklyOSM would be the biggest achievement.
 
 ## Why do yo map ?
+
 Maps tell stories. I want to write a story by making a map. That is the biggest motivation.
 In Japan we had a huge earthquake and tsunami on 2011/Mar/11. A large number of people died and many communities were destroyed.
 After the earthquake, many communities built small shopping malls to support people in their daily life. They became the symbol of the revival from severe damage.
@@ -65,6 +72,7 @@ I describe this in more detail in my [blog](http://d.hatena.ne.jp/muramototomoya
 *Map: OpenStreetMap contributors. App: QGIS*
 
 ## Do you have contact with other mappers ?
+
 Some communications is going on Twitter [#osmjp](https://twitter.com/hashtag/osmjp) in Japan. I try to reply on  tweets posing questions.
 Off-line? No.
 
@@ -73,8 +81,8 @@ Off-line? No.
 I go hiking with OSM, especially Maps.me. Maps.me is also a good choice when I go abroad. However I use Google map mostly for daily use. I need better train/bus route navigation.
 
 ## Do you do anything else than mapping that is related to OpenStreetMap ?
-I'm an editor/translator of WeeklyOSM. Many Japanese (including me) are poor at English, we need more information written in Japanese.
 
+I'm an editor/translator of WeeklyOSM. Many Japanese (including me) are poor at English, we need more information written in Japanese.
 
 ## To conclude, is there anything else you want to mention ?
 

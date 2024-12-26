@@ -36,7 +36,7 @@ Do you have contact with other mappers?
 : Yes, I am in contact with mappers from Kosovo, Belgium and from across the globe. In 2019 during FOSDEM, OpenStreetMap Belgium organized a meeting where I participated and I am in contact with many of them still, like Jonathan Beliën and Joost Schouppe.
 
 What is in your view the greatest strength of OpenStreetMap?
-: Short answer will be _Community and Data_.
+: Short answer will be *Community and Data*.
 
 What are the largest challenges for OpenStreetMap?
 : I would say first thing is the Community, Local Chapters across the globe because of local knowledge and local needs.
@@ -45,7 +45,7 @@ How do you stay on top of news about OpenStreetMap?
 : About Kosovo, I would say the main channel is the Telegram group, while globally I would say that the main channels are the mailing lists.
 
 To conclude, is there anything else you want to share with the readers?
-: Yes, I have an OpenStreetMap Belgium T-shirt _Crazy about Mapping_.
+: Yes, I have an OpenStreetMap Belgium T-shirt *Crazy about Mapping*.
 
 **Thank you Besfort, for this interview.**
 

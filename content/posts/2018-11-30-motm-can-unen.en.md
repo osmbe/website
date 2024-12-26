@@ -51,8 +51,6 @@ My Ph.D in geomatics would be my personal personal highlight, and I'm thinking m
 
 As Yer Çizenler, we are aiming to extend the Turkish user base, make more and more people take part in community mapping activities, help NGOs in the humanitarian field use open geospatial data in interagency coordination and communication in Turkey. If these can be achieved and Yer Çizenler can become the community hub for OSM users in Turkey, then I can talk about achievements.
 
-
-
 ## Why do you map? What motivates you?
 
 I just enjoy maps and spatial data. I like to visualise a place in my mind and imagine browsing around from map. I enjoy spatial modelling and display. I like earthly matters, mainly. I didn't question it further.
@@ -62,7 +60,6 @@ I just enjoy maps and spatial data. I like to visualise a place in my mind and i
 Finding reliable satellite imagery for Istanbul to trace features. The city is constantly changing, and is like a big construction site, so most of imagery layers have become out-of-date. And the more up-to-date imagery sets don't have enough resolution for digitising in dense urban environments. This is a difficulty we're facing as mappers of Istanbul.
 
 Another personal difficulty is the correction of mistagging of existing data. Novice users with too much self confidence or with little care for the data standards have made very creative contributions in the past and I encountered them as little side quests on the map while doing casual traces or data validation for Yer Çizenler. They generally cause delays on my initial task, as I cannot leave them uncorrected most of the times.
-
 
 ## What are your mapping plans for the near future?
 
@@ -79,6 +76,5 @@ Advocating OSM and trying to persuade people and organisations on the upsides of
 ## To conclude, is there anything else you want to mention?
 
 Check the wiki.
-
 
 _If you want to participate in our series or propose a candidate, please contact us at community@osm.be_

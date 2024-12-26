@@ -15,7 +15,7 @@ The target audience is everybody! From hearing the word OpenStreetMap a few seco
 
 Tell us what you'd like discuss/present/share.
 
-### Program :
+### Program
 
 1. OSMBE official meeting at BeCentral ;
 2. Casual meetup in a pub at [The Sister](http://www.thesister-brussels.com/) (Rue Chair et Pain 3 - 1000 Bruxelles) ;

@@ -7,8 +7,6 @@ OpenStreetMap Belgique et Mapillary s'associent pour améliorer la disponibilit�
 
 [En savoir plus sur les raisons pour lesquelles OpenStreetMap Belgique soutient l'imagerie ouverte au niveau des rues](https://openstreetmap.be/en/projects/streetlevelimagery.html).
 
-
-
 ## Le programme
 
 Meta a financé vingt GoPro Max 360° et leurs accessoires pour réaliser des prises de vue à pied, à vélo ou en voiture. Le kit comprend des ventouses, une carte SD, un bâton de selfie et un équipement pour monter sur un casque de vélo.
@@ -16,13 +14,9 @@ Meta a financé vingt GoPro Max 360° et leurs accessoires pour réaliser des pr
 La GoPro Max a été choisie pour quatre raisons :
 
 1. La facilité d'utilisation : La GoPro Max est incroyablement simple à utiliser. Il suffit d'enregistrer et de déposer les images dans le logiciel de téléchargement de Mapillary.
-
-2. Facteur de forme : La caméra est légère et conçue pour l'action, ce qui la rend adaptée à une variété de scénarios de capture que vous pourriez avoir à l'esprit. Une caméra plus légère signifie un équipement de montage plus léger.	
-
+2. Facteur de forme : La caméra est légère et conçue pour l'action, ce qui la rend adaptée à une variété de scénarios de capture que vous pourriez avoir à l'esprit. Une caméra plus légère signifie un équipement de montage plus léger. 
 3. Coût : La caméra est abordable, ce qui nous permet d'étendre le programme et de mettre plus de caméras à la disposition d'un plus grand nombre de personnes.
-
 4. Qualité de l'image : Bien qu'il existe des caméras capables de capturer des images à 360° de meilleure qualité, la GoPro offre la meilleure qualité compte tenu de son prix et de son format. Mapillary est capable de dériver de nombreuses données cartographiques à partir des images GoPro Max, y compris l'emplacement des trottoirs.
-
 
 ## Objectifs et exigences
 
@@ -36,10 +30,8 @@ Les candidats seront plus nombreux que le nombre de caméras à distribuer.  Nou
 * Vous devez avoir accès à une connexion internet suffisamment puissante et à un quota de données suffisant pour pouvoir télécharger des images.
 * Nous avons une forte préférence pour les personnes qui contribuent déjà à OpenStreetMap et/ou qui ont déjà des projets d'utilisation spécifique de l'imagerie ou de ses données dérivées.
 
-
-
 ## Processus de sélection
 
-Les 20 caméras ont été attribuées et sont en cours de distribution. Vous pourrez suivre les résultats via https://www.mapillary.com/app/org/eucameragrant1 à 20
+Les 20 caméras ont été attribuées et sont en cours de distribution. Vous pourrez suivre les résultats via <https://www.mapillary.com/app/org/eucameragrant1> à 20
 
 Si vous avez des questions ou des suggestions, vous pouvez les envoyer à [cameras@osm.be](mailto:cameras@osm.be).

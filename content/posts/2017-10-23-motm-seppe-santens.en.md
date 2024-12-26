@@ -3,7 +3,8 @@ title: "Mapper of the Month: Seppe Santens (Belgium)"
 categories: ["motm"]
 author: escada
 ---
-__translation by escada__
+
+Translation by escada
 
 ## Please introduce yourself
 
@@ -29,7 +30,7 @@ I tried out  several methods. Mostly from my cosy chair (using JOSM), but I atte
 
 I also try to solve as many warnings as possible in the area's where I map. Those warnings can come from the JOSM validator or Osmose. Perhaps we should all spend some more time on that?
 
-# Where do you map?
+## Where do you map?
 
 I mainly map the places I know well or that I have visited, thus this means that Aalter (where I live) and Ghent (where I work) are my most important "target areas". I would love to enlarge my focus, but there is still a lot to do in both Aalter and Ghent...
 A mapathon often motivates me to map for HOT, and of course I also map in my travel destinations. Out of boredom, I occasionally use MapRoulette.

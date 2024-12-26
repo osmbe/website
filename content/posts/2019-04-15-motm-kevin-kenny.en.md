@@ -4,12 +4,12 @@ categories: ["motm"]
 author: escada
 ---
 
-## Who are you ? 
+## Who are you ?
 
 Hi, I"m Kevin Kenny, OSM user 'ke9tv'.
 
 I'm a computer engineer by trade, living and working in Niskayuna, New
-York, USA, https://www.openstreetmap.org/relation/175479, west of the
+York, USA, <https://www.openstreetmap.org/relation/175479>, west of the
 state capital of Albany. My OSM user ID is an Amateur Radio call sign,
 which is something that I often use as a user name because it's
 generally unique. I'm not terribly active on radio any more, although
@@ -22,7 +22,7 @@ badly mapped, wilderness.)
 ## When and how did you discover OpenStreetMap ?
 
 I'm on the core team for the Tcl programming language
-(https://tcl-lang.org/).  Back in 2000, some users started tossing
+(<https://tcl-lang.org/>).  Back in 2000, some users started tossing
 around the idea of producing a standard library for displaying geodata
 in Tcl, and various users hacked up proofs of concept. By 2004 there
 was a viewer that could interact with tiled maps, first from Yahoo
@@ -35,7 +35,7 @@ colleague, and began by mapping the walking and mountain bike paths
 in a local nature preserve. I've stuck with it ever since; it's
 grown amazingly since I first looked at it.
 
-## What do you map ? 
+## What do you map ?
 
 My chief interest is in mapping outdoor recreation - hiking trails,
 and the facilities associated with them. This has grown also to
@@ -56,6 +56,7 @@ out. (TIGER in my part of the country is downright hallucinatory in
 places!)
 
 ## How do you map ? Do you make surveys ? Are you an armchair mapper ?
+
 Which tools do you use (GPS, Apps, Editors, QA-websites) ?
 
 All of my mapping is armchair mapping in a sense, since I don't simply
@@ -84,7 +85,7 @@ off" aerials). I like to gather redundant GPS tracks, but some places are
 hard enough to reach that it simply isn't an option, and I make do with
 what I have.
 
-## Where do you map ? 
+## Where do you map ?
 
 I map only my region.  For local street mapping, it's really just my
 town. For outdoor facilities, I've done a few state-wide imports of data,
@@ -120,7 +121,7 @@ length of it, solo, which was quite an adventure!  (I've seen one of
 my OSM correspondents refer to it as 'extreme mapping.') The trail
 center line and points of interest in OSM eventually became the source
 of the "official" distance table for the club that maintains the
-trail. (http://www.nptrail.org/trip-planning/section-descriptions-and-mileages/)
+trail. (<http://www.nptrail.org/trip-planning/section-descriptions-and-mileages/>)
 
 ## Why do you map ? What motivates you ?
 
@@ -145,7 +146,7 @@ that will happen whenever there is a set of volunteers with different
 interests who are passionate about the success of a project, but it is
 surely time-consuming!)
 
-## What are your mapping plans for the near future ? 
+## What are your mapping plans for the near future ?
 
 Among the things on my list: one more round of the New York State
 imports (it's been almost a year since I last updated them). More
@@ -154,7 +155,7 @@ mapping of my own town.
 
 When the weather improves in spring (I'm writing this in a storm in
 the harsh upstate New York winter), there are gaps in the track of the
-Long Path https://www.openstreetmap.org/relation/919642 in Schoharie
+Long Path <https://www.openstreetmap.org/relation/919642> in Schoharie
 County that I'd like to get out and close. It would be nice having the
 whole thing mapped end-to-end!
 
@@ -163,6 +164,7 @@ get literal "boots on the ground" data for the entire route, and study
 (and map where appropriate) the original planned route all the way
 into the Adirondack High Peaks. (Hiking from New York City to the
 heart of the Adirondack wilderness - and writing and mapping about it
+
 - sounds like another fun adventure!)
 
 ## Do you have contact with other mappers ?
@@ -190,7 +192,7 @@ for edits. (In at least one case, rather than using shapefiles, I
 resort to PDF-scraping to get boundaries!)
 
 I also develop my own Mapnik-based rendering, from OSM and other
-sources, to use at https://kbk.is-a-geek.net/catskills/test4.html.
+sources, to use at <https://kbk.is-a-geek.net/catskills/test4.html>.
 (This is the tiled map that goes on my smartphone, too.) There's a fair
 amount of programming involved in integrating the various external data
 sources.
@@ -201,7 +203,7 @@ overlaid networks, with frequent route concurrences, so the default
 OSM rendering is less readable, at least to me. I've done some work
 toward resurrecting the project that Phil! Gold started to do this,
 and put a proof of concept on Github
-https://github.com/kennykb/osm-shields. Alas, there are some fairly
+<https://github.com/kennykb/osm-shields>. Alas, there are some fairly
 severe technical obstacles to overcome in making it play well with the
 rest of the rendering toolchain, and so I've put on hold for the
 moment the project of making the system scale to the whole planet from

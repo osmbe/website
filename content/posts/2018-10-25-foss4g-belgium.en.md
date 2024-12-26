@@ -9,7 +9,7 @@ location:
   osm: https://www.openstreetmap.org/way/298902749
 ---
 
-After the very succesful FOSS4G Belgium events in 2015, 2016 and 2017, [OSGeo.be](https://wiki.osgeo.org/wiki/Belgium) announces the date of the next 
+After the very succesful FOSS4G Belgium events in 2015, 2016 and 2017, [OSGeo.be](https://wiki.osgeo.org/wiki/Belgium) announces the date of the next
 FOSS4G Belgium Conference: 25 October 2018. Stay tuned for more info!
 
 More information on <https://2018.foss4g.be/>.

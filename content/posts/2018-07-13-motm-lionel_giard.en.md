@@ -3,9 +3,10 @@ title: 'Mapper of the Month: Lionel Giard (Belgium)'
 categories: ["motm"]
 author: escada
 ---
-_Translation: MOTM team_
 
-## Please introduce yourself.
+Translation: MOTM team
+
+## Please introduce yourself
 
 I am Lionel Giard, I am a geographer from Brabant Wallon, from a village near Louvain-la-Neuve. I have a masters in geography since 2016, which I got from the Catholic Universite of Louvain (UCL). I work with GIS application on a daily basis. Besides my passion for geography and carthography, I also like to study history. Those two passions can easily be combined.
 
@@ -32,11 +33,11 @@ Recently I started to contribute to Mapillary. This helps to identify objects th
 
 I try not to forget to add interesting photos to Wikimedia Commons.
 
-
 ![Un menhir découvert près de chez moi lors de mes relevés!](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png)
-*A menhir that I discovered in my own neighborhood!*
+_A menhir that I discovered in my own neighborhood!_
 
 ## How do you collect data during a survey?
+
 In general, I do not plan a lot. I just set out in a certain direction with my Fairphone and adapt my plans along the way. Sometimes because I notice a "Fixme" that I had set previously with OsmAnd, sometime to visit a historical site. Of course, I also follow previously unmapped paths or paths for which there are no photos yet.
 I do surveys on foot or by bike.
 
@@ -50,8 +51,6 @@ The almost completed map of my hometown (Chaumont-Gistoux), which includes impor
 , etc. The only thing that's left are a few smaller historic objects and wayside chapels!
 
 ![Chaumon-Gistoux](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-zRLWsFq/0/35bdd5e7/M/image-M.png)
-
-
 
 ## Why do you map?
 
@@ -69,6 +68,7 @@ However, one can gain a lot of time by focussing on one topic. But, Oh! Look a b
 I would love to finish the work in Louvain-la-Neuve, as well as adding more details to one of the surrounding villages, named Walhain. Furthermore I will map all historical sites that I visit during the weekends. I will try to focus on the larger historical sites in Wallonia.
 
 ## Do you have contact with other mappers?
+
 From the beginning I got in touch with the other members of the Belgian OSM community at some meetups in Brussels. I met a few famous mappers there. I also have contact with mappers in Wallonia, whose number is still pretty small. One of them is Julien Minet.
 
 I try to participate as much as possible in meetups and other get-togethers, because I enjoy discussing about the different mapping methods.
@@ -78,7 +78,6 @@ I try to participate as much as possible in meetups and other get-togethers, bec
 I use OpenStreetMap regularly in my spare time, e.g. to plan trips during my vacations, to locate a restaurant, etc.
 
 I also use it professionally, expecially the road network, to produce maps or in GIS applications.
-
 
 ## Do you do anything else than mapping?
 

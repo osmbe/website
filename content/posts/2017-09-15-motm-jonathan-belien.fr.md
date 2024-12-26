@@ -155,7 +155,7 @@ Ben et Joost !
 ## Utilisez-vous vous-même OpenStreetMap ? Comment ?
 
 J'utilise maintenant depuis quelques années OpenStreetMap de manière quotidienne ;
-essentiellement, en tant que fond de carte avec https://tile.osm.be/ mais de
+essentiellement, en tant que fond de carte avec <https://tile.osm.be/> mais de
 plus en plus en tant que base de donnes géographiques. A chaque nouvelle
 thématique pour laquelle OpenStreetMap pourrait être une source, je suis étonné
 de la qualité de ces données !
