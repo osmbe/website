@@ -49,4 +49,4 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Grand merci, Ilya, pour cette interview.**
 
-*Traduit de l'anglais avec l'aide de <https://www.DeepL.com/Translator> et de ChatGPT Mar 23 Version.*
+*Traduit de l'anglais avec l'aide de <https://https://www.DeepL.com/Translator> et de ChatGPT Mar 23 Version.*

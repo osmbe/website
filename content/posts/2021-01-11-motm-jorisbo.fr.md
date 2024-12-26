@@ -48,4 +48,4 @@ Comment restes-tu à jour par rapport à l'actualité OpenStreetMap ?
 Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 : Merci à tous ! Tant d'engagement pour une cause essentiellement publique, c'est agréable à voir.
 
-*Traduit du néerlandais par Claire Muyllaert et Pierre Parmentier*
+*Traduit du néerlandais par Claire Muyllaert et Pierre Parmentier.*

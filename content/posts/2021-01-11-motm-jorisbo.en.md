@@ -48,4 +48,4 @@ How do you stay on top of news about OpenStreetMap?
 To conclude, is there anything else you want to share with the readers?
 : Thank you all! So much commitment to a predominantly public cause that is good to see.
 
-*Translated from Dutch by Pierre Parmentier and Claire Muyllaert*
+*Translated from Dutch by Pierre Parmentier and Claire Muyllaert.*

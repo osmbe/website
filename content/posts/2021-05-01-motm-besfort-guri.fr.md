@@ -36,7 +36,7 @@ As-tu des contacts avec d'autres contributeurs ?
 : Oui, je suis en contact avec des cartographes du Kosovo, de Belgique et du monde entier. En 2019, pendant le FOSDEM, OpenStreetMap Belgique a organisé une réunion à laquelle j'ai participé et je suis toujours en contact avec beaucoup d'entre eux, comme Jonathan Beliën et Joost Schouppe.
 
 Quelle est, selon toi, la plus grande force d'OpenStreetMap ?
-: La réponse courte sera _Communauté et données_.
+: La réponse courte sera *Communauté et données*.
 
 Quel est le plus grand défi pour OpenStreetMap ?
 : Je dirais que la première chose est la communauté, les chapitres locaux à travers le monde en raison des connaissances locales et des besoins locaux.
@@ -45,7 +45,7 @@ Comment restes-tu à jour par rapport à l'actualité d'OpenStreetMap ?
 : Au Kosovo, je dirais que le principal canal est le groupe Telegram, tandis qu'au niveau mondial, je dirais que les principaux canaux sont les listes de diffusion.
 
 Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
-: Oui, j'ai un T-shirt OpenStreetMap Belgique _Crazy about Mapping_.
+: Oui, j'ai un T-shirt OpenStreetMap Belgique *Crazy about Mapping*.
 
 **Merci, Besfort, pour cette interview.**
 

@@ -11,9 +11,7 @@ Can Ünen username: [`unen`](https://www.openstreetmap.org/user/unen)
 
 I'm a university lecturer in Istanbul, with a B.Sc. in civil engineering and a Ph.D. in geomatics. I'm the chairman of board and one of the founding members of Yer Çizenler (a made up term not used daily in Turkish, directly translating to “geographers”), an association for everyone who wants to learn how to map in OpenStreetMap, contribute to the map by joining millions worldwide, and utilize user generated open geospatial data in humanitarian context in Turkey. I was also Humanitarian OpenStreetMap Team's (HOT) country manager for Turkey, during Yer Çizenler's partnership with HOT for “Crowdsourcing Non-Camp Refugee Data Through OpenStreetMap” project until June 2018. My OSM username is unen.
 
-![Missing Maps Mapathon with MSF Turkey](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Can-Ünen/i-f26SsHc/0/ac324936/X3/CanUnen_photo_-X3.png)
-
-_Missing Maps Mapathon with MSF Turkey_
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Can-Ünen/i-f26SsHc/0/ac324936/X3/CanUnen_photo_-X3.png" title="Missing Maps Mapathon with MSF Turkey" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 I have a hobby to take up hobbies for some time and leave them lying around, fooling myself that I'll pick them back up sometime. You should see my sailless model ship. I'm riding a motorbike consistently for 4 years, and homebrewing my beer for 3; so I think it's safe to say they are my hobbies.
 
@@ -77,4 +75,4 @@ Advocating OSM and trying to persuade people and organisations on the upsides of
 
 Check the wiki.
 
-_If you want to participate in our series or propose a candidate, please contact us at community@osm.be_
+_If you want to participate in our series or propose a candidate, please contact us at <community@osm.be>._

@@ -49,7 +49,7 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Søren, for this interview.**
 
-*Translated from English by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from English by Claire Muyllaert and Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*
 
 (1) Length survey of bicycle network in 98 danish municipalities
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vTZf0N_3VzNYahyC5wfDr_M9lKOTAGkiM3-myG-zavf4lxJTpsQgmp2I0E7gS7MyP2BTnUMPFbnNzGi/pubhtml>

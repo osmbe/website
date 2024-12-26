@@ -6,6 +6,7 @@ cover: Bing_Streetside_NYC.gif
 
 
 ## Pourquoi l'imagerie au niveau de la rue est importante et pourquoi elle devrait être ouverte
+
 Partout dans le monde, les gens forment un jumeau numérique du monde. Ils voudront peut-être savoir où se trouvent les magasins, avoir besoin de données pour former un algorithme de voiture sans conducteur ou savoir où se trouvent les panneaux de signalisation. Ce travail est effectué par des entreprises privées, par le gouvernement et par des bénévoles dans le cadre de projets de crowdsourcing. Parfois, cela peut être fait en utilisant des images satellitaires. Parfois, il faut aller à l'extérieur. Mais très souvent, l'imagerie au niveau même de la rue est ce dont on a le plus besoin. Cela permet de détecter un grand nombre de fonctionnalités intéressantes et de collecter d'énormes quantités de données sans avoir à toujours sortir.
 
 Ces images sont rarement disponibles gratuitement. Google Street View existe, mais son utilisation dans ses propres projets n'est pas autorisée. Le gouvernement flamand a reconnu le besoin et a investi une somme considérable dans une contrepartie des départements gouvernementaux du GIS. Malheureusement, il est resté strictement fermé, car les images ne sont pas la propriété du gouvernement flamand. Des raisons de confidentialité ont également été citées. Maintenant, le gouvernement a décidé d'arrêter ce projet. Les administrations flamandes et locales sont à juste titre concernées et cherchent une alternative.

@@ -52,7 +52,7 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Jean-Louis, for this interview.**
 
-*Translated from French by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from French by Claire Muyllaert and Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*
 
 [^1]: [OpenTopoMap](https://opentopomap.org)
 [^2]: [Waymarked Trails](https://waymarkedtrails.org/)

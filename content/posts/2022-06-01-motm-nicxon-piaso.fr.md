@@ -53,6 +53,6 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Merci, Nicxon, pour cette interview.**
 
-*Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit de l'anglais par Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*
 
 (1) electoral ward mapping i.e. mapping out small council wards; voir [circonscription électorale](https://fr.wikipedia.org/wiki/Circonscription_%C3%A9lectorale)

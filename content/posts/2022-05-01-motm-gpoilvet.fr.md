@@ -52,7 +52,7 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Grand merci, Gpoilvet, pour cette interview.**
 
-*Traduit du néerlandais par Claire Muyllaert et Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit du néerlandais par Claire Muyllaert et Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*
 
 (1) Pays de Waes ou Waasland: <https://fr.wikipedia.org/wiki/Pays_de_Waes>
 (2) GRB: Grootschalig Referentie Bestand i.e. carte de base de la Région flamande

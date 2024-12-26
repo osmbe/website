@@ -49,4 +49,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Louis, for this interview.**
 
-*Translated from French by Pierre Parmentier*
+*Translated from French by Pierre Parmentier.*

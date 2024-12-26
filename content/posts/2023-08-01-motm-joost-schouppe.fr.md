@@ -66,4 +66,4 @@ Voudrais-tu dire quelques mots aux contributeurs de tous les pays ?
 
 **Merci, Joost, pour cet entretien.**
 
-*Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit de l'anglais par Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*

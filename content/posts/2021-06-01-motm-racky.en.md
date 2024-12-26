@@ -50,4 +50,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Racky, for this interview.**
 
-*Translated from French by Pierre Parmentier with www.DeepL.com/Translator.*
+_Translated from French by Pierre Parmentier with <https://www.DeepL.com/Translator>._

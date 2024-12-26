@@ -28,9 +28,9 @@ Our members have been contributing millions of openly licensed street level imag
 
 The images aren't just useful to local mappers. As we publish them on the [Mapillary](https://www.mapillary.com) platform, they can be used by anyone in the business of producing open data. More than that, the platform automatically generates derived data about traffic signs and infrastructure, which is in turn available as open data. As we retain full ownership of the images, we can also share them under other licenses and on other platforms.
 
-{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}
+{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
-{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}
+{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Crowdsourcing for the win
 

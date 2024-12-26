@@ -14,7 +14,7 @@ Meta a financé vingt GoPro Max 360° et leurs accessoires pour réaliser des pr
 La GoPro Max a été choisie pour quatre raisons :
 
 1. La facilité d'utilisation : La GoPro Max est incroyablement simple à utiliser. Il suffit d'enregistrer et de déposer les images dans le logiciel de téléchargement de Mapillary.
-2. Facteur de forme : La caméra est légère et conçue pour l'action, ce qui la rend adaptée à une variété de scénarios de capture que vous pourriez avoir à l'esprit. Une caméra plus légère signifie un équipement de montage plus léger. 
+2. Facteur de forme : La caméra est légère et conçue pour l'action, ce qui la rend adaptée à une variété de scénarios de capture que vous pourriez avoir à l'esprit. Une caméra plus légère signifie un équipement de montage plus léger.
 3. Coût : La caméra est abordable, ce qui nous permet d'étendre le programme et de mettre plus de caméras à la disposition d'un plus grand nombre de personnes.
 4. Qualité de l'image : Bien qu'il existe des caméras capables de capturer des images à 360° de meilleure qualité, la GoPro offre la meilleure qualité compte tenu de son prix et de son format. Mapillary est capable de dériver de nombreuses données cartographiques à partir des images GoPro Max, y compris l'emplacement des trottoirs.
 

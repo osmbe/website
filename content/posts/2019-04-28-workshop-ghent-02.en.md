@@ -15,6 +15,6 @@ In this workshop, an introduction to the app OsmAnd is given. I'll show you the 
 
 When this is done, we'll get out the computers and try to modify OsmAnd to your personal needs. I'll explain how to change rendering and routing parameters - the app will be just for you. (E.g. allow routing over 'de knippen' where you have access, avoid roads with cobblestones, avoid unlit roads, ...)
 
-**Important: OsmAnd works both on Android and iPhone. Modifying OsmAnd only works on Androids though - unless your iPhone is jailbroken**
+**Important: OsmAnd works both on Android and iPhone. Modifying OsmAnd only works on Androids though - unless your iPhone is jailbroken.**
 
 This workshop is part of newline - a yearly conference by Hackerspace Ghent. All information on newline can be found here: <http://hackerspace.gent/landing/newline.php>

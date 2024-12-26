@@ -49,4 +49,4 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Grand merci, Domenico, pour cette interview.**
 
-*Traduit de l'italien par Claire Muyllaert et Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit de l'italien par Claire Muyllaert et Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*

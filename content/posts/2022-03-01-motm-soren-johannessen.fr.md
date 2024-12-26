@@ -49,7 +49,7 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Merci, Søren, pour cette interview.**
 
-*Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit de l'anglais par Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*
 
 (1) Enquête sur la longueur du réseau cyclable dans 98 municipalités danoises
 <https://docs.google.com/spreadsheets/d/e/2PACX-1vTZf0N_3VzNYahyC5wfDr_M9lKOTAGkiM3-myG-zavf4lxJTpsQgmp2I0E7gS7MyP2BTnUMPFbnNzGi/pubhtml>

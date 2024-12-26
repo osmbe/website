@@ -49,4 +49,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Many thanks, Vucod, for this interview.**
 
-*Translated from French by Pierre Parmentier*
+*Translated from French by Pierre Parmentier.*

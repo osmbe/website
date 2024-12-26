@@ -29,4 +29,4 @@ this also means we have a budget now. The first thing we did, is start the [Open
 
  **Do you want to be part of that discussion?**
 
- Just send a short e-mail to board@osm.be and tell us a sentence or two about yourself. We do ask for active involvement from our members.
+ Just send a short e-mail to <board@osm.be> and tell us a sentence or two about yourself. We do ask for active involvement from our members.

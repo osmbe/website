@@ -49,4 +49,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Claude, for this interview.**
 
-*Translated from French by Pierre Parmentier with the help of DeepL Translator.*
+_Translated from French by Pierre Parmentier with the help of DeepL Translator._

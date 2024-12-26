@@ -64,4 +64,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Koos, for this interview.**
 
-*Translated from Dutch by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from Dutch by Claire Muyllaert and Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*

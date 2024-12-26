@@ -4,7 +4,8 @@ categories: ["motm"]
 author: escada
 aliases: ["/2019/02/01/en-motm-Guirec_Halflants.html"]
 ---
-_translation by Escada and Koninklijke_
+
+*Translation by Escada and Koninklijke.*
 
 ## Who are you?
 

@@ -13,6 +13,7 @@ location:
 Rencontre des contributeurs OpenStreetMap du pays d'Arlon et d'ailleurs. Tout le monde intéressé par OSM est le bienvenu, du parfait débutant au cartographe expérimenté. N'hésitez pas à venir si vous êtes juste intrigué par le projet OpenStreetMap et la cartographie participative. Nous nous rencontrerons cette fois à Aubange.
 
 Quelques sujets sur la table:
+
 * Nos chantiers OSM dans la région
 * Retour sur les ateliers OpenStreetMap à l'EPN d'Arlon
 * OSM et tourisme

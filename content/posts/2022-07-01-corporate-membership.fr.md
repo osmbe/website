@@ -29,4 +29,4 @@ Bien que nous soyons ravis d'avoir une relation plus étroite avec ces utilisate
 
 **Voulez-vous faire partie de cette discussion ?**
 
-Il vous suffit d'envoyer un bref e-mail à board@osm.be et de nous dire une phrase ou deux sur vous. Nous demandons une participation active de nos membres.
+Il vous suffit d'envoyer un bref e-mail à <board@osm.be> et de nous dire une phrase ou deux sur vous. Nous demandons une participation active de nos membres.

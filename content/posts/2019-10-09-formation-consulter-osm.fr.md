@@ -16,6 +16,7 @@ Formation d'initiation à OpenStreetMap, la carte collaborative du monde.
 La formation se déroule à l'Espace Public Numérique d'Arlon le 9 octobre 2019 de 9.00 h à 12.00 h et de 13.00 h à 16.00 h.
 
 Les personnes intéressées sont invitées :
+
 - à s'inscrire auprès de l'E.P.N. d'Arlon ;
 - à se munir de leur ordinateur portable ;
 - à y installer, si possible, le logiciel JOSM (`josm-tested.jar`) disponible sur <https://josm.openstreetmap.de/>

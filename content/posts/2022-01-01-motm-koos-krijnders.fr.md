@@ -63,4 +63,4 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Merci beaucoup, Koos, pour cette interview.**
 
-*Traduit du néerlandais par Pierre Parmentier et Claire Muyllaert avec l'aide de www.DeepL.com/Translator.*
+*Traduit du néerlandais par Pierre Parmentier et Claire Muyllaert avec l'aide de <https://www.DeepL.com/Translator>.*

@@ -49,4 +49,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Jonathan, for this interview.**
 
-*Translated from English by Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from English by Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*

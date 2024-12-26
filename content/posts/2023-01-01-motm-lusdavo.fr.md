@@ -49,4 +49,4 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Grand merci, David, pour cette interview.**
 
-*Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit de l'anglais par Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*

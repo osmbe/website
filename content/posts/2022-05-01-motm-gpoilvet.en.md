@@ -52,7 +52,7 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Gpoilvet, for this interview.**
 
-*Translated from Dutch by Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from Dutch by Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*
 
 (1) Waasland: <https://en.wikipedia.org/wiki/Waasland>
 (2) GRB: Grootschalig Referentie Bestand i.e. basemap in Flanders

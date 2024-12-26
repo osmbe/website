@@ -3,9 +3,7 @@ title: "Le projet \"Pin je Punt\" de Visit Flanders"
 author: OpenStreetMap Belgium
 ---
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7OtCK1_VsSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube 7OtCK1_VsSI >}}
 
 Visit Flanders et les 5 fédérations touristiques des provinces flamandes travaillent ensemble sur des jeux [données ouvertes](https://opendata.vlaanderen.be/dataset?tags=Recreatie) depuis 10 ans. Un de ces jeux de données sont les réseaux points-noeuds bien connus des cyclistes et promeneurs.
 

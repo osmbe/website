@@ -4,7 +4,7 @@ categories: ["motm"]
 author: escada
 ---
 
-Translation: MOTM team
+*Translation byt the MOTM team.*
 
 ## Please introduce yourself
 
@@ -33,8 +33,7 @@ Recently I started to contribute to Mapillary. This helps to identify objects th
 
 I try not to forget to add interesting photos to Wikimedia Commons.
 
-![Un menhir découvert près de chez moi lors de mes relevés!](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png)
-_A menhir that I discovered in my own neighborhood!_
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png" title="A menhir that I discovered in my own neighborhood!" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## How do you collect data during a survey?
 

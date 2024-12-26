@@ -6,6 +6,7 @@ cover: Bing_Streetside_NYC.gif
 
 
 ## Why street level imagery matters and why it should be open
+
 All around the world, people are making a digital twin of the world. They might want to know where the shops are, need data to train a driverless car algorithm, or want to know where the traffic signs are. This work is done by private companies, by government and by volunteers in crowdsourcing projects. Sometimes, this can be done by using satellite imagery. Sometimes going outside is needed. But very often, street level imagery is what is needed most. This allows to detect a lot of interesting features and allows to collect huge amounts of data without always having to go out.
 
 However, this street level imagery is often not openly available. Google Street View exists, but it is illegal to use it for your own projects. The Flemish government recognized this need, and invested a serious budget in providing it to the government mapping sector. Unfortunately, the imagery was never opened up to the public, because it never was the property of the Flemish government itself. Privacy reasons were also mentioned as to why it couldn't be opened. Now, the Flemish government has decided to discontinue this project. Local as well as Flemish administrations are rightfully worried and are looking for an alternative.

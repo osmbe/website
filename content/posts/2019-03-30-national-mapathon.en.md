@@ -5,7 +5,7 @@ title: National Missing Maps Mapathon 2019 (LLN, Liège)
 rsvp: https://www.eventbrite.com/e/national-missing-maps-mapathon-2019-tickets-56812358293
 ---
 
-**Help Doctors Without Borders and the Red Cross to facilitate their rescue**
+## Help Doctors Without Borders and the Red Cross to facilitate their rescue
 
 It's time for the 4th National Mapathon which will take place on Wednesday March 27th, Thursday March 28th and Saturday March 30th. It is organized by the National Committee for Geography, in collaboration with OpenStreetMap Belgium and MSF Belgium. Several universities in Brussels, Flanders and Wallonia open their doors for a large collective mapping event. Come contribute - do not miss this opportunity and help Doctors Without Borders and the Red Cross to facilitate their work in crisis areas.
 

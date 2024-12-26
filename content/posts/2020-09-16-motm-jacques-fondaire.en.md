@@ -4,7 +4,7 @@ categories: ["motm"]
 author: Pierre Parmentier
 ---
 
-*Translated from French by Pierre Parmentier*
+*Translated from French by Pierre Parmentier.*
 
 Jacques Fondaire username: [`jfonda`](https://www.openstreetmap.org/user/jfonda)
 

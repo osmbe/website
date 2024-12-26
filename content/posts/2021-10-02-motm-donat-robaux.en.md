@@ -55,4 +55,4 @@ I have one more small question. You mentioned VISOVs. I understand that VISOV is
 
 **Thank you, Donat, for this interview.**
 
-*Translated from French by Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from French by Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*

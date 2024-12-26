@@ -52,6 +52,6 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Grand merci, Patricia, pour cette interview.**
 
-_Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL.com/Translator._
+_Traduit de l'anglais par Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>._
 
 (*) Voir le site <https://www.youthmappers.org/> et la video <https://www.youtube.com/watch?v=xWOqYtv6skI>

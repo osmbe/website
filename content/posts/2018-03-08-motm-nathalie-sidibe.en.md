@@ -4,7 +4,7 @@ categories: ["motm"]
 author: escada
 ---
 
-Translation by escada
+*Translation by escada.*
 
 ## Please introduce yourself
 

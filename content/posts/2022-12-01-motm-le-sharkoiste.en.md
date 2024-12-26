@@ -49,4 +49,4 @@ To conclude, is there anything else you want to share with the readers?
 
 **Thank you, Sharko, for this interview.**
 
-*Translated from French by Claire Muyllaert and Pierre Parmentier with the help of www.DeepL.com/Translator.*
+*Translated from French by Claire Muyllaert and Pierre Parmentier with the help of <https://www.DeepL.com/Translator>.*

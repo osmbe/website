@@ -3,9 +3,7 @@ title: "\"Pin je Punt\" project with Visit Flanders"
 author: OpenStreetMap Belgium
 ---
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7OtCK1_VsSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube 7OtCK1_VsSI >}}
 
 Visit Flanders and the five touristic organisations of the Flemish provinces have been working together on [open data](https://opendata.vlaanderen.be/dataset?tags=Recreatie) for ten years. This includes the famous node networks for walking and cycling.
 

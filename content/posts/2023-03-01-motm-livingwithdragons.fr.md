@@ -54,7 +54,7 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Merci, Gregory, pour cette interview.**
 
-*Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL/Translator.*
+*Traduit de l'anglais par Pierre Parmentier avec l'aide de <www.DeepL/Translator>.*
 
 [^1]: [Living With Dragons blog](http://www.livingwithdragons.com)
 [^2]: [HDYC](https://hdyc.neis-one.org/?LivingWithDragons)

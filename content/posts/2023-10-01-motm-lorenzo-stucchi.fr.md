@@ -57,7 +57,7 @@ Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 
 **Grand merci, Lorenzo, pour cette interview.**
 
-*Traduit de l'anglais par Pierre Parmentier avec l'aide de www.DeepL.com/Translator.*
+*Traduit de l'anglais par Pierre Parmentier avec l'aide de <https://www.DeepL.com/Translator>.*
 
 [^1]: <https://www.wikimedia.it/>
 [^2]: <https://polimappers.github.io/>

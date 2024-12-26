@@ -13,6 +13,7 @@ All the images were uploaded to [Mapillary](https://www.mapillary.com/app/user/S
 While Mapillary integrates nicely with the OpenStreetMap editing environment, we're also looking into other platforms. We're currently setting up our own instance on [Panoramax](https://panoramax.fr/), where we'll also be hosting these images.
 
 We [tweeted](https://twitter.com/osm_be/status/1680584420648968192)/[tooted](https://en.osm.town/@osm_be/110724230718520196) about Stéphane's success story. The message got amplified, and it was even picked up by a few journalists. We're happy to be able to share some articles and videos with you.
+
 * [Bruzz (Dutch, with subtitles available in NL, FR, EN)](https://www.bruzz.be/videoreeks/woensdag-19-juli-2023/video-stephane-de-greef-brengt-al-fietsend-alle-straten-van)
 * [BX1 (French)](https://bx1.be/categories/culture/un-google-street-view-pour-les-cyclistes/)
 * [L'Avenir (French)](https://www.lavenir.net/regions/bruxelles/2023/07/27/le-projet-dingue-de-stephane-de-greef-il-pedale-dans-toutes-les-rues-de-bruxelles-pour-creer-lalternative-cycliste-a-google-street-view-QHSBZDBPVRB23FDB5C4NINYPPU/)

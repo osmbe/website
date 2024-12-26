@@ -28,9 +28,9 @@ Les contributions de nos membres comprennent déjà des millions d'images ouvert
 
 Ces images sont utiles pour les cartographes locaux mais, de plus, après avoir été publiées sur la plateforme Mapillary, elles sont accessibles et peuvent être utilisées par toute autre personne désireuse de générer d'autres données ouvertes. Cette plateforme produit automatiquement des données dérivées sur les panneaux de signalisation et les infrastructures, données qui sont elles aussi disponibles en données ouvertes. Comme nous gardons le droit de propriété sur toutes ces images, nous pouvons toujours les partager sous d'autres licenses et sur d'autres plateformes.
 
-{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}
+{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
-{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}
+{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## La production participative, un pari gagnant
 

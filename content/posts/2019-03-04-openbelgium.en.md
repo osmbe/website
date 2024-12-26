@@ -10,7 +10,7 @@ location:
   latitude: 50.86620
 ---
 
-**Let's make Belgian knowledge open, usable, used, useful**
+## Let's make Belgian knowledge open, usable, used, useful
 
 Open Belgium is an annual Open Knowledge and Open Data conference gathering **industry, research, government and citizen stakeholders**. In other words, anyone who is interested in Open Knowledge and Open Data is more than welcome!
 

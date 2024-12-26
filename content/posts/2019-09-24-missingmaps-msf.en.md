@@ -17,4 +17,4 @@ If you're coming to meet other OSM volunteers or want to help out, please regist
 
 If you just want to map and be left alone, register on the [Eventbrite page](https://www.eventbrite.com/e/missing-maps-msfhi-brussels-tickets-71347880431)
 
-![]({{ site.baseurl }}/assets/images/event/2019-09-24-missingmaps-msf.png)
+{{< figure src="images/posts/2019-09-24-missingmaps-msf.png" >}}
