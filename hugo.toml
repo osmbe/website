@@ -2,9 +2,14 @@ baseURL = 'https://openstreetmap.be/'
 defaultContentLanguage = 'en'
 enableEmoji = true
 summaryLength = 50
+uglyURLs = true
 
 [frontmatter]
   date = [':filename', ':default']
 
 [markup.goldmark.parser.attribute]
   block = true
+
+[permalinks]
+  [permalinks.page]
+    posts = '/:year/:month/:day/:slug'
