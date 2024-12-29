@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: '**/*.md'
 
   stylelint:
     name: Stylelint
@@ -20,3 +22,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions-hub/stylelint@master
+        env:
+          PATTERN: "assets/css/*.css"
