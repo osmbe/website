@@ -23,7 +23,7 @@ Quelle sorte de contributeur es-tu et dans quelle région cartographies-tu ?
 : Presque tout ce que je fais est dans le contexte de Missing Maps. Je crée des tâches pour des zones à la demande d'organisations d'aide comme la Croix-Rouge, j'organise des mapathons pour que ces zones soient cartographiées et validées par des volontaires, je valide beaucoup moi-même et, si nécessaire, je cartographie également. La validation est indispensable, car une grande partie du travail est effectuée par des bénévoles peu expérimentés. C'est pourquoi je consacre du temps et de l'énergie à former des mappers pour qu'ils deviennent des validateurs.
 : Je n'ai pas de zone cartographique spécifique, même si la plupart de mes activités se déroulent en Afrique.
 
-![Image]({% link /assets/images/motm/2022/01/kk-02.JPG %})
+{{< figure src="images/posts/kk-02.JPG" >}}
 
 Que cartographies-tu ? As-tu une spécialisation ?
 : Les organisations d'aide ne demandent généralement que les bâtiments, les routes et les voies navigables.
@@ -32,7 +32,7 @@ Que cartographies-tu ? As-tu une spécialisation ?
 Quelle est ta plus grande prouesse en tant que contributeur ?
 : C'était en 2017 lors de l'ouragan majeur *Irma* à Sint-Maarten dans les Caraïbes. Peu après les premiers rapports très alarmants, nous avons reçu des photos aériennes récentes de l'IGN français. Il fallait d'abord les adapter pour les faire entrer dans le gestionnaire de tâches de Missing Maps.
 
-![Image]({% link /assets/images/motm/2022/01/kk-03.jpg %})
+{{< figure src="images/posts/kk-03.jpg" >}}
 
 Ils ont réussi et 24 heures plus tard, la partie néerlandaise de Sint-Maarten était entièrement cartographiée, grâce à un mapathon organisé à la faculté des sciences de la géo-information et de l'observation de la Terre (ITC) d'Enschede. Soixante étudiants ont cartographié toute la partie néerlandaise de Sint-Maarten en une soirée. Le premier résultat (cinq minutes après que tout ait été cartographié) était déjà très significatif : il y avait environ 13&nbsp;000 bâtiments à Sint-Maarten. Avec une occupation moyenne des maisons de quatre personnes, cela signifiait qu'environ 50&nbsp;000 personnes y vivaient et non pas les 80&nbsp;000 "régimes alimentaires" qui y vivent selon les statistiques de Sint-Maarten. Cela a fait toute la différence dans l'effort de secours — la première chose qui a dû être apportée était l'eau potable. Cela a fait une différence de quelques avions.
 La première équipe de secours était déjà partie pour Sint-Maarten ce jour-là, atterrissant d'abord à Curaçao car l'aéroport de Sint-Maarten était inutilisable. Là, la carte, qui venait d'être achevée, a été téléchargée. Dans le premier avion à atterrir se trouvait une équipe de la Croix-Rouge néerlandaise avec cette carte OpenStreetMap à jour ! Cette carte a ensuite été utilisée intensivement dans le cadre des opérations de secours, alors qu'il n'y avait ni électricité, ni internet, ni téléphonie mobile.

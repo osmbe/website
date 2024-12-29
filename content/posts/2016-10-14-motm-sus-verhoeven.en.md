@@ -11,7 +11,7 @@ Sus is my computer related nickname, on OpenStreetmap I use susvhv. In the early
 I was born in 1933, (I leave it to you to calculate my age) in Brussels and I was a technician at the [Belgian Nuclear Research Center](https://www.sckcen.be/en) or SCK in [Mol](http://www.openstreetmap.org/relation/1263864), where I live at the moment. I was sent on early retirement during a restructuring at the SCK. I have been enjoying home life for over 25 years since that moment.
 When I went to school, there were no computers. Luckily, I got the opportunity at work to spend time to learn about hardware and software and get familiar with microprocessors and microcontrollers. Until now, I have bought all my desktop computers as parts and assembled them myself. The last one runs [Ubuntu](https://www.ubuntu.com/). My laptop runs Windows 10. Unlike the desktops, I buy my laptops.
 
-![Sus](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Susvhv/i-5D5bLqV/0/X2/DSC_0548-X2.jpg){:style="float:left; padding:1em; max-width:300px;"}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Susvhv/i-5D5bLqV/0/X2/DSC_0548-X2.jpg" alt="Sus" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 The hardware for the development for microprocessors we used at work was very expensive in the early days. A few years after my retirement, I noticed that a microcontroller, such as the
 [ATMEGA8](https://en.wikipedia.org/wiki/Atmel_AVR) costed only a few euros and they were freely programmable from the serial port (now from USB) of a PC. Today, in the Internet of Things area, one can program [Arduino](https://www.arduino.cc/) computers with Wifi modules ([Nodemcu](http://www.nodemcu.com/index_en.html), ESP8266) to control all kinds of peripherals. I have one running that measures the temperature in the veranda and sends the data to the net, from where I can read it. I also have a 1 terabyte [Owncloud](https://owncloud.org/) server running on a [Raspberry Pi](https://www.raspberrypi.org/). You know, those bankcard-sized computers developed for children (smiles)
@@ -29,7 +29,8 @@ I have the maps of the whole of Europe on my Garmin Dakota 20 GPS and the Androi
 
 ## How do you map?
 
-![Luie Zetel](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Susvhv/i-3VPzRWC/0/X2/DSC_0223-X2.jpg)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Susvhv/i-3VPzRWC/0/X2/DSC_0223-X2.jpg" alt="Luie Zetel" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+
 The only mapping I do at the moment is from my lazy chair. As editor I only use  [JOSM](https://josm.openstreetmap.de/). When JOSM was a memory hog, I switched to other editors, but most problems from the early days are fixed and it contains more and more useful features, a.o. the links to aerial imagery for Flanders.
 I visited a [Missing Maps](http://www.missingmaps.org/) party in [Antwerp](http://www.openstreetmap.org/relation/59518), and I also "filled a few squares" when  [Jorieke](http://www.openstreetmap.org/user/Jorieke%20V) recently asked for help for a [HOT task](http://tasks.hotosm.org/). It took some time to adapt. I sometimes have difficulties to follow the rules, but this does not always help the overall quality of the map.
 
@@ -88,7 +89,7 @@ Years ago, I met  [Lodde1949](http://www.openstreetmap.org/user/lodde1949), whil
 Out of curiosity I once visited a Missing Maps party in Antwerp. I also participated in some hangouts.
 For the rest I do not have a lot of contact with other mappers. I know some around Mol, but they contribute infrequently.
 
-![Sus](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Susvhv/i-HdJscbx/0/O/Screenshot%202016-10-14%2019.40.48.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Susvhv/i-HdJscbx/0/O/Screenshot%202016-10-14%2019.40.48.png" alt="Sus" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 [http://www.hdyc.neis-one.org/?susvhv](http://www.hdyc.neis-one.org/?susvhv)
 

@@ -45,7 +45,7 @@ What are the largest challenges for OpenStreetMap?
 How to do stay on top of news about OpenStreetMap?
 : The most fun way is to go to the State of the Map conferences in person!
 
-![Image]({% link /assets/images/motm/2022/11/solis_20220824T163000.jpeg %})
+{{< figure src="images/posts/solis_20220824T163000.jpeg" >}}
 
 To conclude, is there anything else you want to share with the readers?
 : Thank you for recognizing the various ways people contribute to OSM, and not just by editing. We appreciate you!

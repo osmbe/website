@@ -8,7 +8,7 @@ author: escada
 
 Je m'appelle Julien Minet. Je suis de la province de Luxembourg, à la limite de l'Ardenne et de la Gaume. Bio-ingénieur de formation, j'ai travaillé comme chercheur à l'UCL puis à l'ULg – Arlon pendant 8 ans. Je développe actuellement une activité en développement web, SIG et cartographie numérique.
 
-![Maps of Arlon](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Julien-Minet/i-28mFrq5/0/adcba395/O/wallpapermapsmaker_arlon.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Julien-Minet/i-28mFrq5/0/adcba395/O/wallpapermapsmaker_arlon.png" alt="Maps of Arlon" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Quand et comment avez-vous découvert OpenStreetMap ?
 

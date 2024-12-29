@@ -21,7 +21,7 @@ How do you use OpenStreetMap?
 What kind of contributor are you and in which area do you map?
 : The top source, HDYC[^2], labels my account as a 'Great Mapper' but in over 15 years there's definitely been various seasons of my contributions. The number of my edits isn't as great as it used to be, and County Durham now has several passionate contributors. I'm looking at getting back to sharing the message of why OpenStreetMap is so important and finding ways to invite new people into our community. As mentioned, I contributed a bit by blogging but in recent years that got taken over by my Mapper Diaries[^3] videos. A lot of time goes into the content their, so I'm currently seeing how much I'll continue it.
 
-![Gregory mapping action]({% link /assets/images/motm/2023/03/2022-greg-mapping-action.png %})
+{{< figure src="images/posts/2022-greg-mapping-action.png" alt="Gregory mapping action" >}}
 
 What are you mapping? Do you have a specialisation?
 : What I'm mapping varies all the time, and there's much fun in seeing something you want mapped but don't yet know the tags to use. : : I've often focused on footpaths along with their benches, gates/stiles, barriers, and features that help confirm you're where you think you are. The thrill of spotting a newly-built housing estate pushes me to make our map the most up-to-date but I also wish the surrounding streets to get just as much map love. The one thing I don't specialise in is house numbers, I try to do complete that mapping but I'm slow at it and the computer-based side can be so boring.
@@ -35,7 +35,7 @@ Why are you mapping? What motivates you?
 Do you have any ideas to expand the OpenStreetMap community, to motivate more people to contribute?
 : Keep talking about what you do. Tell your friends about the cool thing you discovered, share links of awesome mapping people have done or ways in which they've used the map. Keep on with it, even if your friends are fed up because you always have something to say about the maps. Ignore when they mock you because you don't know the symbols of a single-map they use, and remind them that it's great to use different map styles because it's the data that really matters!
 
-![Gregory speaking]({% link /assets/images/motm/2023/03/2022_greg_speaking_osm.jpeg %})
+{{< figure src="images/posts/2022_greg_speaking_osm.jpeg" alt="Gregory speaking" >}}
 
 Do you have contact with other mappers?
 : I have friends that I've made through OpenStreetMap, although I'm not great at keeping in contact very much. Recently I was visiting a small town and bumped into a mapper at the local supermarket. Generally I keep contact through the conferences, and on Twitter when I'm paying attention to that. Sometimes when I visit a place I like to see who has edit the roads or certain tourist attractions. It's fun if I recognise the username and have chatted to them in-person, but that's getting a lot rarer in the UK now.

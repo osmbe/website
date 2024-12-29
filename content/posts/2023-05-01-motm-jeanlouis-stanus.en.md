@@ -14,8 +14,8 @@ Hello Jean-Louis ! Would you like to briefly introduce yourself to our readers?
 How and when did you get to know OpenStreetMap?
 : I needed some free maps for my Garmin 60CSx. I then discovered that the data for these maps came from a collaborative project similar to Wikipedia. I lived in Frasnes-lez-Anvaing where there were only a few roads. With an extra GPS logger and my mountain bike, I was able to complete this region quite a bit.
 
-![Logger BT747+]({% link /assets/images/motm/2023/05/Logger BT747.jpg %})
-![Garmin 60CSx]({% link /assets/images/motm/2023/05/Garmin 60CSx.jpg %})
+{{< figure src="images/posts/Logger BT747.jpg" alt="Logger BT747+" >}}
+{{< figure src="images/posts/Garmin 60CSx.jpg" alt="Garmin 60CSx" >}}
 
 How do you use OpenStreetMap?
 : When searching via Qwant Maps, when calculating routes with OsmAnd or isochrones on openrouteservices.org, when processing data for my work with overpassturbo and QGIS and also when planning walks with OpenTopoMap[^1] and Waymarked Trails[^2]

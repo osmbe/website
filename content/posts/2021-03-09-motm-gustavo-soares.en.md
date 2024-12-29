@@ -12,7 +12,7 @@ Would you like to briefly introduce yourself to our readers?
 
 <!--more-->
 
-![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
+{{< figure src="images/posts/img3.jpg" >}}
 
 How and when did you get to know OpenStreetMap?
 : I first had the opportunity to work with OpenStreetMap in late 2019, while I was looking for alternatives to Google Maps. Before that, he had been one of the first local guides in the region. A few months later I managed to build a PC and since then I started to map almost every day.
@@ -50,6 +50,6 @@ How do you stay on top of news about OpenStreetMap?
 To conclude, is there anything else you want to share with the readers?
 : I would like to thank you for calling me for this interview. I invite the readers to visit and contribute to the areas of [Mapeia](https://tarefas.mapeia.space/). Currently my work is supported by donations, and if you can, make a donation: my [liberapay](https://liberapay.com/gustavo22soares).
 
-![Image]({% link /assets/images/motm/2021/03/img1.png %})
+{{< figure src="images/posts/img1.png" >}}
 
 **Thank you, Gustavo, for this interview.**

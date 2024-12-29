@@ -1,4 +1,4 @@
-## OpenStreetMap
+## OpenStreetMap {{< mdl-disable "<!-- markdownlint-disable MD041 -->" >}}
 
 OpenStreetMap est (principalement) une carte du monde entier publiée gratuitement sous une licence de contenu libre. Construite par des contributeurs bénévoles, elle est éditable par tous et en constante évolution.
 

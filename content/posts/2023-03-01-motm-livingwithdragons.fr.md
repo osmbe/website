@@ -21,7 +21,7 @@ Comment utilises-tu OpenStreetMap ?
 Quelle sorte de contributeur es-tu et dans quelle région cartographies-tu ?
 : La source principale, HDYC[^2], étiquette mon compte comme un "Great Mapper" mais en plus de 15 ans, mes contributions ont certainement connu plusieurs saisons. Le nombre de mes éditions n'est plus aussi important qu'avant, et le comté de Durham compte désormais plusieurs contributeurs passionnés. J'ai l'intention de revenir à la diffusion du message expliquant pourquoi OpenStreetMap est si important et de trouver des moyens d'inviter de nouvelles personnes dans notre communauté. Comme je l'ai mentionné, j'ai contribué un peu en bloguant, mais ces dernières années, cela a été repris par mes vidéos Mapper Diaries[^3]. Je consacre beaucoup de temps à leur contenu, et je suis en train de voir dans quelle mesure je vais continuer.
 
-![Gregory mapping action]({% link /assets/images/motm/2023/03/2022-greg-mapping-action.png %})
+{{< figure src="images/posts/2022-greg-mapping-action.png" alt="Gregory mapping action" >}}
 
 Que cartographies-tu ? As-tu une spécialisation ?
 : Ce que je cartographie varie tout le temps, et il est très amusant de voir quelque chose que vous voulez cartographier mais que vous ne savez pas encore quelles balises utiliser. Je me concentre souvent sur les sentiers pédestres, avec leurs bancs, leurs barrières et les éléments qui permettent de confirmer que vous êtes bien là où vous pensez être. Le plaisir de repérer un lotissement nouvellement construit me pousse à faire en sorte que notre carte soit la plus à jour possible, mais je souhaite également que les rues environnantes bénéficient de la même attention. La seule chose dont je ne suis pas spécialiste, ce sont les numéros de maison. J'essaie de compléter cette cartographie, mais je suis lent et le côté informatique peut être tellement ennuyeux.
@@ -35,7 +35,7 @@ Pourquoi cartographies-tu? Qu'est-ce qui te motive ?
 As-tu des idées pour élargir la communauté OpenStreetMap, pour motiver plus de gens à contribuer ?
 : Continuez à parler de ce que vous faites. Racontez à vos amis le truc cool que vous avez découvert, partagez des liens avec des personnes qui ont réalisé des cartes impressionnantes ou des façons dont elles ont utilisé la carte. Continuez, même si vos amis en ont assez parce que vous avez toujours quelque chose à dire sur les cartes. Ignorez lorsqu'ils se moquent de vous parce que vous ne connaissez pas les symboles d'une seule carte qu'ils utilisent, et rappelez-leur qu'il est bon d'utiliser différents styles de cartes car ce sont les données qui comptent vraiment !
 
-![Gregory speaking]({% link /assets/images/motm/2023/03/2022_greg_speaking_osm.jpeg %})
+{{< figure src="images/posts/2022_greg_speaking_osm.jpeg" alt="Gregory speaking" >}}
 
 As-tu des contacts avec d'autres contributeurs ?
 : J'ai des amis que je me suis faits grâce à OpenStreetMap, même si je ne suis pas très doué pour garder le contact. Récemment, j'ai visité une petite ville et j'ai rencontré par hasard un cartographe au supermarché local. En général, je garde le contact par le biais des conférences, et sur Twitter quand j'y prête attention. Parfois, lorsque je visite un lieu, j'aime voir qui a édité les routes ou certaines attractions touristiques. C'est amusant si je reconnais le nom d'utilisateur et que j'ai discuté avec eux en personne, mais cela devient beaucoup plus rare au Royaume-Uni maintenant.

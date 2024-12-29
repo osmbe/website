@@ -12,7 +12,7 @@ Voudrais-tu te présenter brièvement à nos lecteurs ?
 
 <!--more-->
 
-![Image]({% link /assets/images/motm/2021/03/img3.jpg %})
+{{< figure src="images/posts/img3.png" >}}
 
 Comment et quand as-tu découvert OpenStreetMap ?
 : J'ai eu l'occasion de travailler pour la première fois avec OpenStreetMap fin 2019, alors que je cherchais des alternatives à Google Maps. Avant cela, c'était l'un des premiers guides locaux de la région. Quelques mois plus tard, j'ai réussi à construire un PC et depuis lors, j'ai commencé à faire des cartes presque tous les jours.
@@ -50,7 +50,7 @@ Comment restes-tu à jour par rapport à l'actualité d'OpenStreetMap ?
 Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 : Je tiens à te remercier de m'avoir appelé pour cette interview. Je vous invite à visiter et à contribuer au domaine [Mapeia.space](https://tarefas.mapeia.space/). Actuellement, mon travail est soutenu par des dons, et si vous le pouvez, faites un don : mon [liberapay](https://liberapay.com/gustavo22soares).
 
-![Image]({% link /assets/images/motm/2021/03/img1.png %})
+{{< figure src="images/posts/img1.png" >}}
 
 **Merci, Gustavo, pour cette interview.**
 

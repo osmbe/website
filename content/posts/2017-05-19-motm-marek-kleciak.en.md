@@ -4,7 +4,7 @@ categories: ["motm"]
 author: escada
 ---
 
-![Marek Kleciak](https://www.openstreetmap.org/attachments/users/images/000/338/611/large/bc2dcb86cd4ba99f45ed526e755a8014.jpg)
+{{< figure src="https://www.openstreetmap.org/attachments/users/images/000/338/611/large/bc2dcb86cd4ba99f45ed526e755a8014.jpg" alt="Marek Kleciak" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Who are you?
 
@@ -88,5 +88,5 @@ In 1998 I made my summer holidays in very small city in Krzywin, Poland. I had a
 He asked me, if this could be interesting for teenagers because the city has modern computer lab in the school.  I said, "I don´t know, but we can try, never did it with teenagers, only with students at the university." Well, I spent 2 weeks with the kids and as the result we got an nice 3D model of the city.
 The kids worked hard, because it was their city. This time I learned, cloud projects are cool for people if they have tools and can learn how to do it. This was for me the reason to push 3D in OSM community.
 
-![Krzywin, Poland](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-RkGWRxX/0/74c21b80/L/Planmiasta-L.gif)
-![3D Model of Krzywin](https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-8PvDjj7/0/2b50a00c/L/Miasto3%20jpg-L.jpg)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-RkGWRxX/0/74c21b80/L/Planmiasta-L.gif" alt="Krzywin, Poland" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Marek-Kleciak/i-8PvDjj7/0/2b50a00c/L/Miasto3%20jpg-L.jpg" alt="3D Model of Krzywin" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}

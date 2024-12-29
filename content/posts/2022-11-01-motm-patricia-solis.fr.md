@@ -45,7 +45,7 @@ Quel est le plus grand défi pour OpenStreetMap ?
 Comment restes-tu à jour par rapport à l'actualité d'OpenStreetMap ?
 : Le moyen le plus amusant est d'assister en personne aux conférences sur l'état de la carte, State of the Map !
 
-![Image]({% link /assets/images/motm/2022/11/solis_20220824T163000.jpeg %})
+{{< figure src="images/posts/solis_20220824T163000.jpeg" >}}
 
 Pour conclure, y a-t-il encore quelque chose que tu voudrais dire au lecteur ?
 : Merci de reconnaître les différentes façons dont les gens contribuent à OpenStreetMap, et pas seulement en éditant. Nous vous apprécions !

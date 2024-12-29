@@ -5,7 +5,7 @@ author: OpenStreetMap Belgium
 
 Pendant des années, OpenStreetMap Belgique a travaillé avec un budget quasi inexistant. Comme nous n'avions pas non plus beaucoup de frais, ce n'était pas un réel problème. Le fait de faire partie de l'ASBL OpenKnowledge Belgium nous permettait d'avoir accès à une organisation professionnelle en cas de besoin.
 
-Mais avec le développement d'OpenStreetMap en Belgique, ce n'est plus une bonne façon de travailler. En même temps, nous avons remarqué que de plus en plus d'entreprises ou d'organisations construisent leurs activités autour des données OpenStreetMap. Elles ont un intérêt à faire partie de la communauté. Nous avons décidé de résoudre ces deux problèmes en introduisant [un programme d'adhésion d'entreprise]({% link fr/support.html %}). En tant qu'entreprise ou organisation membre d'OSM Belgique, vous bénéficiez des avantages suivants :
+Mais avec le développement d'OpenStreetMap en Belgique, ce n'est plus une bonne façon de travailler. En même temps, nous avons remarqué que de plus en plus d'entreprises ou d'organisations construisent leurs activités autour des données OpenStreetMap. Elles ont un intérêt à faire partie de la communauté. Nous avons décidé de résoudre ces deux problèmes en introduisant [un programme d'adhésion d'entreprise]({{< ref "support.md" >}}). En tant qu'entreprise ou organisation membre d'OSM Belgique, vous bénéficiez des avantages suivants :
 
 - OpenStreetMap Belgique fera la promotion d'éditions cartographiques spécifiques qui sont bénéfiques à votre activité.
 - Consultation gratuite limitée : nous vous aiderons à analyser les cas d'utilisation qui pourraient fonctionner avec OpenStreetMap (8 heures maximum).
@@ -25,7 +25,7 @@ Pour les grandes organisations/entreprises, cela coûte 2500 euros par an, pour 
 - [Mapbox](https://www.mapbox.com/): global basemap and map services provider
 
 Bien que nous soyons ravis d'avoir une relation plus étroite avec ces utilisateurs de données (et ces entreprises contributrices !), cela signifie également que nous avons désormais un budget. La première chose que nous avons faite est de lancer le projet
-[Open StreetLevel Imagery]({% link fr/projects/streetlevelimagery.md %}). Nous cherchons d'autres moyens de mieux soutenir la communauté avec ces revenus. La plupart de ces discussions ont lieu au sein des membres officiels et du conseil d'administration.
+[Open StreetLevel Imagery]({{< ref "projects/streetlevelimagery.md" >}}). Nous cherchons d'autres moyens de mieux soutenir la communauté avec ces revenus. La plupart de ces discussions ont lieu au sein des membres officiels et du conseil d'administration.
 
 **Voulez-vous faire partie de cette discussion ?**
 

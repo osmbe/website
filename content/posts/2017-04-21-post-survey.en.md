@@ -43,7 +43,7 @@ A drawback for some might be that the camera has no build in GPS, so the photos 
 
 I run the navigation app [OsmAnd](http://osmand.net/) on my smartphone, an LG G3s. I place the smartphone in a holder that I can tie around my forearm. This allows me to consult the screen without using my hands. The plastic of the holder make it harder to read in certain light conditions though. In order to keep the rotation of the map stable, even when I move my arm, I use the [RotationControl](https://play.google.com/store/apps/details?id=org.crape.rotationcontrol) app.
 
-![SmartPhone in holder](https://photos.smugmug.com/OSM/OSM-2016/2016-06-18-Drongengoedbos/i-4nRLcjc/0/L/DSC_3896-L.jpg)
+{{< figure src="https://photos.smugmug.com/OSM/OSM-2016/2016-06-18-Drongengoedbos/i-4nRLcjc/0/L/DSC_3896-L.jpg" alt="SmartPhone in holder" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 OsmAnd is used as the main navigation aid and to track my walks. So at the end I have 2 tracks, one from the Garmin and one from OsmAnd.
 
@@ -88,7 +88,7 @@ Let's take a detailed look at each of those steps.
 
 The Dutch Wikipedia lists all immovable heritage in Flanders, grouped per village. For large towns, there might be multiple pages.
 
-![List of unmovable heritage in Rumst on Wikipedia](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-DHjHCwZ/0/M/Screen%20Shot%202017-04-08%20at%2021.05.00-M.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-DHjHCwZ/0/M/Screen%20Shot%202017-04-08%20at%2021.05.00-M.png" alt="List of unmovable heritage in Rumst on Wikipedia" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 *List of immovable heritage in [Rumst on Wikipedia](https://nl.wikipedia.org/wiki/Lijst_van_onroerend_erfgoed_in_Rumst)*
 
@@ -109,7 +109,7 @@ This gpx-file contains 1 waypoint per row in the html-file. An excerpt from that
 
 for those two lines of the Wikipedia page:
 
-![2 heritage items in Rumst](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-ZBKqnDX/0/M/Screen%20Shot%202017-04-08%20at%2021.30.10-M.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-ZBKqnDX/0/M/Screen%20Shot%202017-04-08%20at%2021.30.10-M.png" alt="2 heritage items in Rumst" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 the generated waypoints are
 
@@ -142,22 +142,21 @@ The Python script has a few limitations which makes it unsuitable for a fully au
 
 I place the places with the GPX-trace for the route and the waypoints for the immovable heritage in the tracks folder of OsmAnd. The path depends on the version of OsmAnd you are running and how you configured it.
 
-![Bluetooth File Exchange on OSX](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-Jr782Gh/0/L/Screen%20Shot%202017-04-09%20at%2010.34.00-L.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-Jr782Gh/0/L/Screen%20Shot%202017-04-09%20at%2010.34.00-L.png" alt="Bluetooth File Exchange on OSX" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 Now I can toggle the display of those files via the OsmAnd UI. This is done as follows:
 
 1) In the menu, choose "Configure Map"
 
-![Configure Map](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-FG8C3LK/1/L/Screenshot_2017-04-09-10-37-14-L.jpg)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-FG8C3LK/1/L/Screenshot_2017-04-09-10-37-14-L.jpg" alt="Configure Map" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 1) Then "GPX Track..."
 
-![GPX Track](
-https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-tFcQNdL/1/L/Screenshot_2017-04-09-10-37-38-L.jpg)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-tFcQNdL/1/L/Screenshot_2017-04-09-10-37-38-L.jpg" alt="GPX Track" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 1) Then enable your GPX-trace and one or more files with waypoints
 
- ![Waypoint files](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-836xGkV/0/L/Screenshot_2017-04-09-10-37-52-L.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-836xGkV/0/L/Screenshot_2017-04-09-10-37-52-L.png" alt="Waypoint files" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 1) Press ok
 
@@ -165,11 +164,11 @@ return back to your map, et voilà, the trace of the route and all immovable her
 
 The thick red line represents the route to follow, the red circles with white stars, the heritage items.
 
-![OsmAnd Map](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-586q3RT/0/L/Screenshot_2017-04-09-10-38-38-L.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-586q3RT/0/L/Screenshot_2017-04-09-10-38-38-L.png" alt="OsmAnd Map" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 Clicking one of the circles, shows the detailed information on the heritage item
 
-![Detail info heritage item](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-zKrFhXc/0/L/Screenshot_2017-04-09-10-38-55-L.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-zKrFhXc/0/L/Screenshot_2017-04-09-10-38-55-L.png" alt="Detail info heritage item" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## Starting the Survey
 
@@ -191,7 +190,7 @@ Back home, I download the photos to my laptop. Also the traces from the Garmen a
 
 In order to assign the location to the images, I use [geotag](http://geotag.sourceforge.net/), this is a Java application and can run on all platforms.
 
-![Geotag](https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-KR7k4SR/0/L/Screen%20Shot%202017-04-16%20at%2019.57.30-L.png)
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Survey-Article/i-KR7k4SR/0/L/Screen%20Shot%202017-04-16%20at%2019.57.30-L.png" alt="Geotag" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 I first load all images and the trace made by the Garmin. I select the first picture made during the survey and set the time of the SYNC waypoint. This corrects the time recorded by the camera to the one recorded by the Garmin. Now I can let the program calculate the coordinates for each image.
 

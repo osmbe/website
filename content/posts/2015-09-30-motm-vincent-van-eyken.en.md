@@ -8,7 +8,7 @@ categories: ["motm"]
 [Vincent Van Eyken](http://www.openstreetmap.org/user/QuercE) recently got his civil engineering degree, specialism architecture. With this background, it is not surprising that he has an healthy interest in topics such as urban planning and public space landscaping. But he also has a long lasting and strong passion for geography and cartography. Therefore it is almost natural that he ended up in the OpenStreetMap world.
 He maps under the nickname [QuercE](http://www.hdyc.neis-one.org/?QuercE),  which is derived from the Latin translation of his family name; 'quercus' (adj. 'querceus') is latin for 'eik(en) / eyken'. Eik is the Dutch word for oak.
 
-![Vincent](https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-zn5cHvt/0/O/DSCN7232.jpg)
+{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-zn5cHvt/0/O/DSCN7232.jpg" alt="Vincent" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
 
 ## When did you start contributing?
 
