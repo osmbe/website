@@ -18,8 +18,8 @@ distortions.
 
 Quite soon after I had improved the road alignments near me, I
 realised the potential for entering all the possible interesting but
-non-obvious details of features, from [start_date](https://wiki.openstreetmap.org/wiki/Key:start_date)=* to [taxon](https://wiki.openstreetmap.org/wiki/Key:taxon)=* and
-[turn:lanes](https://wiki.openstreetmap.org/wiki/Key:turn:lanes)=* to [building:maintenance:operator](https://taginfo.openstreetmap.org/keys/building%3Amaintenance%3Aoperator#overview)=* (companies that to the
+non-obvious details of features, from [start_date](https://wiki.openstreetmap.org/wiki/Key:start_date)=\* to [taxon](https://wiki.openstreetmap.org/wiki/Key:taxon)=\* and
+[turn:lanes](https://wiki.openstreetmap.org/wiki/Key:turn:lanes)=\* to [building:maintenance:operator](https://taginfo.openstreetmap.org/keys/building%3Amaintenance%3Aoperator#overview)=* (companies that to the
 daily maintenance of buildings leave a sticker on the front door). The
 possibilities are endless, and one can always find their own niche in
 Osm.
