@@ -3,7 +3,7 @@ title: Mapper of the Month
 lead: Pierre Parmentier & Marc Gemis
 cover: community.jpg
 weight: 50
-aliases: ["/2017/01/06/fr-project-motm.html","/fr/projects/motm.html"]
+aliases: ["/2017/01/06/fr-project-motm.html"]
 ---
 
 "Mapper of the month" (Cartographe du mois) est l'un des plus anciens projets toujours en cours. Nous avons remarqué qu'il y beaucoup d'attention sur ceux qui travaillent pour OSM ou qui sont développeurs et utilisent OSM mais pas assez sur les cartographes au centre de la communauté OSM.  

@@ -2,7 +2,6 @@
 title: Cartes de randonnées avec OSM!
 lead: Julien Minet
 weight: 50
-aliases: ["/fr/projects/hiking-osm-be.html"]
 ---
 
 Des cartes locales, à prix libre, optimisées pour la randonnée. En collaboration avec OpenStreetMap Belgium, le site [hiking.osm.be](https://hiking.osm.be/) propose des cartes topographiques de randonnées à imprimer.

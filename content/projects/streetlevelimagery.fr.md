@@ -3,7 +3,6 @@ title: Imagerie ouverte au niveau des rues
 lead: Joost Schouppe
 cover: Bing_Streetside_NYC.gif
 weight: 50
-aliases: ["/fr/projects/streetlevelimagery.html"]
 ---
 
 ## Pourquoi l'imagerie au niveau des rues est importante et devrait être en données ouvertes

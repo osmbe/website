@@ -21,12 +21,12 @@
     <div>
         {{- with .Params.categories }}
             {{- range . }}
-            <a href="{{ "/categories" | relLangURL }}/{{ . | urlize }}" class="inline-flex items-center rounded-full bg-indigo-50 px-2 py-1 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-500/10 hover:bg-indigo-100">{{ . }}</a>
+            <a href="{{ "/categories" | relLangURL }}/{{ . | urlize }}.html" class="inline-flex items-center rounded-full bg-indigo-50 px-2 py-1 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-500/10 hover:bg-indigo-100">{{ . }}</a>
             {{- end }}
         {{- end }}
         {{- with .Params.tags }}
             {{- range . }}
-            <a href="{{ "/tags" | relLangURL }}/{{ . | urlize }}" class="inline-flex items-center rounded-full bg-gray-50 px-2 py-1 text-xs font-medium text-gray-600 ring-1 ring-inset ring-gray-500/10 hover:bg-gray-100">{{ . }}</a>
+            <a href="{{ "/tags" | relLangURL }}/{{ . | urlize }}.html" class="inline-flex items-center rounded-full bg-gray-50 px-2 py-1 text-xs font-medium text-gray-600 ring-1 ring-inset ring-gray-500/10 hover:bg-gray-100">{{ . }}</a>
             {{- end }}
         {{- end }}
     </div>

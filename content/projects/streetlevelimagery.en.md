@@ -3,7 +3,6 @@ title: Open Street Level Imagery
 lead: Joost Schouppe
 cover: Bing_Streetside_NYC.gif
 weight: 50
-aliases: ["/en/projects/streetlevelimagery.html"]
 ---
 
 ## Why street level imagery matters and why it should be open

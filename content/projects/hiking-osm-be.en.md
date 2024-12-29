@@ -2,7 +2,6 @@
 title: Hiking maps with OSM!
 lead: Julien Minet
 weight: 50
-aliases: ["/en/projects/hiking-osm-be.html"]
 ---
 
 Free local maps, optimized for hiking! In collaboration with OpenStreetMap Belgium, the website [hiking.osm.be](https://hiking.osm.be/) offers topographic hiking maps ready to print.

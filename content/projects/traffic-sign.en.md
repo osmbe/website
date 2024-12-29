@@ -4,7 +4,6 @@ lead: Joost Schouppe, Ivan Diaz
 cover: Samenscholingsverbod_Doel.jpeg
 cover_caption: "A traffic sign that has an OpenStreetMap on it"
 weight: 50
-aliases: ["/en/projects/traffic-sign.html"]
 ---
 
 In Flanders, [all traffic signs are open data](https://www.vlaanderen.be/datavindplaats/catalogus/verkeersbordenvlaanderenborden). This information is hugely useful. Well, it could be. Most of the traffic signs date from several years back and have not been updated since. The Flemish Verkeersborden.vlaanderen project intends to change that. Municipality by municipality, we see updates starting to happen. Several of them have done a complete update, or at least do occasional additions.

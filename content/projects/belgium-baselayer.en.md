@@ -3,7 +3,7 @@ title: Free Belgium Baselayers
 lead: Jonathan Beliën
 cover: belgium-basemap1.png
 weight: 50
-aliases: ["/2017/01/06/en-project-belgium-baselayer.html","/en/projects/belgium-baselayer.html"]
+aliases: ["/2017/01/06/en-project-belgium-baselayer.html"]
 ---
 
 Through this project we offer a OpenStreetMap baselayer for Belgium. This baselayer is be available for anyone using OpenLayers, Leaflet, ... for free.
