@@ -4,7 +4,7 @@ author: Julien Minet
 ---
 
 
-Les fonds de carte OpenStreetMap Belgique ont été mis à jour! Cela fait près de 7 ans que [OpenStreetMap Belgique met à disposition ses propres fonds de carte basé sur OpenStreetMap](https://openstreetmap.be/fr/projects/belgium-baselayer.html). Mais qu'est-ce que ces fonds de carte? Basés sur un serveur de tuiles cartographiques, il s'agit de cartes à intégrer dans un site web ou une application, et qui servent d'arrière-plan à une carte thématique.
+Les fonds de carte OpenStreetMap Belgique ont été mis à jour! Cela fait près de 7 ans que [OpenStreetMap Belgique met à disposition ses propres fonds de carte basé sur OpenStreetMap]({{< ref "projects/belgium-baselayer.md" >}}). Mais qu'est-ce que ces fonds de carte? Basés sur un serveur de tuiles cartographiques, il s'agit de cartes à intégrer dans un site web ou une application, et qui servent d'arrière-plan à une carte thématique.
 
 Pourquoi faisons-nous cela ? Nous avons constaté que de nombreux sites web utilisent les tuiles par défaut du site web openstreetmap.org. Cependant, ce serveur n'est pas destiné à être utilisé en production dans des projets réels. Pour faciliter le passage à OpenStreetMap, vous pouvez utiliser notre serveur de tuiles pour vos projets. Et c'est le cas : de nombreux sites web municipaux utilisent nos tuiles, ainsi que d'autres sites web tels que les offices de tourisme locaux. Les cartes de fond sont disponibles gratuitement, sous réserve d'une utilisation raisonnable (voir <https://github.com/osmbe/openstreetmap-carto-be/wiki/Tile-Usage-Policy>).
 

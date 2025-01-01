@@ -5,7 +5,7 @@ author: Joost Schouppe (traduit par mapper1170)
 
 OpenStreetMap Belgique et Mapillary s'associent pour améliorer la disponibilité des images des rues dans l'Union européenne ! Pour ce faire, nous distribuerons un certain nombre de caméras GoPro Max 360° et le matériel associé à des volontaires dans toute l'Europe. L'imagerie 360° que nous produirons permettra d'améliorer la couverture de Mapillary et de fournir des images des rues à la communauté OpenStreetMap afin d'améliorer leurs données cartographiques.
 
-[En savoir plus sur les raisons pour lesquelles OpenStreetMap Belgique soutient l'imagerie ouverte au niveau des rues](https://openstreetmap.be/en/projects/streetlevelimagery.html).
+[En savoir plus sur les raisons pour lesquelles OpenStreetMap Belgique soutient l'imagerie ouverte au niveau des rues]({{< ref "projects/streetlevelimagery.md" >}}).
 
 ## Le programme
 

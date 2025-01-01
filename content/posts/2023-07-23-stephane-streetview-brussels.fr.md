@@ -18,4 +18,4 @@ Nous avons [tweeté](https://twitter.com/osm_be/status/1680584420648968192) (et 
 * [L'Avenir (French)](https://www.lavenir.net/regions/bruxelles/2023/07/27/le-projet-dingue-de-stephane-de-greef-il-pedale-dans-toutes-les-rues-de-bruxelles-pour-creer-lalternative-cycliste-a-google-street-view-QHSBZDBPVRB23FDB5C4NINYPPU/)
 * [Mapillary Blog](https://blog.mapillary.com/update/2023/07/28/Mapping-Brussels-By-Bike.html) et [Mapillary webinar](https://www.youtube.com/watch?v=fLD0Y5G-R3M&t=685s)
 
-Vous vous sentez inspiré ? Lisez-en plus sur notre [projet de subvention pour appareil photo](https://openstreetmap.be/fr/projects/streetlevelimagery.html) et postulez pour un appareil photo.
+Vous vous sentez inspiré ? Lisez-en plus sur notre [projet de subvention pour appareil photo]({{< ref "projects/streetlevelimagery.md" >}}) et postulez pour un appareil photo.

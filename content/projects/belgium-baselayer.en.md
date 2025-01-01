@@ -55,4 +55,4 @@ So we went back to good old raster tiles with <https://switch2osm.org/>:
 * Wrote the documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 * 2017: first publication of the tiles
 * 2019, 2020 and 2022: updates by Geo-6
-* 2024: maintenance of the tiles taken over by our partner [Champs-Libres](https://champs-libres.coop) ([news post](https://openstreetmap.be/nl/2024/04/25/tiles-updated.html)). Addition of historical layers to [our historical map](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).
+* 2024: maintenance of the tiles taken over by our partner [Champs-Libres](https://champs-libres.coop) ([news post]({{< ref "posts/2024-04-25-tiles-updated.md" >}})). Addition of historical layers to [our historical map](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).

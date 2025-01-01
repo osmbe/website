@@ -52,4 +52,4 @@ Nous avons donc décidé de retourner un bon vieux *raster* en suivant la procé
 * Ecriture de la documentation : <https://github.com/jbelien/openstreetmap-carto-be/wiki> ;
 * 2017 : première publication des tuiles
 * 2019, 2020 et 2022 : mises à jour par Geo-6
-* 2024 : la maintenance des tuiles reprise par notre partenaire [Champs-Libres](https://champs-libres.coop) ([news post](https://openstreetmap.be/fr/2024/04/25/tiles-updated.html)). Ajout de couches historiques à [notre carte historique] (<https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads>).
+* 2024 : la maintenance des tuiles reprise par notre partenaire [Champs-Libres](https://champs-libres.coop) ([news post]({{< ref "posts/2024-04-25-tiles-updated.md" >}})). Ajout de couches historiques à [notre carte historique] (<https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads>).

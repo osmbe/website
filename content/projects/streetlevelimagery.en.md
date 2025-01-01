@@ -49,7 +49,7 @@ Thanks for asking!
 - Do you think there's potential in your organization? We can set up a demo together and lend you a camera and accessories for testing purposes
 - Do you have a use case for derived data? We can help set you up with the data and the tools.
 - Would you like to see your local area mapped first? We can help you reach out to your network to find volunteers, and support them to collect the data.
-- Want to see the project grow? Give us an earmarked [donation](https://openstreetmap.be/en/support.html) and we will invest it in the project.
+- Want to see the project grow? Give us an earmarked [donation]({{< ref "support.md" >}}) and we will invest it in the project.
 - The OpenStreetMap community are dreaming of an open imagery repository where images can be dumped and service providers can use them to create value. We are looking for organisations that can help make this happen. Right now we are building a simple backup solution for the images we took ourselves.
 
 A page with more technical details and practical info is [available on our wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/open_streetlevel_imagery).
@@ -61,7 +61,7 @@ If you live in Belgium, just [send us a mail](mailto:community@osm.be) to reques
 ## Key events
 
 - Early 2019. Work starts with a GoPro Hero 7 donated by Mapillary. Intensive use by contributor polyglot (many proposed cycle highways in Flanders get mapped) and Joost Schouppe
-- Late 2019. As the Digitaal Vlaanderen "Mobile Mapping" project is stopped, [we advocate for an open replacement](https://openstreetmap.be/en/2019/09/27/streetview.html).
+- Late 2019. As the Digitaal Vlaanderen "Mobile Mapping" project is stopped, [we advocate for an open replacement]({{< ref "posts/2019-09-27-streetview.md" >}}).
 - June 2020. The originally European open street level imagery company gets bought up by Facebook, as part of their OpenStreetMap centered maps strategy. [Some context](https://joemorrison.medium.com/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8). This brings a lot of debate in the OSM community; temporary technical issues; and medium term stability.
 - November 2020. OpenStreetCam becomes [KartaView](https://kartaview.org/). Images from Mapillary can be automatically transfered to this similar platform, operated by [Grab](https://www.grab.com), a South-East Asian taxi company that contributes to and makes use of OpenStreetMap data.
 - November 2021. The [OSM Belgium membership decides](https://github.com/osmbe/working-group-bylaws/blob/master/minutes/2021-11-30%20-%20official%20meeting.md) to invest in 360 cameras.
@@ -69,6 +69,6 @@ If you live in Belgium, just [send us a mail](mailto:community@osm.be) to reques
 - March 2022. The camera goes to Saint-Georges-Sur-Meuse, where Pierre Serpe will use it for a project with the [Gracq](https://www.gracq.org/groupes/saint-georges).
 - March 2022. As the first camera is in heavy use, we receive an earmarked donation for a second camera. This camera goes to [Westtoer](https://www.westtoer.be), for experimental use in preparation of new cycle routes.
 - April 2022. Because of continued succes and demand from volunteers, we buy a 3rd GoPro.
-- September 2023. Stéphane de Greef finishes full coverage of the Brussels region and the Forest de Soignes. [This does not pass unnoticed, with several press reports!](https://openstreetmap.be/en/2023/07/23/st%C3%A9phane-streetview-brussels.html)
+- September 2023. Stéphane de Greef finishes full coverage of the Brussels region and the Forest de Soignes. [This does not pass unnoticed, with several press reports!]({{< ref "posts/2023-07-23-stephane-streetview-brussels.md" >}})
 - October 2023. We buy a fourth GoPro Max
-- October 2023. Together with Mapillary, we launch the [European Camera Grant project](https://openstreetmap.be/en/2023/10/07/european-camera-grant.html).
+- October 2023. Together with Mapillary, we launch the [European Camera Grant project]({{< ref "posts/2023-10-07-european-camera-grant.md" >}}).
