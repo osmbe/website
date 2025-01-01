@@ -26,7 +26,6 @@
                         {{ .username }}
                     </a>
                 </td>
-                <td class="whitespace-nowrap p-2 text-sm text-gray-500">{{ .location }}</td>
                 <td class="whitespace-nowrap p-2 text-sm text-gray-500">
                     {{- $username := .username }}
                     {{- with .stats }}
@@ -38,6 +37,7 @@
                         {{- end }}
                     {{- end }}
                 </td>
+                <td class="whitespace-nowrap p-2 text-sm text-gray-500">{{ .location }}</td>
                 <td class="whitespace-nowrap py-2 pl-2 pr-2 text-sm text-gray-500 sm:pr-0">{{ .timestamp | time.Format ":date_medium" }}</td>
             </tr>
             {{- end }}
