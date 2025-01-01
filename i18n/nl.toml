@@ -1,0 +1,32 @@
+lastupdate = "Laatste update"
+previous = "Vorige"
+next = "Volgende"
+
+[banner]
+    next = "Volgende evenement"
+
+[footer]
+    local_chapter = "Local Chapter van de [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Local_Chapters)"
+
+    [footer.categories]
+        title = "Categorieën"
+
+    [footer.newsletter]
+        title = "Nieuwsbrief"
+        subscribe = "Schrijf je in"
+        archive = "archief"
+
+    [footer.corporate_members]
+        title = "Corporate members"
+        text = "Deze organisaties steunen OpenStreetMap België."
+
+[support]
+    corporate_members = "Our current corporate members"
+
+[members]
+    name = "Naam"
+    osm = "OpenStreetMap"
+    location = "Locatie"
+    since = "Lid sinds"
+    world = "Wereld"
+    belgium = "België"

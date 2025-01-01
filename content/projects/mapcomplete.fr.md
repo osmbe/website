@@ -2,7 +2,7 @@
 title: MapComplete
 lead: Pieter Vander Vennet
 cover: mapcomplete.png
-weight: 60
+weight: 80
 ---
 
 De plus en plus de gens utilisent OpenStreetMap (OSM) comme fonds de carte. Mais OpenStreetMap n'est pas seulement une carte : nous sommes aussi une base de données spatiales. Combien connaissez-vous d'applications qui répertorient les fontaines publiques, les toilettes publiques, les emplacements de camping, les cafés offrant le Wi-Fi, les parkings, etc ? Malheureusement, toutes ces cartes séparées constituent des îlots d'informations. Tout cela peut être créé facilement avec OpenStreetMap !

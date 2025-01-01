@@ -2,7 +2,7 @@
 title: MapComplete
 lead: Pieter Vander Vennet
 cover: mapcomplete.png
-weight: 60
+weight: 80
 ---
 
 More and more use OpenStreetMap (OSM) as their basemap. But we're not just a map - we're an open spatial database. How many apps do you know that collect drinking fountains, public toilets, camping spots, bars with wifi, parking info etc? Unfortunately, all of these apps have their own little data island. All of these things could be built very easily on top of OpenStreetMap!

@@ -7,7 +7,6 @@
 [nl]
     languageName = 'Nederlands'
     title = 'OpenStreetMap België'
-    disabled = true
 [de]
     languageName = 'Deutsch'
     title = 'OpenStreetMap Belgien'
