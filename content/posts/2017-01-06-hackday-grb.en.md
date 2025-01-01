@@ -39,5 +39,5 @@ atmosphere, we worked on our own OSM projects too, and got to test the POSM setu
 Thanks again to Transforma BXL!
 
 If you like what this community is doing, why not give it a little financial support? Hackers and mappers
-erform better if someone pays for their pizza! [Contact us](mailto:community@osm.be) for sponsoring opportunities or [become a member of OpenStreetMap Belgium](http://www.osm.be/nl/signup.html).
+erform better if someone pays for their pizza! [Contact us](mailto:community@osm.be) for sponsoring opportunities or [become a member of OpenStreetMap Belgium]({{< ref "support.md" >}}).
 To stay up to date on all things OSM-be, sign up to our [newsletter](http://eepurl.com/bZoZlj).

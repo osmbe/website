@@ -27,4 +27,4 @@ L'espace de collaboration que [Transforma BXL](https://www.transformabxl.be) a m
 
 Si vous aimez ce que cette communauté réalise, pourquoi ne pas apporter un petit soutien financier ?
 Les hackers et les mappers sont plus productifs si quelq'un leur offre leur pizza ! [Contactez-nous](mailto:community@osm.be)
-pour plus d'information sur le sponsoring, ou simplement [devenez membre d'OpenStreetMap Belgique](http://www.osm.be/fr/signup.html).
+pour plus d'information sur le sponsoring, ou simplement [devenez membre d'OpenStreetMap Belgique]({{< ref "support.md" >}}).

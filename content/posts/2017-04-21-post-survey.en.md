@@ -76,7 +76,7 @@ The GPX-file with the route is downloaded to my computer and later on placed on 
 
 ### Heritage POIs
 
-As mentioned in [Heritage in Flanders and Crowd-Sourced Projects](http://www.osm.be/2017/04/01/en-project-heritage-crowd-sourced.html), I am interested in mapping immovable heritage in Flanders. In order to know the location of those objects along (or near) my planned route, I developed the following workflow.
+As mentioned in [Heritage in Flanders and Crowd-Sourced Projects]({{< ref "projects/heritage-crowd-sourced.md" >}}), I am interested in mapping immovable heritage in Flanders. In order to know the location of those objects along (or near) my planned route, I developed the following workflow.
 
 * Visit Wikipedia and download the webpage that lists the items in a particular villages
 * Run a [Python script](https://www.dropbox.com/s/f1zvs19b3yd7zhp/wikipedia2osmandgpx.py?dl=0) to convert the webpage into a format understood by OsmAnd
