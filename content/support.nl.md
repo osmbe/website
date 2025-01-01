@@ -8,13 +8,13 @@ menu:
 
 ## Ontmoet ons
 
-We organiseren regelmatig [mapathons]{{< ref "projects/mapathons.md" >}} en [meetups]{{< ref "categories/event" >}}.
+We organiseren regelmatig [mapathons]({{< ref "projects/mapathons.md" >}}) en [meetups]({{< ref "categories/event" >}}).
 Je kan je inschrijven voor updates via onze [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgium/). Of neem een kijkje op onze [kalenderpagina](https://osmcal.org/?in=Belgium).
 
 ## Word officieel lid
 
 Ben je klaar om je engagement voor OpenStreetMap in België op te voeren?
-Word dan [**officieel lid**]{{< ref "members.md" >}} van onze organisatie door contact met ons op te nemen via <board@osm.be>.
+Word dan [**officieel lid**]({{< ref "members.md" >}}) van onze organisatie door contact met ons op te nemen via <board@osm.be>.
 Lidmaatschap is gratis voor individuen. Stuur ons gewoon een kort berichtje over jezelf.
 Leden kunnen stemmen tijdens de [officiële bijeenkomsten](https://github.com/osmbe/working-group-bylaws/tree/master/minutes), waar ook de Board verkozen wordt.
 

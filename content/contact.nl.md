@@ -13,11 +13,10 @@ menu:
 
 ---
 
-The Belgian community has an official e-mail address for all your questions: <community@osm.be>.
+De Belgische OpenStreetMap community heeft een officieel e-mail address voor al je vragen: <community@osm.be>.
 
 ---
 
-Want to learn about mapping, choose the channel you prefer below!  
-In all our channels, the default language is English, but feel free to use your own language!  
+Wil je meer te weten komen over mappen, kies dan je favoriete kanaal hieronder!
 
 {{< contact >}}
