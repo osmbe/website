@@ -1,6 +1,6 @@
 ---
 title: Open Straatbeelden
-featured: Bing_Streetside_NYC.gif
+cover: Bing_Streetside_NYC.gif
 author: OpenStreetMap Belgium
 ---
 
