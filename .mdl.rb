@@ -3,6 +3,7 @@ all
 # Configure a few rules
 rule 'MD002', :level => 2
 rule 'MD007', :indent => 2
+rule 'MD024', :allow_different_nesting => true
 rule 'MD026', :punctuation => '.,;:!'
 # Disable a few rules
 exclude_rule 'MD013' # line-length
