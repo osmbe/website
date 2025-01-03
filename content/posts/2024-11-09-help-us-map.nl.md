@@ -3,7 +3,6 @@ title: "Help ons de kaart verbeteren waar het verschil maakt"
 author: Joost Schouppe
 ---
 
-
 Nu OpenStreetMap gegevens steeds relevanter worden, willen steeds meer externe partijen onderwerpen die voor hen van belang zijn gedetailleerd in kaart brengen. Wil je helpen met onderwerpen waar we het meest om geven? Kijk dan eens naar de [top mapping tasks](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/top_mapping_tasks) lijst op de wiki!
 
 Laten we even twee organisaties uitlichten waarmee we samenwerken.

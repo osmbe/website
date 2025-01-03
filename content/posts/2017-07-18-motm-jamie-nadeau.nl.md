@@ -17,7 +17,7 @@ Ik begon eerst te zoeken naar een beter alternatief voor Google Maps, omdat toen
 
 Initieel werkte ik aan fouten van de kaart, zoals ontbrekende wegen. Daarna ben ik begonnen met het manueel mappen van gebouwen via luchtfoto's en daarna adressen. Nu map ik bijna alles. Ik heb CANVEC imports gedaan, als wel als imports van adressen en gebouwen, maar ook onbeduidende dorpjes in het noorden van Canada. Verder heb ik ook administrative grenzen gemapped. Ik beperk me ook niet tot Canada.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png" >}}
 
 ## Hoe map je? Maak je survey? Map je vanuit je luie zetel?
 
@@ -32,13 +32,13 @@ Als ik nota's neem met pen en papier, heb ik gewoonlijk een afdruk gemaakt van h
 
 Overal zowat. Op het ogenblik hoofdzakelijk in Canada. Dat houdt me wel niet tegen om data te verzamelen met mijn smartphone wanneer ik een reisje naar het buitenland maak, iets wat mijn echtgenote ondertussen al gewend is geraakt.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png" >}}
 
 ## Wat is je grootste verwezelijking als mapper?
 
 Het in OSM plaatsen van de gebouwen en adressen van de Ottowa/Gatineau regio en het opkuisen van de data. Dat en het mappen van Fort McMurray gedurende de bosbranden.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png" >}}
 
 ## Waarom map je? Wat motiveer je?
 
@@ -52,7 +52,7 @@ Ik maak me misschien niet populair als ik zeg: omgaan met de community. Het is s
 
 Het volledig detaileren van de gebouwen in Ottawa/Gatineaun(residentieel, vrijstaand, commercieel, enz.) en het afwerken van de mapping van "native" dorpen in Canada.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png" alt="3D" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png" alt="3D" >}}
 
 ## Heb je contact met andere mappers?
 

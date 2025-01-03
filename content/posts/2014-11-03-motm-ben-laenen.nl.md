@@ -25,7 +25,7 @@ Tegenwoordig val ik meestal onder de categorie van "armchairmappers". Dit wil ze
 
 In de begindagen was er weinig keuze wat je moest mappen. Eerst moesten alle wegen aan de beurt komen. Na een tijdje, toen er in het Antwerpse niet zo veel wegen meer te vinden waren, heb ik me toegelegd op fietsroutes en vervolgens wandelroutes. Vooral dat laatste is interessant, je komt kleine paadjes tegen die je anders nooit zou vinden! De laatste tijd houd ik me, vanwege mijn beroep natuurlijk, vaak bezig met de spoorinfrastructuur. Over al die jaren heb ik me met vele verschillende dingen beziggehouden, al hield ik mij nooit echt bezig met het mappen van points of interests (POIs).
 
-{{< figure src="images/posts/hdyc_eimai.png" link="http://hdyc.neis-one.org/?Eimai" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="images/posts/hdyc_eimai.png" link="http://hdyc.neis-one.org/?Eimai" >}}
 
 **Wat motiveert je om te mappen?**
 

@@ -12,7 +12,7 @@ Apparently, it's been eight years already. I wanted to give something back to th
 OpenStreetMap had the advantage that, on the one hand, it's an outdoor activity,  and on the other hand you get to use a computer in interesting ways. Every time you enter the surveyed data, you sort of relive the itinerary you followed, which intensifies the experience.
 Since I discovered Mapillary, my way of mapping/surveying changed again. Taking a huge amount of pictures, which serve as source material, became a goal in itself. I produce so many of them  now that it is no longer feasible to process all of the data I collect myself. Before Mapillary I just took pictures of what I was going to add on OpenStreetmap. This process took about the same amount of time as the surveying itself. Nowadays weeding out the failed pictures from the thousands I made is work enough as it is.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Pad_van_Ad_op_OSM.png" alt="Pad van Ad op OSM" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Pad_van_Ad_op_OSM.png" alt="Pad van Ad op OSM" >}}
 
 ## Do you use OpenStreetMap yourself?
 

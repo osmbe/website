@@ -19,12 +19,12 @@ Ce fond de carte est disponible en 4 versions linguistiques :
 * En Français, avec le tag `name:fr` ;
 * En Néérlandais, avec le tag `name:nl` ;
 
-### Icônes propres aux fonds de carte OpenStreetMap Belgique
+## Icônes propres aux fonds de carte OpenStreetMap Belgique
 
 * Icône pour `amenity=fast_food` + `cuisine=friture`
 * Icône pour `craft=brewery` ou `industrial=brewery`
 
-### Comment utiliser le fond de carte ?
+## Comment utiliser le fond de carte ?
 
 Vous pouvez visualiser les fonds de carte ici : <https://tile.osm.be/>.
 
@@ -33,13 +33,13 @@ Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)* ou *[Leaflet]
 
 **Veuillez respecter les [conditions d'utilisation](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) !**
 
-### Documentation
+## Documentation
 
 * Dépôt GitHub du project : <https://github.com/jbelien/openstreetmap-carto-be>
 * Documentation : <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 * Conditions d'utilisation : <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
 
-### Evénements clés
+## Evénements clés
 
 Nous avons d'abord essayé d'utiliser la technologie des *VectorTiles* pour le fond de carte, en 2016 ; cela fonctionne bien mais est assez lourd à mettre en place, l'idée a donc été abandonnée.
 

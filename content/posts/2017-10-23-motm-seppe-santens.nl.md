@@ -24,6 +24,7 @@ Ook qua methodes heb ik al veel uitgeprobeerd. Veel vanuit de luie zetel (hoofdz
 * GPS-tracks (opgenomen met bijv. OsmAnd) kunnen erg handig zijn, bijvoorbeeld voor het mappen van pas aangelegde wegen of paden in bossen, wat je met luchtfoto's meestal niet kan. De GPS-bepaling op de smartphones die ik al heb versleten, is echter nooit schitterend te noemen.
 * Mapillary en OpenStreetCam hebben volgens mij veel potentieel, maar brengen zelf ook nieuwe uitdagingen met zich mee: het bevestigen van de smartphone (op de fiets is me dit nog niet echt gelukt, ondanks de vrijgevigheid van Mapillary), schokken vermijden, nauwkeurige GPS-bepaling, ervoor zorgen dat de dingen die je wil mappen ook te zien zijn op de foto's, maar vooral ook achteraf ervoor zorgen dat je niemands privacy schendt met de beelden die je online zet (een erg arbeidsintensief werkje als je dit goed wil doen, ik zou hier zelf nog eens wat extra tijd in moeten steken).
 * Een van de simpelste methodes, vooraf een kaartje uitprinten (met alle fixme's en kaartopmerkingen erop) en daarop notities maken (eventueel aangevuld met foto's) heb ik vreemd genoeg nog niet geprobeerd, maar het lijkt me ondanks alle technologische hulpmiddelen misschien nog het meest effectief. Binnenkort eens proberen dus.
+
 Ik probeer de gebieden waar ik map ook zoveel mogelijk te bevrijden van waarschuwingen van de JOSM validator of van Osmose. Misschien doen we dat met zijn allen nog iets te weinig?
 
 ## Waar map je?

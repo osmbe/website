@@ -33,7 +33,7 @@ Recently I started to contribute to Mapillary. This helps to identify objects th
 
 I try not to forget to add interesting photos to Wikimedia Commons.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png" title="A menhir that I discovered in my own neighborhood!" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lionel-Giard/i-7cLXrTG/0/34093fa6/S/menhir-S.png" title="A menhir that I discovered in my own neighborhood!" >}}
 
 ## How do you collect data during a survey?
 

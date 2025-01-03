@@ -3,7 +3,6 @@ title: "OpenStreetMap Belgium general status"
 author: Joost Schouppe
 ---
 
-
 Hey, remember we have a newsletter? [You can still subscribe here](http://eepurl.com/dmDi-5). Maybe it's taken so long to send a new edition because we've been doing so many other things.
 
 For example, during 2023, OSM.be was reborn as its own independent NGO! Our umbrella organization Open Knowledge Belgium went through hard times, and is now refocusing on its core projects. We're glad to have been part of that community, and even happier that we now have everything under the control of the OpenStreetMap community.

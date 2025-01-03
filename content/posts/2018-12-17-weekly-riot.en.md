@@ -95,7 +95,7 @@ For designation, wegspotter proposes this:
 - `designation=communal_road_ss` *(it is property of the municipality & it is destinied for public use & it does not appear in the atlas of vicinal roads)*
 - `designation=right_of_way_ss` *(it is a public right of way, but does not show up in the atlas of vicinal roads*
 
-*In Wallonia, you only have one category `designation=communal_road` (without the ss, since the Flemish/Brussels situation is stricter*
+*In Wallonia, you only have one category `designation=communal_road` (without the ss, since the Flemish/Brussels situation is stricter.*
 
 By extension, for the vicinal roads we'd come to this: (based on an example picture by escada)
 

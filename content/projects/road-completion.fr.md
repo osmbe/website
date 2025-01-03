@@ -9,7 +9,7 @@ aliases: ["/2017/01/06/fr-project-road-completion.html"]
 
 Nous nous appelons Open**STREET**Map pour une raison: nous avons un excellent réseau routier. Il y a les "turn restrictions" et la navigation entre les différentes voies de la route, les sentiers de randonnée et les pistes cyclables. Mais il y a encore quelques petites erreurs qui traînent par ci par là. Notre objectif est de corriger ces erreurs en utilisant les données libres d'accès ("open-data") officielles pour vérifier et détecter les données manquantes. Nous en profitons également pour améliorer les données officielles et vous offrir une qualité minimale garantie.
 
-### Crowdsourcing and Open Data
+## Crowdsourcing and Open Data
 
 Puisque la carte est créée par les contributeurs, chaque erreur que nous voyons sera corrigée. Mais quelques modifications de la carte ne sont pas parfois pas très visibles. Par exemple, une nouvelle route avec juste deux, trois maisons, sans aucune connexion ; le changement de nom d'une route, ou une erreur dans le nom d'une route ; ou encore une route qui a été tracée sur base d'anciennes photos aériennes de mauvaise qualité.
 
@@ -17,7 +17,7 @@ Comme le gouvernement a enfin décidé de donner un accès libre à ses données
 
 {{< figure src="images/posts/road-completion.gif" caption="L'évolution de la cartographie des routes à Bruxelles. Vert: routes \"lentes\". Gris: routes cartographiées. Noir: routes ajouté ce mois-là." >}}
 
-### Assurances qualité
+## Assurances qualité
 
 En tant que communauté, nous voulons construire des outils pour nous assurer que toute correction apportée aux ensembles routiers de données officielles est rendue accessible pour la communauté qui cartographie aussi rapidement et aussi précisément que possible. La Flandre n'étant pas la seule entité à publier de tels outils, nous allons essayer de construire quelque chose qui est facilement adaptable à n'importe quel jeu de données des axes routiers dans le monde entier.
 
@@ -27,7 +27,7 @@ Une fois que ces outils sont opérationnels et que nous avons effectué une prem
 
 Vous pouvez aider: [voici les instructions](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Road_completion_project/Instructions)
 
-### Événements clés
+## Événements clés
 
 * Exploration de "Wegenregister" comme source, avec couches cartographiques et fichiers GPX téléchargeables ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39250))
 * L'inverse: validation de "Wegenregister" à partir d'OSM à Anvers ([article](http://www.openstreetmap.org/user/joost%20schouppe/diary/39573))

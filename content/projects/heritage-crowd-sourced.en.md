@@ -14,7 +14,7 @@ crowdsourced projects such as [OpenStreetMap](http://www.openstreetmap.org) and 
 In Belgium, the list of immovable heritage is controlled by three agencies, one for Flanders, one for Brussels and one for Wallonia. In Flanders, the agency is called [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). They make a catalogue of the items and decide on the protection. They also provide some of [their data](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) as open data.
 In their catalogue they have churches, abbeys, castles, but also small farmhouses and villas, furthermore it includes  small items such as boundary stones and pillories. Occasionally, the list contains important trees on town squares.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg" title="Pillory in Aartselaar" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg" title="Pillory in Aartselaar" >}}
 
 What is a crowdsourced project? It is a project in which everybody can add data, unlike projects that are run by companies, where only employees can add data. When a company owns that data it can set the rules and price to get access to the data. In a crowdsourced project, normally the resulting database is free to use and consult. If you want to find out more about crowdsourcing, read the [Wikipedia article](https://en.wikipedia.org/wiki/Crowdsourcing) on the topic.
 
@@ -52,11 +52,11 @@ OpenStreetMap is for a large part based on original survey. That means that the 
 
 My starting point is the list of immovable heritage items on Wikipedia. For Flanders, previous contributors have compiled a [list of items per village](https://nl.wikipedia.org/wiki/Cultureel_erfgoed_in_Belgi%C3%AB). I wrote a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) program that converts such a wiki-page into a file with [waypoints](https://en.wikipedia.org/wiki/Waypoint) that can be used on a GPS-device or in navigation programs for smartphones such as [OsmAnd](http://osmand.net/).
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-8ntJtzd/0/O/70.jpg" alt="Garmin Dakota 10 with waypoints" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-8ntJtzd/0/O/70.jpg" alt="Garmin Dakota 10 with waypoints" >}}
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-63Fvk2T/0/O/92%20copy.jpg" caption="Garmin Dakota 10 showing heritage items as red and blue flags, as well as some details on the item" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Screenshots-1/i-63Fvk2T/0/O/92%20copy.jpg" caption="Garmin Dakota 10 showing heritage items as red and blue flags, as well as some details on the item" >}}
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-4LK2Lp4/0/O/Screenshot_2017-03-27-14-38-59.png" caption="In OsmAnd the waypoints are displayed as red circles with white star. Clicking on a star shows additional information at the bottom of the screen. In case there are multiple items close to one another, the details are listed for each item" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-4LK2Lp4/0/O/Screenshot_2017-03-27-14-38-59.png" caption="In OsmAnd the waypoints are displayed as red circles with white star. Clicking on a star shows additional information at the bottom of the screen. In case there are multiple items close to one another, the details are listed for each item" >}}
 
 This allows me to make small detours during my planned walks in order to visit (or view) the historical items. At the location I check whether the item still exists and take pictures of it. When the item no longer exists, I inform the Onroerend Erfgoed agency later on so they can update their database as well. I have the impression that they appreciate this kind of feedback.
 
@@ -72,7 +72,7 @@ I also add the building layout to OpenStreetMap, and add the necessary tags to m
 
 Adding the necessary tags is easy in [JOSM](https://josm.openstreetmap.de/), especially when you use the preset for historical objects found in the [BENELUX presets](https://josm.openstreetmap.de/wiki/Presets/BENELUX).
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-pW9ptVd/0/X3/Screen%20Shot%202017-03-27%20at%2015.20.47-X3.png" caption="BENELUX Preset for monuments protected by Onroerend Erfgoed" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-pW9ptVd/0/X3/Screen%20Shot%202017-03-27%20at%2015.20.47-X3.png" caption="BENELUX Preset for monuments protected by Onroerend Erfgoed" >}}
 
 You can also start writing Wikipedia articles for the items and/or create a Wikidata item with some properties. I recently started adding items for churches in Flanders based on information found the in the Onroerend Erfgoed and [ODIS](http://www.odis.be/) databases.
 
@@ -90,37 +90,37 @@ There are a number of maps based on OpenStreetMap that show those items.
 
 Is a [map](http://histosm.org/) created by University of Heidelberg GIScience (Geoinformatics) Research Group. [More information](https://wiki.openstreetmap.org/wiki/HistOSM)
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-ChHBNKX/0/X3/Screen%20Shot%202017-03-27%20at%2013.54.30-X3.png" caption="HistOSM, all data (c) OpenStreetMap Contributors" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-ChHBNKX/0/X3/Screen%20Shot%202017-03-27%20at%2013.54.30-X3.png" caption="HistOSM, all data (c) OpenStreetMap Contributors" >}}
 
 #### Historic Places
 
 Is a [map](http://gk.historic.place) developed by some German enthusiasts in their spare time. It is available is several languages and has some [nice features](https://wiki.openstreetmap.org/wiki/Historical_Objects) such as the possibility to display old maps instead of contemporary maps based on OpenStreetMap data.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-NkHdJQ7/0/X3/Screen%20Shot%202017-03-27%20at%2021.07.04-X3.png" caption="Historic Places, all data (c) OpenStreetMap Contributors. Topographical Map Vandermaelen." >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-NkHdJQ7/0/X3/Screen%20Shot%202017-03-27%20at%2021.07.04-X3.png" caption="Historic Places, all data (c) OpenStreetMap Contributors. Topographical Map Vandermaelen." >}}
 
 Each historic feature has a popup window which shows the information about the item as it is stored in the OpenStreetMap database. The popup can contain links to Onroerend Erfgoed (if there is a tag ...), wikipedia and wikidata. The tag *image* is recognized and will display the image if it is released under an open license (as is the case for images on Wikimedia Commons). The tag *wikimedia_commons* is also recognized and the link will bring you to the Wikimedia Commons page displaying the category with all images on the item.
 
 The wikidata tag can not only be explored on the wikidata.org website, but also in "beautified" pages such as [Reasonator](https://tools.wmflabs.org/reasonator/) and [Sqid](https://tools.wmflabs.org/sqid) when you click on the icons next to the Wikidata item number.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-DxtJ6nf/0/X3/Screen%20Shot%202017-03-27%20at%2013.53.21-X3.png" title="Reasonator for Q28464643" caption="The Sint-Pieterskerk in Rumst as seen on the Reasonator website with data from Wikidata" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-DxtJ6nf/0/X3/Screen%20Shot%202017-03-27%20at%2013.53.21-X3.png" title="Reasonator for Q28464643" caption="The Sint-Pieterskerk in Rumst as seen on the Reasonator website with data from Wikidata" >}}
 
 If you look at a Reasonator page such as the one for the [Parochiekerk Sint-Pieter (Q28464643)](https://tools.wmflabs.org/reasonator/?q=Q28464643), you will find a link to "Overpass" under the maps. This will show the item on OpenStreetMap. So it is possible to define user interfaces on either Wikidata or OpenStreetMap and jump to the other project.
 
 The result of clicking the [Overpass](http://overpass-turbo.eu) link on the above Reasonator page, shows the following page in which the Sint-Pieterskerk is highlighted and positioned in the middle of the visible map.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-v2vQxHG/0/X3/Screen%20Shot%202017-03-27%20at%2014.00.42-X3.png" caption="Overpass UI showing the item with Wikidata identifier Q28464643" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-v2vQxHG/0/X3/Screen%20Shot%202017-03-27%20at%2014.00.42-X3.png" caption="Overpass UI showing the item with Wikidata identifier Q28464643" >}}
 
 ### Wikidata
 
 Since the data in Wikidata is structured, unlike the full text sentences in Wikipedia, one can query the data. This makes it e.g. possible to create a [time line](http://tinyurl.com/zso674w) with the inception date of Belgian churches, or a [bubble chart](http://tinyurl.com/myfpwqm) with their architectural styles. By clicking on the links in this paragraph, you are taken to the query site of Wikidata where you can run the queries and explore the data yourself.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-MGNPLd8/0/X3/Screen%20Shot%202017-03-27%20at%2013.51.04-X3.png" caption="A time line of churches in Belgium" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-MGNPLd8/0/X3/Screen%20Shot%202017-03-27%20at%2013.51.04-X3.png" caption="A time line of churches in Belgium" >}}
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-s544Ndb/0/X2/Screen%20Shot%202017-03-27%20at%2020.45.47-X2.png" caption="Architectural Styles used in Belgian churches" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-s544Ndb/0/X2/Screen%20Shot%202017-03-27%20at%2020.45.47-X2.png" caption="Architectural Styles used in Belgian churches" >}}
 
 You can also make maps that combine Wikidata with OpenStreetMap shapes. The following map retrieves all Belgian churches from Wikidata when they have an inception date. According to this date, they get a different colour. The shape is taken from OpenStreetMap.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-gKKpzrr/0/X2/Screen%20Shot%202017-04-01%20at%2021.33.00-X2.png" caption="Combining Wikidata and OpenStreetMap" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-gKKpzrr/0/X2/Screen%20Shot%202017-04-01%20at%2021.33.00-X2.png" caption="Combining Wikidata and OpenStreetMap" >}}
 
 You can look at the map on my Wikimedia [user page](https://www.mediawiki.org/wiki/User:Funkyxian)
 and explore the data yourself, or look at the code used to generate the map.

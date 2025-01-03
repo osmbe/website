@@ -22,12 +22,12 @@ This custom OpenStreetMap rendering is available in 3 languages:
 The default name means that all names of streets and places will be shown in the local language. In Brussels (and to some degree in the facility municipalities) this means both the Dutch and the French name will be shown.
 The French and Dutch name versions give preference to that language, if available. In Brussels, this will make the map a lot easier to read. In the rest of the country, for example, Grammont will be shown for Geraardsbergen in the French version, and Bergen will be shown for Mons in the Dutch version.
 
-### Custom icons/rendering
+## Custom icons/rendering
 
 * Icon for `amenity=fast_food` + `cuisine=friture`
 * Icon for `craft=brewery` or `industrial=brewery`
 
-### How to use it?
+## How to use it?
 
 You can see the baselayers available here: <https://tile.osm.be/>.
 
@@ -36,13 +36,13 @@ If you want to use it with *[OpenLayers](https://openlayers.org/)* or *[Leaflet]
 
 **Please respect the [usage policy](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy)!**
 
-### Project documentation
+## Project documentation
 
 * Custom OSMBE style: <https://github.com/jbelien/openstreetmap-carto-be>
 * Documentation: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 * Usage policy: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
 
-### Project key events
+## Project key events
 
 We first tried using VectorTiles for OSMBE baselayer; it works quite well but the technology was not quite ready yet.
 

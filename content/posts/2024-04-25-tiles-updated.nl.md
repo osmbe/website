@@ -3,7 +3,6 @@ title: "OpenStreetMap Belgium basiskaart is terug up-to-date"
 author: Julien Minet
 ---
 
-
 De OpenStreetMap Belgium basiskaarten zijn bijgewerkt! [OpenStreetMap Belgium biedt al bijna 7 jaar gratis OpenStreetMap achtergrondkaarten aan](https://openstreetmap.be/nl/projects/belgium-baselayer.html). Maar wat zijn deze achtergronden? Wel, we zetten de enorme en complexe OpenStreetMap data om in eenvoudige afbeeldingen of "tiles", die gebruikt kunnen worden in elke website of app.
 
 Waarom doen we dat? Wel, we merken dat veel websites de standaard tiles gebruiken vanop de openstreetmap.org website. Deze server is echter niet bedoelt om in productie te gebruiken in live projecten. Om het eenvoudiger te maken om over te stappen naar OpenStreetMap, mag je onze tileserver wel gewoon gebruiken voor je projecten. En dat gebeurt ook: veel gemeentelijke websites gebruiken onze tiles, net als andere websites zoals lokale toeristenbureaus. De achtergrondkaarten zijn gratis beschikbaar, mits redelijk gebruik (zie <https://github.com/osmbe/openstreetmap-carto-be/wiki/Tile-Usage-Policy>).

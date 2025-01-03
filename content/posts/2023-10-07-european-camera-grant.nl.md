@@ -14,9 +14,9 @@ Meta heeft twintig GoPro Max 360° en accessoires gefinancierd om te voet, met d
 De GoPro Max is om vier redenen gekozen:
 
 1. Gebruiksgemak: De GoPro Max is ongelooflijk eenvoudig te gebruiken. Je hoeft alleen maar op de knop "opnemen" te drukken en de beelden met Mapillary's Desktop Uploader te uploaden.
-2. Vormfactor: De camera is licht en ontworpen voor actie, waardoor hij geschikt is voor verschillende opnamescenario's. En een lichtere camera betekent lichtere montageapparatuur.
-3. Kosten: Hij is betaalbaar, waardoor we het programma kunnen opschalen en meer camera's bij meer mensen kunnen krijgen.
-4. Beeldkwaliteit: Hoewel er camera's zijn die 360º-beeld van hogere kwaliteit kunnen vastleggen, doet de GoPro veel voor zijn prijs en vormfactor. Mapillary kan veel kaartgegevens afleiden uit GoPro Max-beelden, waaronder de locatie van trottoirs.
+1. Vormfactor: De camera is licht en ontworpen voor actie, waardoor hij geschikt is voor verschillende opnamescenario's. En een lichtere camera betekent lichtere montageapparatuur.
+1. Kosten: Hij is betaalbaar, waardoor we het programma kunnen opschalen en meer camera's bij meer mensen kunnen krijgen.
+1. Beeldkwaliteit: Hoewel er camera's zijn die 360º-beeld van hogere kwaliteit kunnen vastleggen, doet de GoPro veel voor zijn prijs en vormfactor. Mapillary kan veel kaartgegevens afleiden uit GoPro Max-beelden, waaronder de locatie van trottoirs.
 
 ## Doelstellingen & vereisten
 

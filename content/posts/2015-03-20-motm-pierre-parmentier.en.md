@@ -23,7 +23,7 @@ I am a rather isolated contributor. I never had the opportunity to attend a mapp
 
 I work mostly on basic data like highways, buildings, the UrbIS import, addresses and shops. Occasionally, I added roadside trees, hydrants, [AED](http://nl.wikipedia.org/wiki/Automatische_externe_defibrillator), pedestrian crossings, post boxes.
 
-{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}
 
 **Why do you map?**
 

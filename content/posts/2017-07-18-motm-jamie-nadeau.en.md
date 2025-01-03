@@ -16,13 +16,13 @@ I first started seeking a better alternative to Google Maps as back then "off gr
 
 Initially I would map error on the map, missing roads. Then I moved on to buildings(manually via imagery), then addresses. Now I map anything and everything. I've done CANVEC imports, address and building imports, mapping indigenous villages in northern Canada and city admin limits. I'm not restricted to only Canada.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png" >}}
 
 ## How do you map? Do you make surveys? Are you an armchair mapper?
 
 Both. When I scouted indoor mapping for malls, I would go in pen and paper and start taking notes. I drive a lot for OpenStreetCam and also upload to Mapillary. I've done a few HOT tasks as a local mapping party, but some parts in Canada are actually worse than some 3rd world countries. Northern Canada is not really surveyable, unless you plan on going by Canoe with camping gear and couple months supply of food. Myself and Rps333 have a friendly rivalery on who can cover more in OSC/Mapillary, it's benificial as we've done most of Ottawa by ourselves. Surveys are usually done with my phone or pen and paper. My favorite apps to do surveys in are OSMAnd(custom tag control), maps.me(easier for POI) and keypad mapper 3(quick address collection)
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-Cs2TvxB/0/27c41ab4/X2/image%20%283%29-X2.pngg" alt="Mall Mapping" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-Cs2TvxB/0/27c41ab4/X2/image%20%283%29-X2.pngg" alt="Mall Mapping" >}}
 
 ## How do you conduct your surveys? (in case you do them of course)
 
@@ -32,13 +32,13 @@ If it's by pen and paper, I usually have printed off what I'm surveying and take
 
 Everywhere and anywhere. Mostly in Canada right now. It doesn't stop me from collecting data on my phone when I take a trip out of the country, something that my wife has grown accustomed to.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png" >}}
 
 ## What is your biggest achievement as mapper?
 
 Finally getting the buildings and addresses into OSM for the Ottawa/Gatineau region and cleaning up the data. As well as mapping Fort McMurray during the forest fire.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png" >}}
 
 ## Why do you map? What motivates you?
 
@@ -52,7 +52,7 @@ I might not be popular for saying this but: dealing with the community. Sometime
 
 Fully qualify buildings in Ottawa/Gatineau (residential/detached/commercial, etc) and finish mapping all Native villages in Canada.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png" alt="3D" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png" alt="3D" >}}
 
 ## Do you have contact with other mappers?
 

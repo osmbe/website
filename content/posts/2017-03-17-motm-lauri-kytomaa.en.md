@@ -4,7 +4,7 @@ categories: ["motm"]
 author: escada
 ---
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lauri-Kytömaa/i-9P9QfLW/0/O/osmheatmapalv.png" alt="Lauri's Heatmap" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Lauri-Kytömaa/i-9P9QfLW/0/O/osmheatmapalv.png" alt="Lauri's Heatmap" >}}
 
 ## When and how did you discover OpenStreetMap?
 

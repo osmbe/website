@@ -18,12 +18,12 @@ Met de project hosten we de standaard OpenStreetMap achtergrondkaart lichtjes aa
 Met de standaard _name_ of naam toon je plaatsnamen en straten met de naam in de lokale taal. In Brussel en sommige faciliteitengemeenten betekent dit dat de namen tegelijk in het Frans en het Nederlands getoond worden.
 De Franse en Nederlandse versie geven voorkeur aan die taal, indien beschikbaar. In Brussel maakt dit de kaart veel leesbaarder. In de rest van het land krijg je dan bijvoorbeeld Grammont te zien voor Geraardsbergen in de Franstalige versie, of Bergen voor Mons in de Nederlandstalige versie.
 
-### Specifieke iconen
+## Specifieke iconen
 
 * Icoon voor `amenity=fast_food` + `cuisine=friture`
 * Icoon voor `craft=brewery` or `industrial=brewery`
 
-### Hoe de basiskaart gebruiken?
+## Hoe de basiskaart gebruiken?
 
 Je kan de versies van de basiskaart hier zien: <https://tile.osm.be/>.
 
@@ -32,13 +32,13 @@ Gedetailleerde info om ze via _[OpenLayers](https://openlayers.org/)_ of _[Leafl
 
 **We vragen wel de [gebruiksvoorwaarden](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) te respecteren!**
 
-### Project documentatie
+## Project documentatie
 
 * Aangepaste OSMBE kaartstijl: <https://github.com/jbelien/openstreetmap-carto-be>
 * Documentatie: <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 * Gebruiksvoorwaarden: <https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
 
-### Project key events
+## Project key events
 
 We hebben eerst geprobeerd om de OSMBE basemap te maken als VectorTiles, maar de technologie was daar toen nog niet rijp voor. Dus we gebruiken de klassieke rastertiles op basis van de documentatie op <https://switch2osm.org/>:
 

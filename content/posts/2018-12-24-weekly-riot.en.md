@@ -24,7 +24,7 @@ Options will be taken into consideration, as it's still early days.
 
 Escada informs the channel that OSM Bussiness is now running on a 'production server' ( <https://osmybiz.osm.ch/> ).  
 Juminet is pleased with this (but feels an 'opening hours generator' would be a nice extra feature).  
-Glen regrets it running of the <osm.org> tiles, where tile servers are still struggling.
+Glen regrets it running of the <https://osm.org> tiles, where tile servers are still struggling.
 Joost is enthousiastic, but regrets it not being able to directly edit data.
 
 Tim asks about the changed layout of the 'WhoDidIt'- RSS-feed, which used to be human readable in brower but now seems to show only in code form. Lionel_giard refers to using Riot as an RSS-reader for the feed.  

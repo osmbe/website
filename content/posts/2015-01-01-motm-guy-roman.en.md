@@ -19,7 +19,7 @@ I mainly use the aerial images from Bing, but I combine this with the available 
 **Why do you map?**
 It is fun, and it allows me to explore the world without leaving my house!
 
-{{< figure src="images/posts/hdyc_Roman_Guy.png" link="http://hdyc.neis-one.org/?Roman%20Guy" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="images/posts/hdyc_Roman_Guy.png" link="http://hdyc.neis-one.org/?Roman%20Guy" >}}
 
 **Do you do other things related to OpenStreetMap?**
 I try to convince possible "passive" users to use OpenStreetMap, such as organisers of hiking trips.

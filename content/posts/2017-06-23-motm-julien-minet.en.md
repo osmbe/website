@@ -8,7 +8,7 @@ author: escada
 
 I am Julien Minet. I come from the Luxembourg province in Belgium, from the border between the Ardens and the Gaume. I have a degree as Bio-engineer and worked for 8 years as a researcher at UCL and now ULg - Arlon. At the moment I work in web development, GIS and digital maps.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Julien-Minet/i-28mFrq5/0/adcba395/O/wallpapermapsmaker_arlon.png" alt="Maps of Arlon" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Julien-Minet/i-28mFrq5/0/adcba395/O/wallpapermapsmaker_arlon.png" alt="Maps of Arlon" >}}
 
 ## When and how did you discover OpenStreetMap?
 

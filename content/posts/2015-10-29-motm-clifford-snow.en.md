@@ -6,7 +6,7 @@ categories: ["motm"]
 
 We have been interviewing Belgian mappers for a year now.Since westill like the concept, [Marc](http://www.openstreetmap.org/user/escada) took the initiativeto extend it outside our little Belgian communit. From time to time hewill interview amapperfrom somewhere inthe world. He hascompiled a list of 30 mappers (for now) of people that hemet on different mailing lists and fora. And from time to time hewill contact one andask her or him to answer a few questions. The focus will be on indivudual mappers, unlike the very interesting interviews conducted by [OpenCage](http://blog.opencagedata.com), that focus more on developers and country profiles.
 
-{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-RNzmH28/0/O/P1020795_1024.jpg" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://xian.smugmug.com/OSM/Screenshots/Mapper-of-the-Month/i-RNzmH28/0/O/P1020795_1024.jpg" >}}
 
 Marc his first victim is Clifford Snow, hemet him on the talk-us mailing list and exchanged a few ideas about a presentation on OSM earlier this year with him.
 

@@ -1,4 +1,4 @@
-## OpenStreetMap {{< mdl-disable "<!-- markdownlint-disable MD041 -->" >}}
+## OpenStreetMap
 
 OpenStreetMap is een wereldwijde kaart die door vrijwilligers zoals jou gebouwd wordt. De data wordt gratis en met een open data licentie verdeeld. Het project heeft tot doel deze data in allerlei apps en toepassingen te zien verschijnen.
 

@@ -31,7 +31,7 @@ Niets in het bijzonder. We zijn zoals mieren en iedereen draagt zijn klein deelt
 
 Wat me motiveert is de passie voor kaarten, en het verlangen om het landschap en mijn omgeving beter te begrijpen. Als ik een beboste helling zie, denk ik onmiddellijk aan een spoorweg die er achter zou kunnen passeren. Door te mappen stellen we ons vele vragen i.v.m. geschiedenis, geografie en verschillende betekenissen. Dat is wat mij interesseert! Maar ook de deelname aan een waardevol project vind ik belangrijk.
 
-{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="images/posts/foxandpotatoes_hdyc.png" link="https://www.openstreetmap.org/user/foxandpotatoes" >}}
 
 **Heb je ideeën over hoe we de OpenStreetMap-gemeenschap kunnen uitbreiden?**
 

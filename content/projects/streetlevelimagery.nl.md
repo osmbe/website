@@ -27,9 +27,9 @@ Onze leden hebben in België al miljoenen straatbeelden bijgedragen onder open l
 
 Niet alleen lokale mappers profiteren van de beelden. Omdat we ze publiceren op het Mapillary platform, kunnen ze door iedereen gebruikt worden om open data te genereren. En meer dan dat: het platform genereert automatisch afgeleide gegevens over verkeersborden en infrastructuur, informatie die vervolgens weer beschikbaar is als open data. Omdat we volledig eigenaar blijven van de beelden, kunnen we ze ook delen onder andere licenties en op andere platforms.
 
-{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="images/posts/mapillary-members.png" link="https://www.mapillary.com/app/org/mosmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe members" >}}
 
-{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="images/posts/mapillary-official.png" link="https://www.mapillary.com/app/org/osmbelgium?lat=50.70729971977286&lng=5.096829552404529&z=6.707504774632062" caption="OSMbe official" >}}
 
 ## Het nut van Crowdsourcing
 

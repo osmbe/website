@@ -3,7 +3,6 @@ title: "Aides nous a faire la difference avec la carte"
 author: Joost Schouppe
 ---
 
-
 Les données OpenStreetMap devenant de plus en plus pertinentes, de plus en plus de parties externes souhaitent que les sujets qui les intéressent soient cartographiés de manière très détaillée. Voulez-vous nous aider sur les sujets qui nous tiennent le plus à cœur ? Jetez un coup d'œil à la liste des [principales tâches de cartographie](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/top_mapping_tasks) sur le wiki !
 
 Permettez-nous de mettre l'accent sur deux organisations avec lesquelles nous travaillons.

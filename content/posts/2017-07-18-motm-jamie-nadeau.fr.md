@@ -16,13 +16,13 @@ J'ai commencé en cherchant une alternative à Google Maps, car dans ces jours l
 
 Initiallement je corrigeais des erreurs sur la carte. Après j'ai commencé à ajouté des édifices(manuellement via photo satélite), après des addresses. Maintenant j'ajoute n'importe quoi. J'ai fait de l'import CANVEC, d'addresses et d'édifices. Cartographier les villages des première nation dans le nord du Canada et les frontières des villes. Je me restreint pas à seulement le Canada.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-FzNvrTC/0/01e26752/XL/image%20%281%29-XL.png" >}}
 
 ## Comment cartographiez-vous ? Sur le terrain ou "arm-chair" ?
 
 Les deux. Quand je fesait les cartes d'intérieur des centres d'achats, j'y allais avec papier crayon et je prenais des notes. Je conduit beaucoup pour OpenStreetCam et je téléverse aussi sur Mapillary. J'ai fait une couple de tâches HOT dans une rencontre de mapping, mais certaines parties du Canada sont pire que le tiers monde. Le nord du Canada n'est pas vraiement pratique de se rendre, a moins d'y aller en canot et une couple de mois de bouffe. Moi et Rps333 avons une rivalerie amical sur qui peut couvrire le plus de terrain dans OSC/Mapillary, ce qui est bénifique, car nous avons quasiement couvert toute Ottawa à nous deux. Mes enquêtes/arpentage se font avec mon téléphone ou par stylo et papier. Mes applications favoris sont OSMAnd(contrôle des tags), maps.me(plus facile pour les POI) et keypad mapper 3 (ajoût rapide d'addresses)
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-Cs2TvxB/0/27c41ab4/X2/image%20%283%29-X2.png" alt="Mall Mapping" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-Cs2TvxB/0/27c41ab4/X2/image%20%283%29-X2.png" alt="Mall Mapping" >}}
 
 ## Comment menez-vous vos relevés sur le terrain ?
 
@@ -32,13 +32,13 @@ Si c'est papier crayon, j'imprime habituellement sur ce que je fais l'enquête e
 
 N'importe où. Majoritairement au Canada en ce moment. Ceci m'arrête pas de collectionner des données sur mon téléphone quand je suis en voyage hors du pays, une chose que ma femme s'est habitué de subir.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-vqB5Hwc/0/0eebce0a/L/image%20%282%29-L.png" >}}
 
 ## Quel est votre plus grande réussite en tant que cartographe ?
 
 Finalement importer les édifices et les addresses dans OSM pour la région d'Ottawa/Gatineau et nettoyant les données. Aussi cartographier Fort McMurray pendant le feu de forêt.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-R2j3pPW/0/cd11d987/L/image%20%284%29-L.png" >}}
 
 ## Pourquoi cartographiez-vous ? Qu'est-ce qui vous motive ?
 
@@ -52,7 +52,7 @@ Je ne serais peut-être pas très populaire en disant ceci mais: intéragir avec
 
 Qualifier tous les édifices à Gatineau/Ottawa (résidentielle/détachée/commerciale, etc) et finir de cartographié les villages des premières nations au Canada.
 
-{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png" alt="3D" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://photos.smugmug.com/OSM/Screenshots/Mapper-in-the-Spotlight/Jamie-Nadeau/i-648Cdfq/0/fffcedcf/X2/image%20%285%29-X2.png" alt="3D" >}}
 
 ## Avez-vous des contacts avec d'autres cartographes ?
 

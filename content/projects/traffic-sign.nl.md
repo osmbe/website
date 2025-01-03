@@ -15,9 +15,9 @@ We zijn er nog niet helemaal, maar de bewerkingen in de database die plaatsvinde
 Dus we bouwen voort op een tool in de traditie van [Road Completion](https://openstreetmap.be/en/projects/road-completion.html) om ervoor te zorgen dat als de overheid de gegevens levert, wij kunnen garanderen dat we up-to-date zijn. Gebruikers van OSM-gegevens zullen kunnen zien hoe goed we nieuwe verkeersborden bijhouden - ze hoeven ons niet op ons woord te vertrouwen dat de gegevens goed zijn.
 Dit soort project kan op zijn beurt een kleine stimulans zijn voor meer gemeenten om hun deel van de database online te houden. Net als bij Road Completion controleren we daarbij "per ongeluk" ook de data van de overheid. Als we verkeersborden in kaart brengen, zien we fouten. Vaak gebruikersfouten, soms logische fouten. Als we dat melden, kunnen we gemeenten helpen om de kwaliteit van hun gegevens of zelfs de lokale realiteit te verbeteren.
 
-{{< figure src="https://i.imgur.com/V9zjUuD.png" title="Verkeersborden in Vlaanderen, met uitlichting van borden vanaf 2019" >}}{{< mdl-disable "<!-- markdownlint-disable MD034 -->" >}}
+{{< figure src="https://i.imgur.com/V9zjUuD.png" title="Verkeersborden in Vlaanderen, met uitlichting van borden vanaf 2019" >}}
 
-### In de praktijk
+## In de praktijk
 
 [We hebben een MapRoulette-taak online](https://maproulette.org/browse/challenges/23550) die periodiek wordt bijgewerkt. Deze taak biedt gewoon de meest recente verkeersborden als microtaken: de uitdaging is om hun effecten in kaart te brengen.
 
@@ -32,14 +32,14 @@ Hoe doen we dat?
 
 De [code is beschikbaar op Github](https://github.com/osmbe/traffic-sign-project). U kunt daar problemen plaatsen. Een eerste proof of concept is gebouwd door Joost Schouppe. Ivan Diaz van TomTom herbouwde de hele workflow in Python en bereidde een workflow voor om de updates uiteindelijk volledig automatisch uit te voeren.
 
-### Wat is de volgende stap?
+## Wat is de volgende stap?
 
 - Automatische wekelijkse updates activeren met Github Actions.
 - Het is misschien mogelijk om twee dumps te vergelijken om verkeersborden te vinden die zijn verbeterd
 - Met ons StreetLevel Imagery project maken we beelden die worden geüpload naar Mapillary. Dat platform leidt automatisch verkeersborden af. Deze verkeersborden worden op hun beurt gedetecteerd door Osmose. Deze tool maakt microtaken aan die gefilterd worden op reeds in kaart gebrachte verkeersborden. Het zal bijvoorbeeld alleen een taak voor een max 30 bord aanmaken als er geen weg in OSM in de buurt is waar je 30 mag rijden. Het aantal taken is nog steeds ontmoedigend. We zijn van plan om deze taken te synchroniseren met MapRoulette, om het karteringsproces te “gamificeren” in de hoop meer mappers te motiveren om bij te dragen.
 - Andere brondatasets vinden om deze logica op te gebruiken. Het is het meest interessant als er een open, continu bijgewerkte database met verkeersborden beschikbaar is. We hebben al een eerste verkenning gedaan in Nederland, en het ziet er veelbelovend uit. Als je vergelijkbare datasets kent, word je uitgenodigd om een pull request aan te maken of een Issue te plaatsen.
 
-### Belangrijkste gebeurtenissen
+## Belangrijkste gebeurtenissen
 
 - 9/2021: [eerste verkenning van de dataset voor kaartgebruik](https://lists.openstreetmap.org/pipermail/talk-be/2021-September/011322.html).
 - 11/2021: [eerste filtering van verkeersborden](https://lists.openstreetmap.org/pipermail/talk-be/2021-November/011374.html) gepubliceerd op MapRoulette.
