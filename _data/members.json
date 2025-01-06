@@ -24,7 +24,7 @@
         "stats": {
             "since": "December 02nd, 2010",
             "changesets": {
-                "total": 3068991,
+                "total": 3092204,
                 "belgium": 67171
             }
         }
@@ -39,8 +39,8 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1113721,
-                "belgium": 1004054
+                "total": 1113999,
+                "belgium": 1004331
             }
         }
     },
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 3049219,
-                "belgium": 2932421
+                "total": 3053842,
+                "belgium": 2937044
             }
         }
     },
@@ -84,8 +84,8 @@
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1138738,
-                "belgium": 509972
+                "total": 1138806,
+                "belgium": 509980
             }
         }
     },
@@ -99,8 +99,8 @@
         "stats": {
             "since": "April 16th, 2009",
             "changesets": {
-                "total": 1877820,
-                "belgium": 956296
+                "total": 1878010,
+                "belgium": 956327
             }
         }
     },
@@ -144,8 +144,8 @@
         "stats": {
             "since": "March 27th, 2011",
             "changesets": {
-                "total": 1661672,
-                "belgium": 1613697
+                "total": 1663778,
+                "belgium": 1613763
             }
         }
     },
@@ -159,8 +159,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 626162,
-                "belgium": 608913
+                "total": 628694,
+                "belgium": 611445
             }
         }
     },
@@ -198,7 +198,7 @@
         "stats": {
             "since": "October 06th, 2016",
             "changesets": {
-                "total": 34217,
+                "total": 34223,
                 "belgium": 2558
             }
         }
@@ -223,7 +223,7 @@
         "first_name": "Marc",
         "last_name": "Notredame",
         "username": "",
-        "location": "Gent",
+        "location": "GENT",
         "timestamp": "2018-03-24T11:21:32+00:00",
         "stats": null
     },
@@ -276,8 +276,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 935922,
-                "belgium": 874513
+                "total": 935938,
+                "belgium": 874528
             }
         }
     },
@@ -306,7 +306,7 @@
         "stats": {
             "since": "May 27th, 2008",
             "changesets": {
-                "total": 1103025,
+                "total": 1103069,
                 "belgium": 16757
             }
         }
@@ -321,8 +321,8 @@
         "stats": {
             "since": "May 10th, 2012",
             "changesets": {
-                "total": 6394,
-                "belgium": 5563
+                "total": 6400,
+                "belgium": 5569
             }
         }
     },
@@ -336,8 +336,8 @@
         "stats": {
             "since": "September 23rd, 2015",
             "changesets": {
-                "total": 131136,
-                "belgium": 65124
+                "total": 131143,
+                "belgium": 65131
             }
         }
     },
@@ -351,8 +351,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 117872,
-                "belgium": 113036
+                "total": 118783,
+                "belgium": 113935
             }
         }
     },
@@ -366,8 +366,8 @@
         "stats": {
             "since": "May 15th, 2015",
             "changesets": {
-                "total": 101673,
-                "belgium": 96100
+                "total": 101895,
+                "belgium": 96322
             }
         }
     },
@@ -399,10 +399,16 @@
         "name": "Jason Bertiaux",
         "first_name": "Jason",
         "last_name": "Bertiaux",
-        "username": "",
+        "username": "Le_Sharko\u00efste",
         "location": "Ressaix",
         "timestamp": "2024-01-10T13:22:40+00:00",
-        "stats": null
+        "stats": {
+            "since": "December 18th, 2022",
+            "changesets": {
+                "total": 2610201,
+                "belgium": 2542018
+            }
+        }
     },
     {
         "name": "Jonathan Beli\u00ebn",
@@ -414,8 +420,8 @@
         "stats": {
             "since": "October 11th, 2012",
             "changesets": {
-                "total": 129597,
-                "belgium": 92316
+                "total": 129599,
+                "belgium": 92317
             }
         }
     },
@@ -429,8 +435,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 1075,
-                "belgium": 1056
+                "total": 1099,
+                "belgium": 1080
             }
         }
     },
