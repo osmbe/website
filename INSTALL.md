@@ -10,7 +10,8 @@
 ### Generate `output.css`
 
 ```cmd
-npx tailwindcss -i "./assets/css/input.css" -o "./assets/css/output.css" --watch
+npm install
+npx @tailwindcss/cli -i "./assets/css/input.css" -o "./assets/css/output.css" --watch
 ```
 
 ### Run Hugo server
