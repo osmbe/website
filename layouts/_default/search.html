@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">{{ .Title }}</h2>
+<div class="flex gap-x-2">
+    {{- partial "translations.html" . }}
+</div>
+<div class="mt-10 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16">
+
+    {{ .Content }}
+
+    <form>
+        <div class="group relative flex h-12 rounded border border-gray-200">
+            <svg aria-hidden="true" viewBox="0 0 20 20" class="pointer-events-none absolute left-4 top-0 h-full w-5 fill-slate-400 dark:fill-slate-500">
+                <path d="M16.293 17.707a1 1 0 0 0 1.414-1.414l-1.414 1.414ZM9 14a5 5 0 0 1-5-5H2a7 7 0 0 0 7 7v-2ZM4 9a5 5 0 0 1 5-5V2a7 7 0 0 0-7 7h2Zm5-5a5 5 0 0 1 5 5h2a7 7 0 0 0-7-7v2Zm8.707 12.293-3.757-3.757-1.414 1.414 3.757 3.757 1.414-1.414ZM14 9a4.98 4.98 0 0 1-1.464 3.536l1.414 1.414A6.98 6.98 0 0 0 16 9h-2Zm-1.464 3.536A4.98 4.98 0 0 1 9 14v2a6.98 6.98 0 0 0 4.95-2.05l-1.414-1.414Z"></path>
+            </svg>
+            <input autocomplete="off" class="flex-auto appearance-none bg-transparent pl-12 text-slate-900 outline-none placeholder:text-slate-400 focus:w-full focus:flex-none sm:text-sm pr-4" type="search" id="search-input">
+        </div>
+    </form>
+
+    <div id="search-results" class="mt-10 sm:mt-16">
+        <ul role="list" class="divide-y divide-gray-100 overflow-hidden bg-white shadow-sm ring-1 ring-gray-900/5 sm:rounded-xl mx-0"></ul>
+    </div>
+</div>
+
+{{ end }}
+
+{{ define "javascript" }}
+
+{{- $jsFuse := (resources.Get "js/fuse.basic.js") | resources.Minify | fingerprint }}
+<script src="{{ $jsFuse.RelPermalink }}" integrity="{{ $jsFuse.Data.Integrity }}"></script>
+{{- $jsSearch := (resources.Get "js/search.js") | resources.Minify | fingerprint }}
+<script src="{{ $jsSearch.RelPermalink }}" integrity="{{ $jsSearch.Data.Integrity }}"></script>
+
+{{ end }}

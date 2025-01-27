@@ -10,6 +10,9 @@ uglyURLs = true
 [markup.goldmark.parser.attribute]
   block = true
 
+[outputs]
+  home = ['html', 'json']
+
 [permalinks]
   [permalinks.page]
     posts = '/:year/:month/:day/:slug'
