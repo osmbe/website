@@ -18,8 +18,7 @@
   }
 }
 
-@layer utilities {
-}
+/* @layer utilities {} */
 
 @layer base {
   main h1 {

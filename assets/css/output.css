@@ -679,9 +679,6 @@
   .hidden {
     display: none;
   }
-  .inline {
-    display: inline;
-  }
   .inline-flex {
     display: inline-flex;
   }
@@ -1707,7 +1704,6 @@
     border-color: var(--color-gray-200, currentColor);
   }
 }
-@layer utilities;
 @layer base {
   main h1 {
     margin-block: calc(var(--spacing) * 8);
