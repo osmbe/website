@@ -1,0 +1,34 @@
+name: Update list of members
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  get-members:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.COMMIT_APP_ID }}
+          private-key: ${{ secrets.COMMIT_APP_PRIVATEKEY }}
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+      - run: composer install
+        working-directory: ./.github/workflows/get-members
+      - run: composer run get-members
+        working-directory: ./.github/workflows/get-members
+        env:
+          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+      - name: Commit and push changes
+        run: |
+          git config user.name "osmbe-commit-bot[bot]"
+          git config user.email "182402131+osmbe-commit-bot[bot]@users.noreply.github.com"
+          git add data/members.json
+          git diff-index --quiet HEAD -- || (git add . && git commit -m "Update list of members" && git push origin)
