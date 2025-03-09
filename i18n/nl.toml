@@ -1,6 +1,7 @@
 lastupdate = "Laatste update"
 previous = "Vorige"
 next = "Volgende"
+edit = "Bewerk"
 
 [banner]
     next = "Volgende evenement"
