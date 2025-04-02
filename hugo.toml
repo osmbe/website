@@ -7,6 +7,10 @@ uglyURLs = true
 [frontmatter]
   date = [':filename', ':default']
 
+[markup.highlight]
+  style = 'catppuccin-macchiato'
+  lineNos = true
+  lineNumbersInTable = false
 [markup.goldmark.parser.attribute]
   block = true
 

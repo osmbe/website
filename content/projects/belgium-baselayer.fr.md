@@ -29,7 +29,7 @@ Ce fond de carte est disponible en 4 versions linguistiques :
 Vous pouvez visualiser les fonds de carte ici : <https://tile.osm.be/>.
 
 Tout le monde peut utiliser les *tiles* dans leur propre application en utilisant *OpenLayes*, *Leaflet* ou toute autre libraire.  
-Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)* ou *[Leaflet](http://leafletjs.com/)*, allez voir la documentation <https://github.com/jbelien/openstreetmap-carto-be/wiki/>.
+Si vous souhaitez utiliser *[OpenLayers](https://openlayers.org/)* ou *[Leaflet](http://leafletjs.com/)*, allez voir la page [How to use free OpenStreetMap Belgium baselayer]({{% ref lang="en" path="posts/2019-03-24-how-to-create-a-simple-map-with-a-marker-based-on-openstreetmap.md" %}}) (EN).
 
 **Veuillez respecter les [conditions d'utilisation](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) !**
 

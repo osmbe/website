@@ -32,7 +32,7 @@ The French and Dutch name versions give preference to that language, if availabl
 You can see the baselayers available here: <https://tile.osm.be/>.
 
 Everyone can use the tiles inside their own applications by using *OpenLayers*, *Leaflet* or any other library.  
-If you want to use it with *[OpenLayers](https://openlayers.org/)* or *[Leaflet](http://leafletjs.com/)*, check this page : <https://openstreetmap.be/en/projects/howto.html#how-to-use-free-openstreetmap-belgium-baselayer>
+If you want to use it with *[OpenLayers](https://openlayers.org/)* or *[Leaflet](http://leafletjs.com/)*, check this page : [How to use free OpenStreetMap Belgium baselayer]({{% ref "posts/2019-03-24-how-to-create-a-simple-map-with-a-marker-based-on-openstreetmap.md" %}}).
 
 **Please respect the [usage policy](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy)!**
 

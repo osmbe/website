@@ -28,7 +28,7 @@ De Franse en Nederlandse versie geven voorkeur aan die taal, indien beschikbaar.
 Je kan de versies van de basiskaart hier zien: <https://tile.osm.be/>.
 
 Iedereen kan en mag de tiles gebruiken in hun eigen toepassingen, bijvoorbeeld via _OpenLayers_ of _Leaflet_.
-Gedetailleerde info om ze via _[OpenLayers](https://openlayers.org/)_ of _[Leaflet](http://leafletjs.com/)_, te gebruiken, vind je hier: <https://openstreetmap.be/en/projects/howto.html#how-to-use-free-openstreetmap-belgium-baselayer> (EN)
+Gedetailleerde info om ze via _[OpenLayers](https://openlayers.org/)_ of _[Leaflet](http://leafletjs.com/)_, te gebruiken, vind je hier: [How to use free OpenStreetMap Belgium baselayer]({{% ref lang="en" path="posts/2019-03-24-how-to-create-a-simple-map-with-a-marker-based-on-openstreetmap.md" %}}) (EN)
 
 **We vragen wel de [gebruiksvoorwaarden](https://github.com/jbelien/openstreetmap-carto-be/wiki/Tile-Usage-Policy) te respecteren!**
 
