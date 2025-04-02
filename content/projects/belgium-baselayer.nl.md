@@ -49,4 +49,4 @@ We hebben eerst geprobeerd om de OSMBE basemap te maken als VectorTiles, maar de
 * Documentatie uitgeschreven op <https://github.com/jbelien/openstreetmap-carto-be/wiki>
 * 2017: eerste publicatie van de tegels
 * 2019, 2020 en 2022: updates door Geo-6
-* 2024: onderhoud van de tegels wordt overgenomen door onze partner [Champs-Libres](https://champs-libres.coop) ([nieuwspost](https://openstreetmap.be/nl/2024/04/25/tiles-updated.html)). Aanvulling historische lagen op [onze historische kaart](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).
+* 2024: onderhoud van de tegels wordt overgenomen door onze partner [Champs-Libres](https://champs-libres.coop) ([nieuwspost]({{< ref "posts/2024-04-25-tiles-updated.md" >}})). Aanvulling historische lagen op [onze historische kaart](https://play.osm.be/historischekaart.html#17/50.73016/4.23513/OSMBelgiumArchiveMarch2019-OSMroads).

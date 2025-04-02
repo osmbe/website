@@ -5,7 +5,7 @@ author: Joost Schouppe (vertaald door M!dgard)
 
 OpenStreetMap België & Mapillary slaan de handen in elkaar om de beschikbaarheid van beeldmateriaal op straatniveau in de Europese Unie te verbeteren! Hiertoe zullen we een aantal GoPro Max 360°-camera's en bijbehorende uitrusting ter beschikking stellen van vrijwilligers in heel Europa. De 360°-beelden die gemaakt worden, zullen helpen om de dekking van Mapillary te verbeteren en straatniveaubeelden te leveren die de OpenStreetMapgemeenschap kan gebruiken om hun kaartgegevens verder te verbeteren.
 
-[Lees meer over waarom OpenStreetMap België houdt van open beeldmateriaal op straatniveau](https://openstreetmap.be/nl/projects/streetlevelimagery.html).
+[Lees meer over waarom OpenStreetMap België houdt van open beeldmateriaal op straatniveau]({{< ref "projects/streetlevelimagery.md" >}}).
 
 ## Het programma
 

@@ -61,7 +61,7 @@ Woon je in België, [stuur ons gewoon een mailtje](mailto:community@osm.be) om e
 ## Sleutelmomenten van dit project
 
 - Voorjaar 2019. Eerste GoPro geschonken door Mapillary. Intensief gebruik door bijdrager polyglot (een groot deel van de fietssnelwegen in Vlaanderen zijn in beeld gebracht) en Joost Schouppe.
-- Najaar 2019. Nu het project Digitaal Vlaanderen "Mobile Mapping" gestopt is, [pleiten wij voor een open alternatief](https://openstreetmap.be/en/2019/09/27/streetview.html).
+- Najaar 2019. Nu het project Digitaal Vlaanderen "Mobile Mapping" gestopt is, [pleiten wij voor een open alternatief]({{< ref "posts/2019-09-27-streetview.md" >}}).
 - Juni 2020. De oorspronkelijk Europese open street level imagery company wordt overgenomen door Facebook, als onderdeel van hun  OpenStreetMap georienteerde kaartstrategie. [Hier wat context, in het Engels](https://joemorrison.medium.com/why-on-earth-did-facebook-just-acquire-mapillary-9838405272f8). Dit levert een hoop discussie op in de OSM-gemeenschap; ook tijdelijke technische problemen maar ook stabiliteit voor de middellange termijn.
 - November 2020. OpenStreetCam wordt [KartaView](https://kartaview.org/). Beelden uit Mapillary kunnen automatisch overgezet worden naar dit vergelijkbare platform, onderhouden door [Grab](https://www.grab.com), een Zuid-Oost Aziatisch taxibedrijf dat OpenStreetMap data gebruikt en er ook aan bijdraagt.
 - November 2021. De [leden van OSM België](https://github.com/osmbe/working-group-bylaws/blob/master/minutes/2021-11-30%20-%20official%20meeting.md) besluit om te investeren in 360° cameras.
@@ -69,6 +69,6 @@ Woon je in België, [stuur ons gewoon een mailtje](mailto:community@osm.be) om e
 - Maart 2022. De camera gaat naar Saint-Georges-Sur-Meuse, waar Pierre Serpe hem gaat gebruiken voor een project met de [Gracq](https://www.gracq.org/groupes/saint-georges).
 - Maart 2022. Omdat de eerste camera zo intensief gebruikt wordt, ontvangen we een geoormerkte donatie voor een tweede camera. Deze camera gaat naar [Westtoer](https://www.westtoer.be), voor experimenteel gebruik bij het uitwerken van nieuwe fietsroutes.
 - April 2022. Omdat de zaken goed lopen en er voldoende vraag is vanuit de vrijwilligers, kopen we een derde GoPro.
-- September 2023. Stéphane de Greef werkt heel het Brussels gewest en het Zoniënwoud af. [Dit gaat niet onopgemerkt voorbij, met verschillende artikels in de pers!](https://openstreetmap.be/nl/2023/07/23/st%C3%A9phane-streetview-brussels.html)
+- September 2023. Stéphane de Greef werkt heel het Brussels gewest en het Zoniënwoud af. [Dit gaat niet onopgemerkt voorbij, met verschillende artikels in de pers!]({{< ref "posts/2023-07-23-stephane-streetview-brussels.md" >}})
 - Oktober 2023. We buy a fourth GoPro Max
-- Oktober 2023. We lanceren het [European Camera Grant project](https://openstreetmap.be/nl/2023/10/07/european-camera-grant.html) samen met Mapillary.
+- Oktober 2023. We lanceren het [European Camera Grant project]({{< ref "posts/2023-10-07-european-camera-grant.md" >}}) samen met Mapillary.
