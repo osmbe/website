@@ -3,9 +3,11 @@ categories: ["howto"]
 title: How to create a simple map (with a marker) based on OpenStreetMap
 ---
 
+## Introduction
+
 There are 2 most common open-source JavaScript libraries used to display a map : [Leaflet](https://leafletjs.com/) and [OpenLayers](https://openlayers.org/).
 
-### Build a simple map using Leaflet
+## Build a simple map using Leaflet
 
 This tutorial is based on [Leaflet Quick Start Guide](https://leafletjs.com/examples/quick-start/) and uses version `1.4.0` of the library. I suggest you check if there is a more up-to-date version before proceeding.
 
@@ -17,7 +19,7 @@ This tutorial is based on [Leaflet Quick Start Guide](https://leafletjs.com/exam
         crossorigin="">
     ```
 
-2. Include the Leaflet JavaScript library at the end of the `<body>` section of your HTML page
+1. Include the Leaflet JavaScript library at the end of the `<body>` section of your HTML page
 
     ```html
     <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
@@ -25,15 +27,15 @@ This tutorial is based on [Leaflet Quick Start Guide](https://leafletjs.com/exam
         crossorigin=""></script>
     ```
 
-3. Put a `<div id="map">` element where you want your map to be
+1. Put a `<div id="map">` element where you want your map to be
 
     ```html
     <div id="map" style="width: 600px; height: 400px;"></div>
     ```
 
-4. Now you can add a `<script>` section at the end of the `<body>` section (after the `<script>` that loads Leaflet JavaScript library). All the following JavaScript code needs to go in that new `<script>` section.
+1. Now you can add a `<script>` section at the end of the `<body>` section (after the `<script>` that loads Leaflet JavaScript library). All the following JavaScript code needs to go in that new `<script>` section.
 
-5. Initialize the map
+1. Initialize the map
 
     ```js
     var map = L.map('map').setView([50.84673, 4.35247], 12);
@@ -41,7 +43,7 @@ This tutorial is based on [Leaflet Quick Start Guide](https://leafletjs.com/exam
 
     The map will be displayed in `<div id="map">` element and will be centered on Brussels (Latitude = 50.84673, Longitude = 4.35247) at zoom level 12.
 
-6. Add the OpenStreetMap Belgium baselayer
+1. Add the OpenStreetMap Belgium baselayer
 
     ```js
     L.tileLayer('https://tile.openstreetmap.be/osmbe/{z}/{x}/{y}.png', {
@@ -52,13 +54,13 @@ This tutorial is based on [Leaflet Quick Start Guide](https://leafletjs.com/exam
     }).addTo(map);
     ```
 
-7. You can add a marker at a specific location
+1. You can add a marker at a specific location
 
     ```js
     var marker = L.marker([50.84673, 4.35247]).addTo(map);
     ```
 
-8. And bind a popup to that marker.
+1. And bind a popup to that marker.
 
     ```js
     var popup = marker.bindPopup('<b>Hello world!</b><br />I am a popup.');
@@ -73,14 +75,14 @@ This tutorial is based on [Leaflet Quick Start Guide](https://leafletjs.com/exam
 
 Now, you can check [the result](/leaflet-demo.html)!
 
-#### Documentation:
+### Documentation
 
 - Leaflet Map : <https://leafletjs.com/reference-1.4.0.html#map>
 - Leaflet TileLayer : <https://leafletjs.com/reference-1.4.0.html#tilelayer>
 - Leaflet Marker : <https://leafletjs.com/reference-1.4.0.html#marker>
 - Leaflet Popup : <https://leafletjs.com/reference-1.4.0.html#popup>
 
-### Build a simple map using OpenLayers
+## Build a simple map using OpenLayers
 
 This tutorial is based on [OpenLayers Quick Start Guide](https://openlayers.org/en/latest/doc/quickstart.html) and the [OpenLayers Popup Example](https://openlayers.org/en/latest/examples/popup.html) and uses version `5.3.0` of the library. I suggest you check if there is a more up-to-date version before proceeding.
 
@@ -92,21 +94,21 @@ The OpenLayers library is more powerful than the Leaflet library and offers more
     <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
     ```
 
-2. Include the OpenLayers JavaScript library at the end of the `<body>` section of your HTML page
+1. Include the OpenLayers JavaScript library at the end of the `<body>` section of your HTML page
 
     ```html
     <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
     ```
 
-3. Put a `<div id="map">` element where you want your map to be
+1. Put a `<div id="map">` element where you want your map to be
 
     ```html
     <div id="map" style="width: 600px; height: 400px;"></div>
     ```
 
-4. Now you can add a `<script>` section at the end of the `<body>` section (after the `<script>` that loads OpenLayers JavaScript library). All the following JavaScript code needs to go in that new `<script>` section.
+1. Now you can add a `<script>` section at the end of the `<body>` section (after the `<script>` that loads OpenLayers JavaScript library). All the following JavaScript code needs to go in that new `<script>` section.
 
-5. Initialize the map with the OpenStreetMap Belgium baselayer
+1. Initialize the map with the OpenStreetMap Belgium baselayer
 
     ```js
     var attribution = new ol.control.Attribution({
@@ -135,7 +137,7 @@ The OpenLayers library is more powerful than the Leaflet library and offers more
 
     The map will be displayed in `<div id="map">` element and will be centered on Brussels (Latitude = 50.84673, Longitude = 4.35247) at zoom level 12.
 
-6. You can add a marker at a specific location
+1. You can add a marker at a specific location
 
     ```js
     var layer = new ol.layer.Vector({
@@ -150,7 +152,7 @@ The OpenLayers library is more powerful than the Leaflet library and offers more
     map.addLayer(layer);
     ```
 
-7. You can create a new `<div id="popup">` element right after the `<div id="map">` element
+1. You can create a new `<div id="popup">` element right after the `<div id="map">` element
 
     ```html
     <div id="popup" class="ol-popup">
@@ -159,7 +161,7 @@ The OpenLayers library is more powerful than the Leaflet library and offers more
     </div>
     ```
 
-8. Initialize the popup (the following JavaScript code needs to go in the `<script>` section)
+1. Initialize the popup (the following JavaScript code needs to go in the `<script>` section)
 
     ```js
     var container = document.getElementById('popup');
@@ -182,7 +184,7 @@ The OpenLayers library is more powerful than the Leaflet library and offers more
     };
     ```
 
-9. Add the function to open the popup when you click on the marker
+1. Add the function to open the popup when you click on the marker
 
     ```js
     map.on('singleclick', function (event) {
@@ -208,7 +210,7 @@ The OpenLayers library is more powerful than the Leaflet library and offers more
 
 Now, you can check [the result](/openlayers-demo.html)!
 
-#### Documentation:
+### Documentation
 
 - OpenLayers Map : <https://openlayers.org/en/latest/apidoc/module-ol_Map-Map.html>
 - OpenLayers Attribution : <https://openlayers.org/en/latest/apidoc/module-ol_control_Attribution-Attribution.html>
@@ -220,6 +222,6 @@ Now, you can check [the result](/openlayers-demo.html)!
 - OpenLayers Feature : <https://openlayers.org/en/latest/apidoc/module-ol_Feature-Feature.html>
 - OpenLayers Overlay : <https://openlayers.org/en/latest/apidoc/module-ol_Overlay-Overlay.html>
 
-### Other libraries
+## Other libraries
 
 You can also have a look at [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/examples/).
