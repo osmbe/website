@@ -40,6 +40,7 @@
   main a {
     @apply text-base/7 font-semibold text-indigo-600 underline;
   }
+
   main a:hover {
     @apply text-indigo-800;
   }
