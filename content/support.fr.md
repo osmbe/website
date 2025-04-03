@@ -28,7 +28,7 @@ En tant que membre *corporate*, vous profitez des avantages suivants:
 - OpenStreetMap Belgique fera la promotion de certaines événements liés à la cartographie qui sont intéressants pour vous
 - Consultance gratuite (limitée) : nous vous aidons à analyser vos besoins pour lesquels OpenStreetMap peut être utile (max 8 heures)
 - Nous vous aidons à interagir avec la communauté OpenStreetMap lors de vos projets en Belgique
-- Nous afficherons votre logo sur notre page d'accueil et lors d'événements
+- Nous afficherons le nom de votre société sur notre page d'accueil, votre logo sur cette page, et lors d'événements
 - Vous pouvez faire mention de votre lien avec OpenStreetMap Belgique dans vos communications
 - Et bien sûr, vous recevez immédiatement un surplus de karma positif
 

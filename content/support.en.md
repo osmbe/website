@@ -29,7 +29,7 @@ As a corporate member you get these benefits:
 - OpenStreetMap Belgium will promote specific mapping activities that are beneficial to you
 - Limited free consultancy: we will help you analyse business cases that could work with OpenStreetMap (max 8 hours)
 - We will help you engage with the community when you do projects in Belgium
-- We will put your logo on our front page and show it during events
+- We will put your company name on our front page, your logo will appear on our this page, and we'll show it during events
 - You can mention a link to OpenStreetMap Belgium in your own communications
 - And of course you will get instant karma
 
