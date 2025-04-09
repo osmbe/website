@@ -2,6 +2,11 @@
 
 OpenStreetMap is een wereldwijde kaart die door vrijwilligers zoals jou gebouwd wordt. De data wordt gratis en met een open data licentie verdeeld. Het project heeft tot doel deze data in allerlei apps en toepassingen te zien verschijnen.
 
+> **Waar is de kaart?**
+>
+> Als u alleen op zoek bent naar de kaart, is deze hier: [openstreetmap.org](https://www.openstreetmap.org). Deze website gaat over de Belgische OpenStreetMap gemeenschap.
+{.blue}
+
 ## OpenStreetMap België
 
 OpenStreetMap België begon als een kleine groep mappers die meetups deden. Door de jaren heen werken steeds meer mensen met de wereld. De uitnodiging van Open Knowledge Belgium om lid te worden van de groep, die ons de structuur geeft die we nodig hadden zonder de overhead, kwam op het perfecte moment. Van toen tot nu hebben wij intensief gewerkt aan de ondersteuning van OpenStreetMap door FOSS4G Belgium, OSM-gerelateerde evenementen, kaarten en vele andere OSM-gerelateerde evenementen mede te organiseren. SotM 2016, wat een geweldige boost was voor onze gemeenschap. We zijn erg blij om lid te worden van de OpenStreetMap Foundation en we hopen dat we een positieve impact kunnen blijven hebben op het OpenStreetMap-project, zowel op lokaal als internationaal niveau.

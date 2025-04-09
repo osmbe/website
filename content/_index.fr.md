@@ -4,6 +4,11 @@ OpenStreetMap est (principalement) une carte du monde entier publiée gratuiteme
 
 La licence OpenStreetMap autorise un accès libre (ou quasiment libre) à nos cartes et à l'ensemble des données cartographiques sur lesquelles elles sont construites. Notre projet vise à promouvoir des usages innovants et intéressants de ces données.
 
+> **Mais où est la carte ?**
+>
+> Si vous cherchez juste la carte, elle se trouve ici : [openstreetmap.org](https://www.openstreetmap.org). Ce site web est consacré à la communauté OpenStreetMap belge.
+{.blue}
+
 ## OpenStreetMap Belgique
 
 OpenStreetMap Belgique a commencé comme un petit groupe de cartographes se retrouvant régulièrement. Au fil des ans, de plus en plus de gens ont commencé à apparaître et avec l'utilisation croissante d'OpenStreetMap, il était temps de commencer à mieux nous organiser. L''invitation de Open Knowledge Belgique à se joindre à eux en tant que groupe de travail, nous donnant la structure dont nous avions besoin sans tous les tracas habituels, est venu au moment idéal. Depuis lors, nous avons promu activement OpenStreetMap en co-organisant FOSS4G Belgium, la conférence annuelle Open Belgium, les rencontres, mapathons et de nombreux autres événements liés à OSM. Tout cela a "explosé" avec l'organisation de SotM en 2016, ce qui a été un grand coup de pouce pour notre communauté. Nous sommes très heureux de pouvoir rejoindre l'OSMF en tant que chapitre local et nous espérons avoir un impact positif continu sur le projet OpenStreetMap tant au niveau local que internationalement.

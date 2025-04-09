@@ -4,6 +4,11 @@ OpenStreetMap is a free, editable map of the whole world that is being built by 
 
 The OpenStreetMap License allows free (or almost free) access to our map images and all of our underlying map data. The project aims to promote new and interesting uses of this data.
 
+> **Wait I'm confused, where is the map?**
+>
+> If you're just looking for the map, you can find it here: [openstreetmap.org](https://www.openstreetmap.org). This website is about the Belgian OpenStreetMap community.
+{.blue}
+
 ## OpenStreetMap Belgium
 
 OpenStreetMap Belgium started as a tiny group of mappers doing meetups. Over the years more and more people started showing up and with the increasing usage and visibility of OpenStreetMap it was time to start organizing ourselves better. The invitation from Open Knowledge Belgium to join them as a working group, giving us the structure we needed without all the overhead, came at the perfect time. From then until now we have been actively supporting OpenStreetMap by co-organizing FOSS4G Belgium, the Open Belgium yearly conference, meetups, mapathons and many other OSM related events. This all escalated a bit with the organizing of SotM in 2016, which was a great boost for our community. We are very happy to be able to join the OSMF as a local chapter and we hope we can have continued positive impact on the OpenStreetMap project both on a local level and internationally.
