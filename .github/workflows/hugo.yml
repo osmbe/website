@@ -52,6 +52,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          STADIA_API_KEY: ${{ secrets.STADIA_API_KEY }}
         run: |
           hugo \
             --minify \
