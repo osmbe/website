@@ -9,7 +9,7 @@ jobs:
   update-contacts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/create-github-app-token@v1
+      - uses: actions/create-github-app-token@v2
         id: app-token
         with:
           app-id: ${{ vars.COMMIT_APP_ID }}
@@ -30,7 +30,7 @@ jobs:
   update-members:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/create-github-app-token@v1
+      - uses: actions/create-github-app-token@v2
         id: app-token
         with:
           app-id: ${{ vars.COMMIT_APP_ID }}
