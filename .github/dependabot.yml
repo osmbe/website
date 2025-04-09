@@ -13,3 +13,20 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "monthly"
+    groups:
+      stylelint:
+        applies-to: version-updates
+        patterns:
+          - "stylelint*"
+        update-types:
+          - "minor"
+          - "patch"
+      tailwindcss:
+        applies-to: version-updates
+        patterns:
+          - "tailwindcss*"
+          - "@tailwindcss*"
+          - "stylelint-config-tailwindcss"
+        update-types:
+          - "minor"
+          - "patch"
