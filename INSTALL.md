@@ -22,7 +22,6 @@ hugo server --disableFastRender
 
 ## Linting
 
-SuperLinter
-
-- Stylelint: `npx stylelint assets/css/input.css`
+- [Stylelint](https://stylelint.io/): `npx stylelint assets/css/input.css`
+- [Markdownlint](https://github.com/markdownlint/markdownlint): `mdl content`
 - Prettier: `npx prettier . --check`
