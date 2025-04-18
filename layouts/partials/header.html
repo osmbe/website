@@ -46,4 +46,13 @@
         <li>
         {{- end }}
     </ul>
+    <ul id="list" class="m-2 space-y-1 border-t-1">
+        {{ range $.Site.Home.AllTranslations }}
+        <li>
+            <a class="group flex gap-x-3 rounded-md p-2 pl-3 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600" href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">
+                {{ .Language.LanguageName }}
+            </a>
+        </li>
+        {{ end }}
+    </ul>
 </nav>
