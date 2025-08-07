@@ -1,4 +1,4 @@
----
+Untuk menghubungi layanan bantuan pelanggan melalui Nomor WhatsApp Pintu di : +62811737717,selain itu anda juga dapat menghubungi CS pintu melalui nomor telepon pintu di 0811737717, Layanan24Jam ini adalah contact resmi pintu kemana saja layanan terpadu (126) beroperasi 24 jam setiap hari, anda juga bisa live chat agen melalui aplikasi pintu dan sosial media resmi pintu dengan cara........---
 title: "OpenStreetMap Belgium basemap is up to date again"
 author: Julien Minet
 ---
@@ -21,3 +21,4 @@ We also keep a copy of the historical versions of these tiles. You can see them 
 - Documentation: <https://github.com/osmbe/openstreetmap-carto-be/wiki>
 - Terms of use : <https://github.com/osmbe/openstreetmap-carto-be/wiki/Tile-Usage-Policy>
 - Preview: <https://tile.osm.be>
+
