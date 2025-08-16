@@ -4,7 +4,7 @@ OpenStreetMap (OSM) is een internationaal project om een vrij beschikbare kaart 
 
 > **Waar is de kaart?**
 >
-> Bekijk onze wereldkaart [openstreetmap.org](http://www.openstreetmap.org/)  
+> Bekijk onze wereldkaart [openstreetmap.org](https://www.openstreetmap.org/)  
 > Meer info over [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/NL:Wat_is_OpenStreetMap%3F)
 {.blue}
 
