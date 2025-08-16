@@ -1,24 +1,25 @@
 ## OpenStreetMap
 
-OpenStreetMap is een wereldwijde kaart die door vrijwilligers zoals jou gebouwd wordt. De data wordt gratis en met een open data licentie verdeeld. Het project heeft tot doel deze data in allerlei apps en toepassingen te zien verschijnen.
+OpenStreetMap (OSM) is een internationaal project om een vrij beschikbare kaart van de hele wereld te maken. OpenStreetMap wordt gemaakt door vrijwilligers. Gegevens over wegen, paden, terreinen, bouwwerken, cafés en nog veel meer geografische gegevens worden aangebracht door mensen zoals u en verzameld in een open database waarmee kaarten en andere toepassingen zoals routeplanners worden gemaakt en aangepast.  Veel organisaties, websites en apps maken gebruiken van OpenStreetMap.
 
 > **Waar is de kaart?**
 >
-> Als u alleen op zoek bent naar de kaart, is deze hier: [openstreetmap.org](https://www.openstreetmap.org). Deze website gaat over de Belgische OpenStreetMap gemeenschap.
+> Bekijk onze wereldkaart [openstreetmap.org](http://www.openstreetmap.org/)  
+> Meer info over [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/NL:Wat_is_OpenStreetMap%3F)
 {.blue}
 
 ## OpenStreetMap België
 
-OpenStreetMap België begon als een kleine groep mappers die meetups deden. Door de jaren heen werken steeds meer mensen met de wereld. De uitnodiging van Open Knowledge Belgium om lid te worden van de groep, die ons de structuur geeft die we nodig hadden zonder de overhead, kwam op het perfecte moment. Van toen tot nu hebben wij intensief gewerkt aan de ondersteuning van OpenStreetMap door FOSS4G Belgium, OSM-gerelateerde evenementen, kaarten en vele andere OSM-gerelateerde evenementen mede te organiseren. SotM 2016, wat een geweldige boost was voor onze gemeenschap. We zijn erg blij om lid te worden van de OpenStreetMap Foundation en we hopen dat we een positieve impact kunnen blijven hebben op het OpenStreetMap-project, zowel op lokaal als internationaal niveau.
+Na de start van OpenStreetMap begonnen ook in België een aantal mensen de lokale gegevens op de kaart te zetten.  De kleine groep mappers organiseerde meetups om informatie uit te wisselen en elkaar te ondersteunen. Door de jaren heen evolueerde de samenwerking met de rest van de wereld. Lokaal werd er samengewerkt met Open Knowledge Belgium en FOSS4G Belgium.  Samen werden er OSM-evenementen, kaarten en andere Opendata-gerelateerde evenementen georganiseerd zoals de internationale SotM (State of the Map) 2016. OpenStreetMap België heeft ondertussen vorm gekregen als V.Z.W. en is officieel lid van de internationale OpenStreetMap Foundation.
 
 {{< figure src="images/community.jpg" title="Onze geweldige vrijwilligers bij State of the Map in Brussel, 2016!" >}}
 
-Het OpenStreetMap België Chapter is bedoeld voor outreach. Deze website werd gebouwd met dit in gedachten. We bieden gratis tegels voor België om te helpen to switch to OSM. We zijn open source door projecten te doen met de Open Summer of Code, bijvoorbeeld hulpmiddelen bouwen die de lokale overheid laat zien dat hun gegevens met succes in OSM zijn geïntegreerd. We zijn ook een "enig contactpunt" voor mensen buiten de gemeenschap, waardoor het gemakkelijker wordt om met het project te communiceren. Tegelijkertijd helpt een officiële stem het project serieuzer te nemen. Als onderdeel van de internationale OpenStreetMap-beweging proberen we internationale vrienden in andere landen te ondersteunen - rechtstreeks of via ontbrekende kaarten en gerelateerde projecten.
+We hopen dat we een positieve impact kunnen blijven hebben op het OpenStreetMap-project, zowel op lokaal als internationaal niveau. OpenStreetMap België Chapter is specifiek bedoeld om te ondersteunen. Zo bieden wij [gratis "tiles" van België]({{< ref "projects/belgium-baselayer.md" >}}) aan waardoor websites voor hun kaarten eenvoudiger kunnen omschakelen naar OSM. We zijn ook een "enig contactpunt" voor mensen buiten de gemeenschap om de juiste ingang te vinden voor communicatie over een project via <community@osm.be>. Tegelijkertijd helpt een lokale organisatie met een eigen gezicht om het project serieuzer te nemen. Als onderdeel van de internationale OpenStreetMap-beweging proberen we internationale vrienden in andere landen te ondersteunen - rechtstreeks of via ontbrekende kaarten en gerelateerde projecten.
 
 ## Onze community
 
-Eigenlijk is iedereen die interesse heeft in OpenStreetMap in België al deel van onze community. Mappen op OpenStreetMap is natuurlijk de hoofdzaak. Er zijn ook vrijwilligers die meer doen, en die heel wat activiteiten mogelijk maken of helpen met software-projecten, mapathons of andere events.
+Eigenlijk maakt iedereen in België die interesse heeft in OpenStreetMap al deel uit van onze community. Bijdragen aan de verbetering van de kaart is natuurlijk de hoofdzaak. Er zijn ook vrijwilligers die meer doen, en die heel wat activiteiten mogelijk maken of helpen met software-projecten, mapathons en opzetten van evenementen.
 
 ## Our mission
 
-Als iedereen al lid is van de community, waarom dan OpenStreetMap Belgium? Onze missie is mapping-activiteiten te faciliteren in België, en ervoor te zorgen dat iedereen zich welkom voelt. Je kan OpenStreetMap België bekijken als dat deel van de community dat nog net een stapje verder gaat met mapping dan de anderen. Als je wil helpen met het verbeteren en uitbreiden van de community in België, kom dan bij OpenStreetMap Belgium! Kijk eens op de ['Support us'-pagina]({{< ref "support.md" >}}) om lid te worden.
+Als iedereen al lid is van de community, waarom dan nog OpenStreetMap Belgium als organisatie? Onze missie is mapping-activiteiten faciliteren in België en zorgen voor een gemeenschap die OpenStreetMap promoot en ondersteunt en waar iedereen zich welkom voelt.  Je kan OpenStreetMap België bekijken als dat deel van de community dat nog iets meer doet voor OpenStreetMap dan enkel het mappen zelf. Als je wil helpen met het verbeteren en uitbreiden van de community in België, kom dan bij OpenStreetMap Belgium! Kijk eens op de  ['Support us']({{< ref "support.md" >}})-pagina om lid te worden.
