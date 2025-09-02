@@ -11,7 +11,7 @@ jobs:
     name: Markdown Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actionshub/markdownlint@main
         with:
           path: ./content
@@ -20,7 +20,7 @@ jobs:
     name: Stylelint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions-hub/stylelint@master
         env:
           PATTERN: "assets/css/input.css"
