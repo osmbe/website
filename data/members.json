@@ -24,7 +24,7 @@
         "stats": {
             "since": "December 02nd, 2010",
             "changesets": {
-                "total": 3289670,
+                "total": 3290771,
                 "belgium": 67527
             }
         }
@@ -39,7 +39,7 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1162087,
+                "total": 1162090,
                 "belgium": 1046675
             }
         }
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 3245215,
-                "belgium": 3127634
+                "total": 3246493,
+                "belgium": 3128912
             }
         }
     },
@@ -84,8 +84,8 @@
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1367470,
-                "belgium": 735962
+                "total": 1368503,
+                "belgium": 736992
             }
         }
     },
@@ -144,8 +144,8 @@
         "stats": {
             "since": "March 27th, 2011",
             "changesets": {
-                "total": 1675807,
-                "belgium": 1621777
+                "total": 1676008,
+                "belgium": 1621978
             }
         }
     },
@@ -159,8 +159,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 663219,
-                "belgium": 645556
+                "total": 663701,
+                "belgium": 646038
             }
         }
     },
@@ -276,8 +276,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 1003169,
-                "belgium": 932776
+                "total": 1003306,
+                "belgium": 932913
             }
         }
     },
@@ -306,8 +306,8 @@
         "stats": {
             "since": "May 10th, 2012",
             "changesets": {
-                "total": 6616,
-                "belgium": 5694
+                "total": 6644,
+                "belgium": 5722
             }
         }
     },
@@ -336,8 +336,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 141143,
-                "belgium": 135268
+                "total": 141350,
+                "belgium": 135380
             }
         }
     },
@@ -351,8 +351,8 @@
         "stats": {
             "since": "May 15th, 2015",
             "changesets": {
-                "total": 103877,
-                "belgium": 98239
+                "total": 103883,
+                "belgium": 98242
             }
         }
     },
@@ -420,8 +420,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 2319,
-                "belgium": 2226
+                "total": 2331,
+                "belgium": 2238
             }
         }
     },
@@ -435,8 +435,8 @@
         "stats": {
             "since": "August 19th, 2023",
             "changesets": {
-                "total": 9418,
-                "belgium": 3089
+                "total": 9481,
+                "belgium": 3125
             }
         }
     },
@@ -486,8 +486,8 @@
         "stats": {
             "since": "June 15th, 2017",
             "changesets": {
-                "total": 223697,
-                "belgium": 222171
+                "total": 236787,
+                "belgium": 235261
             }
         }
     }
