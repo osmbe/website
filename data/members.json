@@ -24,7 +24,7 @@
         "stats": {
             "since": "December 02nd, 2010",
             "changesets": {
-                "total": 3293148,
+                "total": 3293157,
                 "belgium": 67527
             }
         }
@@ -39,8 +39,8 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1163039,
-                "belgium": 1047624
+                "total": 1164178,
+                "belgium": 1048763
             }
         }
     },
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 3252263,
-                "belgium": 3134662
+                "total": 3259277,
+                "belgium": 3141676
             }
         }
     },
@@ -84,8 +84,8 @@
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1371886,
-                "belgium": 739786
+                "total": 1372380,
+                "belgium": 740163
             }
         }
     },
@@ -99,8 +99,8 @@
         "stats": {
             "since": "April 16th, 2009",
             "changesets": {
-                "total": 1888136,
-                "belgium": 964641
+                "total": 1888332,
+                "belgium": 964755
             }
         }
     },
@@ -144,8 +144,8 @@
         "stats": {
             "since": "March 27th, 2011",
             "changesets": {
-                "total": 1676019,
-                "belgium": 1621989
+                "total": 1676374,
+                "belgium": 1622231
             }
         }
     },
@@ -159,8 +159,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 664190,
-                "belgium": 646526
+                "total": 664802,
+                "belgium": 647138
             }
         }
     },
@@ -276,8 +276,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 1005138,
-                "belgium": 934744
+                "total": 1006036,
+                "belgium": 934773
             }
         }
     },
@@ -321,8 +321,8 @@
         "stats": {
             "since": "September 23rd, 2015",
             "changesets": {
-                "total": 134046,
-                "belgium": 66195
+                "total": 135433,
+                "belgium": 66978
             }
         }
     },
@@ -336,8 +336,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 141831,
-                "belgium": 135860
+                "total": 141848,
+                "belgium": 135877
             }
         }
     },
@@ -351,8 +351,8 @@
         "stats": {
             "since": "May 15th, 2015",
             "changesets": {
-                "total": 103916,
-                "belgium": 98275
+                "total": 103934,
+                "belgium": 98293
             }
         }
     },
@@ -386,7 +386,7 @@
         "last_name": "Bertiaux",
         "username": "Le_Sharko\u00efste",
         "location": "Ressaix",
-        "timestamp": "2024-01-10T13:22:40+00:00",
+        "timestamp": "2025-11-26T14:49:36+00:00",
         "stats": {
             "since": null,
             "changesets": {
@@ -420,8 +420,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 2376,
-                "belgium": 2283
+                "total": 2390,
+                "belgium": 2297
             }
         }
     },
@@ -435,8 +435,8 @@
         "stats": {
             "since": "August 19th, 2023",
             "changesets": {
-                "total": 9568,
-                "belgium": 3196
+                "total": 9677,
+                "belgium": 3246
             }
         }
     },
@@ -486,8 +486,8 @@
         "stats": {
             "since": "June 15th, 2017",
             "changesets": {
-                "total": 265830,
-                "belgium": 264054
+                "total": 267345,
+                "belgium": 265569
             }
         }
     }
