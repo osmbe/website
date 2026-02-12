@@ -25,7 +25,7 @@
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
             <ul id="lang-switch" class="inline-flex gap-x-2">
-                {{ range $.Site.Home.AllTranslations }}
+                {{ range $.AllTranslations }}
                 <li><a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}" class="text-sm/6 font-semibold text-white">{{ upper .Language.LanguageCode }}</a></li>
                 {{ end }}
             </ul>
@@ -47,7 +47,7 @@
         {{- end }}
     </ul>
     <ul id="list" class="m-2 space-y-1 border-t-1">
-        {{ range $.Site.Home.AllTranslations }}
+        {{ range $.AllTranslations }}
         <li>
             <a class="group flex gap-x-3 rounded-md p-2 pl-3 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600" href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">
                 {{ .Language.LanguageName }}
