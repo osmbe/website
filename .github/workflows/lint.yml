@@ -30,6 +30,5 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: "lts/*"
-      - uses: actions-hub/stylelint@master
-        env:
-          PATTERN: "assets/css/input.css"
+      - run: npm install
+      - run: npx stylelint "assets/css/input.css"
