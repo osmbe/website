@@ -39,8 +39,8 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1177268,
-                "belgium": 1060399
+                "total": 1177400,
+                "belgium": 1060531
             }
         }
     },
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 3357465,
-                "belgium": 3239640
+                "total": 3357508,
+                "belgium": 3239683
             }
         }
     },
@@ -105,36 +105,6 @@
         }
     },
     {
-        "name": "Lionel Giard",
-        "first_name": "Lionel",
-        "last_name": "Giard",
-        "username": "Anakil",
-        "location": "Chaumont-Gistoux",
-        "timestamp": "2017-03-21T01:29:38+00:00",
-        "stats": {
-            "since": "November 20th, 2015",
-            "changesets": {
-                "total": 553816,
-                "belgium": 510997
-            }
-        }
-    },
-    {
-        "name": "Glenn Plas",
-        "first_name": "Glenn",
-        "last_name": "Plas",
-        "username": "Glenn Plas",
-        "location": "Weerde",
-        "timestamp": "2019-09-30T17:22:01+00:00",
-        "stats": {
-            "since": "July 29th, 2011",
-            "changesets": {
-                "total": 970901,
-                "belgium": 958560
-            }
-        }
-    },
-    {
         "name": "Julien Minet",
         "first_name": "Julien",
         "last_name": "Minet",
@@ -144,32 +114,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 667925,
-                "belgium": 650213
-            }
-        }
-    },
-    {
-        "name": "Maarten Deneckere",
-        "first_name": "Maarten",
-        "last_name": "Deneckere",
-        "username": "",
-        "location": "Wetteren",
-        "timestamp": "2017-02-09T17:09:39+00:00",
-        "stats": null
-    },
-    {
-        "name": "Jean Marie Falisse",
-        "first_name": "Jean Marie",
-        "last_name": "Falisse",
-        "username": "Eleuthere",
-        "location": "Watermael-Boitsfort",
-        "timestamp": "2019-12-14T11:56:13+00:00",
-        "stats": {
-            "since": "May 01st, 2010",
-            "changesets": {
-                "total": 153839,
-                "belgium": 433
+                "total": 667930,
+                "belgium": 650218
             }
         }
     },
@@ -187,30 +133,6 @@
                 "belgium": 2569
             }
         }
-    },
-    {
-        "name": "Pierre Willot",
-        "first_name": "Pierre",
-        "last_name": "Willot",
-        "username": "Piwi",
-        "location": "Fosses-La-Ville",
-        "timestamp": "2017-12-17T23:13:02+00:00",
-        "stats": {
-            "since": "October 12th, 2010",
-            "changesets": {
-                "total": 70742,
-                "belgium": 17492
-            }
-        }
-    },
-    {
-        "name": "Marc Notredame",
-        "first_name": "Marc",
-        "last_name": "Notredame",
-        "username": "",
-        "location": "GENT",
-        "timestamp": "2018-03-24T11:21:32+00:00",
-        "stats": null
     },
     {
         "name": "Pieter Vandecasteele",
@@ -261,23 +183,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 1026266,
+                "total": 1026267,
                 "belgium": 951337
-            }
-        }
-    },
-    {
-        "name": "Guillaume Rischard",
-        "first_name": "Guillaume",
-        "last_name": "Rischard",
-        "username": "Stereo",
-        "location": "Brussels",
-        "timestamp": "2020-01-19T23:03:32+00:00",
-        "stats": {
-            "since": "May 27th, 2008",
-            "changesets": {
-                "total": 1318876,
-                "belgium": 18700
             }
         }
     },
@@ -321,8 +228,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 149675,
-                "belgium": 143276
+                "total": 149805,
+                "belgium": 143406
             }
         }
     },
@@ -366,21 +273,6 @@
         "stats": null
     },
     {
-        "name": "Jason Bertiaux",
-        "first_name": "Jason",
-        "last_name": "Bertiaux",
-        "username": "Le_Sharko\u00efste",
-        "location": "Ressaix",
-        "timestamp": "2025-11-26T14:49:36+00:00",
-        "stats": {
-            "since": null,
-            "changesets": {
-                "total": 0,
-                "belgium": 0
-            }
-        }
-    },
-    {
         "name": "Jonathan Beli\u00ebn",
         "first_name": "Jonathan",
         "last_name": "Beli\u00ebn",
@@ -405,8 +297,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 2568,
-                "belgium": 2475
+                "total": 2570,
+                "belgium": 2477
             }
         }
     },
@@ -420,19 +312,10 @@
         "stats": {
             "since": "August 19th, 2023",
             "changesets": {
-                "total": 10548,
-                "belgium": 3766
+                "total": 10558,
+                "belgium": 3776
             }
         }
-    },
-    {
-        "name": "Matis Gillet",
-        "first_name": "Matis",
-        "last_name": "Gillet",
-        "username": "",
-        "location": "Barben\u00e7on",
-        "timestamp": "2024-08-07T18:58:26+00:00",
-        "stats": null
     },
     {
         "name": "Luna Isebaert",
@@ -488,6 +371,21 @@
             "changesets": {
                 "total": 1678580,
                 "belgium": 1624343
+            }
+        }
+    },
+    {
+        "name": "Gilles Poilvet",
+        "first_name": "Gilles",
+        "last_name": "Poilvet",
+        "username": "Waaslander",
+        "location": "Lokeren",
+        "timestamp": "2026-02-16T17:08:50+00:00",
+        "stats": {
+            "since": "March 28th, 2019",
+            "changesets": {
+                "total": 2085097,
+                "belgium": 2053555
             }
         }
     }
