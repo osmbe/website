@@ -1,4 +1,3 @@
-
 ---
 title: "Bedankt, Joost!"
 cover: Joost.png
