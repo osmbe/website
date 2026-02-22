@@ -15,6 +15,7 @@ En janvier 2017, Joost est devenu l’un des membres fondateurs du conseil d’a
 Joost a aussi été la force motrice de nombreuses initiatives, notamment le [Road Completion Project](https://openstreetmap.be/projects/road-completion.html) et le programme belge de subventions pour caméras. Beaucoup de projets qui définissent aujourd’hui OSM Belgique ont été initiés par Joost ou ont grandi grâce à son énergie et à sa détermination.
 
 Avec le conseil d’administration et la communauté au sens large, Joost a contribué à une liste impressionnante de réalisations ces dernières années :
+
 - établir OSM Belgique comme une vzw/asbl indépendante dans des périodes difficiles  
 - assurer un financement stable grâce aux adhésions d’entreprises  
 - renforcer la collaboration entre la communauté OSM et les institutions publiques  

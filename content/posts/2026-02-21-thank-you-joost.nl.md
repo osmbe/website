@@ -15,6 +15,7 @@ In januari 2017 werd Joost een van de stichters van OSM Belgium. Hij hielp de or
 Joost was ook de drijvende kracht achter tal van initiatieven, waaronder het [Road Completion Project](https://openstreetmap.be/projects/road-completion.html) en het Belgische Camera Grant Programma. Veel van de projecten die OSM Belgium vandaag kenmerken, zijn gestart door Joost of zijn dankzij zijn energie en vastberadenheid kunnen groeien.
 
 Samen met het bestuur en de bredere community hielp Joost de voorbije jaren een indrukwekkende lijst van realisaties waarmaken:
+
 - het oprichten van OSM Belgium als een onafhankelijke vzw/asbl in uitdagende tijden  
 - het verzekeren van stabiele financiering via bedrijfslidmaatschappen  
 - het versterken van de samenwerking tussen de OSM-community en publieke instellingen  

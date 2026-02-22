@@ -15,6 +15,7 @@ In January 2017, Joost became one of the founding board members of OSM Belgium. 
 Joost has also been the driving force behind numerous initiatives, including the [Road Completion Project](https://openstreetmap.be/projects/road-completion.html) and the Belgian Camera Grant Program. Many of the projects that define OSM Belgium today started with Joost or grew thanks to his energy and determination.
 
 Together with the board and the wider community, Joost helped achieve an impressive list of accomplishments in recent years:
+
 - establishing OSM Belgium as an independent vzw/asbl during challenging times
 - securing stable funding through corporate memberships
 - strengthening collaboration between the OSM community and public institutions
