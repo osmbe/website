@@ -6,7 +6,7 @@ author: Seppe Santens
 
 After many years of dedicated service, Joost Schouppe is stepping down from the board of OSM Belgium. While he will continue to be an active mapper and an important part of our community, this feels like the right moment to reflect on everything he has helped build.
 
-Joost has been a mapper for more than thirteen years, contributing over 1.4 million map changes across more than 100 countries, spread over more than 3000 mapping days. These [numbers](https://hdyc.neis-one.org/?joost%20schouppe) are remarkable, but they capture only a fraction of his impact. Above all, Joost is a community builder. 
+Joost has been a mapper for more than thirteen years, contributing over 1.4 million map changes across more than 100 countries, spread over more than 3000 mapping days. These [numbers](https://hdyc.neis-one.org/?joost%20schouppe) are remarkable, but they capture only a fraction of his impact. Above all, Joost is a community builder.
 
 Together with Jorieke and Ben, he launched the first OSM meetups in Belgium, giving mappers a place to learn, collaborate, and meet each other in person. A few years later, he helped organise [State of the Map Brussels in 2016](https://2016.stateofthemap.org/).
 
