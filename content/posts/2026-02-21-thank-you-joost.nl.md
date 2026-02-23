@@ -12,15 +12,15 @@ Samen met Jorieke en Ben lanceerde hij de eerste OSM-meetups in België, waardoo
 
 In januari 2017 werd Joost een van de stichters van OSM Belgium. Hij hielp de organisatie groeien van de eerste ideeën tot een stabiele, gerespecteerde en actieve lokale afdeling. Op internationaal niveau zetelde hij in het bestuur van de OpenStreetMap Foundation (2019–2020) en speelde hij een sleutelrol in de herlancering van de Local Chapters and Communities Working Group (LCCWG). In 2023 was Joost betrokken bij de organisatie van [State of the Map Europe in Antwerpen](https://2023.stateofthemap.eu/).
 
-Joost was ook de drijvende kracht achter tal van initiatieven, waaronder het [Road Completion Project](https://openstreetmap.be/projects/road-completion.html) en het Belgische Camera Grant Programma. Veel van de projecten die OSM Belgium vandaag kenmerken, zijn gestart door Joost of zijn dankzij zijn energie en vastberadenheid kunnen groeien.
+Joost was ook de drijvende kracht achter tal van initiatieven, waaronder het [Road Completion Project]({{< ref "projects/road-completion.md" >}}) en het Belgische Camera Grant Programma. Veel van de projecten die OSM Belgium vandaag kenmerken, zijn gestart door Joost of zijn dankzij zijn energie en vastberadenheid kunnen groeien.
 
 Samen met het bestuur en de bredere community hielp Joost de voorbije jaren een indrukwekkende lijst van realisaties waarmaken:
 
-- het oprichten van OSM Belgium als een onafhankelijke vzw/asbl in uitdagende tijden  
-- het verzekeren van stabiele financiering via bedrijfslidmaatschappen  
-- het versterken van de samenwerking tussen de OSM-community en publieke instellingen  
-- het organiseren van en deelnemen aan talloze evenementen  
-- het ondersteunen van mappers door vragen te beantwoorden, advies te geven en samenwerkingen op te bouwen  
+- het oprichten van OSM Belgium als een onafhankelijke vzw in uitdagende tijden
+- het verzekeren van stabiele financiering via bedrijfslidmaatschappen
+- het versterken van de samenwerking tussen de OSM-community en publieke instellingen
+- het organiseren van en deelnemen aan talloze evenementen
+- het ondersteunen van mappers door vragen te beantwoorden, advies te geven en samenwerkingen op te bouwen
 
 Meer dan alles is Joost een echte verbinder. Hij bracht – online en in het echte leven – mensen samen, overbrugde verschillen, verzachtte spanningen en zorgde ervoor dat iedereen zich welkom voelde. De open en positieve sfeer die OSM Belgium vandaag kenmerkt, is in grote mate aan zijn inzet te danken.
 
