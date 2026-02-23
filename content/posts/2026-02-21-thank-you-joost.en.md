@@ -12,7 +12,7 @@ Together with Jorieke and Ben, he launched the first OSM meetups in Belgium, giv
 
 In January 2017, Joost became one of the founding board members of OSM Belgium. He helped grow the organisation from its early ideas to a stable, respected, and active local chapter. On the global stage, he served on the OpenStreetMap Foundation board (2019–2020) and played a key role in relaunching the Local Chapters and Communities Working Group (LCCWG). In 2023, Joost was involved in organizing [State of the Map Europe in Antwerp](https://2023.stateofthemap.eu/).
 
-Joost has also been the driving force behind numerous initiatives, including the [Road Completion Project](https://openstreetmap.be/projects/road-completion.html) and the Belgian Camera Grant Program. Many of the projects that define OSM Belgium today started with Joost or grew thanks to his energy and determination.
+Joost has also been the driving force behind numerous initiatives, including the [Road Completion Project]({{< ref "projects/road-completion.md" >}}) and the Belgian Camera Grant Program. Many of the projects that define OSM Belgium today started with Joost or grew thanks to his energy and determination.
 
 Together with the board and the wider community, Joost helped achieve an impressive list of accomplishments in recent years:
 
@@ -24,4 +24,4 @@ Together with the board and the wider community, Joost helped achieve an impress
 
 More than anything, Joost is a true community builder. He brought people together - online and in real life - bridged gaps, eased tensions, and made sure everyone felt welcome. The atmosphere and openness that define OSM Belgium today are due in no small part to his efforts.
 
-Joost, thank you for everything you’ve done for OSM Belgium and for the global OpenStreetMap community. We look forward to many more years of mapping, collaboration, and community-building together.
+Joost, thank you for everything you've done for OSM Belgium and for the global OpenStreetMap community. We look forward to many more years of mapping, collaboration, and community-building together.
