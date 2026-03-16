@@ -9,8 +9,8 @@
         "stats": {
             "since": "June 21st, 2009",
             "changesets": {
-                "total": 96571,
-                "belgium": 58445
+                "total": 96572,
+                "belgium": 58446
             }
         }
     },
@@ -24,7 +24,7 @@
         "stats": {
             "since": "December 02nd, 2010",
             "changesets": {
-                "total": 3378889,
+                "total": 3379850,
                 "belgium": 68201
             }
         }
@@ -39,8 +39,8 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1180217,
-                "belgium": 1061717
+                "total": 1181158,
+                "belgium": 1062270
             }
         }
     },
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 3388842,
-                "belgium": 3271007
+                "total": 3395505,
+                "belgium": 3277669
             }
         }
     },
@@ -84,7 +84,7 @@
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1402066,
+                "total": 1402070,
                 "belgium": 743401
             }
         }
@@ -99,8 +99,8 @@
         "stats": {
             "since": "April 16th, 2009",
             "changesets": {
-                "total": 1890017,
-                "belgium": 966146
+                "total": 1890316,
+                "belgium": 966445
             }
         }
     },
@@ -114,8 +114,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 669101,
-                "belgium": 651389
+                "total": 669465,
+                "belgium": 651753
             }
         }
     },
@@ -183,8 +183,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 1026567,
-                "belgium": 951446
+                "total": 1026577,
+                "belgium": 951455
             }
         }
     },
@@ -198,8 +198,8 @@
         "stats": {
             "since": "May 10th, 2012",
             "changesets": {
-                "total": 6710,
-                "belgium": 5774
+                "total": 6712,
+                "belgium": 5776
             }
         }
     },
@@ -228,8 +228,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 153440,
-                "belgium": 147038
+                "total": 154808,
+                "belgium": 148406
             }
         }
     },
@@ -297,8 +297,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 2625,
-                "belgium": 2532
+                "total": 2643,
+                "belgium": 2550
             }
         }
     },
@@ -312,8 +312,8 @@
         "stats": {
             "since": "August 19th, 2023",
             "changesets": {
-                "total": 10863,
-                "belgium": 4067
+                "total": 10917,
+                "belgium": 4100
             }
         }
     },
@@ -354,8 +354,8 @@
         "stats": {
             "since": "June 15th, 2017",
             "changesets": {
-                "total": 270112,
-                "belgium": 267987
+                "total": 270123,
+                "belgium": 267998
             }
         }
     },
@@ -369,8 +369,8 @@
         "stats": {
             "since": "March 27th, 2011",
             "changesets": {
-                "total": 1678886,
-                "belgium": 1624649
+                "total": 1679257,
+                "belgium": 1625020
             }
         }
     },
@@ -384,8 +384,8 @@
         "stats": {
             "since": "March 28th, 2019",
             "changesets": {
-                "total": 2094315,
-                "belgium": 2060067
+                "total": 2095793,
+                "belgium": 2060599
             }
         }
     }
