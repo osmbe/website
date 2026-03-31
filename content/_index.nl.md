@@ -20,6 +20,6 @@ We hopen dat we een positieve impact kunnen blijven hebben op het OpenStreetMap-
 
 Eigenlijk maakt iedereen in België die interesse heeft in OpenStreetMap al deel uit van onze community. Bijdragen aan de verbetering van de kaart is natuurlijk de hoofdzaak. Er zijn ook vrijwilligers die meer doen, en die heel wat activiteiten mogelijk maken of helpen met software-projecten, mapathons en opzetten van evenementen.
 
-## Our mission
+## Onze missie
 
 Als iedereen al lid is van de community, waarom dan nog OpenStreetMap Belgium als organisatie? Onze missie is mapping-activiteiten faciliteren in België en zorgen voor een gemeenschap die OpenStreetMap promoot en ondersteunt en waar iedereen zich welkom voelt.  Je kan OpenStreetMap België bekijken als dat deel van de community dat nog iets meer doet voor OpenStreetMap dan enkel het mappen zelf. Als je wil helpen met het verbeteren en uitbreiden van de community in België, kom dan bij OpenStreetMap Belgium! Kijk eens op de  ['Support us']({{< ref "support.md" >}})-pagina om lid te worden.
