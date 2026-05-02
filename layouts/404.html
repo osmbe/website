@@ -19,8 +19,14 @@
         </div>
     </main>
     <div class="hidden lg:relative lg:col-start-2 lg:row-start-1 lg:row-end-4 lg:block">
-        <img src="https://api.mapsum.dev/400/400" alt="Lorem Mapsum" class="object-contain">
+        <div class="absolute inset-0 flex items-center justify-center p-6">
+            <img id="mapsum" alt="Lorem Mapsum" class="block h-auto w-auto max-h-full max-w-full object-contain object-center">
+        </div>
     </div>
 </div>
+
+<script>
+    document.getElementById('mapsum')?.setAttribute('src', `https://api.mapsum.dev/500/500?style=blueprint&zoom=district&${encodeURIComponent(Math.random().toString(36).slice(2))}`);
+</script>
 
 {{ end }}
