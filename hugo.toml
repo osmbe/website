@@ -20,6 +20,3 @@ uglyURLs = true
 [permalinks]
   [permalinks.page]
     posts = '/:year/:month/:day/:slug'
-
-[security.funcs]
-  getenv = ['STADIA_API_KEY']
