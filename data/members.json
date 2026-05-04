@@ -6,13 +6,7 @@
         "username": "Ben Abelshausen",
         "location": "Wechelderzande",
         "timestamp": "2016-04-22T19:09:34+00:00",
-        "stats": {
-            "since": "June 21st, 2009",
-            "changesets": {
-                "total": 96572,
-                "belgium": 58446
-            }
-        }
+        "stats": null
     },
     {
         "name": "Jorieke Vyncke",
@@ -21,13 +15,7 @@
         "username": "Jorieke V",
         "location": "Wechelderzande",
         "timestamp": "2016-04-22T19:09:35+00:00",
-        "stats": {
-            "since": "December 02nd, 2010",
-            "changesets": {
-                "total": 3415900,
-                "belgium": 68202
-            }
-        }
+        "stats": null
     },
     {
         "name": "Seppe Santens",
@@ -36,13 +24,7 @@
         "username": "L'imaginaire",
         "location": "Aalter",
         "timestamp": "2019-09-30T13:16:41+00:00",
-        "stats": {
-            "since": "April 09th, 2012",
-            "changesets": {
-                "total": 1183674,
-                "belgium": 1064658
-            }
-        }
+        "stats": null
     },
     {
         "name": "Marc Gemis",
@@ -51,13 +33,7 @@
         "username": "escada",
         "location": "Reet",
         "timestamp": "2016-04-22T19:09:36+00:00",
-        "stats": {
-            "since": "April 12th, 2011",
-            "changesets": {
-                "total": 1917272,
-                "belgium": 1753096
-            }
-        }
+        "stats": null
     },
     {
         "name": "Erik Beerten",
@@ -66,13 +42,7 @@
         "username": "Eebie",
         "location": "Hasselt",
         "timestamp": "2023-01-02T10:45:36+00:00",
-        "stats": {
-            "since": "June 30th, 2012",
-            "changesets": {
-                "total": 3419240,
-                "belgium": 3301385
-            }
-        }
+        "stats": null
     },
     {
         "name": "Joost Schouppe",
@@ -81,13 +51,7 @@
         "username": "joost schouppe",
         "location": "Halle",
         "timestamp": "2017-03-09T10:20:39+00:00",
-        "stats": {
-            "since": "September 14th, 2008",
-            "changesets": {
-                "total": 1407827,
-                "belgium": 747143
-            }
-        }
+        "stats": null
     },
     {
         "name": "Pierre Parmentier",
@@ -96,13 +60,7 @@
         "username": "foxandpotatoes",
         "location": "Arlon",
         "timestamp": "2017-04-24T18:13:42+00:00",
-        "stats": {
-            "since": "April 16th, 2009",
-            "changesets": {
-                "total": 1891238,
-                "belgium": 967082
-            }
-        }
+        "stats": null
     },
     {
         "name": "Julien Minet",
@@ -111,13 +69,7 @@
         "username": "juminet",
         "location": "Marbehan",
         "timestamp": "2016-04-22T19:09:37+00:00",
-        "stats": {
-            "since": "August 17th, 2012",
-            "changesets": {
-                "total": 673068,
-                "belgium": 655339
-            }
-        }
+        "stats": null
     },
     {
         "name": "J\u00e9r\u00f4me Le Tourneur",
@@ -126,13 +78,7 @@
         "username": "Ieronimus",
         "location": "Schaerbeek",
         "timestamp": "2017-08-04T09:14:51+00:00",
-        "stats": {
-            "since": "October 06th, 2016",
-            "changesets": {
-                "total": 34731,
-                "belgium": 2569
-            }
-        }
+        "stats": null
     },
     {
         "name": "Pieter Vandecasteele",
@@ -150,13 +96,7 @@
         "username": "Tim Couwelier",
         "location": "Roeselare",
         "timestamp": "2018-10-28T11:39:36+00:00",
-        "stats": {
-            "since": "December 15th, 2017",
-            "changesets": {
-                "total": 452160,
-                "belgium": 446874
-            }
-        }
+        "stats": null
     },
     {
         "name": "Kurt Roeckx",
@@ -165,13 +105,7 @@
         "username": "Kurt Roeckx",
         "location": "Tildonk",
         "timestamp": "2018-11-01T23:21:50+00:00",
-        "stats": {
-            "since": "March 02nd, 2008",
-            "changesets": {
-                "total": 51134,
-                "belgium": 30372
-            }
-        }
+        "stats": null
     },
     {
         "name": "Pieter Vander Vennet",
@@ -180,13 +114,7 @@
         "username": "Pieter Vander Vennet",
         "location": "Gent",
         "timestamp": "2017-10-17T18:44:52+00:00",
-        "stats": {
-            "since": "April 13th, 2016",
-            "changesets": {
-                "total": 1030092,
-                "belgium": 953890
-            }
-        }
+        "stats": null
     },
     {
         "name": "Kevin Baker",
@@ -195,13 +123,7 @@
         "username": "Kevin@RouteYou",
         "location": "Gent",
         "timestamp": "2021-04-12T12:53:28+00:00",
-        "stats": {
-            "since": "May 10th, 2012",
-            "changesets": {
-                "total": 6765,
-                "belgium": 5818
-            }
-        }
+        "stats": null
     },
     {
         "name": "Micha\u00ebl Dierick",
@@ -210,13 +132,7 @@
         "username": "MikiDi",
         "location": "Jette",
         "timestamp": "2022-01-09T14:05:29+00:00",
-        "stats": {
-            "since": "September 23rd, 2015",
-            "changesets": {
-                "total": 135795,
-                "belgium": 67280
-            }
-        }
+        "stats": null
     },
     {
         "name": "Thierry Jim\u00e9nez",
@@ -225,13 +141,7 @@
         "username": "Thierry1030",
         "location": "Brussels",
         "timestamp": "2020-10-19T06:00:56+00:00",
-        "stats": {
-            "since": "May 11th, 2010",
-            "changesets": {
-                "total": 161815,
-                "belgium": 155396
-            }
-        }
+        "stats": null
     },
     {
         "name": "Thibault Molleman",
@@ -240,13 +150,7 @@
         "username": "Thibaultmol",
         "location": "Ruiselede",
         "timestamp": "2020-08-10T06:45:55+00:00",
-        "stats": {
-            "since": "May 15th, 2015",
-            "changesets": {
-                "total": 104049,
-                "belgium": 98407
-            }
-        }
+        "stats": null
     },
     {
         "name": "Johan Joubert",
@@ -255,13 +159,7 @@
         "username": "JohanWJoubert",
         "location": "Leuven",
         "timestamp": "2023-02-14T20:23:56+00:00",
-        "stats": {
-            "since": "April 28th, 2009",
-            "changesets": {
-                "total": 16495,
-                "belgium": 0
-            }
-        }
+        "stats": null
     },
     {
         "name": "Balder Bongaerts",
@@ -279,13 +177,7 @@
         "username": "jbelien",
         "location": "Bruxelles",
         "timestamp": "2017-12-17T14:32:21+00:00",
-        "stats": {
-            "since": "October 11th, 2012",
-            "changesets": {
-                "total": 137372,
-                "belgium": 94069
-            }
-        }
+        "stats": null
     },
     {
         "name": "Marjan Van de Kauter",
@@ -294,13 +186,7 @@
         "username": "Mappers_Delight",
         "location": "Gent",
         "timestamp": "2024-03-20T14:12:41+00:00",
-        "stats": {
-            "since": "March 08th, 2022",
-            "changesets": {
-                "total": 2750,
-                "belgium": 2657
-            }
-        }
+        "stats": null
     },
     {
         "name": "Daan Vanderveken",
@@ -309,13 +195,7 @@
         "username": "Daan Vanderveken",
         "location": "Kampenhout",
         "timestamp": "2025-08-21T07:16:53+00:00",
-        "stats": {
-            "since": "August 19th, 2023",
-            "changesets": {
-                "total": 11367,
-                "belgium": 4264
-            }
-        }
+        "stats": null
     },
     {
         "name": "Luna Isebaert",
@@ -351,13 +231,7 @@
         "username": "djsa",
         "location": "Kessel-Lo",
         "timestamp": "2025-10-18T11:26:31+00:00",
-        "stats": {
-            "since": "June 15th, 2017",
-            "changesets": {
-                "total": 270167,
-                "belgium": 268042
-            }
-        }
+        "stats": null
     },
     {
         "name": "Steven Clays",
@@ -366,13 +240,7 @@
         "username": "wegspotter",
         "location": "Gent",
         "timestamp": "2020-08-24T15:51:59+00:00",
-        "stats": {
-            "since": "March 27th, 2011",
-            "changesets": {
-                "total": 1680113,
-                "belgium": 1625728
-            }
-        }
+        "stats": null
     },
     {
         "name": "Gilles Poilvet",
@@ -381,13 +249,7 @@
         "username": "Waaslander",
         "location": "Lokeren",
         "timestamp": "2026-02-16T17:08:50+00:00",
-        "stats": {
-            "since": "March 28th, 2019",
-            "changesets": {
-                "total": 2099306,
-                "belgium": 2062520
-            }
-        }
+        "stats": null
     },
     {
         "name": "Rapha\u00ebl Mar\u00e9e",
@@ -396,12 +258,6 @@
         "username": "plicploc",
         "location": "Li\u00e8ge",
         "timestamp": "2026-05-02T12:32:25+00:00",
-        "stats": {
-            "since": "October 28th, 2008",
-            "changesets": {
-                "total": 25242,
-                "belgium": 22007
-            }
-        }
+        "stats": null
     }
 ]
