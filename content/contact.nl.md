@@ -17,6 +17,10 @@ De Belgische OpenStreetMap community heeft een officieel e-mail address voor al 
 
 ---
 
+Voor informatie over of problemen met onze [Panoramax-server](https://panoramax.osm.be), contacteer <panoramax@osm.be>
+
+---
+
 Wil je meer te weten komen over mappen, kies dan je favoriete kanaal hieronder!
 
 {{< contact >}}
