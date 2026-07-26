@@ -30,3 +30,7 @@ updates:
         update-types:
           - "minor"
           - "patch"
+  - package-ecosystem: "composer" # See documentation for possible values
+    directory: "/.github/workflows/get-members/" # Location of package manifests
+    schedule:
+      interval: "monthly"
