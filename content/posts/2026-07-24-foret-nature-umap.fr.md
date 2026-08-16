@@ -4,7 +4,6 @@ cover: 2026-07-24-foret-nature-umap.png
 author: Daan Vanderveken
 ---
 
-
 Les forêts à haut de degré de naturalité représentent 23% des forêts wallonnes, alors que seulement 3,3% bénéficient aujourd’hui d’une protection forte.
 
 Afin de les faire connaître, **Forêt & Naturalité** et le **WWF-Belgium** les ont repertoriées dans une carte dynamique, accessible à toutes et tous.
