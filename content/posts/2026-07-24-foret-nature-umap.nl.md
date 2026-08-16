@@ -16,5 +16,4 @@ Voor het maken van de kaart hebben **Forêt et Nature** en **WWF-Belgium** gekoz
 
 [Meer informatie over het project](https://foret-naturalite.be/ressources/dossiers/walnat-1-identifier-des-forets-a-proteger-et-a-respecter/)
 
-
 [Meer informatie over het maken van kaarten met uMap](https://umap.openstreetmap.fr/nl/)
