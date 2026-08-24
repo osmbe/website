@@ -189,15 +189,6 @@
         "stats": null
     },
     {
-        "name": "Daan Vanderveken",
-        "first_name": "Daan",
-        "last_name": "Vanderveken",
-        "username": "Daan Vanderveken",
-        "location": "Kampenhout",
-        "timestamp": "2025-08-21T07:16:53+00:00",
-        "stats": null
-    },
-    {
         "name": "Luna Isebaert",
         "first_name": "Luna",
         "last_name": "Isebaert",
@@ -258,6 +249,15 @@
         "username": "plicploc",
         "location": "Li\u00e8ge",
         "timestamp": "2026-05-02T12:32:25+00:00",
+        "stats": null
+    },
+    {
+        "name": "Daan Vanderveken",
+        "first_name": "Daan",
+        "last_name": "Vanderveken",
+        "username": "Daan Vanderveken",
+        "location": "Kampenhout",
+        "timestamp": "2025-08-21T07:16:53+00:00",
         "stats": null
     }
 ]
