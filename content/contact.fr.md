@@ -18,6 +18,9 @@ La communauté belge a une adresse email officielle pour toutes vos questions: <
 
 ---
 
+Pour toute question et problème avec notre [serveur Panoramax](https://panoramax.osm.be), contactez <panoramax@osm.be>
+
+---
 Vous voulez en savoir plus sur la cartographie? Choisissez le canal que vous préférez ci-dessous!
 
 {{< contact >}}
