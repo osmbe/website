@@ -1,263 +1,176 @@
 [
     {
         "name": "Ben Abelshausen",
-        "first_name": "Ben",
-        "last_name": "Abelshausen",
         "username": "Ben Abelshausen",
         "location": "Wechelderzande",
-        "timestamp": "2016-04-22T19:09:34+00:00",
-        "stats": null
+        "timestamp": "2016-04-22T19:09:34+00:00"
     },
     {
         "name": "Jorieke Vyncke",
-        "first_name": "Jorieke",
-        "last_name": "Vyncke",
         "username": "Jorieke V",
         "location": "Wechelderzande",
-        "timestamp": "2016-04-22T19:09:35+00:00",
-        "stats": null
-    },
-    {
-        "name": "Seppe Santens",
-        "first_name": "Seppe",
-        "last_name": "Santens",
-        "username": "L'imaginaire",
-        "location": "Aalter",
-        "timestamp": "2019-09-30T13:16:41+00:00",
-        "stats": null
+        "timestamp": "2016-04-22T19:09:35+00:00"
     },
     {
         "name": "Marc Gemis",
-        "first_name": "Marc",
-        "last_name": "Gemis",
         "username": "escada",
         "location": "Reet",
-        "timestamp": "2016-04-22T19:09:36+00:00",
-        "stats": null
-    },
-    {
-        "name": "Erik Beerten",
-        "first_name": "Erik",
-        "last_name": "Beerten",
-        "username": "Eebie",
-        "location": "Hasselt",
-        "timestamp": "2023-01-02T10:45:36+00:00",
-        "stats": null
-    },
-    {
-        "name": "Joost Schouppe",
-        "first_name": "Joost",
-        "last_name": "Schouppe",
-        "username": "joost schouppe",
-        "location": "Halle",
-        "timestamp": "2017-03-09T10:20:39+00:00",
-        "stats": null
-    },
-    {
-        "name": "Pierre Parmentier",
-        "first_name": "Pierre",
-        "last_name": "Parmentier",
-        "username": "foxandpotatoes",
-        "location": "Arlon",
-        "timestamp": "2017-04-24T18:13:42+00:00",
-        "stats": null
+        "timestamp": "2016-04-22T19:09:36+00:00"
     },
     {
         "name": "Julien Minet",
-        "first_name": "Julien",
-        "last_name": "Minet",
         "username": "juminet",
         "location": "Marbehan",
-        "timestamp": "2016-04-22T19:09:37+00:00",
-        "stats": null
+        "timestamp": "2016-04-22T19:09:37+00:00"
+    },
+    {
+        "name": "Joost Schouppe",
+        "username": "joost schouppe",
+        "location": "Halle",
+        "timestamp": "2017-03-09T10:20:39+00:00"
+    },
+    {
+        "name": "Pierre Parmentier",
+        "username": "foxandpotatoes",
+        "location": "Arlon",
+        "timestamp": "2017-04-24T18:13:42+00:00"
     },
     {
         "name": "J\u00e9r\u00f4me Le Tourneur",
-        "first_name": "J\u00e9r\u00f4me",
-        "last_name": "Le Tourneur",
         "username": "Ieronimus",
         "location": "Schaerbeek",
-        "timestamp": "2017-08-04T09:14:51+00:00",
-        "stats": null
-    },
-    {
-        "name": "Pieter Vandecasteele",
-        "first_name": "Pieter",
-        "last_name": "Vandecasteele",
-        "username": "",
-        "location": "Aalter",
-        "timestamp": "2018-07-18T21:46:39+00:00",
-        "stats": null
-    },
-    {
-        "name": "Tim Couwelier",
-        "first_name": "Tim",
-        "last_name": "Couwelier",
-        "username": "Tim Couwelier",
-        "location": "Roeselare",
-        "timestamp": "2018-10-28T11:39:36+00:00",
-        "stats": null
-    },
-    {
-        "name": "Kurt Roeckx",
-        "first_name": "Kurt",
-        "last_name": "Roeckx",
-        "username": "Kurt Roeckx",
-        "location": "Tildonk",
-        "timestamp": "2018-11-01T23:21:50+00:00",
-        "stats": null
+        "timestamp": "2017-08-04T09:14:51+00:00"
     },
     {
         "name": "Pieter Vander Vennet",
-        "first_name": "Pieter",
-        "last_name": "Vander Vennet",
         "username": "Pieter Vander Vennet",
         "location": "Gent",
-        "timestamp": "2017-10-17T18:44:52+00:00",
-        "stats": null
-    },
-    {
-        "name": "Kevin Baker",
-        "first_name": "Kevin",
-        "last_name": "Baker",
-        "username": "Kevin@RouteYou",
-        "location": "Gent",
-        "timestamp": "2021-04-12T12:53:28+00:00",
-        "stats": null
-    },
-    {
-        "name": "Micha\u00ebl Dierick",
-        "first_name": "Micha\u00ebl",
-        "last_name": "Dierick",
-        "username": "MikiDi",
-        "location": "Jette",
-        "timestamp": "2022-01-09T14:05:29+00:00",
-        "stats": null
-    },
-    {
-        "name": "Thierry Jim\u00e9nez",
-        "first_name": "Thierry",
-        "last_name": "Jim\u00e9nez",
-        "username": "Thierry1030",
-        "location": "Brussels",
-        "timestamp": "2020-10-19T06:00:56+00:00",
-        "stats": null
-    },
-    {
-        "name": "Thibault Molleman",
-        "first_name": "Thibault",
-        "last_name": "Molleman",
-        "username": "Thibaultmol",
-        "location": "Ruiselede",
-        "timestamp": "2020-08-10T06:45:55+00:00",
-        "stats": null
-    },
-    {
-        "name": "Johan Joubert",
-        "first_name": "Johan",
-        "last_name": "Joubert",
-        "username": "JohanWJoubert",
-        "location": "Leuven",
-        "timestamp": "2023-02-14T20:23:56+00:00",
-        "stats": null
-    },
-    {
-        "name": "Balder Bongaerts",
-        "first_name": "Balder",
-        "last_name": "Bongaerts",
-        "username": "",
-        "location": "-",
-        "timestamp": "2023-09-13T17:40:42+00:00",
-        "stats": null
+        "timestamp": "2017-10-17T18:44:52+00:00"
     },
     {
         "name": "Jonathan Beli\u00ebn",
-        "first_name": "Jonathan",
-        "last_name": "Beli\u00ebn",
         "username": "jbelien",
         "location": "Bruxelles",
-        "timestamp": "2017-12-17T14:32:21+00:00",
-        "stats": null
+        "timestamp": "2017-12-17T14:32:21+00:00"
     },
     {
-        "name": "Marjan Van de Kauter",
-        "first_name": "Marjan",
-        "last_name": "Van de Kauter",
-        "username": "Mappers_Delight",
-        "location": "Gent",
-        "timestamp": "2024-03-20T14:12:41+00:00",
-        "stats": null
-    },
-    {
-        "name": "Luna Isebaert",
-        "first_name": "Luna",
-        "last_name": "Isebaert",
+        "name": "Pieter Vandecasteele",
         "username": "",
-        "location": "Tervuren",
-        "timestamp": "2024-10-12T09:02:34+00:00",
-        "stats": null
+        "location": "Aalter",
+        "timestamp": "2018-07-18T21:46:39+00:00"
     },
     {
-        "name": "Ruben Maes",
-        "first_name": "Ruben",
-        "last_name": "Maes",
-        "username": "",
-        "location": "Blankenberge",
-        "timestamp": "2025-01-20T13:08:56+00:00",
-        "stats": null
+        "name": "Tim Couwelier",
+        "username": "Tim Couwelier",
+        "location": "Roeselare",
+        "timestamp": "2018-10-28T11:39:36+00:00"
     },
     {
-        "name": "Mathijs Van Caesbroeck",
-        "first_name": "Mathijs",
-        "last_name": "Van Caesbroeck",
-        "username": "",
-        "location": "Berlaar",
-        "timestamp": "2025-10-04T20:53:19+00:00",
-        "stats": null
+        "name": "Kurt Roeckx",
+        "username": "Kurt Roeckx",
+        "location": "Tildonk",
+        "timestamp": "2018-11-01T23:21:50+00:00"
     },
     {
-        "name": "Dries Arien",
-        "first_name": "Dries",
-        "last_name": "Arien",
-        "username": "djsa",
-        "location": "Kessel-Lo",
-        "timestamp": "2025-10-18T11:26:31+00:00",
-        "stats": null
+        "name": "Seppe Santens",
+        "username": "L'imaginaire",
+        "location": "Aalter",
+        "timestamp": "2019-09-30T13:16:41+00:00"
+    },
+    {
+        "name": "Thibault Molleman",
+        "username": "Thibaultmol",
+        "location": "Ruiselede",
+        "timestamp": "2020-08-10T06:45:55+00:00"
     },
     {
         "name": "Steven Clays",
-        "first_name": "Steven",
-        "last_name": "Clays",
         "username": "wegspotter",
         "location": "Gent",
-        "timestamp": "2020-08-24T15:51:59+00:00",
-        "stats": null
+        "timestamp": "2020-08-24T15:51:59+00:00"
     },
     {
-        "name": "Gilles Poilvet",
-        "first_name": "Gilles",
-        "last_name": "Poilvet",
-        "username": "Waaslander",
-        "location": "Lokeren",
-        "timestamp": "2026-02-16T17:08:50+00:00",
-        "stats": null
+        "name": "Thierry Jim\u00e9nez",
+        "username": "Thierry1030",
+        "location": "Brussels",
+        "timestamp": "2020-10-19T06:00:56+00:00"
     },
     {
-        "name": "Rapha\u00ebl Mar\u00e9e",
-        "first_name": "Rapha\u00ebl",
-        "last_name": "Mar\u00e9e",
-        "username": "plicploc",
-        "location": "Li\u00e8ge",
-        "timestamp": "2026-05-02T12:32:25+00:00",
-        "stats": null
+        "name": "Kevin Baker",
+        "username": "Kevin@RouteYou",
+        "location": "Gent",
+        "timestamp": "2021-04-12T12:53:28+00:00"
+    },
+    {
+        "name": "Micha\u00ebl Dierick",
+        "username": "MikiDi",
+        "location": "Jette",
+        "timestamp": "2022-01-09T14:05:29+00:00"
+    },
+    {
+        "name": "Erik Beerten",
+        "username": "Eebie",
+        "location": "Hasselt",
+        "timestamp": "2023-01-02T10:45:36+00:00"
+    },
+    {
+        "name": "Johan Joubert",
+        "username": "JohanWJoubert",
+        "location": "Leuven",
+        "timestamp": "2023-02-14T20:23:56+00:00"
+    },
+    {
+        "name": "Balder Bongaerts",
+        "username": "",
+        "location": "",
+        "timestamp": "2023-09-13T17:40:42+00:00"
+    },
+    {
+        "name": "Marjan Van de Kauter",
+        "username": "Mappers_Delight",
+        "location": "Gent",
+        "timestamp": "2024-03-20T14:12:41+00:00"
+    },
+    {
+        "name": "Luna Isebaert",
+        "username": "",
+        "location": "Tervuren",
+        "timestamp": "2024-10-12T09:02:34+00:00"
+    },
+    {
+        "name": "Ruben Maes",
+        "username": "",
+        "location": "Blankenberge",
+        "timestamp": "2025-01-20T13:08:56+00:00"
     },
     {
         "name": "Daan Vanderveken",
-        "first_name": "Daan",
-        "last_name": "Vanderveken",
         "username": "Daan Vanderveken",
         "location": "Kampenhout",
-        "timestamp": "2025-08-21T07:16:53+00:00",
-        "stats": null
+        "timestamp": "2025-08-21T07:16:53+00:00"
+    },
+    {
+        "name": "Mathijs Van Caesbroeck",
+        "username": "",
+        "location": "Berlaar",
+        "timestamp": "2025-10-04T20:53:19+00:00"
+    },
+    {
+        "name": "Dries Arien",
+        "username": "djsa",
+        "location": "Kessel-Lo",
+        "timestamp": "2025-10-18T11:26:31+00:00"
+    },
+    {
+        "name": "Gilles Poilvet",
+        "username": "Waaslander",
+        "location": "Lokeren",
+        "timestamp": "2026-02-16T17:08:50+00:00"
+    },
+    {
+        "name": "Rapha\u00ebl Mar\u00e9e",
+        "username": "plicploc",
+        "location": "Li\u00e8ge",
+        "timestamp": "2026-05-02T12:32:25+00:00"
     }
 ]

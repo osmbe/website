@@ -5,8 +5,10 @@
             "OSMBE\\GetMembers\\": "src/"
         }
     },
+    "require": {
+        "guzzlehttp/guzzle": "^8.2"
+    },
     "require-dev": {
-        "mailchimp/marketing": "^3.0",
         "friendsofphp/php-cs-fixer": "^3.64"
     },
     "scripts": {
