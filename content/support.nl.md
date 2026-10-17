@@ -9,7 +9,7 @@ menu:
 ## Ontmoet ons
 
 We organiseren regelmatig [mapathons]({{< ref "projects/mapathons.md" >}}) en [meetups]({{< ref "categories/event" >}}).
-Je kan je inschrijven voor updates via onze [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgium/). Of neem een kijkje op onze [kalenderpagina](https://osmcal.org/?in=Belgium).
+Je kan je inschrijven voor updates via onze [speciale mailinglijst](https://listmonk.osm.be/subscription/form). Of neem een kijkje op onze [kalenderpagina](https://osmcal.org/?in=Belgium).
 
 ## Word officieel lid
 

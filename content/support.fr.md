@@ -9,7 +9,7 @@ menu:
 ## Nous rencontrer
 
 Nous organisons régulièrement des [mapathons]({{< ref "projects/mapathons.md" >}}) et des [rencontres]({{< ref "categories/event" >}}).  
-Vous pouvez retrouver nos événements sur notre page [Meetup](https://www.meetup.com/OpenStreetMap-Belgium/), ou dans notre [calendrier d'activités](https://osmcal.org/?in=Belgium).
+Vous pouvez souscrire aux annonces de nos événements via notre [mailing-list dédiée](https://listmonk.osm.be/subscription/form), ou dans notre [calendrier d'activités](https://osmcal.org/?in=Belgium).
 
 ## Nous rejoindre
 
