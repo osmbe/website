@@ -49,7 +49,8 @@ jobs:
       - run: composer run get-members
         working-directory: ./.github/workflows/get-members
         env:
-          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+          LISTMONK_API_USERNAME: ${{ secrets.LISTMONK_API_USERNAME }}
+          LISTMONK_API_PASSWORD: ${{ secrets.LISTMONK_API_PASSWORD }}
       - name: Commit and push changes
         run: |
           git config user.name "osmbe-commit-bot[bot]"
