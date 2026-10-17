@@ -40,7 +40,7 @@ Contacteer <board@osm.be> om jouw *corporate membership* op te starten !
 ---
 
 Wil je gewoon op de hoogte blijven van het belangrijkste nieuws en activiteiten?
-Abonneer je dan op onze [***nieuwsbrief***](https://osm.us13.list-manage.com/subscribe?u=cc6632a49e784f67574e50269&id=5c2416bba6).
+Abonneer je dan op onze [***nieuwsbrief***](https://listmonk.osm.be/subscription/form).
 
 ## Steun ons
 

@@ -40,7 +40,7 @@ Contactez <board@osm.be> pour en discuter avec nous !
 ---
 
 Vous voulez simplement être au tenu courant de nos principales nouvelles et activités?  
-Abonnez-vous à notre **newsletter** en utilisant [ce formulaire](https://osm.us13.list-manage.com/subscribe?u=cc6632a49e784f67574e50269&id=5c2416bba6).
+Abonnez-vous à notre **newsletter** en utilisant [ce formulaire](https://listmonk.osm.be/subscription/form).
 
 ## Nous soutenir
 

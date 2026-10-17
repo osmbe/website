@@ -41,7 +41,7 @@ Contact <board@osm.be> to discuss your membership!
 ---
 
 Do you just want to be updated about our most important news and activities ?  
-Then subscribe to our **newsletter** using [this form](https://osm.us13.list-manage.com/subscribe?u=cc6632a49e784f67574e50269&id=5c2416bba6).
+Then subscribe to our **newsletter** using [this form](https://listmonk.osm.be/subscription/form).
 
 ## Support us
 
